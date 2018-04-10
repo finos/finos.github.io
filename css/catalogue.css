@@ -1,0 +1,127 @@
+.gh-stats-values {
+      text-align: center;
+}
+
+img.activity-state-badge {
+      width:100px
+}
+#activity-recap {
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+.filter-label {
+      font-size: 18px
+}
+
+img#logo {
+      width:50px;
+      margin:10px
+}
+
+li {
+      margin: 10px;
+}
+
+#deeplink {
+      vertical-align: middle;
+}
+
+#activities {
+      position: relative;
+      max-width: 100%;
+      width: 100%;
+}
+
+img {
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+}
+
+.white-panel {
+      position: absolute;
+      background: white;
+      box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+      padding: 10px;
+}
+
+.white-panel h1 {
+      font-size: 1em;
+}
+
+.white-panel h1 a {
+      color: #A92733;
+}
+
+.white-panel:hover {
+      box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+      margin-top: -5px;
+      -webkit-transition: all 0.3s ease-in-out;
+      -moz-transition: all 0.3s ease-in-out;
+      -o-transition: all 0.3s ease-in-out;
+      transition: all 0.3s ease-in-out;
+}
+/* NAVBAR CSS */
+.copy-url{
+      align: right;
+      float: right;
+      line-height: 70px;
+      font-size: 24px;
+}
+.project-title{
+      float: left;
+      line-height: 70px;
+      font-size: 24px;
+}
+.navbar-size{
+      width: 100%;
+      float:left;
+}
+/* CARDS CSS */
+.badges-row{
+      text-align: center;
+      margin-top: 5%;
+      margin-bottom: 5%;
+}
+.line-separation{
+      border-top: 1px solid gray;
+      line-height: 22px;
+      margin-top: 5%;
+}
+.gh-icons{
+      margin-right: 2%;
+      margin-left: 2%;
+      margin-top: 2%;
+      width:25px;
+}
+.lang-icons{
+      margin-right: 5%;
+      margin-top: 2%;
+      height:30px;
+      width:auto;
+}
+.repo-link{
+      margin-left: 1%;
+      line-height: 30px;
+}
+.github-stats-space{
+      margin-right: 15%;
+}
+
+
+/* Activity states and types */
+
+.project-activity-type {
+      background-color:#F4DC85;
+}
+
+.working_group-activity-type {
+      background-color:#97EAF4;
+}
+
+.incubating-activity-state {}
+.released-activity-state {}
+.archived-activity-state {}
+.operating-activity-state {}
+.paused-activity-state {}

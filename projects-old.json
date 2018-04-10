@@ -1,0 +1,1333 @@
+[{
+  "watchers": 226,
+  "name": "Plexus",
+  "hotness": 779,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-103",
+    "repositoryName": "plexus-interop",
+    "projectState": "INCUBATING",
+    "projectName": "Plexus",
+    "contributionDate": "2017-10-04"
+  }],
+  "size": 2473,
+  "contribJiraKey": "CONTRIB-103",
+  "projectState": "INCUBATING",
+  "collaborators": 11,
+  "stars": 226,
+  "forks": 34,
+  "languages": {
+    "C#": 1241840,
+    "JavaScript": 580025,
+    "TypeScript": 522127,
+    "Xtend": 142117,
+    "Java": 38855,
+    "Batchfile": 7053,
+    "Shell": 876,
+    "HTML": 725
+  }
+}, {
+  "watchers": 6,
+  "name": "Integration Bridge",
+  "hotness": 245,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-26",
+    "repositoryName": "App-Integrations-FE-Commons",
+    "projectState": "RELEASED",
+    "projectName": "Integration Bridge",
+    "contributionDate": "2017-03-27",
+    "activationDate": "2017-06-12"
+  }, {
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-26",
+    "repositoryName": "App-Integrations-Core",
+    "projectState": "RELEASED",
+    "projectName": "Integration Bridge",
+    "contributionDate": "2016-12-15",
+    "activationDate": "2017-06-12"
+  }, {
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-26",
+    "repositoryName": "Integrations-Docs",
+    "projectState": "RELEASED",
+    "projectName": "Integration Bridge",
+    "contributionDate": "2016-12-15",
+    "activationDate": "2017-06-12"
+  }, {
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-26",
+    "repositoryName": "App-Integrations-Commons",
+    "projectState": "RELEASED",
+    "projectName": "Integration Bridge",
+    "contributionDate": "2016-12-21",
+    "activationDate": "2017-06-12"
+  }],
+  "size": 50003,
+  "contribJiraKey": "CONTRIB-26",
+  "projectState": "RELEASED",
+  "collaborators": 67,
+  "stars": 6,
+  "forks": 13,
+  "languages": {
+    "JavaScript": 99880,
+    "CSS": 13989,
+    "Java": 1825494,
+    "Shell": 1870,
+    "HTML": 651
+  }
+}, {
+  "watchers": 32,
+  "name": "Symphony Java Client",
+  "hotness": 228,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-8",
+    "repositoryName": "symphony-java-sample-bots",
+    "projectState": "RELEASED",
+    "projectName": "Symphony Java Client",
+    "contributionDate": "2016-06-06",
+    "activationDate": "2017-03-10"
+  }, {
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-8",
+    "repositoryName": "symphony-java-api",
+    "projectState": "RELEASED",
+    "projectName": "Symphony Java Client",
+    "contributionDate": "2016-06-06",
+    "activationDate": "2017-03-10"
+  }, {
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-8",
+    "repositoryName": "symphony-java-client",
+    "projectState": "RELEASED",
+    "projectName": "Symphony Java Client",
+    "contributionDate": "2016-06-06",
+    "activationDate": "2017-03-10"
+  }],
+  "size": 3365,
+  "contribJiraKey": "CONTRIB-8",
+  "projectState": "RELEASED",
+  "collaborators": 24,
+  "stars": 32,
+  "forks": 30,
+  "languages": {
+    "Java": 646421,
+    "Shell": 4382
+  }
+}, {
+  "watchers": 20,
+  "name": "OpenFin Sym Integration",
+  "hotness": 139,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-112",
+    "repositoryName": "symphony-of",
+    "projectState": "INCUBATING",
+    "projectName": "OpenFin Sym Integration",
+    "contributionDate": "2017-10-04"
+  }],
+  "size": 14017,
+  "contribJiraKey": "CONTRIB-112",
+  "projectState": "INCUBATING",
+  "collaborators": 23,
+  "stars": 20,
+  "forks": 5,
+  "languages": {
+    "JavaScript": 20859,
+    "CSS": 5207,
+    "HTML": 4509
+  }
+}, {
+  "watchers": 18,
+  "name": "ContainerJS",
+  "hotness": 113,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-48",
+    "repositoryName": "ContainerJS",
+    "projectState": "INCUBATING",
+    "projectName": "ContainerJS",
+    "contributionDate": "2017-04-24"
+  }],
+  "size": 650,
+  "contribJiraKey": "CONTRIB-48",
+  "projectState": "INCUBATING",
+  "collaborators": 13,
+  "stars": 18,
+  "forks": 10,
+  "languages": {
+    "JavaScript": 118409,
+    "TypeScript": 95201,
+    "HTML": 10831,
+    "PowerShell": 1679,
+    "Shell": 729,
+    "CSS": 261
+  }
+}, {
+  "watchers": 11,
+  "name": "SymphonyElectron",
+  "hotness": 104,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-29",
+    "repositoryName": "SymphonyElectron",
+    "projectState": "INCUBATING",
+    "projectName": "SymphonyElectron",
+    "contributionDate": "2016-11-28"
+  }],
+  "size": 16359,
+  "contribJiraKey": "CONTRIB-29",
+  "projectState": "INCUBATING",
+  "collaborators": 11,
+  "stars": 11,
+  "forks": 19,
+  "languages": {
+    "JavaScript": 246735,
+    "HTML": 6533,
+    "Objective-C": 3398,
+    "CSS": 1406,
+    "Shell": 1321,
+    "Batchfile": 552
+  }
+}, {
+  "watchers": 4,
+  "name": "Minuet",
+  "hotness": 94,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-3",
+    "repositoryName": "SFE-Minuet-DesktopClient",
+    "projectState": "INCUBATING",
+    "projectName": "Minuet",
+    "contributionDate": "2017-02-24"
+  }, {
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-3",
+    "repositoryName": "SFE-DesktopClient-pgx",
+    "projectState": "INCUBATING",
+    "projectName": "Minuet",
+    "contributionDate": "2017-02-21"
+  }],
+  "size": 427482,
+  "contribJiraKey": "CONTRIB-3",
+  "projectState": "INCUBATING",
+  "collaborators": 20,
+  "stars": 4,
+  "forks": 11,
+  "languages": {
+    "C++": 1305212,
+    "HTML": 4990,
+    "Python": 123088,
+    "C": 855640,
+    "Java": 32387,
+    "Objective-C": 7896,
+    "Batchfile": 1767,
+    "JavaScript": 35932,
+    "PowerShell": 4773,
+    "C#": 4173798
+  }
+}, {
+  "watchers": 2,
+  "name": "App-Integrations-Jira",
+  "hotness": 82,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-25",
+    "repositoryName": "App-Integrations-Jira",
+    "projectState": "RELEASED",
+    "projectName": "App-Integrations-Jira",
+    "contributionDate": "2016-12-19",
+    "activationDate": "2017-06-12"
+  }],
+  "size": 1864,
+  "contribJiraKey": "CONTRIB-25",
+  "projectState": "RELEASED",
+  "collaborators": 22,
+  "stars": 2,
+  "forks": 5,
+  "languages": {
+    "Java": 258654,
+    "JavaScript": 29592,
+    "HTML": 5363,
+    "Shell": 1440
+  }
+}, {
+  "watchers": 12,
+  "name": "RestApiClient",
+  "hotness": 77,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-4",
+    "repositoryName": "RestApiClient",
+    "projectState": "INCUBATING",
+    "projectName": "RestApiClient",
+    "contributionDate": "2016-05-17"
+  }],
+  "size": 14369,
+  "contribJiraKey": "CONTRIB-4",
+  "projectState": "INCUBATING",
+  "collaborators": 9,
+  "stars": 12,
+  "forks": 7,
+  "languages": {
+    "C#": 1917876,
+    "Batchfile": 7461
+  }
+}, {
+  "watchers": 0,
+  "name": "Symphony REST Tools",
+  "hotness": 76,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-98",
+    "repositoryName": "symphony-rest-tools-examples",
+    "projectState": "INCUBATING",
+    "projectName": "Symphony REST Tools",
+    "contributionDate": "2017-09-12"
+  }, {
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-98",
+    "repositoryName": "symphony-rest-tools-ui",
+    "projectState": "INCUBATING",
+    "projectName": "Symphony REST Tools",
+    "contributionDate": "2017-09-12"
+  }, {
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-98",
+    "repositoryName": "symphony-rest-tools",
+    "projectState": "INCUBATING",
+    "projectName": "Symphony REST Tools",
+    "contributionDate": "2017-09-12"
+  }],
+  "size": 7327,
+  "contribJiraKey": "CONTRIB-98",
+  "projectState": "INCUBATING",
+  "collaborators": 22,
+  "stars": 0,
+  "forks": 5,
+  "languages": {
+    "Java": 448339,
+    "Shell": 3517,
+    "Batchfile": 7607
+  }
+}, {
+  "watchers": 2,
+  "name": "App-Integrations-Github",
+  "hotness": 75,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-25",
+    "repositoryName": "App-Integrations-Github",
+    "projectState": "RELEASED",
+    "projectName": "App-Integrations-Github",
+    "contributionDate": "2016-12-19",
+    "activationDate": "2017-06-12"
+  }],
+  "size": 1580,
+  "contribJiraKey": "CONTRIB-25",
+  "projectState": "RELEASED",
+  "collaborators": 21,
+  "stars": 2,
+  "forks": 3,
+  "languages": {
+    "Java": 122819,
+    "JavaScript": 7928,
+    "HTML": 2240,
+    "Shell": 1440
+  }
+}, {
+  "watchers": 1,
+  "name": "App-Integrations-Universal",
+  "hotness": 74,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-25",
+    "repositoryName": "App-Integrations-Universal",
+    "projectState": "RELEASED",
+    "projectName": "App-Integrations-Universal",
+    "contributionDate": "2016-12-19",
+    "activationDate": "2017-06-12"
+  }],
+  "size": 969,
+  "contribJiraKey": "CONTRIB-25",
+  "projectState": "RELEASED",
+  "collaborators": 21,
+  "stars": 1,
+  "forks": 4,
+  "languages": {
+    "Java": 30719,
+    "JavaScript": 6940,
+    "HTML": 2246,
+    "Shell": 1440
+  }
+}, {
+  "watchers": 2,
+  "name": "App-Integrations-Zapier",
+  "hotness": 73,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-25",
+    "repositoryName": "App-Integrations-Zapier",
+    "projectState": "RELEASED",
+    "projectName": "App-Integrations-Zapier",
+    "contributionDate": "2016-12-19",
+    "activationDate": "2017-06-12"
+  }],
+  "size": 1133,
+  "contribJiraKey": "CONTRIB-25",
+  "projectState": "RELEASED",
+  "collaborators": 21,
+  "stars": 2,
+  "forks": 2,
+  "languages": {
+    "Java": 37847,
+    "JavaScript": 10218,
+    "HTML": 2386,
+    "Shell": 1363
+  }
+}, {
+  "watchers": 1,
+  "name": "App-Integrations-Trello",
+  "hotness": 68,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-25",
+    "repositoryName": "App-Integrations-Trello",
+    "projectState": "RELEASED",
+    "projectName": "App-Integrations-Trello",
+    "contributionDate": "2016-12-19",
+    "activationDate": "2017-06-12"
+  }],
+  "size": 1060,
+  "contribJiraKey": "CONTRIB-25",
+  "projectState": "RELEASED",
+  "collaborators": 21,
+  "stars": 1,
+  "forks": 1,
+  "languages": {
+    "Java": 199597,
+    "JavaScript": 109569,
+    "CSS": 28368,
+    "HTML": 1202
+  }
+}, {
+  "watchers": 1,
+  "name": "App-Integrations-Salesforce",
+  "hotness": 68,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-25",
+    "repositoryName": "App-Integrations-Salesforce",
+    "projectState": "RELEASED",
+    "projectName": "App-Integrations-Salesforce",
+    "contributionDate": "2016-12-19",
+    "activationDate": "2017-06-12"
+  }],
+  "size": 21840,
+  "contribJiraKey": "CONTRIB-25",
+  "projectState": "RELEASED",
+  "collaborators": 21,
+  "stars": 1,
+  "forks": 1,
+  "languages": {
+    "Java": 52072,
+    "JavaScript": 6870,
+    "HTML": 2251,
+    "Shell": 1440
+  }
+}, {
+  "watchers": 5,
+  "name": "Python Symphony",
+  "hotness": 63,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-28",
+    "repositoryName": "python-symphony-binding",
+    "projectState": "INCUBATING",
+    "projectName": "Python Symphony",
+    "contributionDate": "2016-11-18"
+  }, {
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-28",
+    "repositoryName": "python-symphony",
+    "projectState": "INCUBATING",
+    "projectName": "Python Symphony",
+    "contributionDate": "2016-11-18"
+  }],
+  "size": 194,
+  "contribJiraKey": "CONTRIB-28",
+  "projectState": "INCUBATING",
+  "collaborators": 14,
+  "stars": 5,
+  "forks": 3,
+  "languages": {
+    "Python": 78316,
+    "Makefile": 4236,
+    "Shell": 22
+  }
+}, {
+  "watchers": 7,
+  "name": "hubot-symphony",
+  "hotness": 62,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-9",
+    "repositoryName": "hubot-symphony",
+    "projectState": "RELEASED",
+    "projectName": "hubot-symphony",
+    "contributionDate": "2016-07-05",
+    "activationDate": "2016-11-29"
+  }],
+  "size": 287,
+  "contribJiraKey": "CONTRIB-9",
+  "projectState": "RELEASED",
+  "collaborators": 7,
+  "stars": 7,
+  "forks": 10,
+  "languages": {
+    "JavaScript": 81960
+  }
+}, {
+  "watchers": 6,
+  "name": "JCurl",
+  "hotness": 53,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-91",
+    "repositoryName": "JCurl",
+    "projectState": "INCUBATING",
+    "projectName": "JCurl",
+    "contributionDate": "2017-06-06"
+  }],
+  "size": 57,
+  "contribJiraKey": "CONTRIB-91",
+  "projectState": "INCUBATING",
+  "collaborators": 7,
+  "stars": 6,
+  "forks": 7,
+  "languages": {
+    "Java": 61146
+  }
+}, {
+  "watchers": 0,
+  "name": "S2 Common Components",
+  "hotness": 51,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-107",
+    "repositoryName": "S2-super-pom",
+    "projectState": "INCUBATING",
+    "projectName": "S2 Common Components",
+    "contributionDate": "2017-09-20"
+  }, {
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-107",
+    "repositoryName": "S2-common",
+    "projectState": "INCUBATING",
+    "projectName": "S2 Common Components",
+    "contributionDate": "2017-09-20"
+  }],
+  "size": 189,
+  "contribJiraKey": "CONTRIB-107",
+  "projectState": "INCUBATING",
+  "collaborators": 17,
+  "stars": 0,
+  "forks": 0,
+  "languages": {
+    "Java": 300699
+  }
+}, {
+  "watchers": 3,
+  "name": "bot-butler",
+  "hotness": 47,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-15",
+    "repositoryName": "bot-butler",
+    "projectState": "INCUBATING",
+    "projectName": "bot-butler",
+    "contributionDate": "2016-09-04"
+  }],
+  "size": 92,
+  "contribJiraKey": "CONTRIB-15",
+  "projectState": "INCUBATING",
+  "collaborators": 8,
+  "stars": 3,
+  "forks": 7,
+  "languages": {
+    "CoffeeScript": 23979,
+    "Shell": 2245
+  }
+}, {
+  "watchers": 1,
+  "name": "messageml-utils",
+  "hotness": 44,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-85",
+    "repositoryName": "messageml-utils",
+    "projectState": "INCUBATING",
+    "projectName": "messageml-utils",
+    "contributionDate": "2017-05-19"
+  }],
+  "size": 225,
+  "contribJiraKey": "CONTRIB-85",
+  "projectState": "INCUBATING",
+  "collaborators": 9,
+  "stars": 1,
+  "forks": 7,
+  "languages": {
+    "Java": 475649
+  }
+}, {
+  "watchers": 4,
+  "name": "symphony-api-spec",
+  "hotness": 44,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-82",
+    "repositoryName": "symphony-api-spec",
+    "projectState": "INCUBATING",
+    "projectName": "symphony-api-spec",
+    "contributionDate": "2017-05-04"
+  }],
+  "size": 99,
+  "contribJiraKey": "CONTRIB-82",
+  "projectState": "INCUBATING",
+  "collaborators": 8,
+  "stars": 4,
+  "forks": 4,
+  "languages": null
+}, {
+  "watchers": 4,
+  "name": "helpdesk-bot",
+  "hotness": 43,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-2",
+    "repositoryName": "helpdesk-bot",
+    "projectState": "INCUBATING",
+    "projectName": "helpdesk-bot",
+    "contributionDate": "2016-05-27"
+  }],
+  "size": 191060,
+  "contribJiraKey": "CONTRIB-2",
+  "projectState": "INCUBATING",
+  "collaborators": 9,
+  "stars": 4,
+  "forks": 2,
+  "languages": {
+    "Java": 686027,
+    "HTML": 9435
+  }
+}, {
+  "watchers": 0,
+  "name": "symphony-node-binding",
+  "hotness": 33,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-58",
+    "repositoryName": "symphony-node-binding",
+    "projectState": "INCUBATING",
+    "projectName": "symphony-node-binding",
+    "contributionDate": "2017-04-21"
+  }],
+  "size": 15,
+  "contribJiraKey": "CONTRIB-58",
+  "projectState": "INCUBATING",
+  "collaborators": 7,
+  "stars": 0,
+  "forks": 6,
+  "languages": {
+    "JavaScript": 12078
+  }
+}, {
+  "watchers": 0,
+  "name": "ScreenSnippet",
+  "hotness": 31,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-74",
+    "repositoryName": "ScreenSnippet",
+    "projectState": "INCUBATING",
+    "projectName": "ScreenSnippet",
+    "contributionDate": "2017-04-20"
+  }],
+  "size": 21,
+  "contribJiraKey": "CONTRIB-74",
+  "projectState": "INCUBATING",
+  "collaborators": 7,
+  "stars": 0,
+  "forks": 5,
+  "languages": {
+    "C#": 17695
+  }
+}, {
+  "watchers": 2,
+  "name": "vote-bot",
+  "hotness": 31,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-73",
+    "repositoryName": "vote-bot",
+    "projectState": "INCUBATING",
+    "projectName": "vote-bot",
+    "contributionDate": "2017-05-04"
+  }],
+  "size": 124,
+  "contribJiraKey": "CONTRIB-73",
+  "projectState": "INCUBATING",
+  "collaborators": 7,
+  "stars": 2,
+  "forks": 2,
+  "languages": {
+    "Java": 273389,
+    "Shell": 3847
+  }
+}, {
+  "watchers": 2,
+  "name": "bot-jira",
+  "hotness": 29,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-15",
+    "repositoryName": "bot-jira",
+    "projectState": "ARCHIVED",
+    "projectName": "bot-jira",
+    "contributionDate": "2016-09-04",
+    "archiveDate": "2017-03-14"
+  }],
+  "size": 38,
+  "contribJiraKey": "CONTRIB-15",
+  "projectState": "ARCHIVED",
+  "collaborators": 7,
+  "stars": 2,
+  "forks": 1,
+  "languages": {
+    "Java": 99369
+  }
+}, {
+  "watchers": 2,
+  "name": "clj-symphony",
+  "hotness": 28,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-14",
+    "repositoryName": "clj-symphony",
+    "projectState": "INCUBATING",
+    "projectName": "clj-symphony",
+    "contributionDate": "2016-08-11"
+  }],
+  "size": 185,
+  "contribJiraKey": "CONTRIB-14",
+  "projectState": "INCUBATING",
+  "collaborators": 6,
+  "stars": 2,
+  "forks": 2,
+  "languages": {
+    "Clojure": 56650
+  }
+}, {
+  "watchers": 0,
+  "name": "bot-sym-browser",
+  "hotness": 28,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-15",
+    "repositoryName": "bot-sym-browser",
+    "projectState": "ARCHIVED",
+    "projectName": "bot-sym-browser",
+    "contributionDate": "2016-09-04",
+    "archiveDate": "2017-08-28"
+  }],
+  "size": 36,
+  "contribJiraKey": "CONTRIB-15",
+  "projectState": "ARCHIVED",
+  "collaborators": 8,
+  "stars": 0,
+  "forks": 2,
+  "languages": {
+    "Java": 94237
+  }
+}, {
+  "watchers": 2,
+  "name": "bot-unfurl",
+  "hotness": 28,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-27",
+    "repositoryName": "bot-unfurl",
+    "projectState": "INCUBATING",
+    "projectName": "bot-unfurl",
+    "contributionDate": "2016-09-27"
+  }],
+  "size": 686,
+  "contribJiraKey": "CONTRIB-27",
+  "projectState": "INCUBATING",
+  "collaborators": 6,
+  "stars": 2,
+  "forks": 2,
+  "languages": {
+    "Clojure": 38501,
+    "Shell": 943
+  }
+}, {
+  "watchers": 0,
+  "name": "Apps-Integrations-GoogleCalendar",
+  "hotness": 27,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-88",
+    "repositoryName": "Apps-Integrations-GoogleCalendar",
+    "projectState": "INCUBATING",
+    "projectName": "Apps-Integrations-GoogleCalendar",
+    "contributionDate": "2017-05-24"
+  }],
+  "size": 0,
+  "contribJiraKey": "CONTRIB-88",
+  "projectState": "INCUBATING",
+  "collaborators": 9,
+  "stars": 0,
+  "forks": 0,
+  "languages": null
+}, {
+  "watchers": 0,
+  "name": "bot-twilio",
+  "hotness": 26,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-15",
+    "repositoryName": "bot-twilio",
+    "projectState": "INCUBATING",
+    "projectName": "bot-twilio",
+    "contributionDate": "2016-09-04"
+  }],
+  "size": 1884,
+  "contribJiraKey": "CONTRIB-15",
+  "projectState": "INCUBATING",
+  "collaborators": 8,
+  "stars": 0,
+  "forks": 1,
+  "languages": {
+    "JavaScript": 12079776,
+    "CSS": 20843,
+    "HTML": 17084
+  }
+}, {
+  "watchers": 0,
+  "name": "bot-home-security-talking",
+  "hotness": 26,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-15",
+    "repositoryName": "bot-home-security-talking",
+    "projectState": "ARCHIVED",
+    "projectName": "bot-home-security-talking",
+    "contributionDate": "2016-09-04",
+    "archiveDate": "2017-08-28"
+  }],
+  "size": 2694,
+  "contribJiraKey": "CONTRIB-15",
+  "projectState": "ARCHIVED",
+  "collaborators": 8,
+  "stars": 0,
+  "forks": 1,
+  "languages": {
+    "Go": 24788,
+    "Shell": 178
+  }
+}, {
+  "watchers": 0,
+  "name": "bot-greenhouse",
+  "hotness": 26,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-15",
+    "repositoryName": "bot-greenhouse",
+    "projectState": "ARCHIVED",
+    "projectName": "bot-greenhouse",
+    "contributionDate": "2016-09-04",
+    "archiveDate": "2017-08-28"
+  }],
+  "size": 30,
+  "contribJiraKey": "CONTRIB-15",
+  "projectState": "ARCHIVED",
+  "collaborators": 8,
+  "stars": 0,
+  "forks": 1,
+  "languages": {
+    "Java": 77145
+  }
+}, {
+  "watchers": 0,
+  "name": "bot-bot",
+  "hotness": 26,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-15",
+    "repositoryName": "bot-bot",
+    "projectState": "ARCHIVED",
+    "projectName": "bot-bot",
+    "contributionDate": "2016-09-04",
+    "archiveDate": "2017-08-28"
+  }],
+  "size": 12,
+  "contribJiraKey": "CONTRIB-15",
+  "projectState": "ARCHIVED",
+  "collaborators": 8,
+  "stars": 0,
+  "forks": 1,
+  "languages": {
+    "Java": 17857
+  }
+}, {
+  "watchers": 0,
+  "name": "App-Integrations-BitBucket",
+  "hotness": 25,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-71",
+    "repositoryName": "app-integrations-bitbucket",
+    "projectState": "INCUBATING",
+    "projectName": "App-Integrations-BitBucket",
+    "contributionDate": "2017-10-31"
+  }],
+  "size": 47,
+  "contribJiraKey": "CONTRIB-71",
+  "projectState": "INCUBATING",
+  "collaborators": 7,
+  "stars": 0,
+  "forks": 2,
+  "languages": {
+    "Java": 61134,
+    "JavaScript": 2780,
+    "HTML": 2222
+  }
+}, {
+  "watchers": 0,
+  "name": "bolt-javascript-bot",
+  "hotness": 25,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-49",
+    "repositoryName": "bolt-javascript-bot",
+    "projectState": "INCUBATING",
+    "projectName": "bolt-javascript-bot",
+    "contributionDate": "2017-03-20"
+  }],
+  "size": 4,
+  "contribJiraKey": "CONTRIB-49",
+  "projectState": "INCUBATING",
+  "collaborators": 7,
+  "stars": 0,
+  "forks": 2,
+  "languages": {
+    "JavaScript": 8355
+  }
+}, {
+  "watchers": 1,
+  "name": "symfuny-chat-bot",
+  "hotness": 24,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-79",
+    "repositoryName": "symfuny-chat-bot",
+    "projectState": "INCUBATING",
+    "projectName": "symfuny-chat-bot",
+    "contributionDate": "2017-05-04"
+  }],
+  "size": 1844,
+  "contribJiraKey": "CONTRIB-79",
+  "projectState": "INCUBATING",
+  "collaborators": 7,
+  "stars": 1,
+  "forks": 0,
+  "languages": {
+    "JavaScript": 12028779,
+    "CSS": 22720,
+    "HTML": 18029
+  }
+}, {
+  "watchers": 0,
+  "name": "bot-lunch-box",
+  "hotness": 24,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-15",
+    "repositoryName": "bot-lunch-box",
+    "projectState": "ARCHIVED",
+    "projectName": "bot-lunch-box",
+    "contributionDate": "2016-09-04",
+    "archiveDate": "2016-11-07"
+  }],
+  "size": 13,
+  "contribJiraKey": "CONTRIB-15",
+  "projectState": "ARCHIVED",
+  "collaborators": 8,
+  "stars": 0,
+  "forks": 0,
+  "languages": {
+    "Java": 26055
+  }
+}, {
+  "watchers": 1,
+  "name": "WebRTC",
+  "hotness": 24,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-30",
+    "repositoryName": "perc-webrtc",
+    "projectState": "INCUBATING",
+    "projectName": "WebRTC",
+    "contributionDate": "2016-12-15"
+  }],
+  "size": 49671,
+  "contribJiraKey": "CONTRIB-30",
+  "projectState": "INCUBATING",
+  "collaborators": 7,
+  "stars": 1,
+  "forks": 0,
+  "languages": {
+    "Shell": 81096,
+    "Matlab": 35925,
+    "Objective-C++": 429372,
+    "C++": 24065702,
+    "Python": 40621,
+    "C": 3421995,
+    "Java": 682916,
+    "Protocol Buffer": 16878,
+    "Ruby": 846,
+    "Objective-C": 155449,
+    "Assembly": 22469
+  }
+}, {
+  "watchers": 1,
+  "name": "metronome",
+  "hotness": 24,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-31",
+    "repositoryName": "metronome",
+    "projectState": "INCUBATING",
+    "projectName": "metronome",
+    "contributionDate": "2016-12-12"
+  }],
+  "size": 32,
+  "contribJiraKey": "CONTRIB-31",
+  "projectState": "INCUBATING",
+  "collaborators": 7,
+  "stars": 1,
+  "forks": 0,
+  "languages": {
+    "Python": 8468,
+    "Shell": 558
+  }
+}, {
+  "watchers": 0,
+  "name": "bot-room-manager",
+  "hotness": 24,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-15",
+    "repositoryName": "bot-room-manager",
+    "projectState": "INCUBATING",
+    "projectName": "bot-room-manager",
+    "contributionDate": "2016-09-04"
+  }],
+  "size": 28,
+  "contribJiraKey": "CONTRIB-15",
+  "projectState": "INCUBATING",
+  "collaborators": 8,
+  "stars": 0,
+  "forks": 0,
+  "languages": {
+    "Java": 76544
+  }
+}, {
+  "watchers": 0,
+  "name": "bot-jenkins",
+  "hotness": 24,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-15",
+    "repositoryName": "bot-jenkins",
+    "projectState": "ARCHIVED",
+    "projectName": "bot-jenkins",
+    "contributionDate": "2016-09-04",
+    "archiveDate": "2017-08-28"
+  }],
+  "size": 21,
+  "contribJiraKey": "CONTRIB-15",
+  "projectState": "ARCHIVED",
+  "collaborators": 8,
+  "stars": 0,
+  "forks": 0,
+  "languages": {
+    "Java": 23133
+  }
+}, {
+  "watchers": 1,
+  "name": "bot-sidekick",
+  "hotness": 24,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-15",
+    "repositoryName": "bot-sidekick",
+    "projectState": "ARCHIVED",
+    "projectName": "bot-sidekick",
+    "contributionDate": "2016-09-04",
+    "archiveDate": "2017-08-28"
+  }],
+  "size": 1640,
+  "contribJiraKey": "CONTRIB-15",
+  "projectState": "ARCHIVED",
+  "collaborators": 7,
+  "stars": 1,
+  "forks": 0,
+  "languages": {
+    "Python": 35142
+  }
+}, {
+  "watchers": 0,
+  "name": "bot-fact",
+  "hotness": 24,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-15",
+    "repositoryName": "bot-fact",
+    "projectState": "ARCHIVED",
+    "projectName": "bot-fact",
+    "contributionDate": "2016-09-04",
+    "archiveDate": "2017-08-28"
+  }],
+  "size": 13,
+  "contribJiraKey": "CONTRIB-15",
+  "projectState": "ARCHIVED",
+  "collaborators": 8,
+  "stars": 0,
+  "forks": 0,
+  "languages": {
+    "Java": 10765
+  }
+}, {
+  "watchers": 0,
+  "name": "glue-symphony-rfq",
+  "hotness": 23,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-16",
+    "repositoryName": "glue-symphony-rfq",
+    "projectState": "INCUBATING",
+    "projectName": "glue-symphony-rfq",
+    "contributionDate": "2016-12-20"
+  }],
+  "size": 2023,
+  "contribJiraKey": "CONTRIB-16",
+  "projectState": "INCUBATING",
+  "collaborators": 7,
+  "stars": 0,
+  "forks": 1,
+  "languages": {
+    "JavaScript": 5911161,
+    "CSS": 651245,
+    "C#": 107314,
+    "Vue": 19347,
+    "HTML": 1916,
+    "Batchfile": 428
+  }
+}, {
+  "watchers": 0,
+  "name": "symphony-click2dial",
+  "hotness": 23,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-36",
+    "repositoryName": "symphony-click2dial",
+    "projectState": "INCUBATING",
+    "projectName": "symphony-click2dial",
+    "contributionDate": "2017-04-23"
+  }],
+  "size": 6,
+  "contribJiraKey": "CONTRIB-36",
+  "projectState": "INCUBATING",
+  "collaborators": 7,
+  "stars": 0,
+  "forks": 1,
+  "languages": null
+}, {
+  "watchers": 0,
+  "name": "bot-woodhouse",
+  "hotness": 23,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-13",
+    "repositoryName": "bot-woodhouse",
+    "projectState": "ARCHIVED",
+    "projectName": "bot-woodhouse",
+    "contributionDate": "2016-09-04",
+    "archiveDate": "2016-11-07"
+  }],
+  "size": 13,
+  "contribJiraKey": "CONTRIB-13",
+  "projectState": "ARCHIVED",
+  "collaborators": 7,
+  "stars": 0,
+  "forks": 1,
+  "languages": {
+    "Go": 20833
+  }
+}, {
+  "watchers": 0,
+  "name": "bot-faq",
+  "hotness": 21,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-15",
+    "repositoryName": "bot-faq",
+    "projectState": "ARCHIVED",
+    "projectName": "bot-faq",
+    "contributionDate": "2016-09-04",
+    "archiveDate": "2017-08-28"
+  }],
+  "size": 49,
+  "contribJiraKey": "CONTRIB-15",
+  "projectState": "ARCHIVED",
+  "collaborators": 7,
+  "stars": 0,
+  "forks": 0,
+  "languages": {
+    "Java": 128114
+  }
+}, {
+  "watchers": 0,
+  "name": "sprinkle-bulk-add-users",
+  "hotness": 21,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-50",
+    "repositoryName": "sprinkle-bulk-add-users",
+    "projectState": "INCUBATING",
+    "projectName": "sprinkle-bulk-add-users",
+    "contributionDate": "2017-03-16"
+  }],
+  "size": 4,
+  "contribJiraKey": "CONTRIB-50",
+  "projectState": "INCUBATING",
+  "collaborators": 7,
+  "stars": 0,
+  "forks": 0,
+  "languages": {
+    "JavaScript": 5001
+  }
+}, {
+  "watchers": 0,
+  "name": "grubbot",
+  "hotness": 21,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-94",
+    "repositoryName": "grubbot",
+    "projectState": "INCUBATING",
+    "projectName": "grubbot",
+    "contributionDate": "2017-07-02"
+  }],
+  "size": 0,
+  "contribJiraKey": "CONTRIB-94",
+  "projectState": "INCUBATING",
+  "collaborators": 7,
+  "stars": 0,
+  "forks": 0,
+  "languages": null
+}, {
+  "watchers": 0,
+  "name": "symphony-admin-bot",
+  "hotness": 21,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-104",
+    "repositoryName": "symphony-admin-bot",
+    "projectState": "INCUBATING",
+    "projectName": "symphony-admin-bot",
+    "contributionDate": "2017-10-12"
+  }],
+  "size": 37488,
+  "contribJiraKey": "CONTRIB-104",
+  "projectState": "INCUBATING",
+  "collaborators": 7,
+  "stars": 0,
+  "forks": 0,
+  "languages": {
+    "Java": 208921,
+    "HTML": 38712
+  }
+}, {
+  "watchers": 0,
+  "name": "extension-api-angular-service",
+  "hotness": 21,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-18",
+    "repositoryName": "extension-api-angular-service",
+    "projectState": "INCUBATING",
+    "projectName": "extension-api-angular-service",
+    "contributionDate": "2016-11-08"
+  }],
+  "size": 6,
+  "contribJiraKey": "CONTRIB-18",
+  "projectState": "INCUBATING",
+  "collaborators": 7,
+  "stars": 0,
+  "forks": 0,
+  "languages": {
+    "JavaScript": 5818
+  }
+}, {
+  "watchers": 0,
+  "name": "symphony-hubspot",
+  "hotness": 21,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-55",
+    "repositoryName": "symphony-hubspot",
+    "projectState": "INCUBATING",
+    "projectName": "symphony-hubspot",
+    "contributionDate": "2017-03-17"
+  }],
+  "size": 807,
+  "contribJiraKey": "CONTRIB-55",
+  "projectState": "INCUBATING",
+  "collaborators": 7,
+  "stars": 0,
+  "forks": 0,
+  "languages": {
+    "JavaScript": 79787,
+    "CSS": 16638,
+    "Java": 4935,
+    "Shell": 2571,
+    "HTML": 964
+  }
+}, {
+  "watchers": 0,
+  "name": "bot-v-for-symphony",
+  "hotness": 21,
+  "repos": [{
+    "metadataVersion": "2.0.0",
+    "contribJiraKey": "CONTRIB-15",
+    "repositoryName": "bot-v-for-symphony",
+    "projectState": "ARCHIVED",
+    "projectName": "bot-v-for-symphony",
+    "contributionDate": "2016-09-04",
+    "archiveDate": "2016-11-07"
+  }],
+  "size": 132,
+  "contribJiraKey": "CONTRIB-15",
+  "projectState": "ARCHIVED",
+  "collaborators": 7,
+  "stars": 0,
+  "forks": 0,
+  "languages": {
+    "Java": 699881,
+    "HTML": 9435
+  }
+}]

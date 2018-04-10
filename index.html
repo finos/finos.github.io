@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The Fintech Open Source Foundation (FINOS)</title>
+    <link rel="shortcut icon" href="assets/favicon.ico"/>
+    <meta name="description" content="Projects hosted by the Foundation">
+  </head>
+  <body>
+    <nav class="navbar navbar-default">
+      <div class="container navbar-size">
+        <div>
+          <a href="#" style="float: left;"><img src="assets/ssf-logo.png" alt="SymphonySoftwareFoundation" title="SymphonySoftwareFoundation" id='logo'/></a>
+          <p1 class="project-title">Project Catalogue - Symphony Software Foundation</p1>
+        </div>
+        <div class="navbar-collapse collapse">
+          <a id="deeplink" class="copy-url" href="#" target="_blank">Copy URL</a>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container-fluid" role="main">
+      <div class="row">
+        <div class="col-sm-3">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Browse Activities</h3>
+            </div>
+            <div class="panel-body">
+              <ul class="nav navbar-nav activities-container">
+              </ul>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Sort Activities</h3>
+            </div>
+            <div class="panel-body">
+              <ul class="nav navbar-nav sorts-container">
+                <li id="sort">
+                  <select id="sort" style="visibility:hidden">
+                    <option id="hotness-down" value="hotness-down">Heat (desc)</option>
+                    <option id="hotness-up" value="hotness-up">Heat (asc)</option>
+                    <option id="name-down" value="name-down">Name (desc)</option>
+                    <option id="name-up" value="name-up">Name (asc)</option>
+                  </select>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Welcome!</h3>
+            </div>
+            <div class="panel-body">
+              Welcome to the Project Catalogue of the <a href="symphony.foundation" target="_blank">Symphony Software Foundation</a>! Projects that are hosted on our <a href="github.com/symphonyoss">GitHub Organisation</a> are browsable from this page, which adds Foundation-specific metadata (such as the <a href="https://symphonyoss.atlassian.net/wiki/spaces/FM/pages/3211338/Project+Lifecycle">project lifecycle badge</a>) on top of stats crawled via GitHub API.
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">How to use the Project Catalogue</h3>
+            </div>
+            <div class="panel-body">
+              The default page shows all our projects ordered by <b><i>heat</i></b>, a value that weights all the GitHub stats shown for each project, but you can change the ordering by using the first dropdown at the top of the page.<br/><br/>
+              Projects can be filtered by project state AND language; if a filter has multiple values, they'll be combined with an OR operator (ie, to show all projects with "Java" OR "Javascript", simply check both entries)<br/><br/>
+              Use the <b><i>Copy URL</i></b> link on the top right to save the URL and restore the state of the page, exactly where you left.
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">What's next?</h3>
+            </div>
+            <div class="panel-body">
+              Want to contribute your OSS project with the Foundation <a href="https://symphonyoss.atlassian.net/wiki/display/FM/Contribution">Become a Contributor today</a> or read more about our Foundation:
+              <br/>
+              <ul>
+                <li><a href="http://symphonyoss.atlassian.net/wiki" target="_blank">Wiki</a></li>
+                <li><a href="http://github.com/symphonyoss" target="_blank">SymphonyOSS on Github</a></li>
+                <li><a href="https://twitter.com/symphonyOSS" target="_blank">Twitter</a></li>
+                <li><a href="http://linkedin.com/company/symphony-software-foundation" target="_blank">LinkedIN</a></li>
+                <li><a href="http://facebook.com/symphonyOSS" target="_blank">Facebook</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-9 row">
+          <div>
+          <h3 id="activity-recap" href="#">All Projects</h3>
+          </div>
+          <section id="activities"/>
+        </div>
+      </div>
+    </div>
+
+    <!-- Google Analytics -->
+    <script type="text/javascript" src="js/analytics.js"></script>
+
+    <!-- JQuery -->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <!-- Multi select banner -->
+    <!-- https://github.com/davidstutz/bootstrap-multiselect -->
+    <script type="text/javascript" src="https://www.jquery-az.com/boots/js/bootstrap-multiselect/bootstrap-multiselect.js"></script>
+    <link rel="stylesheet" href="https://www.jquery-az.com/boots/css/bootstrap-multiselect/bootstrap-multiselect.css" type="text/css"/>
+
+    <!-- JS URL -->
+    <!-- https://github.com/websanova/js-url -->
+    <script type="text/javascript" src="js/ext/url.min.js"></script>
+
+    <!-- Pinterest Grid for JQuery -->
+    <!-- https://www.jqueryscript.net/layout/Simple-jQuery-Plugin-To-Create-Pinterest-Style-Grid-Layout-Pinterest-Grid.html -->
+    <script type="text/javascript" src="js/ext/pinterest_grid.js"></script>
+    <link rel="stylesheet" href="css/catalogue.css" type="text/css"/>
+
+    <!-- Custom JS -->
+    <script type="text/javascript" src="js/gh-catalogue/config.js"></script>
+    <script type="text/javascript" src="js/gh-catalogue/utils.js"></script>
+    <script type="text/javascript" src="js/gh-catalogue/html-render.js"></script>
+    <script type="text/javascript" src="js/gh-catalogue/sort.js"></script>
+    <script type="text/javascript" src="js/gh-catalogue/filters.js"></script>
+    <script type="text/javascript" src="js/gh-catalogue/main.js"></script>
+    <script type="text/javascript">
+      (function ($, undefined) {
+        renderCatalogue(true);
+
+        $('#activities').pinterest_grid({
+          no_columns: 4,
+          padding_x: 20,
+          padding_y: 20,
+          margin_bottom: 50,
+          single_column_breakpoint: 700
+        });
+      })(jQuery);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,2914 @@
+{
+  "activities" : [
+    {
+      "programName"          : "FDC3",
+      "activityName"         : "Application Directory",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2018-02-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "App-Directory",
+          "description"   : "The FDC3 App Directory - specifications and implementations.",
+          "gitHubURL"     : "https://github.com/FDC3/App-Directory",
+          "hotness"       : 190,
+          "watchers"      : 0,
+          "size"          : 19,
+          "collaborators" : 37,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        },
+        {
+          "name"          : "app-directory-tpl",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/FDC3/app-directory-tpl",
+          "hotness"       : 189,
+          "watchers"      : 0,
+          "size"          : 0,
+          "collaborators" : 37,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 379,
+        "watchers"      : 0,
+        "size"          : 19,
+        "collaborators" : 74,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
+    },
+    {
+      "programName"          : "FDC3",
+      "activityName"         : "Application Intents",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2018-02-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "Intents",
+          "description"   : "FDC3 Intents specifications, schemas, and examples",
+          "gitHubURL"     : "https://github.com/FDC3/Intents",
+          "hotness"       : 186,
+          "watchers"      : 0,
+          "size"          : 11,
+          "collaborators" : 37,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 186,
+        "watchers"      : 0,
+        "size"          : 11,
+        "collaborators" : 37,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
+    },
+    {
+      "programName"          : "FDC3",
+      "activityName"         : "Context Data",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2018-02-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "ContextData",
+          "description"   : "Context data object specifications, schemas, and examples",
+          "gitHubURL"     : "https://github.com/FDC3/ContextData",
+          "hotness"       : 190,
+          "watchers"      : 0,
+          "size"          : 107,
+          "collaborators" : 37,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 190,
+        "watchers"      : 0,
+        "size"          : 107,
+        "collaborators" : 37,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
+    },
+    {
+      "programName"          : "FDC3",
+      "activityName"         : "FDC3",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2018-02-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "FDC3",
+          "description"   : "Organizational Document for the FDC3",
+          "gitHubURL"     : "https://github.com/FDC3/FDC3",
+          "hotness"       : 190,
+          "watchers"      : 0,
+          "size"          : 6,
+          "collaborators" : 37,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        },
+        {
+          "name"          : "FDC3-Archive",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/FDC3/FDC3-Archive",
+          "hotness"       : 187,
+          "watchers"      : 0,
+          "size"          : 1904,
+          "collaborators" : 37,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 377,
+        "watchers"      : 0,
+        "size"          : 1910,
+        "collaborators" : 74,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
+    },
+    {
+      "programName"          : "FDC3",
+      "activityName"         : "Open API Demo",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-02-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "open-api-demo",
+          "description"   : "Demonstration/Prototype of the FDC3 proposed Open API",
+          "gitHubURL"     : "https://github.com/FDC3/open-api-demo",
+          "hotness"       : 187,
+          "watchers"      : 0,
+          "size"          : 20,
+          "collaborators" : 37,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "HTML" : 3858,
+            "JavaScript" : 3994
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 187,
+        "watchers"      : 0,
+        "size"          : 20,
+        "collaborators" : 37,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "HTML" : 3858,
+          "JavaScript" : 3994
+        }
+      }
+    },
+    {
+      "programName"          : "Hadouken",
+      "activityName"         : "Hadouken Application Templates",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-02-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "app-template",
+          "description"   : "A simple unopinionated Hadouken application template.",
+          "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
+          "hotness"       : 175,
+          "watchers"      : 0,
+          "size"          : 145,
+          "collaborators" : 30,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "HTML" : 534,
+            "JavaScript" : 2382
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 175,
+        "watchers"      : 0,
+        "size"          : 145,
+        "collaborators" : 30,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "HTML" : 534,
+          "JavaScript" : 2382
+        }
+      }
+    },
+    {
+      "programName"          : "Hadouken",
+      "activityName"         : "Hadouken",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-02-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "core",
+          "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
+          "gitHubURL"     : "https://github.com/HadoukenIO/core",
+          "hotness"       : 359,
+          "watchers"      : 0,
+          "size"          : 1267,
+          "collaborators" : 30,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "TypeScript" : 303972,
+            "HTML" : 8113,
+            "JavaScript" : 401490
+          }
+        },
+        {
+          "name"          : "js-adapter",
+          "description"   : "Hadouken Node Adapter",
+          "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
+          "hotness"       : 222,
+          "watchers"      : 0,
+          "size"          : 1252,
+          "collaborators" : 31,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "TypeScript" : 265029,
+            "HTML" : 1119,
+            "JavaScript" : 6017
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 581,
+        "watchers"      : 0,
+        "size"          : 2519,
+        "collaborators" : 61,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "TypeScript" : 569001,
+          "HTML" : 9232,
+          "JavaScript" : 407507
+        }
+      }
+    },
+    {
+      "programName"          : "Hadouken",
+      "activityName"         : "Symphony Integration",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-10-04"
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "App Authentication Library",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-01-31",
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-app-authentication",
+          "description"   : "Symphony third party application authentication",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-app-authentication",
+          "hotness"       : 55,
+          "watchers"      : 0,
+          "size"          : 146,
+          "collaborators" : 11,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 166269,
+            "JavaScript" : 2291
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 55,
+        "watchers"      : 0,
+        "size"          : 146,
+        "collaborators" : 11,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 166269,
+          "JavaScript" : 2291
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Admin Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-10-12",
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-admin-bot",
+          "description"   : "Symphony Admin Bot",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-admin-bot",
+          "hotness"       : 35,
+          "watchers"      : 0,
+          "size"          : 37488,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 208921,
+            "HTML" : 38712
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 35,
+        "watchers"      : 0,
+        "size"          : 37488,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 208921,
+          "HTML" : 38712
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Bolt Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-03-20",
+      "gitHubRepos"          : [
+        {
+          "name"          : "bolt-javascript-bot",
+          "description"   : "Bolt Symphony Simple Javascript Bot",
+          "gitHubURL"     : "https://github.com/symphonyoss/bolt-javascript-bot",
+          "hotness"       : 47,
+          "watchers"      : 0,
+          "size"          : 4,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "JavaScript" : 8355
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 47,
+        "watchers"      : 0,
+        "size"          : 4,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "JavaScript" : 8355
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Bot Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2017-08-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-bot",
+          "description"   : "A bot that translates text (non-english to english by default).",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-bot",
+          "hotness"       : 44,
+          "watchers"      : 0,
+          "size"          : 12,
+          "collaborators" : 8,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 17857
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 44,
+        "watchers"      : 0,
+        "size"          : 12,
+        "collaborators" : 8,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 17857
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Browse via Symphony Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2017-08-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-sym-browser",
+          "description"   : "This bot allows you to browse the Internet and certain “Contexts”, while making it look like you’re doing work.",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-sym-browser",
+          "hotness"       : 48,
+          "watchers"      : 0,
+          "size"          : 36,
+          "collaborators" : 8,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 94237
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 48,
+        "watchers"      : 0,
+        "size"          : 36,
+        "collaborators" : 8,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 94237
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Sprinkle Bulk Add Users Biot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-03-16",
+      "gitHubRepos"          : [
+        {
+          "name"          : "sprinkle-bulk-add-users",
+          "description"   : "Sprinkle: Bulk Add Users to Chatrooms for Symphony",
+          "gitHubURL"     : "https://github.com/symphonyoss/sprinkle-bulk-add-users",
+          "hotness"       : 35,
+          "watchers"      : 0,
+          "size"          : 4,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "JavaScript" : 5001
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 35,
+        "watchers"      : 0,
+        "size"          : 4,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "JavaScript" : 5001
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Butler Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-09-04",
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-butler",
+          "description"   : "These are a collection of scripts for hubot",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-butler",
+          "hotness"       : 75,
+          "watchers"      : 0,
+          "size"          : 92,
+          "collaborators" : 8,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "CoffeeScript" : 23979,
+            "Shell" : 2245
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 75,
+        "watchers"      : 0,
+        "size"          : 92,
+        "collaborators" : 8,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "CoffeeScript" : 23979,
+          "Shell" : 2245
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Fact Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2017-08-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-fact",
+          "description"   : "Eliza is simple fact telling bot.",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-fact",
+          "hotness"       : 40,
+          "watchers"      : 0,
+          "size"          : 13,
+          "collaborators" : 8,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 10765
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 40,
+        "watchers"      : 0,
+        "size"          : 13,
+        "collaborators" : 8,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 10765
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "FAQ Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2017-08-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-faq",
+          "description"   : "Symphony FAQbot is designed to capture questions and answers from the community.",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-faq",
+          "hotness"       : 35,
+          "watchers"      : 0,
+          "size"          : 49,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 128114
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 35,
+        "watchers"      : 0,
+        "size"          : 49,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 128114
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Greenhouse Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2017-08-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-greenhouse",
+          "description"   : "This bot reminds interviewers that they have an interview 30 minutes before their interview begins.",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-greenhouse",
+          "hotness"       : 44,
+          "watchers"      : 0,
+          "size"          : 30,
+          "collaborators" : 8,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 77145
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 44,
+        "watchers"      : 0,
+        "size"          : 30,
+        "collaborators" : 8,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 77145
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Group Maker/Checker Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-01-04",
+      "gitHubRepos"          : [
+        {
+          "name"          : "GroupID",
+          "description"   : "Symphony GroupID repository",
+          "gitHubURL"     : "https://github.com/symphonyoss/GroupID",
+          "hotness"       : 70,
+          "watchers"      : 0,
+          "size"          : 24571,
+          "collaborators" : 14,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 730957,
+            "HTML" : 41867,
+            "Shell" : 30684,
+            "JavaScript" : 105701
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 70,
+        "watchers"      : 0,
+        "size"          : 24571,
+        "collaborators" : 14,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 730957,
+          "HTML" : 41867,
+          "Shell" : 30684,
+          "JavaScript" : 105701
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Grub Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-07-02",
+      "gitHubRepos"          : [
+        {
+          "name"          : "grubbot",
+          "description"   : "Get feedback on company served meals",
+          "gitHubURL"     : "https://github.com/symphonyoss/grubbot",
+          "hotness"       : 35,
+          "watchers"      : 0,
+          "size"          : 0,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 35,
+        "watchers"      : 0,
+        "size"          : 0,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Helpdesk Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-05-27",
+      "gitHubRepos"          : [
+        {
+          "name"          : "helpdesk-bot",
+          "description"   : "Symphony HelpDesk BOT ",
+          "gitHubURL"     : "https://github.com/symphonyoss/helpdesk-bot",
+          "hotness"       : 57,
+          "watchers"      : 0,
+          "size"          : 191060,
+          "collaborators" : 9,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 686027,
+            "HTML" : 9435
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 57,
+        "watchers"      : 0,
+        "size"          : 191060,
+        "collaborators" : 9,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 686027,
+          "HTML" : 9435
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Home Security Talking Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2017-08-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-home-security-talking",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-home-security-talking",
+          "hotness"       : 44,
+          "watchers"      : 0,
+          "size"          : 2694,
+          "collaborators" : 8,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Go" : 24788,
+            "Shell" : 178
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 44,
+        "watchers"      : 0,
+        "size"          : 2694,
+        "collaborators" : 8,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Go" : 24788,
+          "Shell" : 178
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Jenkins Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2017-08-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-jenkins",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-jenkins",
+          "hotness"       : 40,
+          "watchers"      : 0,
+          "size"          : 21,
+          "collaborators" : 8,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 23133
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 40,
+        "watchers"      : 0,
+        "size"          : 21,
+        "collaborators" : 8,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 23133
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "JIRA Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2017-03-14",
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-jira",
+          "description"   : "This bot optimizes the workflow between Jira and Symphony.",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-jira",
+          "hotness"       : 45,
+          "watchers"      : 0,
+          "size"          : 38,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 99369
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 45,
+        "watchers"      : 0,
+        "size"          : 38,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 99369
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Lunchbox Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2016-11-07",
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-lunch-box",
+          "description"   : "LunchBoxBot is a useful Symphony Bot that consumes lunch menu posted everyday and helps you make lunch experience better",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-lunch-box",
+          "hotness"       : 40,
+          "watchers"      : 0,
+          "size"          : 13,
+          "collaborators" : 8,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 26055
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 40,
+        "watchers"      : 0,
+        "size"          : 13,
+        "collaborators" : 8,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 26055
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Metronome Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-12-12",
+      "gitHubRepos"          : [
+        {
+          "name"          : "metronome",
+          "description"   : "A python based diagnostics bot for symphony users to use to tie into symphony engineering services monitoring, or for their own use",
+          "gitHubURL"     : "https://github.com/symphonyoss/metronome",
+          "hotness"       : 37,
+          "watchers"      : 0,
+          "size"          : 32,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Shell" : 558,
+            "Python" : 8468
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 37,
+        "watchers"      : 0,
+        "size"          : 32,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Shell" : 558,
+          "Python" : 8468
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "NLP/ML Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-03-27",
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-nlp-ml-java",
+          "description"   : "Symphony bot that leverages natural language processing (NLP) and machine learning (ML)",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-nlp-ml-java",
+          "hotness"       : 35,
+          "watchers"      : 0,
+          "size"          : 5,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 35,
+        "watchers"      : 0,
+        "size"          : 5,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Room Manager Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-09-04",
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-room-manager",
+          "description"   : "RoomManager allows each sales chat to send a message to a room (Central Chat).",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-room-manager",
+          "hotness"       : 40,
+          "watchers"      : 0,
+          "size"          : 28,
+          "collaborators" : 8,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 76544
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 40,
+        "watchers"      : 0,
+        "size"          : 28,
+        "collaborators" : 8,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 76544
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Sidekick Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2017-08-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-sidekick",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-sidekick",
+          "hotness"       : 36,
+          "watchers"      : 0,
+          "size"          : 1640,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Python" : 35142
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 36,
+        "watchers"      : 0,
+        "size"          : 1640,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Python" : 35142
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Symfuny Chat Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-05-04",
+      "gitHubRepos"          : [
+        {
+          "name"          : "symfuny-chat-bot",
+          "description"   : "Symphony Chat Bot",
+          "gitHubURL"     : "https://github.com/symphonyoss/symfuny-chat-bot",
+          "hotness"       : 40,
+          "watchers"      : 0,
+          "size"          : 1844,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "CSS" : 22720,
+            "HTML" : 18029,
+            "JavaScript" : 12028779
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 40,
+        "watchers"      : 0,
+        "size"          : 1844,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "CSS" : 22720,
+          "HTML" : 18029,
+          "JavaScript" : 12028779
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Twilio Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-09-04",
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-twilio",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-twilio",
+          "hotness"       : 44,
+          "watchers"      : 0,
+          "size"          : 1884,
+          "collaborators" : 8,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "CSS" : 20843,
+            "HTML" : 17084,
+            "JavaScript" : 12079776
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 44,
+        "watchers"      : 0,
+        "size"          : 1884,
+        "collaborators" : 8,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "CSS" : 20843,
+          "HTML" : 17084,
+          "JavaScript" : 12079776
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Unfurl Bot",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2016-09-27",
+      "releaseDate"          : "2017-12-07",
+      "tags"                 : [
+        "bot",
+        "clojure"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-unfurl",
+          "description"   : "A small Symphony bot that attempts to unfurl URLs posted to any chat or room the bot is invited to.",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-unfurl",
+          "hotness"       : 41,
+          "watchers"      : 0,
+          "size"          : 693,
+          "collaborators" : 6,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Shell" : 993,
+            "Clojure" : 41717
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 41,
+        "watchers"      : 0,
+        "size"          : 693,
+        "collaborators" : 6,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Shell" : 993,
+          "Clojure" : 41717
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "V for Symphony Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2016-11-07",
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-v-for-symphony",
+          "description"   : " Help Desk BOT(s) are Java based applications that implement a call routing workflow  based framework leveraging the Symphony API.",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-v-for-symphony",
+          "hotness"       : 35,
+          "watchers"      : 0,
+          "size"          : 132,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 699881,
+            "HTML" : 9435
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 35,
+        "watchers"      : 0,
+        "size"          : 132,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 699881,
+          "HTML" : 9435
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Vote Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-05-04",
+      "gitHubRepos"          : [
+        {
+          "name"          : "vote-bot",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/vote-bot",
+          "hotness"       : 50,
+          "watchers"      : 0,
+          "size"          : 141,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 268867,
+            "Shell" : 4210
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 50,
+        "watchers"      : 0,
+        "size"          : 141,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 268867,
+          "Shell" : 4210
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Woodhouse Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2016-11-07",
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-woodhouse",
+          "description"   : "This is a sample Symphony bot written in Go.",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-woodhouse",
+          "hotness"       : 39,
+          "watchers"      : 0,
+          "size"          : 13,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Go" : 20833
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 39,
+        "watchers"      : 0,
+        "size"          : 13,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Go" : 20833
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Canon",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-02-12",
+      "gitHubRepos"          : [
+        {
+          "name"          : "canon",
+          "description"   : "JSON API Generation Tooling",
+          "gitHubURL"     : "https://github.com/symphonyoss/canon",
+          "hotness"       : 35,
+          "watchers"      : 0,
+          "size"          : 394,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 434769,
+            "FreeMarker" : 141458,
+            "JavaScript" : 13681
+          }
+        },
+        {
+          "name"          : "canon-example",
+          "description"   : "An example service based on canon code generation",
+          "gitHubURL"     : "https://github.com/symphonyoss/canon-example",
+          "hotness"       : 35,
+          "watchers"      : 0,
+          "size"          : 285,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 43100
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 70,
+        "watchers"      : 0,
+        "size"          : 679,
+        "collaborators" : 14,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 477869,
+          "FreeMarker" : 141458,
+          "JavaScript" : 13681
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Click to Dial",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-04-23",
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-click2dial",
+          "description"   : "Dial a number using your corporate telephony service from Symphony chat",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-click2dial",
+          "hotness"       : 39,
+          "watchers"      : 0,
+          "size"          : 6,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 39,
+        "watchers"      : 0,
+        "size"          : 6,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "REST API Specification",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-05-04",
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-api-spec",
+          "description"   : "Swagger definitions for Symphony LLC public REST API ",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
+          "hotness"       : 81,
+          "watchers"      : 0,
+          "size"          : 157,
+          "collaborators" : 8,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 81,
+        "watchers"      : 0,
+        "size"          : 157,
+        "collaborators" : 8,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Clojure REST API Client",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-08-11",
+      "tags"                 : [
+        "clojure",
+        "rest api client"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "clj-symphony",
+          "description"   : "An idiomatic Clojure wrapper for the symphony-java-client",
+          "gitHubURL"     : "https://github.com/symphonyoss/clj-symphony",
+          "hotness"       : 49,
+          "watchers"      : 0,
+          "size"          : 208,
+          "collaborators" : 6,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Clojure" : 59643
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 49,
+        "watchers"      : 0,
+        "size"          : 208,
+        "collaborators" : 6,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Clojure" : 59643
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : ".NET REST API Client",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-05-17",
+      "gitHubRepos"          : [
+        {
+          "name"          : "RestApiClient",
+          "description"   : "Symphony .Net Agent API client",
+          "gitHubURL"     : "https://github.com/symphonyoss/RestApiClient",
+          "hotness"       : 99,
+          "watchers"      : 0,
+          "size"          : 14480,
+          "collaborators" : 9,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "C#" : 1992342,
+            "Batchfile" : 7671
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 99,
+        "watchers"      : 0,
+        "size"          : 14480,
+        "collaborators" : 9,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "C#" : 1992342,
+          "Batchfile" : 7671
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Hubot REST API Client",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2016-07-05",
+      "releaseDate"          : "2016-11-29",
+      "gitHubRepos"          : [
+        {
+          "name"          : "hubot-symphony",
+          "description"   : "Hubot adapter for Symphony",
+          "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
+          "hotness"       : 88,
+          "watchers"      : 0,
+          "size"          : 287,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "JavaScript" : 81960
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 88,
+        "watchers"      : 0,
+        "size"          : 287,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "JavaScript" : 81960
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Java REST API Client",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2016-06-06",
+      "releaseDate"          : "2017-03-10",
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-java-client",
+          "description"   : "Java client library for Symphony",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-client",
+          "hotness"       : 160,
+          "watchers"      : 0,
+          "size"          : 2429,
+          "collaborators" : 10,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 695383,
+            "Shell" : 1987
+          }
+        },
+        {
+          "name"          : "symphony-java-api",
+          "description"   : "Java client language bindings for the Symphony REST API.  ",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-api",
+          "hotness"       : 62,
+          "watchers"      : 0,
+          "size"          : 118,
+          "collaborators" : 8,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 13910,
+            "Shell" : 1938
+          }
+        },
+        {
+          "name"          : "symphony-java-sample-bots",
+          "description"   : "A set of simple Bots for Symphony, implemented in Java.",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-sample-bots",
+          "hotness"       : 87,
+          "watchers"      : 0,
+          "size"          : 932,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 23570,
+            "Shell" : 457
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 309,
+        "watchers"      : 0,
+        "size"          : 3479,
+        "collaborators" : 25,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 732863,
+          "Shell" : 4382
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Node.js REST API Client",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-04-21",
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-node-binding",
+          "description"   : "A node.js symphony api implementation",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-node-binding",
+          "hotness"       : 75,
+          "watchers"      : 0,
+          "size"          : 16,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "JavaScript" : 12037
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 75,
+        "watchers"      : 0,
+        "size"          : 16,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "JavaScript" : 12037
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Python REST API Client",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-11-18",
+      "gitHubRepos"          : [
+        {
+          "name"          : "python-symphony",
+          "description"   : "An importable class that provides methods and objects for interacting with the Symphony Agent API from python",
+          "gitHubURL"     : "https://github.com/symphonyoss/python-symphony",
+          "hotness"       : 54,
+          "watchers"      : 0,
+          "size"          : 185,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Shell" : 11,
+            "Makefile" : 2118,
+            "Python" : 80663
+          }
+        },
+        {
+          "name"          : "python-symphony-binding",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/python-symphony-binding",
+          "hotness"       : 39,
+          "watchers"      : 0,
+          "size"          : 53,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Shell" : 11,
+            "Makefile" : 2118,
+            "Python" : 3366
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 93,
+        "watchers"      : 0,
+        "size"          : 238,
+        "collaborators" : 14,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Shell" : 22,
+          "Makefile" : 4236,
+          "Python" : 84029
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "ContainerJS",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-04-24",
+      "gitHubRepos"          : [
+        {
+          "name"          : "ContainerJS",
+          "description"   : "ContainerJS provides an abstraction layer over multiple HTML5 containers (OpenFin, Electron, Browser), that follows the Symphony Desktop APIs",
+          "gitHubURL"     : "https://github.com/symphonyoss/ContainerJS",
+          "hotness"       : 128,
+          "watchers"      : 0,
+          "size"          : 650,
+          "collaborators" : 13,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "TypeScript" : 95201,
+            "PowerShell" : 1679,
+            "Shell" : 729,
+            "CSS" : 261,
+            "JavaScript" : 118409,
+            "HTML" : 10831
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 128,
+        "watchers"      : 0,
+        "size"          : 650,
+        "collaborators" : 13,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "TypeScript" : 95201,
+          "PowerShell" : 1679,
+          "Shell" : 729,
+          "CSS" : 261,
+          "JavaScript" : 118409,
+          "HTML" : 10831
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Documentation and Examples",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-06-16",
+      "gitHubRepos"          : [
+        {
+          "name"          : "app-auth-example",
+          "description"   : "Example app demonstrating App Authentication flow",
+          "gitHubURL"     : "https://github.com/symphonyoss/app-auth-example",
+          "hotness"       : 46,
+          "watchers"      : 0,
+          "size"          : 278,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 114904,
+            "HTML" : 3635,
+            "CSS" : 167,
+            "JavaScript" : 69313
+          }
+        },
+        {
+          "name"          : "embedding-api-examples",
+          "description"   : "Examples of Symphony Embedding API (requires native desktop wrapper)",
+          "gitHubURL"     : "https://github.com/symphonyoss/embedding-api-examples",
+          "hotness"       : 43,
+          "watchers"      : 0,
+          "size"          : 12,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "HTML" : 2147,
+            "CSS" : 947,
+            "JavaScript" : 7406
+          }
+        },
+        {
+          "name"          : "extension-api-examples",
+          "description"   : "Examples on how to use the extension API",
+          "gitHubURL"     : "https://github.com/symphonyoss/extension-api-examples",
+          "hotness"       : 102,
+          "watchers"      : 0,
+          "size"          : 1056,
+          "collaborators" : 8,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "HTML" : 6781,
+            "CSS" : 794,
+            "JavaScript" : 24174
+          }
+        },
+        {
+          "name"          : "symphony-by-example",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-by-example",
+          "hotness"       : 44,
+          "watchers"      : 0,
+          "size"          : 145,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 235,
+        "watchers"      : 0,
+        "size"          : 1491,
+        "collaborators" : 29,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 114904,
+          "HTML" : 12563,
+          "CSS" : 1908,
+          "JavaScript" : 100893
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Extension API AngularJS Service",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-08-11",
+      "gitHubRepos"          : [
+        {
+          "name"          : "extension-api-angular-service",
+          "description"   : "Implementation of an Angular 1.x module to simplify the use of the Symphony Extension API on Angular 1.x Single Page Applications (SPAs) to create Symphony apps",
+          "gitHubURL"     : "https://github.com/symphonyoss/extension-api-angular-service",
+          "hotness"       : 35,
+          "watchers"      : 0,
+          "size"          : 6,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "JavaScript" : 5818
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 35,
+        "watchers"      : 0,
+        "size"          : 6,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "JavaScript" : 5818
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Fugue",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-02-08",
+      "gitHubRepos"          : [
+        {
+          "name"          : "fugue",
+          "description"   : "Kubenetes Base Cloud Platform Abstraction",
+          "gitHubURL"     : "https://github.com/symphonyoss/fugue",
+          "hotness"       : 40,
+          "watchers"      : 0,
+          "size"          : 748,
+          "collaborators" : 8,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 114680,
+            "Shell" : 21983
+          }
+        },
+        {
+          "name"          : "fugue-example",
+          "description"   : "Example Projects Using Fugue",
+          "gitHubURL"     : "https://github.com/symphonyoss/fugue-example",
+          "hotness"       : 40,
+          "watchers"      : 0,
+          "size"          : 45,
+          "collaborators" : 8,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 23269
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 80,
+        "watchers"      : 0,
+        "size"          : 793,
+        "collaborators" : 16,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 137949,
+          "Shell" : 21983
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Glue RFQ Symphony Integration",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-12-20",
+      "gitHubRepos"          : [
+        {
+          "name"          : "glue-symphony-rfq",
+          "description"   : "Implementation of an RFQ Server that acts as a GLUE <--> Symphony bridge for messages around the Request for Quote (RFQ) process together with associated chat.",
+          "gitHubURL"     : "https://github.com/symphonyoss/glue-symphony-rfq",
+          "hotness"       : 39,
+          "watchers"      : 0,
+          "size"          : 2023,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "C#" : 107314,
+            "CSS" : 651245,
+            "Batchfile" : 428,
+            "JavaScript" : 5911161,
+            "Vue" : 19347,
+            "HTML" : 1916
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 39,
+        "watchers"      : 0,
+        "size"          : 2023,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "C#" : 107314,
+          "CSS" : 651245,
+          "Batchfile" : 428,
+          "JavaScript" : 5911161,
+          "Vue" : 19347,
+          "HTML" : 1916
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "BitBucket Integration",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-10-31",
+      "gitHubRepos"          : [
+        {
+          "name"          : "app-integrations-bitbucket",
+          "description"   : "The BitBucket Symphony Integration allows to receive BitBucket notifications in a Symphony 1:1 or group chat.",
+          "gitHubURL"     : "https://github.com/symphonyoss/app-integrations-bitbucket",
+          "hotness"       : 43,
+          "watchers"      : 0,
+          "size"          : 47,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 61134,
+            "HTML" : 2222,
+            "JavaScript" : 2780
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 43,
+        "watchers"      : 0,
+        "size"          : 47,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 61134,
+          "HTML" : 2222,
+          "JavaScript" : 2780
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Integration Bridge",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2016-12-21",
+      "releaseDate"          : "2017-06-12",
+      "gitHubRepos"          : [
+        {
+          "name"          : "App-Integrations-Commons",
+          "description"   : "Common components for Symphony App Integrations.",
+          "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Commons",
+          "hotness"       : 121,
+          "watchers"      : 0,
+          "size"          : 20172,
+          "collaborators" : 19,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 733274
+          }
+        },
+        {
+          "name"          : "App-Integrations-Core",
+          "description"   : "Core components for Symphony App Integrations.",
+          "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Core",
+          "hotness"       : 127,
+          "watchers"      : 0,
+          "size"          : 12099,
+          "collaborators" : 19,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 1133372,
+            "Shell" : 1870,
+            "JavaScript" : 820
+          }
+        },
+        {
+          "name"          : "App-Integrations-FE-Commons",
+          "description"   : "Common components for Front-End development of Symphony Integrations.",
+          "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-FE-Commons",
+          "hotness"       : 79,
+          "watchers"      : 0,
+          "size"          : 22586,
+          "collaborators" : 15,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "CSS" : 13989,
+            "JavaScript" : 99880
+          }
+        },
+        {
+          "name"          : "Integrations-Docs",
+          "description"   : "Symphony Integrations documentation",
+          "gitHubURL"     : "https://github.com/symphonyoss/Integrations-Docs",
+          "hotness"       : 54,
+          "watchers"      : 0,
+          "size"          : 634,
+          "collaborators" : 10,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "HTML" : 651
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 381,
+        "watchers"      : 0,
+        "size"          : 55491,
+        "collaborators" : 63,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 1866646,
+          "Shell" : 1870,
+          "CSS" : 13989,
+          "HTML" : 651,
+          "JavaScript" : 100700
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "GitHub Integration",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2016-12-19",
+      "releaseDate"          : "2017-06-12",
+      "gitHubRepos"          : [
+        {
+          "name"          : "App-Integrations-Github",
+          "description"   : "GitHub Integration",
+          "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Github",
+          "hotness"       : 109,
+          "watchers"      : 0,
+          "size"          : 1582,
+          "collaborators" : 19,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 122819,
+            "HTML" : 2240,
+            "Shell" : 1440,
+            "JavaScript" : 7928
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 109,
+        "watchers"      : 0,
+        "size"          : 1582,
+        "collaborators" : 19,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 122819,
+          "HTML" : 2240,
+          "Shell" : 1440,
+          "JavaScript" : 7928
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Google Calendar Integration",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2017-05-24",
+      "archiveDate"          : "2017-12-03",
+      "gitHubRepos"          : [
+        {
+          "name"          : "Apps-Integrations-GoogleCalendar",
+          "description"   : "Connector that uses your Google Calendar events to update your Symphony presence",
+          "gitHubURL"     : "https://github.com/symphonyoss/Apps-Integrations-GoogleCalendar",
+          "hotness"       : 45,
+          "watchers"      : 0,
+          "size"          : 0,
+          "collaborators" : 9,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 45,
+        "watchers"      : 0,
+        "size"          : 0,
+        "collaborators" : 9,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Hubspot Integration",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-03-17",
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-hubspot",
+          "description"   : "Hubspot notifications into Symphony chats",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-hubspot",
+          "hotness"       : 35,
+          "watchers"      : 0,
+          "size"          : 807,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 4935,
+            "CSS" : 16638,
+            "Shell" : 2571,
+            "HTML" : 964,
+            "JavaScript" : 79787
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 35,
+        "watchers"      : 0,
+        "size"          : 807,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 4935,
+          "CSS" : 16638,
+          "Shell" : 2571,
+          "HTML" : 964,
+          "JavaScript" : 79787
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "JIRA Integration",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2016-12-19",
+      "releaseDate"          : "2017-06-12",
+      "gitHubRepos"          : [
+        {
+          "name"          : "App-Integrations-Jira",
+          "description"   : "Jira Integration",
+          "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Jira",
+          "hotness"       : 135,
+          "watchers"      : 0,
+          "size"          : 1864,
+          "collaborators" : 21,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 258468,
+            "HTML" : 5932,
+            "Shell" : 1440,
+            "JavaScript" : 30527
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 135,
+        "watchers"      : 0,
+        "size"          : 1864,
+        "collaborators" : 21,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 258468,
+          "HTML" : 5932,
+          "Shell" : 1440,
+          "JavaScript" : 30527
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Salesforce Integration",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2016-12-19",
+      "releaseDate"          : "2017-06-12",
+      "gitHubRepos"          : [
+        {
+          "name"          : "App-Integrations-Salesforce",
+          "description"   : "Salesforce Integration",
+          "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Salesforce",
+          "hotness"       : 100,
+          "watchers"      : 0,
+          "size"          : 21842,
+          "collaborators" : 19,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 52072,
+            "HTML" : 2251,
+            "Shell" : 1440,
+            "JavaScript" : 6870
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 100,
+        "watchers"      : 0,
+        "size"          : 21842,
+        "collaborators" : 19,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 52072,
+          "HTML" : 2251,
+          "Shell" : 1440,
+          "JavaScript" : 6870
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Trello Integration",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2016-12-19",
+      "releaseDate"          : "2017-06-12",
+      "gitHubRepos"          : [
+        {
+          "name"          : "App-Integrations-Trello",
+          "description"   : "Trello Integration",
+          "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Trello",
+          "hotness"       : 100,
+          "watchers"      : 0,
+          "size"          : 1054,
+          "collaborators" : 19,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 199597,
+            "CSS" : 28368,
+            "HTML" : 1202,
+            "JavaScript" : 109569
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 100,
+        "watchers"      : 0,
+        "size"          : 1054,
+        "collaborators" : 19,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 199597,
+          "CSS" : 28368,
+          "HTML" : 1202,
+          "JavaScript" : 109569
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Universal Integration",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2016-12-19",
+      "releaseDate"          : "2017-06-12",
+      "gitHubRepos"          : [
+        {
+          "name"          : "App-Integrations-Universal",
+          "description"   : "Universal Webhook Integration",
+          "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Universal",
+          "hotness"       : 112,
+          "watchers"      : 0,
+          "size"          : 976,
+          "collaborators" : 19,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 31688,
+            "HTML" : 2246,
+            "Shell" : 1440,
+            "JavaScript" : 6940
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 112,
+        "watchers"      : 0,
+        "size"          : 976,
+        "collaborators" : 19,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 31688,
+          "HTML" : 2246,
+          "Shell" : 1440,
+          "JavaScript" : 6940
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Zapier Integration",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2016-12-19",
+      "releaseDate"          : "2017-06-12",
+      "gitHubRepos"          : [
+        {
+          "name"          : "App-Integrations-Zapier",
+          "description"   : "Zapier Integration",
+          "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Zapier",
+          "hotness"       : 105,
+          "watchers"      : 0,
+          "size"          : 1134,
+          "collaborators" : 19,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 37847,
+            "HTML" : 2386,
+            "Shell" : 1363,
+            "JavaScript" : 10218
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 105,
+        "watchers"      : 0,
+        "size"          : 1134,
+        "collaborators" : 19,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 37847,
+          "HTML" : 2386,
+          "Shell" : 1363,
+          "JavaScript" : 10218
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "JCurl",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-06-06",
+      "gitHubRepos"          : [
+        {
+          "name"          : "JCurl",
+          "description"   : "JSON-aware curl (1) in Java",
+          "gitHubURL"     : "https://github.com/symphonyoss/JCurl",
+          "hotness"       : 93,
+          "watchers"      : 0,
+          "size"          : 66,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 60780
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 93,
+        "watchers"      : 0,
+        "size"          : 66,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 60780
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "MessageML Utilities",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-05-19",
+      "gitHubRepos"          : [
+        {
+          "name"          : "messageml-utils",
+          "description"   : "MessageML parser",
+          "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
+          "hotness"       : 88,
+          "watchers"      : 0,
+          "size"          : 393,
+          "collaborators" : 10,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 593503
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 88,
+        "watchers"      : 0,
+        "size"          : 393,
+        "collaborators" : 10,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 593503
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Minuet",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-02-21",
+      "gitHubRepos"          : [
+        {
+          "name"          : "SFE-Minuet-DesktopClient",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/SFE-Minuet-DesktopClient",
+          "hotness"       : 90,
+          "watchers"      : 0,
+          "size"          : 473020,
+          "collaborators" : 10,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "C#" : 4124024,
+            "PowerShell" : 1467,
+            "Java" : 32387,
+            "C++" : 1356227,
+            "C" : 857186,
+            "Batchfile" : 334,
+            "JavaScript" : 5751,
+            "Objective_C" : 7806,
+            "HTML" : 4990,
+            "Python" : 120486
+          }
+        },
+        {
+          "name"          : "SFE-DesktopClient-pgx",
+          "description"   : "project containing build for Symphony.pgx needed for desktop client (aka wrapper).",
+          "gitHubURL"     : "https://github.com/symphonyoss/SFE-DesktopClient-pgx",
+          "hotness"       : 62,
+          "watchers"      : 0,
+          "size"          : 2254,
+          "collaborators" : 10,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "C#" : 196010,
+            "PowerShell" : 3306,
+            "Batchfile" : 1625,
+            "JavaScript" : 30181
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 152,
+        "watchers"      : 0,
+        "size"          : 475274,
+        "collaborators" : 20,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "C#" : 4320034,
+          "PowerShell" : 4773,
+          "Java" : 32387,
+          "C++" : 1356227,
+          "C" : 857186,
+          "Batchfile" : 1959,
+          "JavaScript" : 35932,
+          "Objective_C" : 7806,
+          "HTML" : 4990,
+          "Python" : 120486
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "WebRTC",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-12-15",
+      "gitHubRepos"          : [
+        {
+          "name"          : "perc-webrtc",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/perc-webrtc",
+          "hotness"       : 36,
+          "watchers"      : 0,
+          "size"          : 49671,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 682916,
+            "Shell" : 81096,
+            "C++" : 24065702,
+            "C" : 3421995,
+            "Objective_C" : 155449,
+            "Objective_C++" : 429372,
+            "Ruby" : 846,
+            "Protocol Buffer" : 16878,
+            "Assembly" : 22469,
+            "Matlab" : 35925,
+            "Python" : 40621
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 36,
+        "watchers"      : 0,
+        "size"          : 49671,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 682916,
+          "Shell" : 81096,
+          "C++" : 24065702,
+          "C" : 3421995,
+          "Objective_C" : 155449,
+          "Objective_C++" : 429372,
+          "Ruby" : 846,
+          "Protocol Buffer" : 16878,
+          "Assembly" : 22469,
+          "Matlab" : 35925,
+          "Python" : 40621
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "REST API Tools",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-09-12",
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-rest-tools",
+          "description"   : "Low level tools for use with the Symphony public REST API",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-rest-tools",
+          "hotness"       : 52,
+          "watchers"      : 0,
+          "size"          : 4444,
+          "collaborators" : 8,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 343444,
+            "Shell" : 2461,
+            "Batchfile" : 7607
+          }
+        },
+        {
+          "name"          : "symphony-rest-tools-ui",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-rest-tools-ui",
+          "hotness"       : 43,
+          "watchers"      : 0,
+          "size"          : 2879,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 102080,
+            "Shell" : 1056
+          }
+        },
+        {
+          "name"          : "symphony-rest-tools-examples",
+          "description"   : "symphony-rest-tools-examples",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-rest-tools-examples",
+          "hotness"       : 39,
+          "watchers"      : 0,
+          "size"          : 4,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 2815
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 134,
+        "watchers"      : 0,
+        "size"          : 7327,
+        "collaborators" : 22,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 448339,
+          "Shell" : 3517,
+          "Batchfile" : 7607
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "S2 Common Components",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-09-20",
+      "gitHubRepos"          : [
+        {
+          "name"          : "S2-common",
+          "description"   : "S2 Common Classes - for consumption by SBE and S2",
+          "gitHubURL"     : "https://github.com/symphonyoss/S2-common",
+          "hotness"       : 49,
+          "watchers"      : 0,
+          "size"          : 337,
+          "collaborators" : 9,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 470673
+          }
+        },
+        {
+          "name"          : "S2-super-pom",
+          "description"   : "Super POM for central dependency management for Symphony LLC open source contributions",
+          "gitHubURL"     : "https://github.com/symphonyoss/S2-super-pom",
+          "hotness"       : 40,
+          "watchers"      : 0,
+          "size"          : 34,
+          "collaborators" : 8,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 89,
+        "watchers"      : 0,
+        "size"          : 371,
+        "collaborators" : 17,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 470673
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Screen Snippet Library",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-04-20",
+      "gitHubRepos"          : [
+        {
+          "name"          : "ScreenSnippet",
+          "description"   : "Screen snippet utility for Windows.",
+          "gitHubURL"     : "https://github.com/symphonyoss/ScreenSnippet",
+          "hotness"       : 55,
+          "watchers"      : 0,
+          "size"          : 21,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "C#" : 17695
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 55,
+        "watchers"      : 0,
+        "size"          : 21,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "C#" : 17695
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Symphony Electron",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-11-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "SymphonyElectron",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
+          "hotness"       : 166,
+          "watchers"      : 0,
+          "size"          : 32687,
+          "collaborators" : 11,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Shell" : 5945,
+            "CSS" : 3308,
+            "Batchfile" : 552,
+            "JavaScript" : 402893,
+            "HTML" : 13651,
+            "Objective_C" : 6048
+          }
+        },
+        {
+          "name"          : "electron-utils",
+          "description"   : "Utils for SymphonyElectron",
+          "gitHubURL"     : "https://github.com/symphonyoss/electron-utils",
+          "hotness"       : 37,
+          "watchers"      : 0,
+          "size"          : 20,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "C#" : 7673
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 203,
+        "watchers"      : 0,
+        "size"          : 32707,
+        "collaborators" : 18,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "C#" : 7673,
+          "Shell" : 5945,
+          "CSS" : 3308,
+          "Batchfile" : 552,
+          "JavaScript" : 402893,
+          "HTML" : 13651,
+          "Objective_C" : 6048
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "API",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "PAUSED",
+      "contributionDate"     : "2016-12-09",
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "wg-api@symphony.foundation",
+          "webArchiveUrl" : "https://groups.google.com/a/symphony.foundation/forum/#!forum/wg-api"
+        }
+      ]
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Desktop Wrapper",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2016-02-08",
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "wg-desktop-wrapper@symphony.foundation",
+          "webArchiveUrl" : "https://groups.google.com/a/symphony.foundation/forum/#!forum/wg-desktop-wrapper"
+        }
+      ]
+    },
+    {
+      "programName"          : "Symphony",
+      "activityName"         : "Financial Object Standardization",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2016-02-08",
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-object",
+          "description"   : " Structured Object Schemas",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-object",
+          "hotness"       : 35,
+          "watchers"      : 0,
+          "size"          : 22,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "hotness"       : 35,
+        "watchers"      : 0,
+        "size"          : 22,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      },
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "wg-financial-objects@symphony.foundation",
+          "webArchiveUrl" : "https://groups.google.com/a/symphony.foundation/forum/#!forum/wg-financial-objects"
+        }
+      ]
+    },
+    {
+      "programName"          : "Voice, Voice Metadata, and Voice API",
+      "activityName"         : "Call Metadata Standardization",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2018-02-28"
+    }
+  ],
+  "allTags" : [
+    "bot",
+    "clojure",
+    "rest api client"
+  ]
+}
+
