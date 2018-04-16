@@ -78,8 +78,7 @@ function filtersHTML(activities) {
       buttonWidth: '100px',
       nonSelectedText: 'None',
       onChange: function(option, checked, select) {
-        var paramHash = getParamHash();
-        renderCatalogue(false,paramHash);
+        renderCatalogue(false);
       }
     });
     $(`select#${filterName}`).multiselect('select', getParamHash()[filterName]);

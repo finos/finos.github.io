@@ -21,6 +21,9 @@ function getParamHash() {
 }
 
 function renderCatalogue(firstRun) {
+  console.log("URL hash: "+url("#"));
+  console.log("paramHash: ");
+  console.log(getParamHash());
   $.get("activities.json", function (activities) {
     if (firstRun) {
       // Invoke html-render.js

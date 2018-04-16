@@ -10,7 +10,7 @@ function filterActivities(activities) {
 
   // Reset page
   $("#activities").empty();
-  $("#deeplink").attr("href",`/${getParamQuery()}`);
+  window.location.href = `/${getParamQuery()}`;
   if (activities.length == filteredActivities.length) {
     $("#activity-recap").text(`${activities.length} (all) activities shown`);
   } else {
