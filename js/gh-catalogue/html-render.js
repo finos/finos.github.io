@@ -35,10 +35,10 @@ function activityHTML(activity) {
 
   // TODO - show a activity description, when available in activities.json
   // $("<p>").text(repoDescription(activity['description'])).appendTo($article);
-  $.each(activity['gitHubRepos'], function (i, repo) {
-    $("<p>").append(
-      $("<a>").attr("href", repoUrl(repo)).text(
-        repo['name']).attr("class","repo-link")).appendTo($article).attr("class","line-separation");
+  $("<p class='line-separation'>").appendTo($article);
+  $.each(activity['gitHubRepos'], function (i, repo) {    
+    $("<a>").attr("href", repoUrl(repo)).text(
+      repo['name']).attr("class","repo-link").appendTo($article);
   });
   return $article;
 }

@@ -6,6 +6,41 @@
     <meta name="description" content="Projects hosted by the Foundation">
   </head>
   <body>
+
+
+    <!-- Google Analytics -->
+    <script type="text/javascript" src="js/analytics.js"></script>
+
+    <!-- JQuery -->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <!-- Multi select banner -->
+    <!-- https://github.com/davidstutz/bootstrap-multiselect -->
+    <script type="text/javascript" src="https://www.jquery-az.com/boots/js/bootstrap-multiselect/bootstrap-multiselect.js"></script>
+    <link rel="stylesheet" href="https://www.jquery-az.com/boots/css/bootstrap-multiselect/bootstrap-multiselect.css" type="text/css"/>
+
+    <!-- JS URL -->
+    <!-- https://github.com/websanova/js-url -->
+    <script type="text/javascript" src="js/ext/url.min.js"></script>
+
+    <!-- Pinterest Grid for JQuery -->
+    <!-- https://www.jqueryscript.net/layout/Simple-jQuery-Plugin-To-Create-Pinterest-Style-Grid-Layout-Pinterest-Grid.html -->
+    <script type="text/javascript" src="js/ext/pinterest_grid.js"></script>
+    <link rel="stylesheet" href="css/catalogue.css" type="text/css"/>
+    <!-- <link rel="stylesheet" href="css/finos.css" type="text/css"/> -->
+
+    <!-- Custom JS -->
+    <script type="text/javascript" src="js/gh-catalogue/config.js"></script>
+    <script type="text/javascript" src="js/gh-catalogue/utils.js"></script>
+    <script type="text/javascript" src="js/gh-catalogue/html-render.js"></script>
+    <script type="text/javascript" src="js/gh-catalogue/sort.js"></script>
+    <script type="text/javascript" src="js/gh-catalogue/filters.js"></script>
+    <script type="text/javascript" src="js/gh-catalogue/main.js"></script>
+
     <nav id="navbar" class="navbar navbar-default">
       <div class="container navbar-size">
         <div class="logo-container">
@@ -47,51 +82,17 @@
         </div>
         <div class="col-sm-10 row">
           <div>
-          <h3 id="activity-recap">All Projects</h3>
+          <h3 id="activity-recap"></h3>
           </div>
           <section id="activities"/>
         </div>
       </div>
     </div>
 
-    <!-- Google Analytics -->
-    <script type="text/javascript" src="js/analytics.js"></script>
-
-    <!-- JQuery -->
-    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-
-    <!-- Bootstrap -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
-    <!-- Multi select banner -->
-    <!-- https://github.com/davidstutz/bootstrap-multiselect -->
-    <script type="text/javascript" src="https://www.jquery-az.com/boots/js/bootstrap-multiselect/bootstrap-multiselect.js"></script>
-    <link rel="stylesheet" href="https://www.jquery-az.com/boots/css/bootstrap-multiselect/bootstrap-multiselect.css" type="text/css"/>
-
-    <!-- JS URL -->
-    <!-- https://github.com/websanova/js-url -->
-    <script type="text/javascript" src="js/ext/url.min.js"></script>
-
-    <!-- Pinterest Grid for JQuery -->
-    <!-- https://www.jqueryscript.net/layout/Simple-jQuery-Plugin-To-Create-Pinterest-Style-Grid-Layout-Pinterest-Grid.html -->
-    <script type="text/javascript" src="js/ext/pinterest_grid.js"></script>
-    <link rel="stylesheet" href="css/catalogue.css" type="text/css"/>
-    <!-- <link rel="stylesheet" href="css/finos.css" type="text/css"/> -->
-
-    <!-- Custom JS -->
-    <script type="text/javascript" src="js/gh-catalogue/config.js"></script>
-    <script type="text/javascript" src="js/gh-catalogue/utils.js"></script>
-    <script type="text/javascript" src="js/gh-catalogue/html-render.js"></script>
-    <script type="text/javascript" src="js/gh-catalogue/sort.js"></script>
-    <script type="text/javascript" src="js/gh-catalogue/filters.js"></script>
-    <script type="text/javascript" src="js/gh-catalogue/main.js"></script>
     <script type="text/javascript">
       (function ($, undefined) {
         renderScreen();
-
         renderCatalogue(true);
-
         $('#activities').pinterest_grid({
           no_columns: 4,
           padding_x: 20,
