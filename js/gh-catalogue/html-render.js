@@ -7,24 +7,22 @@ function activityHTML(activity) {
   // console.log(`Rendering ${activity['name']}`);
   var state_class = `${activity['state'].toLowerCase()}-activity-state`;
   var type_class = `${activity['type'].toLowerCase()}-activity-type`;
-  var $article = $("<article>").attr("class","white-panel "+type_class+" "+state_class).append($("<center>").append(
-    $("<h4>").append(activity['activityName'])).append($("<h5>").append(`[ ${activity['programName']} Program ]`)).append(
-    $("<img>").attr("class","activity-state-badge").attr("src",`https://cdn.rawgit.com/symphonyoss/contrib-toolbox/master/images/ssf-badge-${activity['state'].toLowerCase()}.svg`)));
+  var $article = $("<article>").attr("class","white-panel "+type_class+" "+state_class).append(
+    $("<h4>").append(activity['activityName'])).append($("<h5>").append(`[ ${activity['programShortName']} Program ]`)).append(
+    $("<img>").attr("class","activity-state-badge").attr("src",`https://cdn.rawgit.com/symphonyoss/contrib-toolbox/master/images/ssf-badge-${activity['state'].toLowerCase()}.svg`));
 
-  var $row = $("<div class='row badges-row'>");
+  var $badges = $("<div>").attr('class','icon-container ghstats-container');
   stats = activity['cumulativeGitHubStats']
   if (stats) {
-    badgeHTML("forks",stats['forks']).appendTo($row).attr("class","github-stats-space");
-    badgeHTML("watchers",stats['watchers'],"left").appendTo($row);
-    $row.appendTo($article);
-    $row = $("<div class='row badges-row'>");
-    badgeHTML("stars",stats['stars'],"right").appendTo($row).attr("class","github-stats-space");
-    badgeHTML("collaborators",stats['collaborators'],"left").appendTo($row);
-    $row.appendTo($article);
+    badgeHTML("forks",stats['forks']).appendTo($badges);
+    badgeHTML("watchers",stats['watchers']).appendTo($badges);
+    badgeHTML("stars",stats['stars']).appendTo($badges);
+    badgeHTML("collaborators",stats['collaborators']).appendTo($badges);
+    $badges.appendTo($article);
   }
 
   // Render languages
-  var $langs = $("<center>");
+  var $langs = $("<div>").attr('class','icon-container langs-container');
   var count = 1;
   if (stats && stats['languages']) {
     for (lang in stats['languages']) {
@@ -45,16 +43,12 @@ function activityHTML(activity) {
   return $article;
 }
 
-function badgeHTML(type,value,textPosition) {
+function badgeHTML(type,value) {
   var url = `assets/gh-icons/${type.toLowerCase()}.png`;
-  var $container = $("<span>");
-  var $span = $("<span>").attr("class","gh-stats-values").append($("<b>").text(value));
-  var $img = $("<img>").attr("class",'gh-icons').attr("title",type).attr("src",url);
-  if (textPosition == 'left') {
-    $container.append($span).append($img);
-  } else {
-    $container.append($img).append($span);
-  }
+  var $container = $("<div>").attr("class","badge");
+  var $span = $("<span>").text(value);
+  var $img = $("<img>").attr("title",type).attr("src",url);
+  $container.append($img).append($span);
   return $container;
 }
 
@@ -81,6 +75,7 @@ function filtersHTML(activities) {
     // Using Bootstrap multi-select, see index.html for import
     $(`select#${filterName}`).multiselect({
       maxHeight: 200,
+      buttonWidth: 100,
       onChange: function(option, checked, select) {
         var paramHash = getParamHash();
         renderCatalogue(false,paramHash);
@@ -103,7 +98,7 @@ function filtersHTML(activities) {
 }
 
 function filterHTML(id) {
-  var $name = $("<p>").text(toLabel(id,id)).attr("class","filter-label");
+  var $name = $("<span>").text(toLabel(id,id)).attr("class","filter-label");
   var $li = $("<li>").attr("class","drowdown").attr("id",id);
   var $select = $("<select>")
   .attr("style","visibility:hidden")
@@ -128,7 +123,7 @@ function filterItemsHTML(filterName, filterValue) {
   var $select = $("select#"+filterName);
   if (!$select.length) {
     $select = filterHTML(filterName);
-    $select.appendTo("ul.activities-container").after('<br />');
+    $select.appendTo("ul.activities-filter-container");
   }
   
   keys.forEach (function (key) {

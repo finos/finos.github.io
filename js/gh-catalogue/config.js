@@ -1,6 +1,6 @@
 var config = {
   "filters" : {
-    "programName" : {
+    "programShortName" : {
       "label" : "Program",
       "valueLabels" : {
         "FDC3": "FDC3",

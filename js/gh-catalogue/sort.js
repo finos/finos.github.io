@@ -12,14 +12,29 @@ function sortActivities(activities) {
 
   if (sort_by == "hotness") {
     activities.sort(function (a, b) {
-      if (a.hotness < b.hotness) return -1*direction;
-      if (b.hotness < a.hotness) return 1*direction;
-      return 0;
+      if (!a || !b || !a.cumulativeGitHubStats || !b.cumulativeGitHubStats) {
+        return 0;
+      } else if (!a || !a.cumulativeGitHubStats) {
+        return -1;
+      } else if (!b || !b.cumulativeGitHubStats) {
+        return 1;
+      } else {
+        var ret = -1;
+        if (
+          a.cumulativeGitHubStats.hotness < 
+          b.cumulativeGitHubStats.hotness) {
+          ret = 1;
+        }
+        return ret*direction;
+      }
     });
   } else if (sort_by == "name") {
     activities.sort(function (a, b) {
-      if (a.name.toLowerCase() < b.name.toLowerCase()) return -1*direction;
-      if (b.name.toLowerCase() < a.name.toLowerCase()) return 1*direction;
+      console.log('sorting...');
+      console.log(a);
+      console.log(b);
+      if (a.activityName.toLowerCase() < b.activityName.toLowerCase()) return -1*direction;
+      if (b.activityName.toLowerCase() < a.activityName.toLowerCase()) return 1*direction;
       return 0;
     });
   // TODO - as soon as "updated_at" field is in activities.json
