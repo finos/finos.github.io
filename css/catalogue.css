@@ -124,8 +124,13 @@ h5 {
     text-align: center;
 }
 
+.activity-repos {
+  text-align:left;
+}
+
 .activity {
       float: left;
+      text-align:center;
       margin: 20px;
       height:260px;
       width: 240px;
@@ -166,6 +171,11 @@ article > img {
       color: black;
       font-style: bold;
       display: inline-block;
+}
+
+.activity-state-badge {
+  max-width:90px;
+  display:inline-block;
 }
 
 .badge img {

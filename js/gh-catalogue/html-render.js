@@ -41,9 +41,10 @@ function activityHTML(activity) {
   // TODO - show a activity description, when available in activities.json
   // $("<p>").text(repoDescription(activity['description'])).appendTo($article);
   $("<p class='line-separation'>").appendTo($article);
+  var $repos = $("<div class='activity-repos'>").appendTo($article);
   $.each(activity['gitHubRepos'], function (i, repo) {    
-    $("<a>").attr("href", repoUrl(repo)).text(
-      repo['name']).attr("class","repo-link").appendTo($article);
+    $("<a>").attr("href", repoUrl(repo)).attr("target", "_blank").text(
+      repo['name']).attr("class","repo-link").appendTo($repos);
   });
   return $article;
 }
@@ -81,7 +82,7 @@ function filtersHTML(activities) {
     $(`select#${filterName}`).multiselect({
       maxHeight: 200,
       buttonWidth: '100px',
-      nonSelectedText: 'None',
+      nonSelectedText: 'All',
       onChange: function(option, checked, select) {
         renderCatalogue(false);
       }
