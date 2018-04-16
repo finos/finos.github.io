@@ -14,8 +14,8 @@ The Project Catalogue allows to:
 Please install [nodeJS](https://nodejs.org/en/) before starting.
 ```
 npm install http-server -g
-git clone git@github.com:symphonyoss/symphonyoss.github.io.git
-cd symphonyoss.github.io
+git clone git@github.com:finos/finos.github.io.git
+cd finos.github.io
 http-server
 ```
 
