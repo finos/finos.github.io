@@ -7,7 +7,7 @@ function getParamHash() {
     var keySplit = key.split('|');
     var key = keySplit[0];
     var val = keySplit[1];
-    console.log(`parsing param ${key}, found key ${key} and decoded val is ${val}`);
+    // console.log(`parsing param ${key}, found key ${key} and decoded val is ${val}`);
 
     var values = paramHash[key];
     if (!values) {
@@ -20,10 +20,20 @@ function getParamHash() {
   return paramHash;
 }
 
+function renderScreen() {
+  var url = new URL(window.location.href);
+  var embed = url.searchParams.get("embed");
+  if (embed == 'true') {
+    $("#navbar").hide();
+    $("#sidebar").hide();
+    $("#activity-recap").hide();
+  }
+}
+
 function renderCatalogue(firstRun) {
-  console.log("URL hash: "+url("#"));
-  console.log("paramHash: ");
-  console.log(getParamHash());
+  // console.log("URL hash: "+url("#"));
+  // console.log("paramHash: ");
+  // console.log(getParamHash());
   $.get("activities.json", function (activities) {
     if (firstRun) {
       // Invoke html-render.js

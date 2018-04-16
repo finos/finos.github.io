@@ -10,7 +10,15 @@ function filterActivities(activities) {
 
   // Reset page
   $("#activities").empty();
-  window.location.href = `/${getParamQuery()}`;
+
+  var url = new URL(window.location.href);
+  var embed = url.searchParams.get("embed");
+  var newHref = '/';
+  if (embed) {
+    newHref += '?embed=true';
+  }
+  window.location.href = newHref + getParamQuery();;
+
   if (activities.length == filteredActivities.length) {
     $("#activity-recap").text(`${activities.length} (all) activities shown`);
   } else {
