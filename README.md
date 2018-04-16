@@ -8,6 +8,7 @@ The Project Catalogue allows to:
 - Filter projects by **language** and **[project lifecycle state](https://symphonyoss.atlassian.net/wiki/spaces/FM/pages/3211338/Project+Lifecycle)**
 - Sort projects (ascending/descending) by **heat** (value that weights all stats extracted from GitHub repositories) and **name**
 - Bookmark URL with filters and sorts
+- Support an `embed=true` request parameter that strips off navbar, sidebar and project summary text
 
 ## Run locally
 Please install [nodeJS](https://nodejs.org/en/) before starting.
