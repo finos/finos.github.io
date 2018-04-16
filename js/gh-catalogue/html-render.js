@@ -7,7 +7,8 @@ function activityHTML(activity) {
   // console.log(`Rendering ${activity['name']}`);
   var state_class = `${activity['state'].toLowerCase()}-activity-state`;
   var type_class = `${activity['type'].toLowerCase()}-activity-type`;
-  var $article = $("<article>").attr("class","white-panel "+type_class+" "+state_class);
+  var $article = $("<div>").attr("class", "activity col-sm "+type_class+" "+state_class);
+  // var $article = $("<div>").attr("class", "col-sm");
   var metricsLink = `https://metrics.symphony.foundation/app/kibana?#/dashboard/C_ESCo_projects?_g=(refreshInterval:(display:Off,pause:!f,value:0),time:(from:now-2y,mode:quick,to:now))&_a=(filters:!(),query:(query_string:(analyze_wildcard:!t,query:'project:%22${activity['activityName']}%22')))`;
 
   $article.append($("<h4>").append(activity['activityName']));

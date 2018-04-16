@@ -66,7 +66,7 @@
             <div class="panel-heading">
               <h3 class="panel-title">Sort Activities</h3>
             </div>
-            <div class="panel-body">
+            <div class="panel-body sort-body-container">
               <ul class="nav navbar-nav sorts-container">
                 <li id="sort">
                   <select id="sort" style="visibility:hidden">
@@ -84,7 +84,7 @@
           <div>
           <h3 id="activity-recap"></h3>
           </div>
-          <section id="activities"/>
+          <div class="container" id="activities"/>
         </div>
       </div>
     </div>
@@ -93,13 +93,13 @@
       (function ($, undefined) {
         renderScreen();
         renderCatalogue(true);
-        $('#activities').pinterest_grid({
-          no_columns: 4,
-          padding_x: 20,
-          padding_y: 20,
-          margin_bottom: 20,
-          single_column_breakpoint: 700
-        });
+        // $('#activities').pinterest_grid({
+        //   no_columns: 4,
+        //   padding_x: 20,
+        //   padding_y: 20,
+        //   margin_bottom: 20,
+        //   single_column_breakpoint: 700
+        // });
       })(jQuery);
     </script>
   </body>

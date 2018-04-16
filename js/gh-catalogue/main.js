@@ -1,3 +1,4 @@
+var NR_COLUMNS = 4
 var relPath = url('path').replace('index.html','');
 
 // Loads initial URL state from lib, then returns the saved state
@@ -48,8 +49,18 @@ function renderCatalogue(firstRun) {
     sortActivities(filteredActivities);
 
     // Invoke html-render.js - render out activities
+    var $row = $("<div>").attr("class","row");
     $.each(filteredActivities, function (activityIdx, activity) {
-      activityHTML(activity).appendTo("#activities");
+      activityHTML(activity,NR_COLUMNS).appendTo($row);
+      console.log(NR_COLUMNS);
+      console.log(activityIdx+1);
+      var mod = (activityIdx+1) % NR_COLUMNS;
+      console.log(mod);
+      console.log("------------");
+      if (mod == 0) {
+        $row = $("<div>").attr("class","row");
+        $row.appendTo("#activities");
+      }
     });
   });
 }
