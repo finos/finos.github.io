@@ -75,7 +75,8 @@ function filtersHTML(activities) {
     // Using Bootstrap multi-select, see index.html for import
     $(`select#${filterName}`).multiselect({
       maxHeight: 200,
-      buttonWidth: 100,
+      buttonWidth: '100px',
+      nonSelectedText: 'None',
       onChange: function(option, checked, select) {
         var paramHash = getParamHash();
         renderCatalogue(false,paramHash);
@@ -147,14 +148,15 @@ function filterItemHTML(id,value) {
 function sortsHTML(activities) {
   // Using Bootstrap multi-select, see index.html for import
   $("select#sort").multiselect({
+    buttonWidth: '100px',    
     onChange: function(option, checked, select) {
       renderCatalogue(false);
     },
     buttonText: function(options, select) {
       if (options.length === 0) {
-        return 'Sort by:';
+        return 'Sort';
       } else {
-        return `Sorting by ${toLabel($(options).val(),'sort')} `;
+        return `${toLabel($(options).val(),'sort')} `;
       }
     }
   }).appendTo("ul.sorts-container");

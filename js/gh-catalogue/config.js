@@ -32,10 +32,10 @@ var config = {
   },
   "sort" : {
     "valueLabels" : {
-      "hotness-up": "Heat (asc)",
-      "hotness-down": "Heat (desc)",
-      "name-up": "Name (asc)",
-      "name-down": "Name (desc)",
+      "hotness-up": "Heat ↑",
+      "hotness-down": "Heat ↓",
+      "name-up": "Name ↑",
+      "name-down": "Name ↓",
     }
   },
   "repos" : {

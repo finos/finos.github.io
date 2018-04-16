@@ -36,26 +36,26 @@ body {
 }
 /* END FROM FINOS CSS */
 
-
 .navbar-size {
-      width: 100%;
-      float:left;
+    width: 100%;
+    float:left;
 }
 
 /* The activities <section>, container of <article> elements */
 #activities {
-      position: relative;
-      max-width: 100%;
-      width: 100%;
+    position: relative;
+    max-width: 100%;
+    width: 100%;
 }
 
 .filter-label {
-      max-width: 50px;
-      word-wrap: break-word;
+  display:block;
+  max-width: 70px;
+  font-size: 12px;
+  word-wrap: break-word;
 }
-
-.activities-filter-container span {
-      font-size: 14px;
+.multiselect-native-select {
+  float:right;
 }
 
 img#logo {
