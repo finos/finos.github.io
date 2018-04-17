@@ -14,7 +14,7 @@ function activityHTML(activity) {
   $article.append($("<h4>").append(activity['activityName']));
   $article.append($("<h5>").append(`[ ${activity['programShortName']} Program ]`));
   $article.append($("<h5 class='metrics-link'>").append($("<a>").attr('href',metricsLink).attr('target','_blank').append('Activity Metrics')));
-  $article.append($("<img>").attr("class","activity-state-badge").attr("src",`https://cdn.rawgit.com/symphonyoss/contrib-toolbox/master/images/ssf-badge-${activity['state'].toLowerCase()}.svg`));
+  $article.append($("<img>").attr("class","activity-state-badge").attr("src",`https://cdn.rawgit.com/finos/contrib-toolbox/master/images/badge-${activity['state'].toLowerCase()}.svg`));
 
   var $badges = $("<div>").attr('class','icon-container ghstats-container');
   stats = activity['cumulativeGitHubStats']
@@ -42,7 +42,7 @@ function activityHTML(activity) {
   // $("<p>").text(repoDescription(activity['description'])).appendTo($article);
   $("<p class='line-separation'>").appendTo($article);
   var $repos = $("<div class='activity-repos'>").appendTo($article);
-  $.each(activity['gitHubRepos'], function (i, repo) {    
+  $.each(activity['gitHubRepos'], function (i, repo) {
     $("<a>").attr("href", repoUrl(repo)).attr("target", "_blank").text(
       repo['name']).attr("class","repo-link").appendTo($repos);
   });
@@ -131,7 +131,7 @@ function filterItemsHTML(filterName, filterValue) {
     $select = filterHTML(filterName);
     $select.appendTo("ul.activities-filter-container");
   }
-  
+
   keys.forEach (function (key) {
     var $option = $("option#"+key);
     if (!$option.length) {
@@ -153,7 +153,7 @@ function filterItemHTML(id,value) {
 function sortsHTML(activities) {
   // Using Bootstrap multi-select, see index.html for import
   $("select#sort").multiselect({
-    buttonWidth: '100px',    
+    buttonWidth: '100px',
     onChange: function(option, checked, select) {
       renderCatalogue(false);
     },
