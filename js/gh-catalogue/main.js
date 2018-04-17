@@ -1,6 +1,34 @@
 var NR_COLUMNS = 4
 var relPath = url('path').replace('index.html','');
 
+/* For future use:
+function parseQueryString(url) {
+  // remove any preceding url and split
+  var querystring = url.substring(url.indexOf('?')+1).split('&');
+  var result = {};
+
+  // march and parse
+  for (var i = querystring.length - 1; i >= 0; i--) {
+    var pair = querystring[i].split('=');
+    var key = pair[0];
+    var val = pair.slice(1).join('=');
+
+    if (result.hasOwnProperty(key)) {
+      if (Array.isArray(result[key])) {
+          result[key].unshift(val);
+      } else {
+          result[key] = [result[key]];
+          result[key].unshift(val);
+      }
+    } else {
+      result[key] = val;
+    }
+  }
+
+  return result;
+}
+*/
+
 // Loads initial URL state from lib, then returns the saved state
 function getParamHash() {
   var paramHash = {}
