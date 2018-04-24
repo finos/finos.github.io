@@ -81,7 +81,8 @@ function renderCatalogue(firstRun) {
     $.each(filteredActivities, function (activityIdx, activity) {
       activityHTML(activity,NR_COLUMNS).appendTo($row);
 
-      if ((activityIdx+1) % NR_COLUMNS == 0) {
+      if ((activityIdx+1) % NR_COLUMNS == 0)
+      {
         $row.appendTo("#activities");
         $row = $("<div>").attr("class", "row");
       }
