@@ -569,7 +569,7 @@
       "programName"          : "Symphony",
       "programShortName"     : "Symphony",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
-      "activityName"         : "Sprinkle Bulk Add Users Biot",
+      "activityName"         : "Sprinkle Bulk Add Users Bot",
       "type"                 : "PROJECT",
       "state"                : "INCUBATING",
       "contributionDate"     : "2017-03-16",
@@ -2059,7 +2059,7 @@
           "name"          : "extension-api-examples",
           "description"   : "Examples on how to use the extension API",
           "gitHubURL"     : "https://github.com/symphonyoss/extension-api-examples",
-          "heat"          : 88,
+          "heat"          : 92,
           "watchers"      : 0,
           "size"          : 1056,
           "collaborators" : 5,
@@ -2086,7 +2086,7 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 176,
+        "heat"          : 180,
         "watchers"      : 0,
         "size"          : 1491,
         "collaborators" : 17,
