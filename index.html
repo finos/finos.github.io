@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The Fintech Open Source Foundation (FINOS)</title>
+    <link rel="shortcut icon" href="assets/favicon.ico"/>
+    <meta name="description" content="Projects hosted by the Foundation"/>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-89349362-5"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-89349362-5');
+    </script>
+  </head>
+  <body>
+
+
+    <!-- Google Analytics -->
+    <script type="text/javascript" src="js/analytics.js"></script>
+
+    <!-- JQuery -->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <!-- Multi select banner -->
+    <!-- https://github.com/davidstutz/bootstrap-multiselect -->
+    <script type="text/javascript" src="https://www.jquery-az.com/boots/js/bootstrap-multiselect/bootstrap-multiselect.js"></script>
+    <link rel="stylesheet" href="https://www.jquery-az.com/boots/css/bootstrap-multiselect/bootstrap-multiselect.css" type="text/css"/>
+
+    <!-- JS URL -->
+    <!-- https://github.com/websanova/js-url -->
+    <script type="text/javascript" src="js/ext/url.min.js"></script>
+
+    <!-- Pinterest Grid for JQuery -->
+    <!-- https://www.jqueryscript.net/layout/Simple-jQuery-Plugin-To-Create-Pinterest-Style-Grid-Layout-Pinterest-Grid.html -->
+    <script type="text/javascript" src="js/ext/pinterest_grid.js"></script>
+    <link rel="stylesheet" href="css/catalogue.css" type="text/css"/>
+    <!-- <link rel="stylesheet" href="css/finos.css" type="text/css"/> -->
+
+    <!-- Custom JS -->
+    <script type="text/javascript" src="js/gh-catalogue/config.js"></script>
+    <script type="text/javascript" src="js/gh-catalogue/utils.js"></script>
+    <script type="text/javascript" src="js/gh-catalogue/html-render.js"></script>
+    <script type="text/javascript" src="js/gh-catalogue/sort.js"></script>
+    <script type="text/javascript" src="js/gh-catalogue/filters.js"></script>
+    <script type="text/javascript" src="js/gh-catalogue/main.js"></script>
+
+    <nav id="navbar" class="navbar navbar-default">
+      <div class="container navbar-size">
+        <div class="logo-container">
+          <a href="/"><img src="https://cdn2.hubspot.net/hubfs/2419532/FINOS/website/logos/finos-logos/finos-logo.png" alt="FINOS Logo" title="FINOS" id='logo'/></a>
+          <span>CATALOGUE</span>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container-fluid" role="main">
+      <div class="row">
+        <div id="sidebar" class="col-sm-2">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Browse Activities</h3>
+            </div>
+            <div class="panel-body">
+              <ul class="nav navbar-nav activities-filter-container">
+              </ul>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Sort Activities</h3>
+            </div>
+            <div class="panel-body sort-body-container">
+              <ul class="nav navbar-nav sorts-container">
+                <li id="sort">
+                  <select id="sort" style="visibility:hidden">
+                    <option id="hotness-down" value="hotness-down">Heat &darr;</option>
+                    <option id="hotness-up" value="hotness-up">Heat &uarr;</option>
+                    <option id="name-down" value="name-down">Name &darr;</option>
+                    <option id="name-up" value="name-up">Name &uarr;</option>
+                  </select>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-10 row">
+          <div>
+          <h3 id="activity-recap"></h3>
+          </div>
+          <div class="container" id="activities"/>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      (function ($, undefined) {
+        renderScreen();
+        renderCatalogue(true);
+        // $('#activities').pinterest_grid({
+        //   no_columns: 4,
+        //   padding_x: 20,
+        //   padding_y: 20,
+        //   margin_bottom: 20,
+        //   single_column_breakpoint: 700
+        // });
+      })(jQuery);
+    </script>
+  </body>
+</html>

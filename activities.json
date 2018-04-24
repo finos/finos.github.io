@@ -1,0 +1,3386 @@
+{
+  "activities" : [
+    {
+      "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
+      "programShortName"     : "FDC3",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
+      "activityName"         : "Application Directory",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2018-02-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "App-Directory",
+          "description"   : "The FDC3 App Directory - specifications and implementations.",
+          "gitHubURL"     : "https://github.com/FDC3/App-Directory",
+          "heat"          : 211,
+          "watchers"      : 0,
+          "size"          : 19,
+          "collaborators" : 41,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        },
+        {
+          "name"          : "app-directory-tpl",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/FDC3/app-directory-tpl",
+          "heat"          : 209,
+          "watchers"      : 0,
+          "size"          : 0,
+          "collaborators" : 41,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 420,
+        "watchers"      : 0,
+        "size"          : 19,
+        "collaborators" : 82,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
+    },
+    {
+      "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
+      "programShortName"     : "FDC3",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
+      "activityName"         : "Application Intents",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2018-02-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "Intents",
+          "description"   : "FDC3 Intents specifications, schemas, and examples",
+          "gitHubURL"     : "https://github.com/FDC3/Intents",
+          "heat"          : 206,
+          "watchers"      : 0,
+          "size"          : 11,
+          "collaborators" : 41,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 206,
+        "watchers"      : 0,
+        "size"          : 11,
+        "collaborators" : 41,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
+    },
+    {
+      "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
+      "programShortName"     : "FDC3",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
+      "activityName"         : "Context Data",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2018-02-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "ContextData",
+          "description"   : "Context data object specifications, schemas, and examples",
+          "gitHubURL"     : "https://github.com/FDC3/ContextData",
+          "heat"          : 210,
+          "watchers"      : 0,
+          "size"          : 107,
+          "collaborators" : 41,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 210,
+        "watchers"      : 0,
+        "size"          : 107,
+        "collaborators" : 41,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
+    },
+    {
+      "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
+      "programShortName"     : "FDC3",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
+      "activityName"         : "Financial Desktop Connectivity and Collaboration Consortium (FDC3)",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2018-02-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "FDC3",
+          "description"   : "Organizational Document for the FDC3",
+          "gitHubURL"     : "https://github.com/FDC3/FDC3",
+          "heat"          : 211,
+          "watchers"      : 0,
+          "size"          : 6,
+          "collaborators" : 41,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        },
+        {
+          "name"          : "FDC3-Archive",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/FDC3/FDC3-Archive",
+          "heat"          : 207,
+          "watchers"      : 0,
+          "size"          : 2213,
+          "collaborators" : 41,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 418,
+        "watchers"      : 0,
+        "size"          : 2219,
+        "collaborators" : 82,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
+    },
+    {
+      "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
+      "programShortName"     : "FDC3",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
+      "activityName"         : "Open API Demo",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-02-28",
+      "tags"                 : [
+        "desktop technology",
+        "example",
+        "sample"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "open-api-demo",
+          "description"   : "Demonstration/Prototype of the FDC3 proposed Open API",
+          "gitHubURL"     : "https://github.com/FDC3/open-api-demo",
+          "heat"          : 207,
+          "watchers"      : 0,
+          "size"          : 20,
+          "collaborators" : 41,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "HTML" : 3858,
+            "JavaScript" : 3994
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 207,
+        "watchers"      : 0,
+        "size"          : 20,
+        "collaborators" : 41,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "HTML" : 3858,
+          "JavaScript" : 3994
+        }
+      }
+    },
+    {
+      "programName"          : "Hadouken",
+      "programShortName"     : "Hadouken",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/HAD/overview",
+      "activityName"         : "Hadouken Application Templates",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-02-28",
+      "tags"                 : [
+        "desktop technology",
+        "example",
+        "sample"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "app-template",
+          "description"   : "A simple unopinionated Hadouken application template.",
+          "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
+          "heat"          : 175,
+          "watchers"      : 0,
+          "size"          : 145,
+          "collaborators" : 30,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "HTML" : 534,
+            "JavaScript" : 2382
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 175,
+        "watchers"      : 0,
+        "size"          : 145,
+        "collaborators" : 30,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "HTML" : 534,
+          "JavaScript" : 2382
+        }
+      }
+    },
+    {
+      "programName"          : "Hadouken",
+      "programShortName"     : "Hadouken",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/HAD/overview",
+      "activityName"         : "Hadouken",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-02-28",
+      "tags"                 : [
+        "desktop technology"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "core",
+          "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
+          "gitHubURL"     : "https://github.com/HadoukenIO/core",
+          "heat"          : 360,
+          "watchers"      : 0,
+          "size"          : 1306,
+          "collaborators" : 30,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "TypeScript" : 305179,
+            "HTML" : 10167,
+            "JavaScript" : 402059
+          }
+        },
+        {
+          "name"          : "js-adapter",
+          "description"   : "Hadouken Node Adapter",
+          "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
+          "heat"          : 222,
+          "watchers"      : 0,
+          "size"          : 1258,
+          "collaborators" : 31,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "TypeScript" : 274563,
+            "HTML" : 1119,
+            "JavaScript" : 6017
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 582,
+        "watchers"      : 0,
+        "size"          : 2564,
+        "collaborators" : 61,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "TypeScript" : 579742,
+          "HTML" : 11286,
+          "JavaScript" : 408076
+        }
+      }
+    },
+    {
+      "programName"          : "Hadouken",
+      "programShortName"     : "Hadouken",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/HAD/overview",
+      "activityName"         : "Symphony Integration",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-10-04",
+      "tags"                 : [
+        "integration",
+        "symphony"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-of",
+          "description"   : "OpenFin Sym Integration",
+          "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
+          "heat"          : 246,
+          "watchers"      : 0,
+          "size"          : 14209,
+          "collaborators" : 36,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "HTML" : 34543,
+            "CSS" : 5438,
+            "JavaScript" : 54007
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 246,
+        "watchers"      : 0,
+        "size"          : 14209,
+        "collaborators" : 36,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "HTML" : 34543,
+          "CSS" : 5438,
+          "JavaScript" : 54007
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "App Authentication Library",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-01-31",
+      "tags"                 : [
+        "authentication",
+        "library"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-app-authentication",
+          "description"   : "Symphony third party application authentication",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-app-authentication",
+          "heat"          : 35,
+          "watchers"      : 0,
+          "size"          : 195,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 157825,
+            "JavaScript" : 2291
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 35,
+        "watchers"      : 0,
+        "size"          : 195,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 157825,
+          "JavaScript" : 2291
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Admin Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-10-12",
+      "tags"                 : [
+        "administration",
+        "bot",
+        "java"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-admin-bot",
+          "description"   : "Symphony Admin Bot",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-admin-bot",
+          "heat"          : 20,
+          "watchers"      : 0,
+          "size"          : 37488,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 208921,
+            "HTML" : 38712
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 20,
+        "watchers"      : 0,
+        "size"          : 37488,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 208921,
+          "HTML" : 38712
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Bolt Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-03-20",
+      "tags"                 : [
+        "bot",
+        "javascript"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "bolt-javascript-bot",
+          "description"   : "Bolt Symphony Simple Javascript Bot",
+          "gitHubURL"     : "https://github.com/symphonyoss/bolt-javascript-bot",
+          "heat"          : 32,
+          "watchers"      : 0,
+          "size"          : 4,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "JavaScript" : 8355
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 32,
+        "watchers"      : 0,
+        "size"          : 4,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "JavaScript" : 8355
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Bot Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2017-08-28",
+      "tags"                 : [
+        "bot"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-bot",
+          "description"   : "A bot that translates text (non-english to english by default).",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-bot",
+          "heat"          : 29,
+          "watchers"      : 0,
+          "size"          : 12,
+          "collaborators" : 5,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 17857
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 29,
+        "watchers"      : 0,
+        "size"          : 12,
+        "collaborators" : 5,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 17857
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Browse via Symphony Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2017-08-28",
+      "tags"                 : [
+        "bot"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-sym-browser",
+          "description"   : "This bot allows you to browse the Internet and certain “Contexts”, while making it look like you’re doing work.",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-sym-browser",
+          "heat"          : 33,
+          "watchers"      : 0,
+          "size"          : 36,
+          "collaborators" : 5,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 94237
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 33,
+        "watchers"      : 0,
+        "size"          : 36,
+        "collaborators" : 5,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 94237
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Sprinkle Bulk Add Users Biot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-03-16",
+      "tags"                 : [
+        "administration",
+        "bot"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "sprinkle-bulk-add-users",
+          "description"   : "Sprinkle: Bulk Add Users to Chatrooms for Symphony",
+          "gitHubURL"     : "https://github.com/symphonyoss/sprinkle-bulk-add-users",
+          "heat"          : 20,
+          "watchers"      : 0,
+          "size"          : 4,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "JavaScript" : 5001
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 20,
+        "watchers"      : 0,
+        "size"          : 4,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "JavaScript" : 5001
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Butler Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-09-04",
+      "tags"                 : [
+        "bot"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-butler",
+          "description"   : "These are a collection of scripts for hubot",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-butler",
+          "heat"          : 60,
+          "watchers"      : 0,
+          "size"          : 92,
+          "collaborators" : 5,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "CoffeeScript" : 23979,
+            "Shell" : 2245
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 60,
+        "watchers"      : 0,
+        "size"          : 92,
+        "collaborators" : 5,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "CoffeeScript" : 23979,
+          "Shell" : 2245
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Fact Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2017-08-28",
+      "tags"                 : [
+        "bot"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-fact",
+          "description"   : "Eliza is simple fact telling bot.",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-fact",
+          "heat"          : 25,
+          "watchers"      : 0,
+          "size"          : 13,
+          "collaborators" : 5,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 10765
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 25,
+        "watchers"      : 0,
+        "size"          : 13,
+        "collaborators" : 5,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 10765
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "FAQ Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2017-08-28",
+      "tags"                 : [
+        "bot"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-faq",
+          "description"   : "Symphony FAQbot is designed to capture questions and answers from the community.",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-faq",
+          "heat"          : 20,
+          "watchers"      : 0,
+          "size"          : 49,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 128114
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 20,
+        "watchers"      : 0,
+        "size"          : 49,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 128114
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Greenhouse Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2017-08-28",
+      "tags"                 : [
+        "bot"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-greenhouse",
+          "description"   : "This bot reminds interviewers that they have an interview 30 minutes before their interview begins.",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-greenhouse",
+          "heat"          : 34,
+          "watchers"      : 0,
+          "size"          : 30,
+          "collaborators" : 6,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 77145
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 34,
+        "watchers"      : 0,
+        "size"          : 30,
+        "collaborators" : 6,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 77145
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Group Maker/Checker Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-01-04",
+      "tags"                 : [
+        "bot"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "GroupID",
+          "description"   : "Symphony GroupID repository",
+          "gitHubURL"     : "https://github.com/symphonyoss/GroupID",
+          "heat"          : 49,
+          "watchers"      : 0,
+          "size"          : 24537,
+          "collaborators" : 9,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 735956,
+            "HTML" : 41867,
+            "Shell" : 30684,
+            "JavaScript" : 106224
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 49,
+        "watchers"      : 0,
+        "size"          : 24537,
+        "collaborators" : 9,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 735956,
+          "HTML" : 41867,
+          "Shell" : 30684,
+          "JavaScript" : 106224
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Grub Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-07-02",
+      "tags"                 : [
+        "bot",
+        "javascript"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "grubbot",
+          "description"   : "Get feedback on company served meals",
+          "gitHubURL"     : "https://github.com/symphonyoss/grubbot",
+          "heat"          : 20,
+          "watchers"      : 0,
+          "size"          : 0,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 20,
+        "watchers"      : 0,
+        "size"          : 0,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Helpdesk Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-05-27",
+      "tags"                 : [
+        "bot",
+        "java"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "helpdesk-bot",
+          "description"   : "Symphony HelpDesk BOT ",
+          "gitHubURL"     : "https://github.com/symphonyoss/helpdesk-bot",
+          "heat"          : 42,
+          "watchers"      : 0,
+          "size"          : 191060,
+          "collaborators" : 6,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 686027,
+            "HTML" : 9435
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 42,
+        "watchers"      : 0,
+        "size"          : 191060,
+        "collaborators" : 6,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 686027,
+          "HTML" : 9435
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Home Security Talking Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2017-08-28",
+      "tags"                 : [
+        "bot"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-home-security-talking",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-home-security-talking",
+          "heat"          : 29,
+          "watchers"      : 0,
+          "size"          : 2694,
+          "collaborators" : 5,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Go" : 24788,
+            "Shell" : 178
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 29,
+        "watchers"      : 0,
+        "size"          : 2694,
+        "collaborators" : 5,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Go" : 24788,
+          "Shell" : 178
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Jenkins Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2017-08-28",
+      "tags"                 : [
+        "bot"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-jenkins",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-jenkins",
+          "heat"          : 25,
+          "watchers"      : 0,
+          "size"          : 21,
+          "collaborators" : 5,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 23133
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 25,
+        "watchers"      : 0,
+        "size"          : 21,
+        "collaborators" : 5,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 23133
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "JIRA Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2017-03-14",
+      "tags"                 : [
+        "bot"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-jira",
+          "description"   : "This bot optimizes the workflow between Jira and Symphony.",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-jira",
+          "heat"          : 30,
+          "watchers"      : 0,
+          "size"          : 38,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 99369
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 30,
+        "watchers"      : 0,
+        "size"          : 38,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 99369
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Lunchbox Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2016-11-07",
+      "tags"                 : [
+        "bot"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-lunch-box",
+          "description"   : "LunchBoxBot is a useful Symphony Bot that consumes lunch menu posted everyday and helps you make lunch experience better",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-lunch-box",
+          "heat"          : 25,
+          "watchers"      : 0,
+          "size"          : 13,
+          "collaborators" : 5,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 26055
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 25,
+        "watchers"      : 0,
+        "size"          : 13,
+        "collaborators" : 5,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 26055
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Metronome Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-12-12",
+      "tags"                 : [
+        "administration",
+        "bot"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "metronome",
+          "description"   : "A python based diagnostics bot for symphony users to use to tie into symphony engineering services monitoring, or for their own use",
+          "gitHubURL"     : "https://github.com/symphonyoss/metronome",
+          "heat"          : 22,
+          "watchers"      : 0,
+          "size"          : 32,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Shell" : 558,
+            "Python" : 8468
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 22,
+        "watchers"      : 0,
+        "size"          : 32,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Shell" : 558,
+          "Python" : 8468
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "NLP/ML Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-03-27",
+      "tags"                 : [
+        "bot",
+        "java",
+        "nlp/ml"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-nlp-ml-java",
+          "description"   : "Symphony bot that leverages natural language processing (NLP) and machine learning (ML)",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-nlp-ml-java",
+          "heat"          : 20,
+          "watchers"      : 0,
+          "size"          : 5,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 20,
+        "watchers"      : 0,
+        "size"          : 5,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Room Manager Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-09-04",
+      "tags"                 : [
+        "bot",
+        "java"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-room-manager",
+          "description"   : "RoomManager allows each sales chat to send a message to a room (Central Chat).",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-room-manager",
+          "heat"          : 29,
+          "watchers"      : 0,
+          "size"          : 28,
+          "collaborators" : 5,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 76544
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 29,
+        "watchers"      : 0,
+        "size"          : 28,
+        "collaborators" : 5,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 76544
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Sidekick Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2017-08-28",
+      "tags"                 : [
+        "bot"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-sidekick",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-sidekick",
+          "heat"          : 21,
+          "watchers"      : 0,
+          "size"          : 1640,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Python" : 35142
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 21,
+        "watchers"      : 0,
+        "size"          : 1640,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Python" : 35142
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Symfuny Chat Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-05-04",
+      "tags"                 : [
+        "bot"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "symfuny-chat-bot",
+          "description"   : "Symphony Chat Bot",
+          "gitHubURL"     : "https://github.com/symphonyoss/symfuny-chat-bot",
+          "heat"          : 25,
+          "watchers"      : 0,
+          "size"          : 1844,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "CSS" : 22720,
+            "HTML" : 18029,
+            "JavaScript" : 12028779
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 25,
+        "watchers"      : 0,
+        "size"          : 1844,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "CSS" : 22720,
+          "HTML" : 18029,
+          "JavaScript" : 12028779
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Twilio Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-09-04",
+      "tags"                 : [
+        "bot",
+        "voice"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-twilio",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-twilio",
+          "heat"          : 29,
+          "watchers"      : 0,
+          "size"          : 1884,
+          "collaborators" : 5,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "CSS" : 20843,
+            "HTML" : 17084,
+            "JavaScript" : 12079776
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 29,
+        "watchers"      : 0,
+        "size"          : 1884,
+        "collaborators" : 5,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "CSS" : 20843,
+          "HTML" : 17084,
+          "JavaScript" : 12079776
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Unfurl Bot",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2016-09-27",
+      "releaseDate"          : "2017-12-07",
+      "tags"                 : [
+        "bot",
+        "clojure",
+        "unfurl",
+        "usability"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-unfurl",
+          "description"   : "A small Symphony bot that attempts to unfurl URLs posted to any chat or room the bot is invited to.",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-unfurl",
+          "heat"          : 26,
+          "watchers"      : 0,
+          "size"          : 693,
+          "collaborators" : 3,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Shell" : 993,
+            "Clojure" : 41717
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 26,
+        "watchers"      : 0,
+        "size"          : 693,
+        "collaborators" : 3,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Shell" : 993,
+          "Clojure" : 41717
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "V for Symphony Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2016-11-07",
+      "tags"                 : [
+        "bot"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-v-for-symphony",
+          "description"   : " Help Desk BOT(s) are Java based applications that implement a call routing workflow  based framework leveraging the Symphony API.",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-v-for-symphony",
+          "heat"          : 20,
+          "watchers"      : 0,
+          "size"          : 132,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 699881,
+            "HTML" : 9435
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 20,
+        "watchers"      : 0,
+        "size"          : 132,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 699881,
+          "HTML" : 9435
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Vote Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-05-04",
+      "tags"                 : [
+        "bot",
+        "esco",
+        "java"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "vote-bot",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/vote-bot",
+          "heat"          : 35,
+          "watchers"      : 0,
+          "size"          : 141,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 268867,
+            "Shell" : 4210
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 35,
+        "watchers"      : 0,
+        "size"          : 141,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 268867,
+          "Shell" : 4210
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Woodhouse Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-09-04",
+      "archiveDate"          : "2016-11-07",
+      "tags"                 : [
+        "bot",
+        "go"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-woodhouse",
+          "description"   : "This is a sample Symphony bot written in Go.",
+          "gitHubURL"     : "https://github.com/symphonyoss/bot-woodhouse",
+          "heat"          : 24,
+          "watchers"      : 0,
+          "size"          : 13,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Go" : 20833
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 24,
+        "watchers"      : 0,
+        "size"          : 13,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Go" : 20833
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Canon",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-02-12",
+      "tags"                 : [
+        "java",
+        "library"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "canon",
+          "description"   : "JSON API Generation Tooling",
+          "gitHubURL"     : "https://github.com/symphonyoss/canon",
+          "heat"          : 20,
+          "watchers"      : 0,
+          "size"          : 465,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 434836,
+            "FreeMarker" : 141307,
+            "JavaScript" : 13681
+          }
+        },
+        {
+          "name"          : "canon-example",
+          "description"   : "An example service based on canon code generation",
+          "gitHubURL"     : "https://github.com/symphonyoss/canon-example",
+          "heat"          : 20,
+          "watchers"      : 0,
+          "size"          : 288,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 43100
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 40,
+        "watchers"      : 0,
+        "size"          : 753,
+        "collaborators" : 8,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 477936,
+          "FreeMarker" : 141307,
+          "JavaScript" : 13681
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Click to Dial",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-04-23",
+      "tags"                 : [
+        "extension api",
+        "voice"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-click2dial",
+          "description"   : "Dial a number using your corporate telephony service from Symphony chat",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-click2dial",
+          "heat"          : 24,
+          "watchers"      : 0,
+          "size"          : 6,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 24,
+        "watchers"      : 0,
+        "size"          : 6,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "REST API Specification",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-05-04",
+      "tags"                 : [
+        "rest api client"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-api-spec",
+          "description"   : "Swagger definitions for Symphony LLC public REST API ",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
+          "heat"          : 74,
+          "watchers"      : 0,
+          "size"          : 158,
+          "collaborators" : 5,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 74,
+        "watchers"      : 0,
+        "size"          : 158,
+        "collaborators" : 5,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Clojure REST API Client",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-08-11",
+      "tags"                 : [
+        "clojure",
+        "rest api client"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "clj-symphony",
+          "description"   : "An idiomatic Clojure wrapper for the symphony-java-client",
+          "gitHubURL"     : "https://github.com/symphonyoss/clj-symphony",
+          "heat"          : 34,
+          "watchers"      : 0,
+          "size"          : 210,
+          "collaborators" : 3,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Clojure" : 59643
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 34,
+        "watchers"      : 0,
+        "size"          : 210,
+        "collaborators" : 3,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Clojure" : 59643
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : ".NET REST API Client",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-05-17",
+      "tags"                 : [
+        ".net",
+        "c#",
+        "rest api client"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "RestApiClient",
+          "description"   : "Symphony .Net Agent API client",
+          "gitHubURL"     : "https://github.com/symphonyoss/RestApiClient",
+          "heat"          : 84,
+          "watchers"      : 0,
+          "size"          : 14480,
+          "collaborators" : 6,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "C#" : 1992342,
+            "Batchfile" : 7671
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 84,
+        "watchers"      : 0,
+        "size"          : 14480,
+        "collaborators" : 6,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "C#" : 1992342,
+          "Batchfile" : 7671
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Hubot REST API Client",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2016-07-05",
+      "releaseDate"          : "2016-11-29",
+      "tags"                 : [
+        "coffeescript",
+        "hubot",
+        "javascript",
+        "rest api client"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "hubot-symphony",
+          "description"   : "Hubot adapter for Symphony",
+          "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
+          "heat"          : 73,
+          "watchers"      : 0,
+          "size"          : 287,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "JavaScript" : 81960
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 73,
+        "watchers"      : 0,
+        "size"          : 287,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "JavaScript" : 81960
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Java REST API Client",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2016-06-06",
+      "releaseDate"          : "2017-03-10",
+      "tags"                 : [
+        "java",
+        "rest api client"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-java-client",
+          "description"   : "Java client library for Symphony",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-client",
+          "heat"          : 149,
+          "watchers"      : 0,
+          "size"          : 2440,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 695383,
+            "Shell" : 1987
+          }
+        },
+        {
+          "name"          : "symphony-java-api",
+          "description"   : "Java client language bindings for the Symphony REST API.  ",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-api",
+          "heat"          : 47,
+          "watchers"      : 0,
+          "size"          : 124,
+          "collaborators" : 5,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Shell" : 1938
+          }
+        },
+        {
+          "name"          : "symphony-java-sample-bots",
+          "description"   : "A set of simple Bots for Symphony, implemented in Java.",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-sample-bots",
+          "heat"          : 76,
+          "watchers"      : 0,
+          "size"          : 932,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 23570,
+            "Shell" : 457
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 272,
+        "watchers"      : 0,
+        "size"          : 3496,
+        "collaborators" : 16,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 718953,
+          "Shell" : 4382
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Node.js REST API Client",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-04-21",
+      "tags"                 : [
+        "javascript",
+        "node.js",
+        "rest api client"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-node-binding",
+          "description"   : "A node.js symphony api implementation",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-node-binding",
+          "heat"          : 60,
+          "watchers"      : 0,
+          "size"          : 16,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "JavaScript" : 12037
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 60,
+        "watchers"      : 0,
+        "size"          : 16,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "JavaScript" : 12037
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Python REST API Client",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-11-18",
+      "tags"                 : [
+        "python",
+        "rest api client"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "python-symphony",
+          "description"   : "An importable class that provides methods and objects for interacting with the Symphony Agent API from python",
+          "gitHubURL"     : "https://github.com/symphonyoss/python-symphony",
+          "heat"          : 39,
+          "watchers"      : 0,
+          "size"          : 185,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Shell" : 11,
+            "Makefile" : 2118,
+            "Python" : 80663
+          }
+        },
+        {
+          "name"          : "python-symphony-binding",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/python-symphony-binding",
+          "heat"          : 24,
+          "watchers"      : 0,
+          "size"          : 53,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Shell" : 11,
+            "Makefile" : 2118,
+            "Python" : 3366
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 63,
+        "watchers"      : 0,
+        "size"          : 238,
+        "collaborators" : 8,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Shell" : 22,
+          "Makefile" : 4236,
+          "Python" : 84029
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "ContainerJS",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-04-24",
+      "tags"                 : [
+        "desktop technology",
+        "javascript"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "ContainerJS",
+          "description"   : "ContainerJS provides an abstraction layer over multiple HTML5 containers (OpenFin, Electron, Browser), that follows the Symphony Desktop APIs",
+          "gitHubURL"     : "https://github.com/symphonyoss/ContainerJS",
+          "heat"          : 114,
+          "watchers"      : 0,
+          "size"          : 650,
+          "collaborators" : 10,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "TypeScript" : 95201,
+            "PowerShell" : 1679,
+            "Shell" : 729,
+            "CSS" : 261,
+            "JavaScript" : 118409,
+            "HTML" : 10831
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 114,
+        "watchers"      : 0,
+        "size"          : 650,
+        "collaborators" : 10,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "TypeScript" : 95201,
+          "PowerShell" : 1679,
+          "Shell" : 729,
+          "CSS" : 261,
+          "JavaScript" : 118409,
+          "HTML" : 10831
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Documentation and Examples",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-06-16",
+      "tags"                 : [
+        "documentation",
+        "example",
+        "sample"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "app-auth-example",
+          "description"   : "Example app demonstrating App Authentication flow",
+          "gitHubURL"     : "https://github.com/symphonyoss/app-auth-example",
+          "heat"          : 31,
+          "watchers"      : 0,
+          "size"          : 278,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 114904,
+            "HTML" : 3635,
+            "CSS" : 167,
+            "JavaScript" : 69313
+          }
+        },
+        {
+          "name"          : "embedding-api-examples",
+          "description"   : "Examples of Symphony Embedding API (requires native desktop wrapper)",
+          "gitHubURL"     : "https://github.com/symphonyoss/embedding-api-examples",
+          "heat"          : 28,
+          "watchers"      : 0,
+          "size"          : 12,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "HTML" : 2147,
+            "CSS" : 947,
+            "JavaScript" : 7406
+          }
+        },
+        {
+          "name"          : "extension-api-examples",
+          "description"   : "Examples on how to use the extension API",
+          "gitHubURL"     : "https://github.com/symphonyoss/extension-api-examples",
+          "heat"          : 88,
+          "watchers"      : 0,
+          "size"          : 1056,
+          "collaborators" : 5,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "HTML" : 6781,
+            "CSS" : 794,
+            "JavaScript" : 24174
+          }
+        },
+        {
+          "name"          : "symphony-by-example",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-by-example",
+          "heat"          : 29,
+          "watchers"      : 0,
+          "size"          : 145,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 176,
+        "watchers"      : 0,
+        "size"          : 1491,
+        "collaborators" : 17,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 114904,
+          "HTML" : 12563,
+          "CSS" : 1908,
+          "JavaScript" : 100893
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Extension API AngularJS Service",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-08-11",
+      "tags"                 : [
+        "extension api",
+        "javascript"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "extension-api-angular-service",
+          "description"   : "Implementation of an Angular 1.x module to simplify the use of the Symphony Extension API on Angular 1.x Single Page Applications (SPAs) to create Symphony apps",
+          "gitHubURL"     : "https://github.com/symphonyoss/extension-api-angular-service",
+          "heat"          : 20,
+          "watchers"      : 0,
+          "size"          : 6,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "JavaScript" : 5818
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 20,
+        "watchers"      : 0,
+        "size"          : 6,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "JavaScript" : 5818
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Fugue",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-02-08",
+      "tags"                 : [
+        "java",
+        "library"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "fugue",
+          "description"   : "Kubenetes Base Cloud Platform Abstraction",
+          "gitHubURL"     : "https://github.com/symphonyoss/fugue",
+          "heat"          : 25,
+          "watchers"      : 0,
+          "size"          : 812,
+          "collaborators" : 5,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 176445,
+            "Shell" : 21983
+          }
+        },
+        {
+          "name"          : "fugue-example",
+          "description"   : "Example Projects Using Fugue",
+          "gitHubURL"     : "https://github.com/symphonyoss/fugue-example",
+          "heat"          : 25,
+          "watchers"      : 0,
+          "size"          : 57,
+          "collaborators" : 5,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 22843
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 50,
+        "watchers"      : 0,
+        "size"          : 869,
+        "collaborators" : 10,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 199288,
+          "Shell" : 21983
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Glue RFQ Symphony Integration",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-12-20",
+      "tags"                 : [
+        "extension api",
+        "integration",
+        "javascript"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "glue-symphony-rfq",
+          "description"   : "Implementation of an RFQ Server that acts as a GLUE <--> Symphony bridge for messages around the Request for Quote (RFQ) process together with associated chat.",
+          "gitHubURL"     : "https://github.com/symphonyoss/glue-symphony-rfq",
+          "heat"          : 24,
+          "watchers"      : 0,
+          "size"          : 2023,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "C#" : 107314,
+            "CSS" : 651245,
+            "Batchfile" : 428,
+            "JavaScript" : 5911161,
+            "Vue" : 19347,
+            "HTML" : 1916
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 24,
+        "watchers"      : 0,
+        "size"          : 2023,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "C#" : 107314,
+          "CSS" : 651245,
+          "Batchfile" : 428,
+          "JavaScript" : 5911161,
+          "Vue" : 19347,
+          "HTML" : 1916
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "BitBucket Integration",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-10-31",
+      "tags"                 : [
+        "bitbucket",
+        "integration",
+        "java"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "app-integrations-bitbucket",
+          "description"   : "The BitBucket Symphony Integration allows to receive BitBucket notifications in a Symphony 1:1 or group chat.",
+          "gitHubURL"     : "https://github.com/symphonyoss/app-integrations-bitbucket",
+          "heat"          : 28,
+          "watchers"      : 0,
+          "size"          : 47,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 61134,
+            "HTML" : 2222,
+            "JavaScript" : 2780
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 28,
+        "watchers"      : 0,
+        "size"          : 47,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 61134,
+          "HTML" : 2222,
+          "JavaScript" : 2780
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Integration Bridge",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2016-12-21",
+      "releaseDate"          : "2017-06-12",
+      "tags"                 : [
+        "integration",
+        "java",
+        "library"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "App-Integrations-Commons",
+          "description"   : "Common components for Symphony App Integrations.",
+          "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Commons",
+          "heat"          : 91,
+          "watchers"      : 0,
+          "size"          : 20174,
+          "collaborators" : 13,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 733274
+          }
+        },
+        {
+          "name"          : "App-Integrations-Core",
+          "description"   : "Core components for Symphony App Integrations.",
+          "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Core",
+          "heat"          : 97,
+          "watchers"      : 0,
+          "size"          : 12105,
+          "collaborators" : 13,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 1133372,
+            "Shell" : 1870,
+            "JavaScript" : 820
+          }
+        },
+        {
+          "name"          : "App-Integrations-FE-Commons",
+          "description"   : "Common components for Front-End development of Symphony Integrations.",
+          "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-FE-Commons",
+          "heat"          : 64,
+          "watchers"      : 0,
+          "size"          : 22586,
+          "collaborators" : 12,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "CSS" : 13989,
+            "JavaScript" : 99880
+          }
+        },
+        {
+          "name"          : "Integrations-Docs",
+          "description"   : "Symphony Integrations documentation",
+          "gitHubURL"     : "https://github.com/symphonyoss/Integrations-Docs",
+          "heat"          : 39,
+          "watchers"      : 0,
+          "size"          : 634,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "HTML" : 651
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 291,
+        "watchers"      : 0,
+        "size"          : 55499,
+        "collaborators" : 45,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 1866646,
+          "Shell" : 1870,
+          "CSS" : 13989,
+          "HTML" : 651,
+          "JavaScript" : 100700
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "GitHub Integration",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2016-12-19",
+      "releaseDate"          : "2017-06-12",
+      "tags"                 : [
+        "github",
+        "integration",
+        "java"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "App-Integrations-Github",
+          "description"   : "GitHub Integration",
+          "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Github",
+          "heat"          : 84,
+          "watchers"      : 0,
+          "size"          : 1583,
+          "collaborators" : 14,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 122819,
+            "HTML" : 2240,
+            "Shell" : 1440,
+            "JavaScript" : 7928
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 84,
+        "watchers"      : 0,
+        "size"          : 1583,
+        "collaborators" : 14,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 122819,
+          "HTML" : 2240,
+          "Shell" : 1440,
+          "JavaScript" : 7928
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Google Calendar Integration",
+      "type"                 : "PROJECT",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2017-05-24",
+      "archiveDate"          : "2017-12-03",
+      "tags"                 : [
+        "calendar",
+        "google",
+        "integration",
+        "java"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "Apps-Integrations-GoogleCalendar",
+          "description"   : "Connector that uses your Google Calendar events to update your Symphony presence",
+          "gitHubURL"     : "https://github.com/symphonyoss/Apps-Integrations-GoogleCalendar",
+          "heat"          : 30,
+          "watchers"      : 0,
+          "size"          : 0,
+          "collaborators" : 6,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 30,
+        "watchers"      : 0,
+        "size"          : 0,
+        "collaborators" : 6,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Hubspot Integration",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-03-17",
+      "tags"                 : [
+        "hubspot",
+        "integration",
+        "java"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-hubspot",
+          "description"   : "Hubspot notifications into Symphony chats",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-hubspot",
+          "heat"          : 20,
+          "watchers"      : 0,
+          "size"          : 807,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 4935,
+            "CSS" : 16638,
+            "Shell" : 2571,
+            "HTML" : 964,
+            "JavaScript" : 79787
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 20,
+        "watchers"      : 0,
+        "size"          : 807,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 4935,
+          "CSS" : 16638,
+          "Shell" : 2571,
+          "HTML" : 964,
+          "JavaScript" : 79787
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "JIRA Integration",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2016-12-19",
+      "releaseDate"          : "2017-06-12",
+      "tags"                 : [
+        "integration",
+        "java",
+        "jira"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "App-Integrations-Jira",
+          "description"   : "Jira Integration",
+          "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Jira",
+          "heat"          : 105,
+          "watchers"      : 0,
+          "size"          : 1865,
+          "collaborators" : 15,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 258468,
+            "HTML" : 5932,
+            "Shell" : 1440,
+            "JavaScript" : 30527
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 105,
+        "watchers"      : 0,
+        "size"          : 1865,
+        "collaborators" : 15,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 258468,
+          "HTML" : 5932,
+          "Shell" : 1440,
+          "JavaScript" : 30527
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Salesforce Integration",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2016-12-19",
+      "releaseDate"          : "2017-06-12",
+      "tags"                 : [
+        "integration",
+        "java",
+        "salesforce"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "App-Integrations-Salesforce",
+          "description"   : "Salesforce Integration",
+          "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Salesforce",
+          "heat"          : 75,
+          "watchers"      : 0,
+          "size"          : 21845,
+          "collaborators" : 14,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 52072,
+            "HTML" : 2251,
+            "Shell" : 1440,
+            "JavaScript" : 6870
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 75,
+        "watchers"      : 0,
+        "size"          : 21845,
+        "collaborators" : 14,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 52072,
+          "HTML" : 2251,
+          "Shell" : 1440,
+          "JavaScript" : 6870
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Trello Integration",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2016-12-19",
+      "releaseDate"          : "2017-06-12",
+      "tags"                 : [
+        "integration",
+        "java",
+        "trello"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "App-Integrations-Trello",
+          "description"   : "Trello Integration",
+          "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Trello",
+          "heat"          : 75,
+          "watchers"      : 0,
+          "size"          : 1056,
+          "collaborators" : 14,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 199597,
+            "CSS" : 28368,
+            "HTML" : 1202,
+            "JavaScript" : 109569
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 75,
+        "watchers"      : 0,
+        "size"          : 1056,
+        "collaborators" : 14,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 199597,
+          "CSS" : 28368,
+          "HTML" : 1202,
+          "JavaScript" : 109569
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Universal Integration",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2016-12-19",
+      "releaseDate"          : "2017-06-12",
+      "tags"                 : [
+        "example",
+        "integration",
+        "java",
+        "sample",
+        "webhooks"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "App-Integrations-Universal",
+          "description"   : "Universal Webhook Integration",
+          "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Universal",
+          "heat"          : 87,
+          "watchers"      : 0,
+          "size"          : 979,
+          "collaborators" : 14,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 31688,
+            "HTML" : 2246,
+            "Shell" : 1440,
+            "JavaScript" : 6940
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 87,
+        "watchers"      : 0,
+        "size"          : 979,
+        "collaborators" : 14,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 31688,
+          "HTML" : 2246,
+          "Shell" : 1440,
+          "JavaScript" : 6940
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Zapier Integration",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2016-12-19",
+      "releaseDate"          : "2017-06-12",
+      "tags"                 : [
+        "integration",
+        "java",
+        "zapier"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "App-Integrations-Zapier",
+          "description"   : "Zapier Integration",
+          "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Zapier",
+          "heat"          : 80,
+          "watchers"      : 0,
+          "size"          : 1135,
+          "collaborators" : 14,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 37847,
+            "HTML" : 2386,
+            "Shell" : 1363,
+            "JavaScript" : 10218
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 80,
+        "watchers"      : 0,
+        "size"          : 1135,
+        "collaborators" : 14,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 37847,
+          "HTML" : 2386,
+          "Shell" : 1363,
+          "JavaScript" : 10218
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "JCurl",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-06-06",
+      "tags"                 : [
+        "java",
+        "utility"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "JCurl",
+          "description"   : "JSON-aware curl (1) in Java",
+          "gitHubURL"     : "https://github.com/symphonyoss/JCurl",
+          "heat"          : 78,
+          "watchers"      : 0,
+          "size"          : 66,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 60780
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 78,
+        "watchers"      : 0,
+        "size"          : 66,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 60780
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "MessageML Utilities",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-05-19",
+      "tags"                 : [
+        "java",
+        "library"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "messageml-utils",
+          "description"   : "MessageML parser",
+          "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
+          "heat"          : 82,
+          "watchers"      : 0,
+          "size"          : 405,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 596939
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 82,
+        "watchers"      : 0,
+        "size"          : 405,
+        "collaborators" : 7,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 596939
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Minuet",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-02-21",
+      "tags"                 : [
+        "desktop technology"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "SFE-Minuet-DesktopClient",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/SFE-Minuet-DesktopClient",
+          "heat"          : 75,
+          "watchers"      : 0,
+          "size"          : 473020,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "C#" : 4124024,
+            "PowerShell" : 1467,
+            "Java" : 32387,
+            "C++" : 1356227,
+            "C" : 857186,
+            "Batchfile" : 334,
+            "JavaScript" : 5751,
+            "Objective_C" : 7806,
+            "HTML" : 4990,
+            "Python" : 120486
+          }
+        },
+        {
+          "name"          : "SFE-DesktopClient-pgx",
+          "description"   : "project containing build for Symphony.pgx needed for desktop client (aka wrapper).",
+          "gitHubURL"     : "https://github.com/symphonyoss/SFE-DesktopClient-pgx",
+          "heat"          : 47,
+          "watchers"      : 0,
+          "size"          : 2254,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "C#" : 196010,
+            "PowerShell" : 3306,
+            "Batchfile" : 1625,
+            "JavaScript" : 30181
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 122,
+        "watchers"      : 0,
+        "size"          : 475274,
+        "collaborators" : 14,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "C#" : 4320034,
+          "PowerShell" : 4773,
+          "Java" : 32387,
+          "C++" : 1356227,
+          "C" : 857186,
+          "Batchfile" : 1959,
+          "JavaScript" : 35932,
+          "Objective_C" : 7806,
+          "HTML" : 4990,
+          "Python" : 120486
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "WebRTC",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-12-15",
+      "tags"                 : [
+        "desktop technology",
+        "voice",
+        "webrtc"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "perc-webrtc",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/perc-webrtc",
+          "heat"          : 21,
+          "watchers"      : 0,
+          "size"          : 49671,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 682916,
+            "Shell" : 81096,
+            "C++" : 24065702,
+            "C" : 3421995,
+            "Objective_C" : 155449,
+            "Objective_C++" : 429372,
+            "Ruby" : 846,
+            "Protocol Buffer" : 16878,
+            "Assembly" : 22469,
+            "Matlab" : 35925,
+            "Python" : 40621
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 21,
+        "watchers"      : 0,
+        "size"          : 49671,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 682916,
+          "Shell" : 81096,
+          "C++" : 24065702,
+          "C" : 3421995,
+          "Objective_C" : 155449,
+          "Objective_C++" : 429372,
+          "Ruby" : 846,
+          "Protocol Buffer" : 16878,
+          "Assembly" : 22469,
+          "Matlab" : 35925,
+          "Python" : 40621
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "REST API Tools",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-09-12",
+      "tags"                 : [
+        "java",
+        "utility"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-rest-tools",
+          "description"   : "Low level tools for use with the Symphony public REST API",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-rest-tools",
+          "heat"          : 37,
+          "watchers"      : 0,
+          "size"          : 4444,
+          "collaborators" : 5,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 343444,
+            "Shell" : 2461,
+            "Batchfile" : 7607
+          }
+        },
+        {
+          "name"          : "symphony-rest-tools-ui",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-rest-tools-ui",
+          "heat"          : 28,
+          "watchers"      : 0,
+          "size"          : 2879,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 102080,
+            "Shell" : 1056
+          }
+        },
+        {
+          "name"          : "symphony-rest-tools-examples",
+          "description"   : "symphony-rest-tools-examples",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-rest-tools-examples",
+          "heat"          : 24,
+          "watchers"      : 0,
+          "size"          : 4,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 2815
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 89,
+        "watchers"      : 0,
+        "size"          : 7327,
+        "collaborators" : 13,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 448339,
+          "Shell" : 3517,
+          "Batchfile" : 7607
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "S2 Common Components",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-09-20",
+      "tags"                 : [
+        "java",
+        "library"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "S2-common",
+          "description"   : "S2 Common Classes - for consumption by SBE and S2",
+          "gitHubURL"     : "https://github.com/symphonyoss/S2-common",
+          "heat"          : 34,
+          "watchers"      : 0,
+          "size"          : 289,
+          "collaborators" : 6,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 474682
+          }
+        },
+        {
+          "name"          : "S2-super-pom",
+          "description"   : "Super POM for central dependency management for Symphony LLC open source contributions",
+          "gitHubURL"     : "https://github.com/symphonyoss/S2-super-pom",
+          "heat"          : 25,
+          "watchers"      : 0,
+          "size"          : 43,
+          "collaborators" : 5,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 59,
+        "watchers"      : 0,
+        "size"          : 332,
+        "collaborators" : 11,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 474682
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Screen Snippet Library",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-04-20",
+      "tags"                 : [
+        "desktop technology"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "ScreenSnippet",
+          "description"   : "Screen snippet utility for Windows.",
+          "gitHubURL"     : "https://github.com/symphonyoss/ScreenSnippet",
+          "heat"          : 40,
+          "watchers"      : 0,
+          "size"          : 21,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "C#" : 17695
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 40,
+        "watchers"      : 0,
+        "size"          : 21,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "C#" : 17695
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Symphony Electron",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2016-11-28",
+      "tags"                 : [
+        "desktop technology"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "SymphonyElectron",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
+          "heat"          : 151,
+          "watchers"      : 0,
+          "size"          : 32954,
+          "collaborators" : 8,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Shell" : 5675,
+            "CSS" : 3308,
+            "Batchfile" : 552,
+            "JavaScript" : 413690,
+            "HTML" : 13651,
+            "Objective_C" : 6048
+          }
+        },
+        {
+          "name"          : "electron-utils",
+          "description"   : "Utils for SymphonyElectron",
+          "gitHubURL"     : "https://github.com/symphonyoss/electron-utils",
+          "heat"          : 22,
+          "watchers"      : 0,
+          "size"          : 20,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "C#" : 7673
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 173,
+        "watchers"      : 0,
+        "size"          : 32974,
+        "collaborators" : 12,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "C#" : 7673,
+          "Shell" : 5675,
+          "CSS" : 3308,
+          "Batchfile" : 552,
+          "JavaScript" : 413690,
+          "HTML" : 13651,
+          "Objective_C" : 6048
+        }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "API WG",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-12-09",
+      "archiveDate"          : "2018-04-20",
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "wg-api@symphony.foundation",
+          "webArchiveUrl" : "https://groups.google.com/a/symphony.foundation/forum/#!forum/wg-api"
+        }
+      ]
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Desktop Wrapper WG",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "PAUSED",
+      "contributionDate"     : "2016-02-08",
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "wg-desktop-wrapper@symphony.foundation",
+          "webArchiveUrl" : "https://groups.google.com/a/symphony.foundation/forum/#!forum/wg-desktop-wrapper"
+        }
+      ]
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Financial Object Standardization WG",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2016-02-08",
+      "gitHubRepos"          : [
+        {
+          "name"          : "symphony-object",
+          "description"   : " Structured Object Schemas",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphony-object",
+          "heat"          : 20,
+          "watchers"      : 0,
+          "size"          : 22,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 20,
+        "watchers"      : 0,
+        "size"          : 22,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      },
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "wg-financial-objects@symphony.foundation",
+          "webArchiveUrl" : "https://groups.google.com/a/symphony.foundation/forum/#!forum/wg-financial-objects"
+        }
+      ]
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Hashtag Standardization WG",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2018-02-28"
+    },
+    {
+      "programName"          : "Voice, Voice Metadata, and Voice API",
+      "programShortName"     : "Voice",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/VOICE/overview",
+      "activityName"         : "Call Metadata Standardization",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2018-02-28"
+    }
+  ],
+  "allTags" : [
+    ".net",
+    "administration",
+    "authentication",
+    "bitbucket",
+    "bot",
+    "c#",
+    "calendar",
+    "clojure",
+    "coffeescript",
+    "desktop technology",
+    "documentation",
+    "esco",
+    "example",
+    "extension api",
+    "github",
+    "go",
+    "google",
+    "hubot",
+    "hubspot",
+    "integration",
+    "java",
+    "javascript",
+    "jira",
+    "library",
+    "nlp/ml",
+    "node.js",
+    "python",
+    "rest api client",
+    "salesforce",
+    "sample",
+    "symphony",
+    "trello",
+    "unfurl",
+    "usability",
+    "utility",
+    "voice",
+    "webhooks",
+    "webrtc",
+    "zapier"
+  ]
+}
+
