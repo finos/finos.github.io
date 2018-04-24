@@ -3,9 +3,9 @@
 @font-face {
     font-family: "Montserrat Light";
     font-style: normal;
-    font-weight: 300;
-    src: url("//cdn2.hubspot.net/hubfs/2419532/sofin%20assets/Montserrat-Light.eot") format("embedded-opentype"), 
-    url("//cdn2.hubspot.net/hubfs/2419532/sofin%20assets/Montserrat-Light.woff") format("woff"), 
+    font-weight: 400;
+    src: url("//cdn2.hubspot.net/hubfs/2419532/sofin%20assets/Montserrat-Light.eot") format("embedded-opentype"),
+    url("//cdn2.hubspot.net/hubfs/2419532/sofin%20assets/Montserrat-Light.woff") format("woff"),
     url("//cdn2.hubspot.net/hubfs/2419532/sofin%20assets/Montserrat-Light.ttf") format("truetype");
 }
 
@@ -13,8 +13,8 @@
     font-family: "Montserrat Bold";
     font-style: normal;
     font-weight: 800;
-    src: url("//cdn2.hubspot.net/hubfs/2419532/sofin%20assets/Montserrat%20Bold/Montserrat-Bold.eot") format("embedded-opentype"), 
-    url("//cdn2.hubspot.net/hubfs/2419532/sofin%20assets/Montserrat%20Bold/Montserrat-Bold.woff") format("woff"), 
+    src: url("//cdn2.hubspot.net/hubfs/2419532/sofin%20assets/Montserrat%20Bold/Montserrat-Bold.eot") format("embedded-opentype"),
+    url("//cdn2.hubspot.net/hubfs/2419532/sofin%20assets/Montserrat%20Bold/Montserrat-Bold.woff") format("woff"),
     url("//cdn2.hubspot.net/hubfs/2419532/sofin%20assets/Montserrat%20Bold/Montserrat-Bold.ttf") format("truetype");
 }
 
@@ -22,8 +22,8 @@
     font-family: "Montserrat Italic";
     font-style: normal;
     font-weight: 400;
-    src: url("//cdn2.hubspot.net/hubfs/2419532/sofin%20assets/Montserrat%20Italic/Montserrat-Italic.eot") format("embedded-opentype"), 
-    url("//cdn2.hubspot.net/hubfs/2419532/sofin%20assets/Montserrat%20Italic/Montserrat-Italic.woff") format("woff"), 
+    src: url("//cdn2.hubspot.net/hubfs/2419532/sofin%20assets/Montserrat%20Italic/Montserrat-Italic.eot") format("embedded-opentype"),
+    url("//cdn2.hubspot.net/hubfs/2419532/sofin%20assets/Montserrat%20Italic/Montserrat-Italic.woff") format("woff"),
     url("//cdn2.hubspot.net/hubfs/2419532/sofin%20assets/Montserrat%20Italic/Montserrat-Italic.ttf") format("truetype");
 }
 
@@ -104,7 +104,7 @@ img#logo {
 }
 
 h3 {
-    color: #0086bf;
+    color: #484848;
     font-size: 24px;
     text-align: left;
     margin-top: 5px;
@@ -112,7 +112,7 @@ h3 {
 }
 
 h4 {
-    color: #0086bf;
+    color: #484848;
     font-size: 16px;
     text-align: center;
     font-family: "Montserrat Bold";
