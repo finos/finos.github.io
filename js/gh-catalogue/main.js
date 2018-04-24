@@ -1,4 +1,4 @@
-var NR_COLUMNS = 3
+var NR_COLUMNS = 3;
 var relPath = url('path').replace('index.html','');
 
 /* For future use:
@@ -77,14 +77,16 @@ function renderCatalogue(firstRun) {
     sortActivities(filteredActivities);
 
     // Invoke html-render.js - render out activities
-    var $row = $("<div>").attr("class","row");
+    var $row = $("<div>").attr("class", "row");
     $.each(filteredActivities, function (activityIdx, activity) {
       activityHTML(activity,NR_COLUMNS).appendTo($row);
-      var mod = (activityIdx+1) % NR_COLUMNS;
-      if (mod == 0) {
-        $row = $("<div>").attr("class","row");
+
+      if ((activityIdx+1) % NR_COLUMNS == 0)
+      {
         $row.appendTo("#activities");
+        $row = $("<div>").attr("class", "row");
       }
     });
+    $row.appendTo("#activities");
   });
 }

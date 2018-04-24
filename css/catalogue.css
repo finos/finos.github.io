@@ -152,7 +152,7 @@ article::-webkit-scrollbar-track {
       background-color: #F5F5F5;
 }
 
-/* Used for card badges */
+/* Used for status badges */
 article > img {
     display: block;
     margin-left: auto;
@@ -174,7 +174,6 @@ article > img {
 }
 
 .activity-state-badge {
-  max-width:90px;
   display:inline-block;
 }
 
