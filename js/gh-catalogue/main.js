@@ -1,4 +1,4 @@
-var NR_COLUMNS = 4
+var NR_COLUMNS = 3
 var relPath = url('path').replace('index.html','');
 
 /* For future use:
@@ -80,11 +80,7 @@ function renderCatalogue(firstRun) {
     var $row = $("<div>").attr("class","row");
     $.each(filteredActivities, function (activityIdx, activity) {
       activityHTML(activity,NR_COLUMNS).appendTo($row);
-      console.log(NR_COLUMNS);
-      console.log(activityIdx+1);
       var mod = (activityIdx+1) % NR_COLUMNS;
-      console.log(mod);
-      console.log("------------");
       if (mod == 0) {
         $row = $("<div>").attr("class","row");
         $row.appendTo("#activities");
