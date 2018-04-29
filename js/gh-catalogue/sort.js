@@ -12,21 +12,17 @@ function sortActivities(activities) {
 
   if (sort_by == "hotness") {
     activities.sort(function (a, b) {
-      if (!a || !b || !a.cumulativeGitHubStats || !b.cumulativeGitHubStats) {
-        return 0;
-      } else if (!a || !a.cumulativeGitHubStats) {
-        return -1;
+      var ret = 0;
+      if (!a.cumulativeGitHubStats && !b.cumulativeGitHubStats) {
+        ret = 0;
       } else if (!b || !b.cumulativeGitHubStats) {
-        return 1;
+        ret = -1;
+      } else if (!a || !a.cumulativeGitHubStats) {
+        ret = 1;
       } else {
-        var ret = -1;
-        if (
-          a.cumulativeGitHubStats.hotness < 
-          b.cumulativeGitHubStats.hotness) {
-          ret = 1;
-        }
-        return ret*direction;
+        ret = (a.cumulativeGitHubStats.heat - b.cumulativeGitHubStats.heat)*direction;
       }
+      return ret;
     });
   } else if (sort_by == "name") {
     activities.sort(function (a, b) {
