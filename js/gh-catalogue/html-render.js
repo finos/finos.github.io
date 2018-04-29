@@ -12,7 +12,7 @@ function activityHTML(activity) {
   var metricsLink = `https://metrics.symphony.foundation/app/kibana?#/dashboard/C_ESCo_projects?_g=(refreshInterval:(display:Off,pause:!f,value:0),time:(from:now-2y,mode:quick,to:now))&_a=(filters:!(),query:(query_string:(analyze_wildcard:!t,query:'project:%22${activity['activityName']}%22')))`;
 
   $article.append($("<h4>").append(activity['activityName']));
-  $article.append($("<h5>").append(`${activity['programShortName']} Program`));
+  $article.append($("<h5>").append($("<a>").attr("href",activity['programHomePage']).attr("target","_blank").append(`${activity['programShortName']} Program`)));
   $article.append($("<h5 class='metrics-link'>").append($("<a>").attr('href',metricsLink).attr('target','_blank').append('Activity Metrics')));
   $article.append($("<img>").attr("class","activity-state-badge").attr("src",`https://cdn.rawgit.com/finos/contrib-toolbox/master/images/badge-${activity['state'].toLowerCase()}.svg`));
 
