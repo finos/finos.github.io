@@ -16,9 +16,9 @@ function sortActivities(activities) {
       if (!a.cumulativeGitHubStats && !b.cumulativeGitHubStats) {
         ret = 0;
       } else if (!b || !b.cumulativeGitHubStats) {
-        ret = -1;
+        ret = direction;
       } else if (!a || !a.cumulativeGitHubStats) {
-        ret = 1;
+        ret = -1*direction;
       } else {
         ret = (a.cumulativeGitHubStats.heat - b.cumulativeGitHubStats.heat)*direction;
       }
