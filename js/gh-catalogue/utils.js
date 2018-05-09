@@ -3,14 +3,16 @@
 // ==================
 
 function toLabel(value,filterName) {
-  if (filterName === 'sort') {
+  if (value == 'C++') {
+    return "c-plus-plus";
+  } else if (filterName === 'sort') {
     return config['sort']['valueLabels'][value];
   } else if (filterName && filterName == value) {
     return config['filters'][filterName]['label'];
   } else if (filterName && config['filters'][filterName]['valueLabels']) {
     return config['filters'][filterName]['valueLabels'][value];
   } else {
-    return value.replace('#','-sharp').replace('+','-plus').trim();
+    return value.replace('#','-sharp').trim();
   }
 }
 
