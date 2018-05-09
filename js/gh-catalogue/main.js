@@ -5,17 +5,19 @@ var relPath = url('path').replace('index.html','');
 function getParamHash() {
   var paramHash = {}
   var queryString = window.location.href.split('/#/?')[1];
-  queryString.split('&').forEach(function (filterItem) {
-    var filterName = filterItem.split('=')[0];
-    var filterValue = filterItem.split('=')[1];
-    var values = paramHash[filterName];
-    if (!values) {
-      values = [filterValue];
-    } else if (!values.includes(filterValue)) {
-      values.push(filterValue);
-    }
-    paramHash[filterName] = values;
-  });
+  if (queryString) {
+    queryString.split('&').forEach(function (filterItem) {
+      var filterName = filterItem.split('=')[0];
+      var filterValue = filterItem.split('=')[1];
+      var values = paramHash[filterName];
+      if (!values) {
+        values = [filterValue];
+      } else if (!values.includes(filterValue)) {
+        values.push(filterValue);
+      }
+      paramHash[filterName] = values;
+    });
+  }
   return paramHash;
 }
 
