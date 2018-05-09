@@ -35,16 +35,16 @@ function toValue(label, filterName) {
 }
 
 function getParamQuery() {
-  var paramQuery = "#";
+  var paramQuery = "#/?";
   for (filterName in config['filters']) {
     $(`li#${filterName} > span > div > ul > li.active`).each(function(i) {
       var filterValue = toValue($(this).text(),filterName);
-      paramQuery += `${filterName}|${filterValue}&`;
+      paramQuery += `${filterName}=${filterValue}&`;
     });
   }
   $(`li#sort > span > div > ul > li.active`).each(function(i) {
     var filterValue = toValue($(this).text(),'sort');
-    paramQuery += `sort|${filterValue}`;
+    paramQuery += `sort=${filterValue}`;
   });
   return paramQuery;
 }
