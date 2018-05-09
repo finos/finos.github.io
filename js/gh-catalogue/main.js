@@ -1,50 +1,22 @@
-var NR_COLUMNS = 3;
+var NR_COLUMNS = 6;
 var relPath = url('path').replace('index.html','');
-
-/* For future use:
-function parseQueryString(url) {
-  // remove any preceding url and split
-  var querystring = url.substring(url.indexOf('?')+1).split('&');
-  var result = {};
-
-  // march and parse
-  for (var i = querystring.length - 1; i >= 0; i--) {
-    var pair = querystring[i].split('=');
-    var key = pair[0];
-    var val = pair.slice(1).join('=');
-
-    if (result.hasOwnProperty(key)) {
-      if (Array.isArray(result[key])) {
-          result[key].unshift(val);
-      } else {
-          result[key] = [result[key]];
-          result[key].unshift(val);
-      }
-    } else {
-      result[key] = val;
-    }
-  }
-
-  return result;
-}
-*/
 
 // Loads initial URL state from lib, then returns the saved state
 function getParamHash() {
   var paramHash = {}
-  for (var key in url("#")) {
-    var keySplit = key.split('|');
-    var key = keySplit[0];
-    var val = keySplit[1];
-    // console.log(`parsing param ${key}, found key ${key} and decoded val is ${val}`);
-
-    var values = paramHash[key];
-    if (!values) {
-      values = [val];
-    } else if (!values.includes(val)) {
-      values.push(val);
-    }
-    paramHash[key] = values;
+  var queryString = window.location.href.split('/#/?')[1];
+  if (queryString) {
+    queryString.split('&').forEach(function (filterItem) {
+      var filterName = filterItem.split('=')[0];
+      var filterValue = filterItem.split('=')[1];
+      var values = paramHash[filterName];
+      if (!values) {
+        values = [filterValue];
+      } else if (!values.includes(filterValue)) {
+        values.push(filterValue);
+      }
+      paramHash[filterName] = values;
+    });
   }
   return paramHash;
 }
@@ -60,9 +32,6 @@ function renderScreen() {
 }
 
 function renderCatalogue(firstRun) {
-  // console.log("URL hash: "+url("#"));
-  // console.log("paramHash: ");
-  // console.log(getParamHash());
   $.get("activities.json", function (activities) {
     if (firstRun) {
       // Invoke html-render.js
@@ -80,12 +49,6 @@ function renderCatalogue(firstRun) {
     var $row = $("<div>").attr("class", "row");
     $.each(filteredActivities, function (activityIdx, activity) {
       activityHTML(activity,NR_COLUMNS).appendTo($row);
-
-      if ((activityIdx+1) % NR_COLUMNS == 0)
-      {
-        $row.appendTo("#activities");
-        $row = $("<div>").attr("class", "row");
-      }
     });
     $row.appendTo("#activities");
   });

@@ -36,6 +36,10 @@ body {
     width: 100%;
     float:left;
 }
+.nav-logo {
+    padding-right: 15px;
+    margin: 5px;
+}
 
 /* The activities <section>, container of <article> elements */
 #activities {
@@ -67,7 +71,7 @@ body {
 
 img#logo {
       width:100px;
-      margin-top:10px;
+      margin-top:5px;
       margin-right:10px;
 }
 
@@ -132,7 +136,7 @@ h5 {
       float: left;
       text-align:center;
       margin: 20px;
-      height:260px;
+      height:280px;
       width: 240px;
       overflow:auto;
       /*position: absolute;*/
