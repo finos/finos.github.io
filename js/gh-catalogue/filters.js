@@ -13,7 +13,7 @@ function filterActivities(activities) {
 
   var url = new URL(window.location.href);
   var embed = url.searchParams.get("embed");
-  var newHref = '/';
+  var newHref = window.location.pathname;
   if (embed) {
     newHref += '?embed=true';
   }
