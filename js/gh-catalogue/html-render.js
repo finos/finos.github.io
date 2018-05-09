@@ -7,7 +7,7 @@ function activityHTML(activity) {
   // console.log(`Rendering ${activity['name']}`);
   var state_class = `${activity['state'].toLowerCase()}-activity-state`;
   var type_class = `${activity['type'].toLowerCase()}-activity-type`;
-  var $article = $("<div>").attr("class", "activity col-sm "+type_class+" "+state_class);
+  var $article = $("<div>").attr("class", "activity col-xs-6 col-md-4 col-lg-2 "+type_class+" "+state_class);
   // var $article = $("<div>").attr("class", "col-sm");
   var metricsLink = `https://metrics.finos.org/app/kibana?#/dashboard/C_ESCo_projects?_g=(refreshInterval:(display:Off,pause:!f,value:0),time:(from:now-2y,mode:quick,to:now))&_a=(filters:!(),query:(query_string:(analyze_wildcard:!t,query:'project:%22${activity['activityName']}%22')))`;
 

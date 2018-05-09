@@ -1,4 +1,4 @@
-var NR_COLUMNS = 3;
+var NR_COLUMNS = 6;
 var relPath = url('path').replace('index.html','');
 
 /* For future use:
@@ -36,8 +36,6 @@ function getParamHash() {
     var keySplit = key.split('|');
     var key = keySplit[0];
     var val = keySplit[1];
-    // console.log(`parsing param ${key}, found key ${key} and decoded val is ${val}`);
-
     var values = paramHash[key];
     if (!values) {
       values = [val];
@@ -60,9 +58,6 @@ function renderScreen() {
 }
 
 function renderCatalogue(firstRun) {
-  // console.log("URL hash: "+url("#"));
-  // console.log("paramHash: ");
-  // console.log(getParamHash());
   $.get("activities.json", function (activities) {
     if (firstRun) {
       // Invoke html-render.js
@@ -80,12 +75,6 @@ function renderCatalogue(firstRun) {
     var $row = $("<div>").attr("class", "row");
     $.each(filteredActivities, function (activityIdx, activity) {
       activityHTML(activity,NR_COLUMNS).appendTo($row);
-
-      if ((activityIdx+1) % NR_COLUMNS == 0)
-      {
-        $row.appendTo("#activities");
-        $row = $("<div>").attr("class", "row");
-      }
     });
     $row.appendTo("#activities");
   });
