@@ -4,7 +4,7 @@
 
 function toLabel(value,filterName) {
   if (value == 'C++') {
-    return "c-plus-plus";
+    return "cplusplus";
   } else if (filterName === 'sort') {
     return config['sort']['valueLabels'][value];
   } else if (filterName && filterName == value) {
