@@ -12,7 +12,7 @@ function activityHTML(activity) {
   var metricsLink = `https://metrics.finos.org/app/kibana?#/dashboard/C_ESCo_projects?_g=(refreshInterval:(display:Off,pause:!f,value:0),time:(from:now-2y,mode:quick,to:now))&_a=(filters:!(),query:(query_string:(analyze_wildcard:!t,query:'project:%22${activity['activityName']}%22')))`;
 
   $article.append($("<h4>").append(activity['activityName']));
-  $article.append($("<h5>").append($("<a>").attr("href",activity['programHomePage']).attr("target","_blank").append(`${activity['programShortName']} Program`)));
+  $article.append($("<h5>").append($("<a>").attr("href",activity['programHomePage']).attr("target","_blank").append(`${activity['programName']} Program`)));
   $article.append($("<h5 class='metrics-link'>").append($("<a>").attr('href',metricsLink).attr('target','_blank').append('Activity Metrics')));
   $article.append($("<img>").attr("class","activity-state-badge").attr("src",`https://cdn.rawgit.com/finos/contrib-toolbox/master/images/badge-${activity['state'].toLowerCase()}.svg`));
 
@@ -76,7 +76,7 @@ function filtersHTML(activities) {
         repoValue = activity['cumulativeGitHubStats'][filterName]
       }
       if (repoValue) {
-        addedFilters = addedFilters.concat(filterItemsHTML(filterName,repoValue,addedFilters));
+        addedFilters = addedFilters.concat(filterItemsHTML(filterName,repoValue,addedFilters, activity));
       }
     });
     // Using Bootstrap multi-select, see index.html for import
@@ -104,8 +104,8 @@ function filtersHTML(activities) {
   });
 }
 
-function filterHTML(id) {
-  var $name = $("<span>").text(toLabel(id,id)).attr("class","filter-label");
+function filterHTML(id, activity) {
+  var $name = $("<span>").text(toLabel(id,id, activity)).attr("class","filter-label");
   var $li = $("<li>").attr("class","drowdown").attr("id",id);
   var $select = $("<select>")
   .attr("style","visibility:hidden")
@@ -117,12 +117,12 @@ function filterHTML(id) {
   return $li;
 }
 
-function filterItemsHTML(filterName, filterValue, addedFilters) {
+function filterItemsHTML(filterName, filterValue, addedFilters, activity) {
+  // console.log(`adding ${filterName}=${filterValue}`);
   var keys = [];
   if (filterName === "languages") {
     for (var lang in filterValue) {
-      console.log(`Rendering ${lang} with label ${toLabel(lang,'languages')}; already in? ${!keys.includes(label)} - keys: ${keys}`);
-      var label = toLabel(lang,'languages');
+      var label = toLabel(lang,'languages',activity);
       if (!addedFilters.includes(label)) {
         keys.push(label);
       }
@@ -133,14 +133,14 @@ function filterItemsHTML(filterName, filterValue, addedFilters) {
 
   var $select = $("select#"+filterName);
   if (!$select.length) {
-    $select = filterHTML(filterName);
+    $select = filterHTML(filterName, activity);
     $select.appendTo("ul.activities-filter-container");
   }
 
   keys.forEach (function (key) {
     var $option = $("option#"+key);
     if (!$option.length) {
-      var label = toLabel(key, filterName);
+      var label = toLabel(key, filterName, activity);
       filterItemHTML(key,label).appendTo("select#"+filterName);
     }
   });
@@ -167,7 +167,7 @@ function sortsHTML(activities) {
       if (options.length === 0) {
         return 'Sort';
       } else {
-        return `${toLabel($(options).val(),'sort')} `;
+        return `${toLabel($(options).val(),'sort'), null} `;
       }
     }
   }).appendTo("ul.sorts-container");

@@ -2,7 +2,7 @@
 // Main functions
 // ==================
 
-function toLabel(value,filterName) {
+function toLabel(value,filterName, activity) {
   if (value == 'Objective_C') {
     return 'Objective C';
   } else if (value == 'Objective_C++') {
@@ -15,6 +15,9 @@ function toLabel(value,filterName) {
     return config['filters'][filterName]['label'];
   } else if (filterName && config['filters'][filterName]['valueLabels']) {
     return config['filters'][filterName]['valueLabels'][value];
+  } else if (config['filters'][filterName]['labelField']) {
+    var labelField = config['filters'][filterName]['labelField'];
+    return activity[labelField];
   } else {
     return value;
   }

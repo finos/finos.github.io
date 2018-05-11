@@ -2,22 +2,13 @@ var config = {
   "filters" : {
     "programShortName" : {
       "label" : "Program",
-      "valueLabels" : {
-        "FDC3": "FDC3",
-        "FDX": "FinServ Developer Experience",
-        "FO": "Financial Objects",
-        "Hadouken":"Hadouken",
-        "OSR": "Open Source Readiness",
-        "Symphony":"Symphony",
-        "Voice":"Voice",
-        "Plexus":"Plexus Interop"
-      }
+      "labelField" : "programName"
     },
     "type" : {
       "label" : "Type",
       "valueLabels" : {
-        "WORKING_GROUP":"Working Group",
-        "PROJECT": "Project"
+        "PROJECT": "Project",
+        "WORKING_GROUP":"Working Group"
       }
     },
     "state" : {

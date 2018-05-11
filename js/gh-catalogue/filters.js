@@ -39,9 +39,15 @@ function filterActivity(activity) {
     var filterRet = $(`li#${filterName} > span > div > ul > li.active`).length == 0;
     $(`li#${filterName} > span > div > ul > li.active`).each(function(i) {
       var filterValue = toValue($(this).text(),filterName);
+
+      if (filterName == 'programShortName') {
+        var programShortName = $(`a > label > input`,this).attr('value');
+        filterValue = toValue(programShortName,filterName);
+      }
+
       if (jQuery.type(repoValue) === "string" && toValue(repoValue,filterName) == filterValue) {
         itemRet = true;
-        // console.log(`1. It's a match for ${filterName}=${filterValue}`);
+        console.log(`1. It's a match for ${filterName}=${filterValue}`);
       } else {
           // This is a multi-value filter, like the languages field
           for (key in repoValue) {
