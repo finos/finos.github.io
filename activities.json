@@ -631,11 +631,11 @@
           "name"          : "plexus-interop",
           "description"   : "Plexus Interop open source project hosted by the Fintech Open Source Foundation",
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
-          "heat"          : 697,
-          "watchers"      : 232,
+          "heat"          : 699,
+          "watchers"      : 233,
           "size"          : 5113,
           "collaborators" : 7,
-          "stars"         : 232,
+          "stars"         : 233,
           "forks"         : 41,
           "openIssues"    : 0,
           "languages"     : {
@@ -652,11 +652,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 697,
-        "watchers"      : 232,
+        "heat"          : 699,
+        "watchers"      : 233,
         "size"          : 5113,
         "collaborators" : 7,
-        "stars"         : 232,
+        "stars"         : 233,
         "forks"         : 41,
         "openIssues"    : 0,
         "languages"     : {
@@ -2382,11 +2382,11 @@
           "name"          : "extension-api-examples",
           "description"   : "Examples on how to use the extension API",
           "gitHubURL"     : "https://github.com/symphonyoss/extension-api-examples",
-          "heat"          : 117,
-          "watchers"      : 11,
+          "heat"          : 115,
+          "watchers"      : 10,
           "size"          : 1056,
           "collaborators" : 5,
-          "stars"         : 11,
+          "stars"         : 10,
           "forks"         : 15,
           "openIssues"    : 8,
           "languages"     : {
@@ -2409,11 +2409,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 206,
-        "watchers"      : 19,
+        "heat"          : 204,
+        "watchers"      : 18,
         "size"          : 1491,
         "collaborators" : 17,
-        "stars"         : 19,
+        "stars"         : 18,
         "forks"         : 20,
         "openIssues"    : 9,
         "languages"     : {
