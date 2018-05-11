@@ -4,26 +4,30 @@ var config = {
       "label" : "Program",
       "valueLabels" : {
         "FDC3": "FDC3",
+        "FDX": "FinServ Developer Experience",
+        "FO": "Financial Objects",
         "Hadouken":"Hadouken",
+        "OSR": "Open Source Readiness",
         "Symphony":"Symphony",
-        "Voice":"Voice"
+        "Voice":"Voice",
+        "Plexus":"Plexus Interop"
       }
     },
     "type" : {
       "label" : "Type",
       "valueLabels" : {
-        "PROJECT": "Project",
-        "WORKING_GROUP":"Working Group"
+        "WORKING_GROUP":"Working Group",
+        "PROJECT": "Project"
       }
     },
     "state" : {
       "label" : "State",
       "valueLabels" : {
-        "INCUBATING": "Incubating",
-        "RELEASED": "Released",
         "ARCHIVED": "Archived",
+        "INCUBATING": "Incubating",
         "OPERATING": "Operating",
-        "PAUSED": "Paused"
+        "PAUSED": "Paused",
+        "RELEASED": "Released"
       }
     },
     "languages" : {
