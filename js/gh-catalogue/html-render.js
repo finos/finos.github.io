@@ -32,7 +32,7 @@ function activityHTML(activity) {
   if (stats && stats['languages']) {
     for (lang in stats['languages']) {
       count++;
-      langHTML(toLangImage(lang)).appendTo($langs);
+      langHTML(lang,toLangKey(lang)).appendTo($langs);
       if (count == 6) break;
     };
     $langs.appendTo($article);
@@ -58,9 +58,9 @@ function badgeHTML(type,value) {
   return $container;
 }
 
-function langHTML(value) {
+function langHTML(name,value) {
   var url = `assets/langs/${value.toLowerCase()}.png`;
-  return $("<img>").attr("class",'lang-icons').attr("src",url).attr("title", value);
+  return $("<img>").attr("class",'lang-icons').attr("src",url).attr("title", name).attr("alt", name);
 }
 
 // ==================
@@ -122,7 +122,7 @@ function filterItemsHTML(filterName, filterValue, addedFilters, activity) {
   var keys = [];
   if (filterName === "languages") {
     for (var lang in filterValue) {
-      var label = toLabel(lang,'languages',activity);
+      var label = toLangKey(lang);
       if (!addedFilters.includes(label)) {
         keys.push(label);
       }

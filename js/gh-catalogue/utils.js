@@ -7,8 +7,8 @@ function toLabel(value,filterName, activity) {
     return 'Objective C';
   } else if (value == 'Objective_C++') {
     return 'Objective C++';
-  } else if (value == 'C#') {
-    return 'C Sharp';
+  } else if (value == 'c-sharp') {
+    return 'C#';
   } else if (filterName === 'sort') {
     return config['sort']['valueLabels'][value];
   } else if (filterName && filterName == value) {
@@ -23,7 +23,7 @@ function toLabel(value,filterName, activity) {
   }
 }
 
-function toLangImage(value) {
+function toLangKey(value) {
   if (value == 'C++') {
     return "cplusplus";
   } else if (value == 'C#') {
