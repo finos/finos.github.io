@@ -3,14 +3,26 @@
 // ==================
 
 function toLabel(value,filterName) {
-  if (value == 'C++') {
-    return "cplusplus";
+  if (value == 'Objective_C') {
+    return 'Objective C';
+  } else if (value == 'Objective_C++') {
+    return 'Objective C++';
+  } else if (value == 'C#') {
+    return 'C Sharp';
   } else if (filterName === 'sort') {
     return config['sort']['valueLabels'][value];
   } else if (filterName && filterName == value) {
     return config['filters'][filterName]['label'];
   } else if (filterName && config['filters'][filterName]['valueLabels']) {
     return config['filters'][filterName]['valueLabels'][value];
+  } else {
+    return value;
+  }
+}
+
+function toLangImage(value) {
+  if (value == 'C++') {
+    return "cplusplus";
   } else {
     return value.replace('#','-sharp').trim();
   }

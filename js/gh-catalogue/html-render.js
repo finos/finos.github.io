@@ -32,7 +32,7 @@ function activityHTML(activity) {
   if (stats && stats['languages']) {
     for (lang in stats['languages']) {
       count++;
-      langHTML(toLabel(lang,'languages')).appendTo($langs);
+      langHTML(toLangImage(lang)).appendTo($langs);
       if (count == 6) break;
     };
     $langs.appendTo($article);
@@ -68,6 +68,7 @@ function langHTML(value) {
 // ==================
 
 function filtersHTML(activities) {
+  var addedFilters = [];
   for (filterName in config['filters']) {
     $.each(activities, function (i, activity) {
       var repoValue = activity[filterName]
@@ -75,7 +76,7 @@ function filtersHTML(activities) {
         repoValue = activity['cumulativeGitHubStats'][filterName]
       }
       if (repoValue) {
-        filterItemsHTML(filterName,repoValue);
+        addedFilters = addedFilters.concat(filterItemsHTML(filterName,repoValue,addedFilters));
       }
     });
     // Using Bootstrap multi-select, see index.html for import
@@ -116,11 +117,15 @@ function filterHTML(id) {
   return $li;
 }
 
-function filterItemsHTML(filterName, filterValue) {
+function filterItemsHTML(filterName, filterValue, addedFilters) {
   var keys = [];
   if (filterName === "languages") {
     for (var lang in filterValue) {
-      keys.push(toLabel(lang));
+      console.log(`Rendering ${lang} with label ${toLabel(lang,'languages')}; already in? ${!keys.includes(label)} - keys: ${keys}`);
+      var label = toLabel(lang,'languages');
+      if (!addedFilters.includes(label)) {
+        keys.push(label);
+      }
     }
   } else {
     keys.push(filterValue);
@@ -139,6 +144,7 @@ function filterItemsHTML(filterName, filterValue) {
       filterItemHTML(key,label).appendTo("select#"+filterName);
     }
   });
+  return keys;
 }
 
 function filterItemHTML(id,value) {
