@@ -43,7 +43,7 @@ function activityHTML(activity) {
   $("<p class='line-separation'>").appendTo($article);
   var $repos = $("<div class='activity-repos'>").appendTo($article);
   $.each(activity['gitHubRepos'], function (i, repo) {
-    $("<a>").attr("href", repoUrl(repo)).attr("target", "_blank").text(
+    $("<a>").attr("href", repo['gitHubURL']).attr("target", "_blank").text(
       repo['name']).attr("class","repo-link").appendTo($repos);
   });
   return $article;
