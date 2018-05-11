@@ -8,7 +8,7 @@ function getParamHash() {
   if (queryString) {
     queryString.split('&').forEach(function (filterItem) {
       var filterName = filterItem.split('=')[0];
-      var filterValue = filterItem.split('=')[1];
+      var filterValue = filterItem.split('=')[1].replace(/%20/g, " ");
       var values = paramHash[filterName];
       if (!values) {
         values = [filterValue];
