@@ -2,12 +2,7 @@ var config = {
   "filters" : {
     "programShortName" : {
       "label" : "Program",
-      "valueLabels" : {
-        "FDC3": "FDC3",
-        "Hadouken":"Hadouken",
-        "Symphony":"Symphony",
-        "Voice":"Voice"
-      }
+      "labelField" : "programName"
     },
     "type" : {
       "label" : "Type",
@@ -19,11 +14,11 @@ var config = {
     "state" : {
       "label" : "State",
       "valueLabels" : {
-        "INCUBATING": "Incubating",
-        "RELEASED": "Released",
         "ARCHIVED": "Archived",
+        "INCUBATING": "Incubating",
         "OPERATING": "Operating",
-        "PAUSED": "Paused"
+        "PAUSED": "Paused",
+        "RELEASED": "Released"
       }
     },
     "languages" : {

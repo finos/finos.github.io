@@ -32,7 +32,7 @@ function activityHTML(activity) {
   if (stats && stats['languages']) {
     for (lang in stats['languages']) {
       count++;
-      langHTML(toLabel(lang,'languages')).appendTo($langs);
+      langHTML(toLangImage(lang)).appendTo($langs);
       if (count == 6) break;
     };
     $langs.appendTo($article);
@@ -68,6 +68,7 @@ function langHTML(value) {
 // ==================
 
 function filtersHTML(activities) {
+  var addedFilters = [];
   for (filterName in config['filters']) {
     $.each(activities, function (i, activity) {
       var repoValue = activity[filterName]
@@ -75,7 +76,7 @@ function filtersHTML(activities) {
         repoValue = activity['cumulativeGitHubStats'][filterName]
       }
       if (repoValue) {
-        filterItemsHTML(filterName,repoValue);
+        addedFilters = addedFilters.concat(filterItemsHTML(filterName,repoValue,addedFilters, activity));
       }
     });
     // Using Bootstrap multi-select, see index.html for import
@@ -103,8 +104,8 @@ function filtersHTML(activities) {
   });
 }
 
-function filterHTML(id) {
-  var $name = $("<span>").text(toLabel(id,id)).attr("class","filter-label");
+function filterHTML(id, activity) {
+  var $name = $("<span>").text(toLabel(id,id, activity)).attr("class","filter-label");
   var $li = $("<li>").attr("class","drowdown").attr("id",id);
   var $select = $("<select>")
   .attr("style","visibility:hidden")
@@ -116,11 +117,15 @@ function filterHTML(id) {
   return $li;
 }
 
-function filterItemsHTML(filterName, filterValue) {
+function filterItemsHTML(filterName, filterValue, addedFilters, activity) {
+  // console.log(`adding ${filterName}=${filterValue}`);
   var keys = [];
   if (filterName === "languages") {
     for (var lang in filterValue) {
-      keys.push(toLabel(lang));
+      var label = toLabel(lang,'languages',activity);
+      if (!addedFilters.includes(label)) {
+        keys.push(label);
+      }
     }
   } else {
     keys.push(filterValue);
@@ -128,21 +133,21 @@ function filterItemsHTML(filterName, filterValue) {
 
   var $select = $("select#"+filterName);
   if (!$select.length) {
-    $select = filterHTML(filterName);
+    $select = filterHTML(filterName, activity);
     $select.appendTo("ul.activities-filter-container");
   }
 
   keys.forEach (function (key) {
     var $option = $("option#"+key);
-    if (!$option.length) {
-      var label = toLabel(key, filterName);
+    if (!$option.length && !addedFilters.includes(key)) {
+      var label = toLabel(key, filterName, activity);
       filterItemHTML(key,label).appendTo("select#"+filterName);
     }
   });
+  return keys;
 }
 
 function filterItemHTML(id,value) {
-  // console.log(`adding filter ${id} with value ${value}`)
   return $("<option>").attr("name",id).attr("id",id).attr("value",id).text(value);
 }
 
@@ -161,7 +166,7 @@ function sortsHTML(activities) {
       if (options.length === 0) {
         return 'Sort';
       } else {
-        return `${toLabel($(options).val(),'sort')} `;
+        return toLabel($(options).val(),'sort');
       }
     }
   }).appendTo("ul.sorts-container");
