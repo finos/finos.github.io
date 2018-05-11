@@ -139,7 +139,7 @@ function filterItemsHTML(filterName, filterValue, addedFilters, activity) {
 
   keys.forEach (function (key) {
     var $option = $("option#"+key);
-    if (!$option.length) {
+    if (!$option.length && !addedFilters.includes(key)) {
       var label = toLabel(key, filterName, activity);
       filterItemHTML(key,label).appendTo("select#"+filterName);
     }
@@ -148,7 +148,6 @@ function filterItemsHTML(filterName, filterValue, addedFilters, activity) {
 }
 
 function filterItemHTML(id,value) {
-  // console.log(`adding filter ${id} with value ${value}`)
   return $("<option>").attr("name",id).attr("id",id).attr("value",id).text(value);
 }
 
@@ -167,7 +166,7 @@ function sortsHTML(activities) {
       if (options.length === 0) {
         return 'Sort';
       } else {
-        return `${toLabel($(options).val(),'sort'), null} `;
+        return toLabel($(options).val(),'sort');
       }
     }
   }).appendTo("ul.sorts-container");

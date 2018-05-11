@@ -26,8 +26,10 @@ function toLabel(value,filterName, activity) {
 function toLangImage(value) {
   if (value == 'C++') {
     return "cplusplus";
+  } else if (value == 'C#') {
+    return 'c-sharp';
   } else {
-    return value.replace('#','-sharp').trim();
+    return value;
   }
 }
 
