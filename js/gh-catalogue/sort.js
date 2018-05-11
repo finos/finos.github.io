@@ -26,9 +26,6 @@ function sortActivities(activities) {
     });
   } else if (sort_by == "name") {
     activities.sort(function (a, b) {
-      console.log('sorting...');
-      console.log(a);
-      console.log(b);
       if (a.activityName.toLowerCase() < b.activityName.toLowerCase()) return -1*direction;
       if (b.activityName.toLowerCase() < a.activityName.toLowerCase()) return 1*direction;
       return 0;

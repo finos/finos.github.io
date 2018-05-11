@@ -47,7 +47,7 @@ function filterActivity(activity) {
 
       if (jQuery.type(repoValue) === "string" && toValue(repoValue,filterName) == filterValue) {
         itemRet = true;
-        console.log(`1. It's a match for ${filterName}=${filterValue}`);
+        // console.log(`1. It's a match for ${filterName}=${filterValue}`);
       } else {
           // This is a multi-value filter, like the languages field
           for (key in repoValue) {
