@@ -56,7 +56,8 @@ function getParamQuery() {
   for (filterName in config['filters']) {
     $(`li#${filterName} > span > div > ul > li.active`).each(function(i) {
       var filterValue = toValue($(this).text(),filterName);
-      paramQuery += `${filterName}=${filterValue}&`;
+      var value = $(`a > label > input`,this).attr('value');
+      paramQuery += `${filterName}=${value}&`;
     });
   }
   $(`li#sort > span > div > ul > li.active`).each(function(i) {
