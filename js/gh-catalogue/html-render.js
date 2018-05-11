@@ -14,7 +14,7 @@ function activityHTML(activity) {
   $article.append($("<h4>").append(activity['activityName']));
   $article.append($("<h5>").append($("<a>").attr("href",activity['programHomePage']).attr("target","_blank").append(`${activity['programShortName']} Program`)));
   $article.append($("<h5 class='metrics-link'>").append($("<a>").attr('href',metricsLink).attr('target','_blank').append('Activity Metrics')));
-  $article.append($("<img>").attr("class","activity-state-badge").attr("src",`https://cdn.rawgit.com/finos/contrib-toolbox/master/images/badge-${activity['state'].toLowerCase()}.svg`));
+  $article.append($("<a>").attr("href",toStateUrl(activity['state'])).attr("target","_blank").append($("<img>").attr("class","activity-state-badge").attr("src",`https://cdn.rawgit.com/finos/contrib-toolbox/master/images/badge-${activity['state'].toLowerCase()}.svg`)));
 
   var $badges = $("<div>").attr('class','icon-container ghstats-container');
   stats = activity['cumulativeGitHubStats']

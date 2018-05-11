@@ -2,6 +2,10 @@
 // Main functions
 // ==================
 
+function toStateUrl(state) {
+  return config['states'][state];
+}
+
 function toLabel(value,filterName, activity) {
   if (value == 'Objective_C') {
     return 'Objective C';
