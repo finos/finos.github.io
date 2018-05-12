@@ -1,7 +1,7 @@
 function filterActivities(activities) {
   // Filter only if there are some filter values defined
   var filteredActivities = activities;
-  if (getParamQuery() != '#') {
+  if (getParamQuery() != '/?') {
     filteredActivities = activities.filter(function(activity) {
       // Invoke filters.js - filter activities based on filter values
       return filterActivity(activity);
@@ -17,7 +17,12 @@ function filterActivities(activities) {
   if (embed) {
     newHref += '?embed=true';
   }
-  window.location.href = newHref + getParamQuery();
+  newHref = newHref + getParamQuery();
+  currentHref = decodeURI(window.location.href.split(window.location.host)[1]);
+
+  if (currentHref != newHref) {
+    window.location.href = newHref;
+  }
 
   if (activities.length == filteredActivities.length) {
     $("#activity-recap").text(`${activities.length} (all) activities shown`);

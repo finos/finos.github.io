@@ -56,7 +56,7 @@ function toValue(label, filterName) {
 }
 
 function getParamQuery() {
-  var paramQuery = "#/?";
+  var paramQuery = "?";
   for (filterName in config['filters']) {
     $(`li#${filterName} > span > div > ul > li.active`).each(function(i) {
       var filterValue = toValue($(this).text(),filterName);

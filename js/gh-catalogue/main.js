@@ -4,11 +4,11 @@ var relPath = url('path').replace('index.html','');
 // Loads initial URL state from lib, then returns the saved state
 function getParamHash() {
   var paramHash = {}
-  var queryString = window.location.href.split('/#/?')[1];
+  var queryString = window.location.href.split('?')[1];
   if (queryString) {
     queryString.split('&').forEach(function (filterItem) {
       var filterName = filterItem.split('=')[0];
-      var filterValue = filterItem.split('=')[1].replace(/%20/g, " ");
+      var filterValue = decodeURI(filterItem.split('=')[1]);
       var values = paramHash[filterName];
       if (!values) {
         values = [filterValue];
