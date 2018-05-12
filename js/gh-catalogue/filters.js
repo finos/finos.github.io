@@ -21,7 +21,7 @@ function filterActivities(activities) {
   currentHref = decodeURI(window.location.href.split(window.location.host)[1]);
 
   if (currentHref != newHref) {
-    window.location.href = newHref;
+    history.pushState(null, "FINOS Catalogue", newHref);
   }
 
   if (activities.length == filteredActivities.length) {
