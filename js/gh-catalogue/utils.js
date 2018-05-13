@@ -77,8 +77,7 @@ function getParamQuery() {
   var paramQuery = "?";
   for (filterName in config['filters']) {
     $(`li#${filterName} > span > div > ul > li.active`).each(function(i) {
-      var filterValue = toValue($(this).text(),filterName);
-      var value = $(`a > label > input`,this).attr('value');
+      var value = encodeURI($(`a > label > input`,this).attr('value'));
       paramQuery += `${filterName}=${value}&`;
     });
   }
