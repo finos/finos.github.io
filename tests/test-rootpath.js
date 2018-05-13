@@ -9,7 +9,7 @@ driver.get('http://localhost:8080/?sort=hotness-down');
 driver.get('http://localhost:8080/?sort=hotness-down').then(function () {
 	console.log("title is " + driver.getTitle());
    	return driver.getTitle();
-}
+});
 
 // driver.getTitle().then(function(title) {
 //   console.log("title is " + title);
