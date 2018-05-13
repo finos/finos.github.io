@@ -25,8 +25,8 @@ wget -N http://chromedriver.storage.googleapis.com/${CHROMEDRIVER_VERSION}/${CHR
 unzip ${CHROMEDRIVER_FILE}
 chmod +x chromedriver
 
-if [ -n "$TRAVIS_BUILD" ]; then
-	sudo mv -f ~/chromedriver /usr/local/share/
+if [ -n "$SELENIUM_INSTALL_BIN" ]; then
+	sudo mv -f chromedriver /usr/local/share/
 	sudo chmod +x /usr/local/share/chromedriver
 	sudo ln -s /usr/local/share/chromedriver /usr/local/bin/chromedriver
 fi

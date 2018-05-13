@@ -18,7 +18,7 @@ env:
     - SELENIUM_VERSION=3.12.0
     - CHROMEDRIVER_VERSION=2.38
     - CHROMEDRIVER_FILE="chromedriver_linux64.zip"
-    - PATH=${PATH}:${PWD}/selenium-server
+    - SELENIUM_INSTALL_BIN=true
 
 before_script:
   - ./run-selenium.sh
