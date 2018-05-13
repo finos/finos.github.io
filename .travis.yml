@@ -22,6 +22,7 @@ env:
 before_script:
   - ./run-selenium.sh
   - npm install -g selenium-webdriver http-server
+  - http-server
 
 script:
   - npm run selenium-tests

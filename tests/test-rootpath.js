@@ -4,7 +4,7 @@ var assert = require('assert');
 
 var driver = new webdriver.Builder().forBrowser("chrome").build();
  
-driver.get('http://localhost:8080/?sort=hotness-down');
+// driver.get('http://localhost:8080/?sort=hotness-down');
 
 driver.get('http://localhost:8080/?sort=hotness-down').then(function () {
 	console.log("title is " + driver.getTitle());
