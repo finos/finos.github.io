@@ -21,10 +21,6 @@ function toStateUrl(state) {
 
 function toLabel(key,filterName, activity) {
   var labelField;
-
-  if (filterName && config['filters'][filterName] && config['filters'][filterName]['valueKeys'] && config['filters'][filterName]['valueKeys'][key]) {
-    key = toKey(key, filterName);
-  }
   var ret = key;
 
   if (config['filters'][filterName] && config['filters'][filterName]['labelField']) {
@@ -37,6 +33,8 @@ function toLabel(key,filterName, activity) {
     ret = config['filters'][filterName]['label'];
   } else if (labelField && activity && activity[labelField]) {
     ret = activity[labelField];
+  } else if (filterName && config['filters'][filterName]['valueKeys'] && config['filters'][filterName]['valueKeys'][key]) {
+    ret = config['filters'][filterName]['valueKeys'][key];
   } else if (filterName && config['filters'][filterName]['valueLabels'] && config['filters'][filterName]['valueLabels'][key]) {
     ret = config['filters'][filterName]['valueLabels'][key];
   }
