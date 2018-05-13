@@ -5,11 +5,12 @@ before_install:
   - "sh -e /etc/init.d/xvfb start"
 
 env:
-  - SELENIUM_MAJOR_VERSION=3.12
-  - SELENIUM_VERSION=3.12.0
-  - CHROMEDRIVER_VERSION=2.38
-  - CHROMEDRIVER_FILE="chromedriver_linux64.zip"
-  - PATH=${PATH}:${PWD}/selenium-server
+  global:
+    - SELENIUM_MAJOR_VERSION=3.12
+    - SELENIUM_VERSION=3.12.0
+    - CHROMEDRIVER_VERSION=2.38
+    - CHROMEDRIVER_FILE="chromedriver_linux64.zip"
+    - PATH=${PATH}:${PWD}/selenium-server
 
 before_script:
   - ./run-selenium.sh
