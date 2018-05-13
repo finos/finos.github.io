@@ -1,9 +1,9 @@
 language: node_js
 
 # May not be needed
-# sudo: required
-# addons:
-#   chrome: stable
+sudo: required
+addons:
+  chrome: stable
 
 node_js:
   - "7"
