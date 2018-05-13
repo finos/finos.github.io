@@ -3,6 +3,9 @@
 # To run it locally (on mac), use:
 # export PATH=$PATH:$PWD/selenium-server ; export CHROMEDRIVER_FILE="chromedriver_mac64.zip" ; ./run-selenium.sh
 
+export DISPLAY=":99.0"
+sh -e /etc/init.d/xvfb start
+
 if [ -z "$SELENIUM_MAJOR_VERSION" ]; then
 	export SELENIUM_MAJOR_VERSION=3.12
 fi
