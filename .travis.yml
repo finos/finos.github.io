@@ -1,12 +1,11 @@
+sudo: required
+
 language: node_js
+node_js:
+  - "7"
 
 addons:
   chrome: stable
-
-sudo: required
-
-node_js:
-  - "7"
 
 before_install:
   - "export DISPLAY=:99.0"
