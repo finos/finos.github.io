@@ -4,11 +4,9 @@
 
 function activityHTML(activity) {
   // Render lifecycle badge
-  // console.log(`Rendering ${activity['name']}`);
   var state_class = `${activity['state'].toLowerCase()}-activity-state`;
   var type_class = `${activity['type'].toLowerCase()}-activity-type`;
   var $article = $("<div>").attr("class", "activity col-xs-6 col-md-4 col-lg-2 "+type_class+" "+state_class);
-  // var $article = $("<div>").attr("class", "col-sm");
   var metricsLink = `https://metrics.finos.org/app/kibana?#/dashboard/C_ESCo_projects?_g=(refreshInterval:(display:Off,pause:!f,value:0),time:(from:now-2y,mode:quick,to:now))&_a=(filters:!(),query:(query_string:(analyze_wildcard:!t,query:'project:%22${activity['activityName']}%22')))`;
 
   $article.append($("<h4>").append(activity['activityName']));
@@ -28,18 +26,14 @@ function activityHTML(activity) {
 
   // Render languages
   var $langs = $("<div>").attr('class','icon-container langs-container');
-  var count = 1;
   if (stats && stats['languages']) {
-    for (lang in stats['languages']) {
-      count++;
-      langHTML(lang,toLangKey(lang)).appendTo($langs);
-      if (count == 6) break;
-    };
+    var langsList = sortLangs(stats['languages']).slice(0, 6);
+    $.each(langsList, function (i, lang) {
+      langHTML(toLabel(lang[0],'languages') + ` - ${lang[1]} lines`,toKey(lang[0],'languages')).appendTo($langs);
+    });
     $langs.appendTo($article);
   }
 
-  // TODO - show a activity description, when available in activities.json
-  // $("<p>").text(repoDescription(activity['description'])).appendTo($article);
   $("<p class='line-separation'>").appendTo($article);
   var $repos = $("<div class='activity-repos'>").appendTo($article);
   $.each(activity['gitHubRepos'], function (i, repo) {
@@ -58,9 +52,9 @@ function badgeHTML(type,value) {
   return $container;
 }
 
-function langHTML(name,value) {
-  var url = `assets/langs/${value.toLowerCase()}.png`;
-  return $("<img>").attr("class",'lang-icons').attr("src",url).attr("title", name).attr("alt", name);
+function langHTML(title,value) {
+  var url = `assets/langs/${value.toLowerCase().replace(new RegExp("\\+", 'g'), 'plus')}.png`;
+  return $("<img>").attr("class",'lang-icons').attr("src",url).attr("title", toLabel(title,'languages')).attr("alt", title);
 }
 
 // ==================
@@ -68,17 +62,25 @@ function langHTML(name,value) {
 // ==================
 
 function filtersHTML(activities) {
-  var addedFilters = [];
   for (filterName in config['filters']) {
+    var filtersToAdd = {};
     $.each(activities, function (i, activity) {
       var repoValue = activity[filterName]
       if (activity['cumulativeGitHubStats'] && activity['cumulativeGitHubStats'][filterName]) {
         repoValue = activity['cumulativeGitHubStats'][filterName]
       }
       if (repoValue) {
-        addedFilters = addedFilters.concat(filterItemsHTML(filterName,repoValue,addedFilters, activity));
+        $.each(filterItemsHTML(filterName,repoValue, activity),function(i, filterItem) {
+          filtersToAdd[filterItem] = true;
+        });
       }
     });
+
+    Object.keys(filtersToAdd).sort().forEach (function (item) {
+      var itemSplit = item.split('|');
+      filterItemHTML(itemSplit[1],itemSplit[0],itemSplit[2]).appendTo("select#"+filterName);
+    });
+
     // Using Bootstrap multi-select, see index.html for import
     $(`select#${filterName}`).multiselect({
       maxHeight: 200,
@@ -90,18 +92,6 @@ function filtersHTML(activities) {
     });
     $(`select#${filterName}`).multiselect('select', getParamHash()[filterName]);
   }
-
-  $("li").each(function() {
-    var idField = this.attributes['id'];
-    if (idField) {
-      var id = idField.value;
-      $("li#"+id+" input").each(function() {
-        var value = this.attributes['value'].value;
-        this.setAttribute('name',id);
-        this.setAttribute('id',id);
-      });
-    }
-  });
 }
 
 function filterHTML(id, activity) {
@@ -117,15 +107,12 @@ function filterHTML(id, activity) {
   return $li;
 }
 
-function filterItemsHTML(filterName, filterValue, addedFilters, activity) {
-  // console.log(`adding ${filterName}=${filterValue}`);
+function filterItemsHTML(filterName, filterValue, activity) {
   var keys = [];
   if (filterName === "languages") {
     for (var lang in filterValue) {
-      var label = toLangKey(lang);
-      if (!addedFilters.includes(label)) {
-        keys.push(label);
-      }
+      var key = toKey(lang,'languages');
+      keys.push(key);
     }
   } else {
     keys.push(filterValue);
@@ -137,18 +124,19 @@ function filterItemsHTML(filterName, filterValue, addedFilters, activity) {
     $select.appendTo("ul.activities-filter-container");
   }
 
+  var items = []
   keys.forEach (function (key) {
-    var $option = $("option#"+key);
-    if (!$option.length && !addedFilters.includes(key)) {
+    var $option = $("option#"+toKey(key,filterName));
+    if (!$option.length) {
       var label = toLabel(key, filterName, activity);
-      filterItemHTML(key,label).appendTo("select#"+filterName);
+      items.push(label + "|" + key + "|" + filterName);
     }
   });
-  return keys;
+  return items;
 }
 
-function filterItemHTML(id,value) {
-  return $("<option>").attr("name",id).attr("id",id).attr("value",id).text(value);
+function filterItemHTML(id,value, filterName) {
+  return $("<option>").attr("name",id).attr("id",id).attr("value",id).text(toLabel(value,filterName,null));
 }
 
 // ==================

@@ -30,7 +30,14 @@ var config = {
       }
     },
     "languages" : {
-      "label" : "Language"
+      "label" : "Language",
+      "valueKeys" : {
+        "c-sharp" : "C#"
+      },
+      "valueLabels" : {
+        "Objective_C" : "Objective C",
+        "Objective_C++" : "Objective C++"
+      }
     }
   },
   "sort" : {
