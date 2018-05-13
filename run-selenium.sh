@@ -26,8 +26,6 @@ unzip ${CHROMEDRIVER_FILE}
 chmod +x chromedriver
 
 if [ -n "$SELENIUM_INSTALL_BIN" ]; then
-	export DISPLAY=":99.0"
-	sh -e /etc/init.d/xvfb start
 	sudo mv -f chromedriver /usr/local/share/
 	sudo chmod +x /usr/local/share/chromedriver
 	sudo ln -s /usr/local/share/chromedriver /usr/local/bin/chromedriver
