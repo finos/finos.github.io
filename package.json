@@ -1,0 +1,28 @@
+{
+  "name": "finos.github.io",
+  "version": "0.2.0",
+  "description": "FINOS Catalogue",
+  "scripts": {
+    "selenium-tests": "node tests/*.js"
+  },
+  "dependencies": {
+    "asserts": "4.0.2"
+  },
+  "devDependencies": {
+    "selenium-webdriver": "4.0.0-alpha.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finos/finos.github.io"
+  },
+  "keywords": [
+    "catalogue",
+    "open source"
+  ],
+  "author": "Maurizio Pillitu",
+  "contributors": [
+    "Peter Monks <peter@finos.org>",
+    "Nikolay Ganev <niko@finos.org>"
+  ],
+  "license": "Apache-2.0"
+}
