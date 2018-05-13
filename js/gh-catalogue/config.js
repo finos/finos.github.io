@@ -29,7 +29,15 @@ var config = {
         "RELEASED": "Released"
       }
     },
+    "tags" : {
+      "multi-value" : true,
+      "label" : "Tags",
+      "valueKeys" : {
+        "nlp-ml" : "nlp/ml"
+      },
+    },
     "languages" : {
+      "multi-value" : true,
       "label" : "Language",
       "valueKeys" : {
         "c-sharp" : "C#"

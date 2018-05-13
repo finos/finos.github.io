@@ -24,6 +24,16 @@ function activityHTML(activity) {
     $badges.appendTo($article);
   }
 
+  // Render tags
+  var $tags = $("<div>").attr('class','tags-container');
+  if (activity['tags']) {
+    var tagList = activity['tags'];
+    $.each(tagList, function (i, tag) {
+      tagHTML(toLabel(tag,'tags')).appendTo($tags);
+    });
+    $tags.appendTo($article);
+  }
+
   // Render languages
   var $langs = $("<div>").attr('class','icon-container langs-container');
   if (stats && stats['languages']) {
@@ -55,6 +65,10 @@ function badgeHTML(type,value) {
 function langHTML(title,value) {
   var url = `assets/langs/${value.toLowerCase().replace(new RegExp("\\+", 'g'), 'plus')}.png`;
   return $("<img>").attr("class",'lang-icons').attr("src",url).attr("title", toLabel(title,'languages')).attr("alt", title);
+}
+
+function tagHTML(value) {
+  return $("<span>").attr("class",'activity-tag').text('#'+value);
 }
 
 // ==================
@@ -109,11 +123,16 @@ function filterHTML(id, activity) {
 
 function filterItemsHTML(filterName, filterValue, activity) {
   var keys = [];
-  if (filterName === "languages") {
+  if (filterName == 'languages') {
     for (var lang in filterValue) {
-      var key = toKey(lang,'languages');
+      var key = toKey(lang,filterName);
       keys.push(key);
     }
+  } else if (filterName == 'tags') {
+    $.each (filterValue, function (index,singleValue) {
+      var key = toKey(singleValue,filterName);
+      keys.push(key);
+    });
   } else {
     keys.push(filterValue);
   }

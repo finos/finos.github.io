@@ -188,6 +188,17 @@ article > img {
       width:25px;
 }
 
+.tags-container {
+  margin: 2px;
+}
+
+.activity-tag {
+  margin: 4px;
+  padding: 1px;
+  background-color: #ffffcc;
+  font-family: 'Montserrat Bold';
+}
+
 /* Activity states and types */
 .project-activity-type {
   background: rgba(0,134,191, 0.2);

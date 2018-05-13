@@ -37,18 +37,21 @@ function filterActivity(activity) {
   var ret = true;
   for (filterName in config['filters']) {
     var repoValue = activity[filterName];
-    if (activity['cumulativeGitHubStats'] && activity['cumulativeGitHubStats'][filterName]) {
-      repoValue = activity['cumulativeGitHubStats'][filterName]
-    }
+
     var itemRet = false;
     var filterRet = $(`li#${filterName} > span > div > ul > li.active`).length == 0;
     $(`li#${filterName} > span > div > ul > li.active`).each(function(i) {
       var filterValue = toValue($(`a > label > input`,this).attr('value'),filterName);
-
       if (jQuery.type(repoValue) === "string" && toValue(repoValue,filterName) == filterValue) {
         itemRet = true;
+      } else if (filterName == 'tags') {
+          $.each(repoValue, function(index, key) {
+            if (key == toValue(filterValue)) {
+                itemRet = true;
+            }
+          });
       } else {
-          // This is a multi-value filter, like the languages field
+          // This is a generic multi-value filter, like the languages field
           for (key in repoValue) {
             if (key == toValue(filterValue)) {
                 itemRet = true;
