@@ -2,61 +2,82 @@
 // Main functions
 // ==================
 
-function toLabel(value,filterName, activity) {
-  if (value == 'Objective_C') {
-    return 'Objective C';
-  } else if (value == 'Objective_C++') {
-    return 'Objective C++';
-  } else if (value == 'C#') {
-    return 'C Sharp';
-  } else if (filterName === 'sort') {
-    return config['sort']['valueLabels'][value];
-  } else if (filterName && filterName == value) {
-    return config['filters'][filterName]['label'];
-  } else if (filterName && config['filters'][filterName]['valueLabels']) {
-    return config['filters'][filterName]['valueLabels'][value];
-  } else if (config['filters'][filterName]['labelField']) {
-    var labelField = config['filters'][filterName]['labelField'];
-    return activity[labelField];
-  } else {
-    return value;
+function sortLangs(langs) {
+  var sortable=[];
+  for(var key in langs) {
+    if(langs.hasOwnProperty(key)) {
+      sortable.push([key, langs[key]]);
+    }
   }
+  sortable.sort(function(a, b) {
+    return b[1]-a[1];
+  });
+  return sortable;
 }
 
-function toLangImage(value) {
-  if (value == 'C++') {
-    return "cplusplus";
-  } else if (value == 'C#') {
-    return 'c-sharp';
-  } else {
-    return value;
-  }
+function toStateUrl(state) {
+  return config['states'][state];
 }
 
-function toValue(label, filterName) {
-  label = label.trim();
+function toLabel(key,filterName, activity) {
+  var labelField;
+  var ret = key;
+
+  if (config['filters'][filterName] && config['filters'][filterName]['labelField']) {
+    labelField = config['filters'][filterName]['labelField'];
+  }
+
   if (filterName === 'sort') {
-    for (labelKey in config['sort']['valueLabels']) {
-      if (config['sort']['valueLabels'][labelKey] == label.trim()) {
-        return labelKey;
-      }
-    }    
-  } else if (filterName && config['filters'][filterName]['valueLabels']) {
-    for (labelKey in config['filters'][filterName]['valueLabels']) {
-      if (config['filters'][filterName]['valueLabels'][labelKey] == label) {
-        return labelKey;
+    ret = config['sort']['valueLabels'][key];
+  } else if (filterName && filterName == key) {
+    ret = config['filters'][filterName]['label'];
+  } else if (labelField && activity && activity[labelField]) {
+    ret = activity[labelField];
+  } else if (filterName && config['filters'][filterName]['valueKeys'] && config['filters'][filterName]['valueKeys'][key]) {
+    ret = config['filters'][filterName]['valueKeys'][key];
+  } else if (filterName && config['filters'][filterName]['valueLabels'] && config['filters'][filterName]['valueLabels'][key]) {
+    ret = config['filters'][filterName]['valueLabels'][key];
+  }
+  return ret;
+}
+
+function toKey(value, filterName) {
+  if (filterName && config['filters'][filterName]['valueKeys']) {
+    for (keyLabel in config['filters'][filterName]['valueKeys']) {
+      if (config['filters'][filterName]['valueKeys'][keyLabel] == value) {
+        return keyLabel;
       }
     }
   }
-  return label.replace('-sharp','#').replace('-plus','+').trim();
+  return value;
+}
+
+function toValue(label, filterName) {
+  var ret = label.trim();
+  if (filterName === 'sort') {
+    for (labelKey in config['sort']['valueLabels']) {
+      if (config['sort']['valueLabels'][labelKey] == label.trim()) {
+        ret = labelKey;
+      }
+    }
+  } else if (filterName && config['filters'][filterName]['valueLabels']) {
+    for (labelKey in config['filters'][filterName]['valueLabels']) {
+      if (config['filters'][filterName]['valueLabels'][labelKey] == label) {
+        ret = labelKey;
+      }
+    }
+  }
+  if (filterName && config['filters'][filterName] && config['filters'][filterName]['valueKeys'] && config['filters'][filterName]['valueKeys'][ret]) {
+    ret = config['filters'][filterName]['valueKeys'][ret];
+  }
+  return ret;
 }
 
 function getParamQuery() {
-  var paramQuery = "#/?";
+  var paramQuery = "?";
   for (filterName in config['filters']) {
     $(`li#${filterName} > span > div > ul > li.active`).each(function(i) {
-      var filterValue = toValue($(this).text(),filterName);
-      var value = $(`a > label > input`,this).attr('value');
+      var value = encodeURI($(`a > label > input`,this).attr('value'));
       paramQuery += `${filterName}=${value}&`;
     });
   }
