@@ -384,15 +384,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 458,
           "watchers"      : 65,
-          "size"          : 1350,
+          "size"          : 1363,
           "collaborators" : 32,
           "stars"         : 65,
           "forks"         : 40,
-          "openIssues"    : 15,
+          "openIssues"    : 12,
           "languages"     : {
-            "TypeScript" : 306818,
+            "TypeScript" : 306619,
             "HTML" : 10167,
-            "JavaScript" : 404003
+            "JavaScript" : 403389
           }
         },
         {
@@ -401,13 +401,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 226,
           "watchers"      : 7,
-          "size"          : 1275,
+          "size"          : 1276,
           "collaborators" : 33,
           "stars"         : 7,
           "forks"         : 16,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 284640,
+            "TypeScript" : 284645,
             "HTML" : 2074,
             "JavaScript" : 6488
           }
@@ -416,15 +416,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 684,
         "watchers"      : 72,
-        "size"          : 2625,
+        "size"          : 2639,
         "collaborators" : 65,
         "stars"         : 72,
         "forks"         : 56,
-        "openIssues"    : 17,
+        "openIssues"    : 13,
         "languages"     : {
-          "TypeScript" : 591458,
+          "TypeScript" : 591264,
           "HTML" : 12241,
-          "JavaScript" : 410491
+          "JavaScript" : 409877
         }
       }
     },
@@ -2088,7 +2088,7 @@
           "collaborators" : 4,
           "stars"         : 9,
           "forks"         : 11,
-          "openIssues"    : 11,
+          "openIssues"    : 12,
           "languages"     : {
             "JavaScript" : 81960
           }
@@ -2101,7 +2101,7 @@
         "collaborators" : 4,
         "stars"         : 9,
         "forks"         : 11,
-        "openIssues"    : 11,
+        "openIssues"    : 12,
         "languages"     : {
           "JavaScript" : 81960
         }
@@ -2302,11 +2302,11 @@
           "name"          : "ContainerJS",
           "description"   : "ContainerJS provides an abstraction layer over multiple HTML5 containers (OpenFin, Electron, Browser), that follows the Symphony Desktop APIs",
           "gitHubURL"     : "https://github.com/symphonyoss/ContainerJS",
-          "heat"          : 140,
-          "watchers"      : 25,
+          "heat"          : 142,
+          "watchers"      : 26,
           "size"          : 650,
           "collaborators" : 10,
-          "stars"         : 25,
+          "stars"         : 26,
           "forks"         : 10,
           "openIssues"    : 26,
           "languages"     : {
@@ -2320,11 +2320,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 140,
-        "watchers"      : 25,
+        "heat"          : 142,
+        "watchers"      : 26,
         "size"          : 650,
         "collaborators" : 10,
-        "stars"         : 25,
+        "stars"         : 26,
         "forks"         : 10,
         "openIssues"    : 26,
         "languages"     : {
@@ -2681,14 +2681,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-FE-Commons",
           "heat"          : 54,
           "watchers"      : 0,
-          "size"          : 22587,
+          "size"          : 22588,
           "collaborators" : 11,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
             "CSS" : 13989,
-            "JavaScript" : 99880
+            "JavaScript" : 99979
           }
         },
         {
@@ -2710,7 +2710,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 266,
         "watchers"      : 6,
-        "size"          : 55513,
+        "size"          : 55514,
         "collaborators" : 41,
         "stars"         : 6,
         "forks"         : 18,
@@ -2720,7 +2720,7 @@
           "Shell" : 1870,
           "CSS" : 13989,
           "HTML" : 651,
-          "JavaScript" : 100700
+          "JavaScript" : 100799
         }
       }
     },
@@ -2744,7 +2744,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Github",
           "heat"          : 71,
           "watchers"      : 2,
-          "size"          : 1585,
+          "size"          : 1587,
           "collaborators" : 13,
           "stars"         : 2,
           "forks"         : 3,
@@ -2760,7 +2760,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 71,
         "watchers"      : 2,
-        "size"          : 1585,
+        "size"          : 1587,
         "collaborators" : 13,
         "stars"         : 2,
         "forks"         : 3,
@@ -3427,7 +3427,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-common",
           "heat"          : 34,
           "watchers"      : 0,
-          "size"          : 390,
+          "size"          : 395,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 2,
@@ -3452,7 +3452,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 59,
         "watchers"      : 0,
-        "size"          : 421,
+        "size"          : 426,
         "collaborators" : 11,
         "stars"         : 0,
         "forks"         : 3,
@@ -3520,18 +3520,18 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 192,
-          "watchers"      : 20,
-          "size"          : 33139,
+          "heat"          : 196,
+          "watchers"      : 22,
+          "size"          : 33143,
           "collaborators" : 8,
-          "stars"         : 20,
+          "stars"         : 22,
           "forks"         : 24,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
             "Shell" : 5677,
             "CSS" : 3308,
             "Batchfile" : 552,
-            "JavaScript" : 415368,
+            "JavaScript" : 418916,
             "HTML" : 13825,
             "Objective_C" : 6006
           }
@@ -3553,19 +3553,19 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 217,
-        "watchers"      : 22,
-        "size"          : 33159,
+        "heat"          : 221,
+        "watchers"      : 24,
+        "size"          : 33163,
         "collaborators" : 12,
-        "stars"         : 22,
+        "stars"         : 24,
         "forks"         : 25,
-        "openIssues"    : 6,
+        "openIssues"    : 7,
         "languages"     : {
           "C#" : 7673,
           "Shell" : 5677,
           "CSS" : 3308,
           "Batchfile" : 552,
-          "JavaScript" : 415368,
+          "JavaScript" : 418916,
           "HTML" : 13825,
           "Objective_C" : 6006
         }
