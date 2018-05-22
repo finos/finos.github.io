@@ -384,15 +384,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 458,
           "watchers"      : 65,
-          "size"          : 1363,
+          "size"          : 1386,
           "collaborators" : 32,
           "stars"         : 65,
           "forks"         : 40,
-          "openIssues"    : 12,
+          "openIssues"    : 10,
           "languages"     : {
-            "TypeScript" : 306619,
+            "TypeScript" : 306789,
             "HTML" : 10167,
-            "JavaScript" : 403389
+            "JavaScript" : 404354
           }
         },
         {
@@ -405,7 +405,7 @@
           "collaborators" : 33,
           "stars"         : 7,
           "forks"         : 16,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 284645,
             "HTML" : 2074,
@@ -416,15 +416,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 684,
         "watchers"      : 72,
-        "size"          : 2639,
+        "size"          : 2662,
         "collaborators" : 65,
         "stars"         : 72,
         "forks"         : 56,
-        "openIssues"    : 13,
+        "openIssues"    : 12,
         "languages"     : {
-          "TypeScript" : 591264,
+          "TypeScript" : 591434,
           "HTML" : 12241,
-          "JavaScript" : 409877
+          "JavaScript" : 410842
         }
       }
     },
@@ -537,7 +537,7 @@
           "collaborators" : 32,
           "stars"         : 4,
           "forks"         : 0,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 100831,
             "CSS" : 28507,
@@ -554,7 +554,7 @@
         "collaborators" : 32,
         "stars"         : 4,
         "forks"         : 0,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 100831,
           "CSS" : 28507,
@@ -639,16 +639,16 @@
           "name"          : "plexus-interop",
           "description"   : "Plexus Interop open source project hosted by the Fintech Open Source Foundation",
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
-          "heat"          : 702,
-          "watchers"      : 235,
-          "size"          : 5431,
+          "heat"          : 704,
+          "watchers"      : 236,
+          "size"          : 5445,
           "collaborators" : 8,
-          "stars"         : 235,
+          "stars"         : 236,
           "forks"         : 40,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 1016601,
-            "C#" : 1463875,
+            "C#" : 1476002,
             "Xtend" : 178083,
             "Java" : 70022,
             "Shell" : 550,
@@ -660,16 +660,16 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 702,
-        "watchers"      : 235,
-        "size"          : 5431,
+        "heat"          : 704,
+        "watchers"      : 236,
+        "size"          : 5445,
         "collaborators" : 8,
-        "stars"         : 235,
+        "stars"         : 236,
         "forks"         : 40,
         "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 1016601,
-          "C#" : 1463875,
+          "C#" : 1476002,
           "Xtend" : 178083,
           "Java" : 70022,
           "Shell" : 550,
@@ -2126,7 +2126,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-client",
           "heat"          : 209,
           "watchers"      : 28,
-          "size"          : 2440,
+          "size"          : 2445,
           "collaborators" : 7,
           "stars"         : 28,
           "forks"         : 25,
@@ -2171,7 +2171,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 361,
         "watchers"      : 46,
-        "size"          : 3496,
+        "size"          : 3501,
         "collaborators" : 16,
         "stars"         : 46,
         "forks"         : 41,
@@ -2681,14 +2681,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-FE-Commons",
           "heat"          : 54,
           "watchers"      : 0,
-          "size"          : 22588,
+          "size"          : 22595,
           "collaborators" : 11,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
             "CSS" : 13989,
-            "JavaScript" : 99979
+            "JavaScript" : 99926
           }
         },
         {
@@ -2710,7 +2710,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 266,
         "watchers"      : 6,
-        "size"          : 55514,
+        "size"          : 55521,
         "collaborators" : 41,
         "stars"         : 6,
         "forks"         : 18,
@@ -2720,7 +2720,7 @@
           "Shell" : 1870,
           "CSS" : 13989,
           "HTML" : 651,
-          "JavaScript" : 100799
+          "JavaScript" : 100746
         }
       }
     },
@@ -3520,18 +3520,18 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 196,
+          "heat"          : 201,
           "watchers"      : 22,
-          "size"          : 33143,
+          "size"          : 33167,
           "collaborators" : 8,
           "stars"         : 22,
-          "forks"         : 24,
-          "openIssues"    : 7,
+          "forks"         : 25,
+          "openIssues"    : 6,
           "languages"     : {
             "Shell" : 5677,
             "CSS" : 3308,
             "Batchfile" : 552,
-            "JavaScript" : 418916,
+            "JavaScript" : 421356,
             "HTML" : 13825,
             "Objective_C" : 6006
           }
@@ -3553,19 +3553,19 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 221,
+        "heat"          : 226,
         "watchers"      : 24,
-        "size"          : 33163,
+        "size"          : 33187,
         "collaborators" : 12,
         "stars"         : 24,
-        "forks"         : 25,
-        "openIssues"    : 7,
+        "forks"         : 26,
+        "openIssues"    : 6,
         "languages"     : {
           "C#" : 7673,
           "Shell" : 5677,
           "CSS" : 3308,
           "Batchfile" : 552,
-          "JavaScript" : 418916,
+          "JavaScript" : 421356,
           "HTML" : 13825,
           "Objective_C" : 6006
         }
