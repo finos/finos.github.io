@@ -384,7 +384,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 458,
           "watchers"      : 65,
-          "size"          : 1386,
+          "size"          : 1388,
           "collaborators" : 32,
           "stars"         : 65,
           "forks"         : 40,
@@ -416,7 +416,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 684,
         "watchers"      : 72,
-        "size"          : 2662,
+        "size"          : 2664,
         "collaborators" : 65,
         "stars"         : 72,
         "forks"         : 56,
@@ -2748,7 +2748,7 @@
           "collaborators" : 13,
           "stars"         : 2,
           "forks"         : 3,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "Java" : 122819,
             "HTML" : 2240,
@@ -2764,7 +2764,7 @@
         "collaborators" : 13,
         "stars"         : 2,
         "forks"         : 3,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "Java" : 122819,
           "HTML" : 2240,
