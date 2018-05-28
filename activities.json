@@ -447,7 +447,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
           "heat"          : 252,
           "watchers"      : 22,
-          "size"          : 14209,
+          "size"          : 14260,
           "collaborators" : 37,
           "stars"         : 22,
           "forks"         : 12,
@@ -462,7 +462,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 252,
         "watchers"      : 22,
-        "size"          : 14209,
+        "size"          : 14260,
         "collaborators" : 37,
         "stars"         : 22,
         "forks"         : 12,
@@ -1961,22 +1961,22 @@
           "name"          : "symphony-api-spec",
           "description"   : "Swagger definitions for Symphony LLC public REST API ",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
-          "heat"          : 85,
+          "heat"          : 90,
           "watchers"      : 5,
           "size"          : 179,
           "collaborators" : 5,
           "stars"         : 5,
-          "forks"         : 11,
+          "forks"         : 12,
           "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 85,
+        "heat"          : 90,
         "watchers"      : 5,
         "size"          : 179,
         "collaborators" : 5,
         "stars"         : 5,
-        "forks"         : 11,
+        "forks"         : 12,
         "openIssues"    : 2
       }
     },
@@ -2082,12 +2082,12 @@
           "name"          : "hubot-symphony",
           "description"   : "Hubot adapter for Symphony",
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
-          "heat"          : 89,
+          "heat"          : 94,
           "watchers"      : 9,
           "size"          : 287,
           "collaborators" : 4,
           "stars"         : 9,
-          "forks"         : 11,
+          "forks"         : 12,
           "openIssues"    : 12,
           "languages"     : {
             "JavaScript" : 81960
@@ -2095,12 +2095,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 89,
+        "heat"          : 94,
         "watchers"      : 9,
         "size"          : 287,
         "collaborators" : 4,
         "stars"         : 9,
-        "forks"         : 11,
+        "forks"         : 12,
         "openIssues"    : 12,
         "languages"     : {
           "JavaScript" : 81960
@@ -2155,11 +2155,11 @@
           "name"          : "symphony-java-sample-bots",
           "description"   : "A set of simple Bots for Symphony, implemented in Java.",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-sample-bots",
-          "heat"          : 100,
-          "watchers"      : 17,
+          "heat"          : 102,
+          "watchers"      : 18,
           "size"          : 932,
           "collaborators" : 4,
-          "stars"         : 17,
+          "stars"         : 18,
           "forks"         : 10,
           "openIssues"    : 4,
           "languages"     : {
@@ -2169,11 +2169,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 363,
-        "watchers"      : 47,
+        "heat"          : 365,
+        "watchers"      : 48,
         "size"          : 3501,
         "collaborators" : 16,
-        "stars"         : 47,
+        "stars"         : 48,
         "forks"         : 41,
         "openIssues"    : 12,
         "languages"     : {
@@ -3028,11 +3028,11 @@
           "name"          : "App-Integrations-Universal",
           "description"   : "Universal Webhook Integration",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Universal",
-          "heat"          : 79,
-          "watchers"      : 1,
+          "heat"          : 81,
+          "watchers"      : 2,
           "size"          : 983,
           "collaborators" : 13,
-          "stars"         : 1,
+          "stars"         : 2,
           "forks"         : 5,
           "openIssues"    : 2,
           "languages"     : {
@@ -3044,11 +3044,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 79,
-        "watchers"      : 1,
+        "heat"          : 81,
+        "watchers"      : 2,
         "size"          : 983,
         "collaborators" : 13,
-        "stars"         : 1,
+        "stars"         : 2,
         "forks"         : 5,
         "openIssues"    : 2,
         "languages"     : {
@@ -3520,13 +3520,13 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 201,
+          "heat"          : 206,
           "watchers"      : 22,
           "size"          : 33172,
           "collaborators" : 8,
           "stars"         : 22,
-          "forks"         : 25,
-          "openIssues"    : 9,
+          "forks"         : 26,
+          "openIssues"    : 10,
           "languages"     : {
             "Shell" : 5677,
             "CSS" : 3308,
@@ -3553,13 +3553,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 226,
+        "heat"          : 231,
         "watchers"      : 24,
         "size"          : 33192,
         "collaborators" : 12,
         "stars"         : 24,
-        "forks"         : 26,
-        "openIssues"    : 9,
+        "forks"         : 27,
+        "openIssues"    : 10,
         "languages"     : {
           "C#" : 7673,
           "Shell" : 5677,
