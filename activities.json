@@ -64,7 +64,7 @@
           "collaborators" : 43,
           "stars"         : 3,
           "forks"         : 3,
-          "openIssues"    : 2
+          "openIssues"    : 3
         }
       ],
       "cumulativeGitHubStats" : {
@@ -74,7 +74,7 @@
         "collaborators" : 43,
         "stars"         : 3,
         "forks"         : 3,
-        "openIssues"    : 2
+        "openIssues"    : 3
       },
       "mailingLists"       : [
         {
@@ -204,22 +204,22 @@
           "name"          : "Intents",
           "description"   : "FDC3 Intents specifications, schemas, and examples",
           "gitHubURL"     : "https://github.com/FDC3/Intents",
-          "heat"          : 183,
+          "heat"          : 188,
           "watchers"      : 3,
           "size"          : 11,
           "collaborators" : 43,
           "stars"         : 3,
-          "forks"         : 1,
+          "forks"         : 2,
           "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 183,
+        "heat"          : 188,
         "watchers"      : 3,
         "size"          : 11,
         "collaborators" : 43,
         "stars"         : 3,
-        "forks"         : 1,
+        "forks"         : 2,
         "openIssues"    : 1
       },
       "mailingLists"       : [
@@ -295,8 +295,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FO/overview",
       "activityName"         : "Financial Objects Standardization WG",
       "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2016-02-08",
+      "archiveDate"          : "2018-05-14",
       "gitHubRepos"          : [
         {
           "name"          : "symphony-object",
@@ -339,10 +340,10 @@
           "name"          : "app-template",
           "description"   : "A simple unopinionated Hadouken application template.",
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
-          "heat"          : 172,
+          "heat"          : 176,
           "watchers"      : 7,
           "size"          : 145,
-          "collaborators" : 32,
+          "collaborators" : 33,
           "stars"         : 7,
           "forks"         : 6,
           "openIssues"    : 3,
@@ -353,10 +354,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 172,
+        "heat"          : 176,
         "watchers"      : 7,
         "size"          : 145,
-        "collaborators" : 32,
+        "collaborators" : 33,
         "stars"         : 7,
         "forks"         : 6,
         "openIssues"    : 3,
@@ -382,30 +383,30 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 458,
+          "heat"          : 462,
           "watchers"      : 65,
-          "size"          : 1388,
-          "collaborators" : 32,
+          "size"          : 1403,
+          "collaborators" : 33,
           "stars"         : 65,
           "forks"         : 40,
-          "openIssues"    : 12,
+          "openIssues"    : 10,
           "languages"     : {
-            "TypeScript" : 306789,
+            "TypeScript" : 306861,
             "HTML" : 10167,
-            "JavaScript" : 404443
+            "JavaScript" : 404551
           }
         },
         {
           "name"          : "js-adapter",
           "description"   : "Hadouken Node Adapter",
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
-          "heat"          : 226,
+          "heat"          : 230,
           "watchers"      : 7,
           "size"          : 1276,
-          "collaborators" : 33,
+          "collaborators" : 34,
           "stars"         : 7,
           "forks"         : 16,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 284645,
             "HTML" : 2074,
@@ -414,17 +415,17 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 684,
+        "heat"          : 692,
         "watchers"      : 72,
-        "size"          : 2664,
-        "collaborators" : 65,
+        "size"          : 2679,
+        "collaborators" : 67,
         "stars"         : 72,
         "forks"         : 56,
-        "openIssues"    : 15,
+        "openIssues"    : 14,
         "languages"     : {
-          "TypeScript" : 591434,
+          "TypeScript" : 591506,
           "HTML" : 12241,
-          "JavaScript" : 410931
+          "JavaScript" : 411039
         }
       }
     },
@@ -487,13 +488,13 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 160,
+          "heat"          : 164,
           "watchers"      : 6,
-          "size"          : 571,
-          "collaborators" : 32,
+          "size"          : 572,
+          "collaborators" : 33,
           "stars"         : 6,
           "forks"         : 4,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 67557,
             "HTML" : 4676,
@@ -503,13 +504,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 160,
+        "heat"          : 164,
         "watchers"      : 6,
-        "size"          : 571,
-        "collaborators" : 32,
+        "size"          : 572,
+        "collaborators" : 33,
         "stars"         : 6,
         "forks"         : 4,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 67557,
           "HTML" : 4676,
@@ -531,13 +532,13 @@
           "name"          : "notifications-service",
           "description"   : "",
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
-          "heat"          : 136,
+          "heat"          : 140,
           "watchers"      : 4,
-          "size"          : 6018,
-          "collaborators" : 32,
+          "size"          : 6207,
+          "collaborators" : 33,
           "stars"         : 4,
           "forks"         : 0,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 100831,
             "CSS" : 28507,
@@ -548,13 +549,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 136,
+        "heat"          : 140,
         "watchers"      : 4,
-        "size"          : 6018,
-        "collaborators" : 32,
+        "size"          : 6207,
+        "collaborators" : 33,
         "stars"         : 4,
         "forks"         : 0,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 100831,
           "CSS" : 28507,
@@ -1867,7 +1868,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 493,
+          "size"          : 501,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -1897,7 +1898,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 42,
         "watchers"      : 0,
-        "size"          : 765,
+        "size"          : 773,
         "collaborators" : 8,
         "stars"         : 0,
         "forks"         : 2,
@@ -1961,22 +1962,22 @@
           "name"          : "symphony-api-spec",
           "description"   : "Swagger definitions for Symphony LLC public REST API ",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
-          "heat"          : 90,
+          "heat"          : 85,
           "watchers"      : 5,
           "size"          : 179,
           "collaborators" : 5,
           "stars"         : 5,
-          "forks"         : 12,
+          "forks"         : 11,
           "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 90,
+        "heat"          : 85,
         "watchers"      : 5,
         "size"          : 179,
         "collaborators" : 5,
         "stars"         : 5,
-        "forks"         : 12,
+        "forks"         : 11,
         "openIssues"    : 2
       }
     },
@@ -2130,7 +2131,7 @@
           "collaborators" : 7,
           "stars"         : 28,
           "forks"         : 25,
-          "openIssues"    : 8,
+          "openIssues"    : 7,
           "languages"     : {
             "Java" : 695383,
             "Shell" : 1987
@@ -2155,11 +2156,11 @@
           "name"          : "symphony-java-sample-bots",
           "description"   : "A set of simple Bots for Symphony, implemented in Java.",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-sample-bots",
-          "heat"          : 102,
-          "watchers"      : 18,
+          "heat"          : 104,
+          "watchers"      : 19,
           "size"          : 932,
           "collaborators" : 4,
-          "stars"         : 18,
+          "stars"         : 19,
           "forks"         : 10,
           "openIssues"    : 4,
           "languages"     : {
@@ -2169,13 +2170,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 365,
-        "watchers"      : 48,
+        "heat"          : 367,
+        "watchers"      : 49,
         "size"          : 3501,
         "collaborators" : 16,
-        "stars"         : 48,
+        "stars"         : 49,
         "forks"         : 41,
-        "openIssues"    : 12,
+        "openIssues"    : 11,
         "languages"     : {
           "Java" : 718953,
           "Shell" : 4382
@@ -2240,13 +2241,13 @@
           "name"          : "python-symphony",
           "description"   : "An importable class that provides methods and objects for interacting with the Symphony Agent API from python",
           "gitHubURL"     : "https://github.com/symphonyoss/python-symphony",
-          "heat"          : 50,
-          "watchers"      : 7,
+          "heat"          : 57,
+          "watchers"      : 8,
           "size"          : 180,
           "collaborators" : 4,
-          "stars"         : 7,
-          "forks"         : 4,
-          "openIssues"    : 5,
+          "stars"         : 8,
+          "forks"         : 5,
+          "openIssues"    : 6,
           "languages"     : {
             "Shell" : 11,
             "Makefile" : 2118,
@@ -2272,13 +2273,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 76,
-        "watchers"      : 7,
+        "heat"          : 83,
+        "watchers"      : 8,
         "size"          : 225,
         "collaborators" : 8,
-        "stars"         : 7,
-        "forks"         : 6,
-        "openIssues"    : 5,
+        "stars"         : 8,
+        "forks"         : 7,
+        "openIssues"    : 6,
         "languages"     : {
           "Shell" : 22,
           "Makefile" : 4236,
@@ -2390,11 +2391,11 @@
           "name"          : "extension-api-examples",
           "description"   : "Examples on how to use the extension API",
           "gitHubURL"     : "https://github.com/symphonyoss/extension-api-examples",
-          "heat"          : 122,
-          "watchers"      : 11,
+          "heat"          : 124,
+          "watchers"      : 12,
           "size"          : 1056,
           "collaborators" : 5,
-          "stars"         : 11,
+          "stars"         : 12,
           "forks"         : 16,
           "openIssues"    : 8,
           "languages"     : {
@@ -2417,11 +2418,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 211,
-        "watchers"      : 19,
+        "heat"          : 213,
+        "watchers"      : 20,
         "size"          : 1491,
         "collaborators" : 17,
-        "stars"         : 19,
+        "stars"         : 20,
         "forks"         : 21,
         "openIssues"    : 9,
         "languages"     : {
@@ -2491,7 +2492,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 795,
+          "size"          : 905,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
@@ -2520,7 +2521,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 50,
         "watchers"      : 0,
-        "size"          : 858,
+        "size"          : 968,
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 2,
@@ -3427,7 +3428,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-common",
           "heat"          : 34,
           "watchers"      : 0,
-          "size"          : 373,
+          "size"          : 387,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 2,
@@ -3452,7 +3453,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 59,
         "watchers"      : 0,
-        "size"          : 409,
+        "size"          : 423,
         "collaborators" : 11,
         "stars"         : 0,
         "forks"         : 3,
@@ -3520,12 +3521,12 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 206,
+          "heat"          : 211,
           "watchers"      : 22,
-          "size"          : 33172,
+          "size"          : 33171,
           "collaborators" : 8,
           "stars"         : 22,
-          "forks"         : 26,
+          "forks"         : 27,
           "openIssues"    : 10,
           "languages"     : {
             "Shell" : 5677,
@@ -3553,12 +3554,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 231,
+        "heat"          : 236,
         "watchers"      : 24,
-        "size"          : 33192,
+        "size"          : 33191,
         "collaborators" : 12,
         "stars"         : 24,
-        "forks"         : 27,
+        "forks"         : 28,
         "openIssues"    : 10,
         "languages"     : {
           "C#" : 7673,
@@ -3591,6 +3592,22 @@
       "programName"          : "Symphony",
       "programShortName"     : "Symphony",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Desktop Wrapper API WG",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-02-08",
+      "archiveDate"          : "2018-05-12",
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "wg-api@symphony.foundation",
+          "webArchiveUrl" : "https://groups.google.com/a/symphony.foundation/forum/#!forum/wg-api"
+        }
+      ]
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "Hashtag Standardization WG",
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
@@ -3604,6 +3621,41 @@
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
       "contributionDate"     : "2018-02-28"
+    },
+    {
+      "programName"          : "Voice, Voice Metadata, and Voice API",
+      "programShortName"     : "Voice",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/VOICE/overview",
+      "activityName"         : "Greenkey SDK",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-05-25",
+      "tags"                 : [
+        "rest api client"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "greenkey-sdk",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/finos-voice/greenkey-sdk",
+          "heat"          : 8,
+          "watchers"      : 0,
+          "size"          : 4,
+          "collaborators" : 2,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 8,
+        "watchers"      : 0,
+        "size"          : 4,
+        "collaborators" : 2,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
     }
   ],
   "allTags" : [
