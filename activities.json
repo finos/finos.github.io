@@ -385,15 +385,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 462,
           "watchers"      : 65,
-          "size"          : 1403,
+          "size"          : 1404,
           "collaborators" : 33,
           "stars"         : 65,
           "forks"         : 40,
-          "openIssues"    : 10,
+          "openIssues"    : 9,
           "languages"     : {
             "TypeScript" : 306861,
             "HTML" : 10167,
-            "JavaScript" : 404551
+            "JavaScript" : 405119
           }
         },
         {
@@ -417,15 +417,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 692,
         "watchers"      : 72,
-        "size"          : 2679,
+        "size"          : 2680,
         "collaborators" : 67,
         "stars"         : 72,
         "forks"         : 56,
-        "openIssues"    : 14,
+        "openIssues"    : 13,
         "languages"     : {
           "TypeScript" : 591506,
           "HTML" : 12241,
-          "JavaScript" : 411039
+          "JavaScript" : 411607
         }
       }
     },
@@ -2200,28 +2200,28 @@
           "name"          : "symphony-node-binding",
           "description"   : "A node.js symphony api implementation",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-node-binding",
-          "heat"          : 73,
+          "heat"          : 77,
           "watchers"      : 1,
           "size"          : 16,
-          "collaborators" : 4,
+          "collaborators" : 5,
           "stars"         : 1,
           "forks"         : 11,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
-            "JavaScript" : 12037
+            "JavaScript" : 27853
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 73,
+        "heat"          : 77,
         "watchers"      : 1,
         "size"          : 16,
-        "collaborators" : 4,
+        "collaborators" : 5,
         "stars"         : 1,
         "forks"         : 11,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
-          "JavaScript" : 12037
+          "JavaScript" : 27853
         }
       }
     },
@@ -2251,7 +2251,7 @@
           "languages"     : {
             "Shell" : 11,
             "Makefile" : 2118,
-            "Python" : 80744
+            "Python" : 80746
           }
         },
         {
@@ -2283,7 +2283,7 @@
         "languages"     : {
           "Shell" : 22,
           "Makefile" : 4236,
-          "Python" : 84193
+          "Python" : 84195
         }
       }
     },
@@ -3620,7 +3620,13 @@
       "activityName"         : "Call Metadata Standardization",
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
-      "contributionDate"     : "2018-02-28"
+      "contributionDate"     : "2018-02-28",
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "voice-call-metadata-standardization@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/voice-call-metadata-standardization"
+        }
+      ]
     },
     {
       "programName"          : "Voice, Voice Metadata, and Voice API",
