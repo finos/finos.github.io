@@ -408,13 +408,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 230,
           "watchers"      : 7,
-          "size"          : 1276,
+          "size"          : 1316,
           "collaborators" : 34,
           "stars"         : 7,
           "forks"         : 16,
-          "openIssues"    : 5,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 284645,
+            "TypeScript" : 285933,
             "HTML" : 2074,
             "JavaScript" : 6488
           }
@@ -423,13 +423,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 692,
         "watchers"      : 72,
-        "size"          : 2680,
+        "size"          : 2720,
         "collaborators" : 67,
         "stars"         : 72,
         "forks"         : 56,
-        "openIssues"    : 15,
+        "openIssues"    : 14,
         "languages"     : {
-          "TypeScript" : 591506,
+          "TypeScript" : 592794,
           "HTML" : 12241,
           "JavaScript" : 411607
         }
@@ -540,11 +540,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 140,
           "watchers"      : 4,
-          "size"          : 6207,
+          "size"          : 6210,
           "collaborators" : 33,
           "stars"         : 4,
           "forks"         : 0,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 100831,
             "CSS" : 28507,
@@ -557,11 +557,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 140,
         "watchers"      : 4,
-        "size"          : 6207,
+        "size"          : 6210,
         "collaborators" : 33,
         "stars"         : 4,
         "forks"         : 0,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 100831,
           "CSS" : 28507,
@@ -618,6 +618,42 @@
           "FreeMarker" : 7545,
           "Clojure" : 53694
         }
+      }
+    },
+    {
+      "programName"          : "Open Source Readiness",
+      "programShortName"     : "OSR",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/OSR/overview",
+      "activityName"         : "Reference FOSS Policy",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-05-28",
+      "tags"                 : [
+        "policy",
+        "reference"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "reference-foss-policy",
+          "description"   : "Reference FOSS Policy for Financial Services Institutions",
+          "gitHubURL"     : "https://github.com/finos-osr/reference-foss-policy",
+          "heat"          : 12,
+          "watchers"      : 0,
+          "size"          : 57,
+          "collaborators" : 3,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 12,
+        "watchers"      : 0,
+        "size"          : 57,
+        "collaborators" : 3,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
       }
     },
     {
@@ -3707,7 +3743,9 @@
     "library",
     "nlp/ml",
     "node.js",
+    "policy",
     "pull requests",
+    "reference",
     "rest api client",
     "salesforce",
     "sample",
