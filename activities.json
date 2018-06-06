@@ -395,7 +395,7 @@
           "collaborators" : 33,
           "stars"         : 65,
           "forks"         : 40,
-          "openIssues"    : 10,
+          "openIssues"    : 12,
           "languages"     : {
             "TypeScript" : 306861,
             "HTML" : 10167,
@@ -406,31 +406,31 @@
           "name"          : "js-adapter",
           "description"   : "Hadouken Node Adapter",
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
-          "heat"          : 230,
-          "watchers"      : 7,
-          "size"          : 1316,
+          "heat"          : 232,
+          "watchers"      : 8,
+          "size"          : 1319,
           "collaborators" : 34,
-          "stars"         : 7,
+          "stars"         : 8,
           "forks"         : 16,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 285933,
-            "HTML" : 2074,
+            "TypeScript" : 290003,
+            "HTML" : 2335,
             "JavaScript" : 6488
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 692,
-        "watchers"      : 72,
-        "size"          : 2720,
+        "heat"          : 694,
+        "watchers"      : 73,
+        "size"          : 2723,
         "collaborators" : 67,
-        "stars"         : 72,
+        "stars"         : 73,
         "forks"         : 56,
-        "openIssues"    : 14,
+        "openIssues"    : 15,
         "languages"     : {
-          "TypeScript" : 592794,
-          "HTML" : 12241,
+          "TypeScript" : 596864,
+          "HTML" : 12502,
           "JavaScript" : 411607
         }
       }
@@ -496,32 +496,32 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 164,
           "watchers"      : 6,
-          "size"          : 572,
+          "size"          : 696,
           "collaborators" : 33,
           "stars"         : 6,
           "forks"         : 4,
-          "openIssues"    : 3,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 67557,
-            "HTML" : 4676,
+            "TypeScript" : 63088,
+            "HTML" : 4672,
             "CSS" : 1315,
-            "JavaScript" : 6040
+            "JavaScript" : 9508
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 164,
         "watchers"      : 6,
-        "size"          : 572,
+        "size"          : 696,
         "collaborators" : 33,
         "stars"         : 6,
         "forks"         : 4,
-        "openIssues"    : 3,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 67557,
-          "HTML" : 4676,
+          "TypeScript" : 63088,
+          "HTML" : 4672,
           "CSS" : 1315,
-          "JavaScript" : 6040
+          "JavaScript" : 9508
         }
       }
     },
@@ -540,7 +540,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 140,
           "watchers"      : 4,
-          "size"          : 6210,
+          "size"          : 6211,
           "collaborators" : 33,
           "stars"         : 4,
           "forks"         : 0,
@@ -557,7 +557,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 140,
         "watchers"      : 4,
-        "size"          : 6210,
+        "size"          : 6211,
         "collaborators" : 33,
         "stars"         : 4,
         "forks"         : 0,
@@ -684,11 +684,11 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 708,
           "watchers"      : 238,
-          "size"          : 5445,
+          "size"          : 5628,
           "collaborators" : 8,
           "stars"         : 238,
           "forks"         : 40,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 1016601,
             "C#" : 1476002,
@@ -705,11 +705,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 708,
         "watchers"      : 238,
-        "size"          : 5445,
+        "size"          : 5628,
         "collaborators" : 8,
         "stars"         : 238,
         "forks"         : 40,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 1016601,
           "C#" : 1476002,
@@ -2006,22 +2006,22 @@
           "name"          : "symphony-api-spec",
           "description"   : "Swagger definitions for Symphony LLC public REST API ",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
-          "heat"          : 85,
+          "heat"          : 90,
           "watchers"      : 5,
           "size"          : 179,
           "collaborators" : 5,
           "stars"         : 5,
-          "forks"         : 11,
+          "forks"         : 12,
           "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 85,
+        "heat"          : 90,
         "watchers"      : 5,
         "size"          : 179,
         "collaborators" : 5,
         "stars"         : 5,
-        "forks"         : 11,
+        "forks"         : 12,
         "openIssues"    : 2
       }
     },
@@ -2200,12 +2200,12 @@
           "name"          : "symphony-java-sample-bots",
           "description"   : "A set of simple Bots for Symphony, implemented in Java.",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-sample-bots",
-          "heat"          : 104,
+          "heat"          : 109,
           "watchers"      : 19,
           "size"          : 932,
           "collaborators" : 4,
           "stars"         : 19,
-          "forks"         : 10,
+          "forks"         : 11,
           "openIssues"    : 4,
           "languages"     : {
             "Java" : 23570,
@@ -2214,12 +2214,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 372,
+        "heat"          : 377,
         "watchers"      : 49,
         "size"          : 3501,
         "collaborators" : 16,
         "stars"         : 49,
-        "forks"         : 42,
+        "forks"         : 43,
         "openIssues"    : 11,
         "languages"     : {
           "Java" : 718953,
@@ -2285,11 +2285,11 @@
           "name"          : "python-symphony",
           "description"   : "An importable class that provides methods and objects for interacting with the Symphony Agent API from python",
           "gitHubURL"     : "https://github.com/symphonyoss/python-symphony",
-          "heat"          : 62,
-          "watchers"      : 8,
+          "heat"          : 64,
+          "watchers"      : 9,
           "size"          : 180,
           "collaborators" : 4,
-          "stars"         : 8,
+          "stars"         : 9,
           "forks"         : 6,
           "openIssues"    : 6,
           "languages"     : {
@@ -2317,11 +2317,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 88,
-        "watchers"      : 8,
+        "heat"          : 90,
+        "watchers"      : 9,
         "size"          : 225,
         "collaborators" : 8,
-        "stars"         : 8,
+        "stars"         : 9,
         "forks"         : 8,
         "openIssues"    : 6,
         "languages"     : {
@@ -2435,12 +2435,12 @@
           "name"          : "extension-api-examples",
           "description"   : "Examples on how to use the extension API",
           "gitHubURL"     : "https://github.com/symphonyoss/extension-api-examples",
-          "heat"          : 124,
+          "heat"          : 129,
           "watchers"      : 12,
           "size"          : 1056,
           "collaborators" : 5,
           "stars"         : 12,
-          "forks"         : 16,
+          "forks"         : 17,
           "openIssues"    : 8,
           "languages"     : {
             "HTML" : 6781,
@@ -2462,12 +2462,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 213,
+        "heat"          : 218,
         "watchers"      : 20,
         "size"          : 1491,
         "collaborators" : 17,
         "stars"         : 20,
-        "forks"         : 21,
+        "forks"         : 22,
         "openIssues"    : 9,
         "languages"     : {
           "Java" : 114904,
@@ -3262,7 +3262,7 @@
           "collaborators" : 7,
           "stars"         : 4,
           "forks"         : 10,
-          "openIssues"    : 10,
+          "openIssues"    : 9,
           "languages"     : {
             "C#" : 4124024,
             "PowerShell" : 1467,
@@ -3302,7 +3302,7 @@
         "collaborators" : 14,
         "stars"         : 4,
         "forks"         : 14,
-        "openIssues"    : 12,
+        "openIssues"    : 11,
         "languages"     : {
           "C#" : 4320034,
           "PowerShell" : 4773,
@@ -3474,12 +3474,12 @@
           "name"          : "S2-common",
           "description"   : "S2 Common Classes - for consumption by SBE and S2",
           "gitHubURL"     : "https://github.com/symphonyoss/S2-common",
-          "heat"          : 34,
+          "heat"          : 39,
           "watchers"      : 0,
           "size"          : 391,
           "collaborators" : 6,
           "stars"         : 0,
-          "forks"         : 2,
+          "forks"         : 3,
           "openIssues"    : 0,
           "languages"     : {
             "Java" : 422672
@@ -3499,12 +3499,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 59,
+        "heat"          : 64,
         "watchers"      : 0,
         "size"          : 427,
         "collaborators" : 11,
         "stars"         : 0,
-        "forks"         : 3,
+        "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
           "Java" : 422672
@@ -3571,16 +3571,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 215,
           "watchers"      : 22,
-          "size"          : 33171,
+          "size"          : 33218,
           "collaborators" : 9,
           "stars"         : 22,
           "forks"         : 27,
-          "openIssues"    : 11,
+          "openIssues"    : 5,
           "languages"     : {
             "Shell" : 5677,
-            "CSS" : 3308,
+            "CSS" : 3497,
             "Batchfile" : 552,
-            "JavaScript" : 421356,
+            "JavaScript" : 425652,
             "HTML" : 13825,
             "Objective_C" : 6006
           }
@@ -3604,17 +3604,17 @@
       "cumulativeGitHubStats" : {
         "heat"          : 240,
         "watchers"      : 24,
-        "size"          : 33191,
+        "size"          : 33238,
         "collaborators" : 13,
         "stars"         : 24,
         "forks"         : 28,
-        "openIssues"    : 11,
+        "openIssues"    : 5,
         "languages"     : {
           "C#" : 7673,
           "Shell" : 5677,
-          "CSS" : 3308,
+          "CSS" : 3497,
           "Batchfile" : 552,
-          "JavaScript" : 421356,
+          "JavaScript" : 425652,
           "HTML" : 13825,
           "Objective_C" : 6006
         }
