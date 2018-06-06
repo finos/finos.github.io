@@ -377,6 +377,48 @@
       "programName"          : "Hadouken",
       "programShortName"     : "Hadouken",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/HAD/overview",
+      "activityName"         : "Desktop Services",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-06-05",
+      "tags"                 : [
+        "build",
+        "deploy"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "service-utils",
+          "description"   : "all things common across desktop services - build/deploy utils, etc.",
+          "gitHubURL"     : "https://github.com/HadoukenIO/service-utils",
+          "heat"          : 132,
+          "watchers"      : 0,
+          "size"          : 2,
+          "collaborators" : 33,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "JavaScript" : 4041
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 132,
+        "watchers"      : 0,
+        "size"          : 2,
+        "collaborators" : 33,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "JavaScript" : 4041
+        }
+      }
+    },
+    {
+      "programName"          : "Hadouken",
+      "programShortName"     : "Hadouken",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/HAD/overview",
       "activityName"         : "Hadouken",
       "type"                 : "PROJECT",
       "state"                : "INCUBATING",
@@ -391,15 +433,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 462,
           "watchers"      : 65,
-          "size"          : 1404,
+          "size"          : 1424,
           "collaborators" : 33,
           "stars"         : 65,
           "forks"         : 40,
-          "openIssues"    : 12,
+          "openIssues"    : 10,
           "languages"     : {
             "TypeScript" : 306861,
             "HTML" : 10167,
-            "JavaScript" : 405119
+            "JavaScript" : 405114
           }
         },
         {
@@ -423,15 +465,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 694,
         "watchers"      : 73,
-        "size"          : 2723,
+        "size"          : 2743,
         "collaborators" : 67,
         "stars"         : 73,
         "forks"         : 56,
-        "openIssues"    : 15,
+        "openIssues"    : 13,
         "languages"     : {
           "TypeScript" : 596864,
           "HTML" : 12502,
-          "JavaScript" : 411607
+          "JavaScript" : 411602
         }
       }
     },
@@ -500,7 +542,7 @@
           "collaborators" : 33,
           "stars"         : 6,
           "forks"         : 4,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 63088,
             "HTML" : 4672,
@@ -516,7 +558,7 @@
         "collaborators" : 33,
         "stars"         : 6,
         "forks"         : 4,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 63088,
           "HTML" : 4672,
@@ -684,42 +726,42 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 708,
           "watchers"      : 238,
-          "size"          : 5628,
+          "size"          : 5629,
           "collaborators" : 8,
           "stars"         : 238,
           "forks"         : 40,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 1016601,
-            "C#" : 1476002,
-            "Xtend" : 178083,
-            "Java" : 70022,
+            "TypeScript" : 1029021,
+            "C#" : 1522330,
+            "Xtend" : 215199,
+            "Java" : 70820,
             "Shell" : 550,
             "CSS" : 555,
             "Batchfile" : 8254,
             "JavaScript" : 1025115,
-            "HTML" : 11900
+            "HTML" : 12977
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 708,
         "watchers"      : 238,
-        "size"          : 5628,
+        "size"          : 5629,
         "collaborators" : 8,
         "stars"         : 238,
         "forks"         : 40,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 1016601,
-          "C#" : 1476002,
-          "Xtend" : 178083,
-          "Java" : 70022,
+          "TypeScript" : 1029021,
+          "C#" : 1522330,
+          "Xtend" : 215199,
+          "Java" : 70820,
           "Shell" : 550,
           "CSS" : 555,
           "Batchfile" : 8254,
           "JavaScript" : 1025115,
-          "HTML" : 11900
+          "HTML" : 12977
         }
       }
     },
@@ -3723,8 +3765,10 @@
     "authentication",
     "bitbucket",
     "bot",
+    "build",
     "calendar",
     "chatops",
+    "deploy",
     "desktop",
     "desktop technology",
     "developer productivity",
