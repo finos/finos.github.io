@@ -433,15 +433,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 462,
           "watchers"      : 65,
-          "size"          : 1424,
+          "size"          : 1496,
           "collaborators" : 33,
           "stars"         : 65,
           "forks"         : 40,
-          "openIssues"    : 10,
+          "openIssues"    : 7,
           "languages"     : {
-            "TypeScript" : 306861,
+            "TypeScript" : 330352,
             "HTML" : 10167,
-            "JavaScript" : 405114
+            "JavaScript" : 405428
           }
         },
         {
@@ -450,13 +450,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 232,
           "watchers"      : 8,
-          "size"          : 1319,
+          "size"          : 1328,
           "collaborators" : 34,
           "stars"         : 8,
           "forks"         : 16,
-          "openIssues"    : 3,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 290003,
+            "TypeScript" : 297384,
             "HTML" : 2335,
             "JavaScript" : 6488
           }
@@ -465,15 +465,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 694,
         "watchers"      : 73,
-        "size"          : 2743,
+        "size"          : 2824,
         "collaborators" : 67,
         "stars"         : 73,
         "forks"         : 56,
-        "openIssues"    : 13,
+        "openIssues"    : 8,
         "languages"     : {
-          "TypeScript" : 596864,
+          "TypeScript" : 627736,
           "HTML" : 12502,
-          "JavaScript" : 411602
+          "JavaScript" : 411916
         }
       }
     },
@@ -542,7 +542,7 @@
           "collaborators" : 33,
           "stars"         : 6,
           "forks"         : 4,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 63088,
             "HTML" : 4672,
@@ -558,7 +558,7 @@
         "collaborators" : 33,
         "stars"         : 6,
         "forks"         : 4,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 63088,
           "HTML" : 4672,
@@ -580,12 +580,12 @@
           "name"          : "notifications-service",
           "description"   : "",
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
-          "heat"          : 140,
+          "heat"          : 145,
           "watchers"      : 4,
-          "size"          : 6211,
+          "size"          : 6207,
           "collaborators" : 33,
           "stars"         : 4,
-          "forks"         : 0,
+          "forks"         : 1,
           "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 100831,
@@ -597,12 +597,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 140,
+        "heat"          : 145,
         "watchers"      : 4,
-        "size"          : 6211,
+        "size"          : 6207,
         "collaborators" : 33,
         "stars"         : 4,
-        "forks"         : 0,
+        "forks"         : 1,
         "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 100831,
@@ -726,7 +726,7 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 708,
           "watchers"      : 238,
-          "size"          : 5629,
+          "size"          : 5634,
           "collaborators" : 8,
           "stars"         : 238,
           "forks"         : 40,
@@ -747,7 +747,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 708,
         "watchers"      : 238,
-        "size"          : 5629,
+        "size"          : 5634,
         "collaborators" : 8,
         "stars"         : 238,
         "forks"         : 40,
@@ -2083,11 +2083,11 @@
           "name"          : "clj-symphony",
           "description"   : "An idiomatic Clojure wrapper for the symphony-java-client",
           "gitHubURL"     : "https://github.com/symphonyoss/clj-symphony",
-          "heat"          : 43,
-          "watchers"      : 3,
+          "heat"          : 45,
+          "watchers"      : 4,
           "size"          : 214,
           "collaborators" : 3,
-          "stars"         : 3,
+          "stars"         : 4,
           "forks"         : 5,
           "openIssues"    : 1,
           "languages"     : {
@@ -2096,11 +2096,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 43,
-        "watchers"      : 3,
+        "heat"          : 45,
+        "watchers"      : 4,
         "size"          : 214,
         "collaborators" : 3,
-        "stars"         : 3,
+        "stars"         : 4,
         "forks"         : 5,
         "openIssues"    : 1,
         "languages"     : {
@@ -3570,26 +3570,26 @@
           "name"          : "ScreenSnippet",
           "description"   : "Screen snippet utility for Windows.",
           "gitHubURL"     : "https://github.com/symphonyoss/ScreenSnippet",
-          "heat"          : 41,
+          "heat"          : 46,
           "watchers"      : 0,
           "size"          : 21,
           "collaborators" : 4,
           "stars"         : 0,
-          "forks"         : 5,
-          "openIssues"    : 0,
+          "forks"         : 6,
+          "openIssues"    : 1,
           "languages"     : {
             "C#" : 17695
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 41,
+        "heat"          : 46,
         "watchers"      : 0,
         "size"          : 21,
         "collaborators" : 4,
         "stars"         : 0,
-        "forks"         : 5,
-        "openIssues"    : 0,
+        "forks"         : 6,
+        "openIssues"    : 1,
         "languages"     : {
           "C#" : 17695
         }
@@ -3613,16 +3613,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 215,
           "watchers"      : 22,
-          "size"          : 33218,
+          "size"          : 33207,
           "collaborators" : 9,
           "stars"         : 22,
           "forks"         : 27,
-          "openIssues"    : 5,
+          "openIssues"    : 8,
           "languages"     : {
             "Shell" : 5677,
             "CSS" : 3497,
             "Batchfile" : 552,
-            "JavaScript" : 425652,
+            "JavaScript" : 425211,
             "HTML" : 13825,
             "Objective_C" : 6006
           }
@@ -3646,17 +3646,17 @@
       "cumulativeGitHubStats" : {
         "heat"          : 240,
         "watchers"      : 24,
-        "size"          : 33238,
+        "size"          : 33227,
         "collaborators" : 13,
         "stars"         : 24,
         "forks"         : 28,
-        "openIssues"    : 5,
+        "openIssues"    : 8,
         "languages"     : {
           "C#" : 7673,
           "Shell" : 5677,
           "CSS" : 3497,
           "Batchfile" : 552,
-          "JavaScript" : 425652,
+          "JavaScript" : 425211,
           "HTML" : 13825,
           "Objective_C" : 6006
         }
