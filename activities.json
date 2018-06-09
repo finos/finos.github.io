@@ -496,7 +496,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
           "heat"          : 252,
           "watchers"      : 22,
-          "size"          : 14260,
+          "size"          : 14272,
           "collaborators" : 37,
           "stars"         : 22,
           "forks"         : 12,
@@ -511,7 +511,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 252,
         "watchers"      : 22,
-        "size"          : 14260,
+        "size"          : 14272,
         "collaborators" : 37,
         "stars"         : 22,
         "forks"         : 12,
@@ -3617,7 +3617,7 @@
           "collaborators" : 9,
           "stars"         : 22,
           "forks"         : 27,
-          "openIssues"    : 8,
+          "openIssues"    : 9,
           "languages"     : {
             "Shell" : 5677,
             "CSS" : 3497,
@@ -3650,7 +3650,7 @@
         "collaborators" : 13,
         "stars"         : 24,
         "forks"         : 28,
-        "openIssues"    : 8,
+        "openIssues"    : 9,
         "languages"     : {
           "C#" : 7673,
           "Shell" : 5677,
