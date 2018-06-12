@@ -2329,7 +2329,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/python-symphony",
           "heat"          : 64,
           "watchers"      : 9,
-          "size"          : 180,
+          "size"          : 181,
           "collaborators" : 4,
           "stars"         : 9,
           "forks"         : 6,
@@ -2361,7 +2361,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 90,
         "watchers"      : 9,
-        "size"          : 225,
+        "size"          : 226,
         "collaborators" : 8,
         "stars"         : 9,
         "forks"         : 8,
@@ -3707,21 +3707,6 @@
       "programName"          : "Voice, Voice Metadata, and Voice API",
       "programShortName"     : "Voice",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/VOICE/overview",
-      "activityName"         : "Call Metadata Standardization",
-      "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
-      "contributionDate"     : "2018-02-28",
-      "mailingLists"       : [
-        {
-          "emailAddress"  : "voice-call-metadata-standardization@finos.org",
-          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/voice-call-metadata-standardization"
-        }
-      ]
-    },
-    {
-      "programName"          : "Voice, Voice Metadata, and Voice API",
-      "programShortName"     : "Voice",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/VOICE/overview",
       "activityName"         : "Greenkey SDK",
       "type"                 : "PROJECT",
       "state"                : "INCUBATING",
@@ -3734,10 +3719,10 @@
           "name"          : "greenkey-sdk",
           "description"   : "",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-sdk",
-          "heat"          : 8,
+          "heat"          : 16,
           "watchers"      : 0,
           "size"          : 131,
-          "collaborators" : 2,
+          "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 0,
           "openIssues"    : 2,
@@ -3747,10 +3732,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 8,
+        "heat"          : 16,
         "watchers"      : 0,
         "size"          : 131,
-        "collaborators" : 2,
+        "collaborators" : 4,
         "stars"         : 0,
         "forks"         : 0,
         "openIssues"    : 2,
@@ -3758,6 +3743,44 @@
           "JavaScript" : 7557
         }
       }
+    },
+    {
+      "programName"          : "Voice, Voice Metadata, and Voice API",
+      "programShortName"     : "Voice",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/VOICE/overview",
+      "activityName"         : "Voice Metadata Standardization",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2018-02-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "voice-metadata-standard",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/finos-voice/voice-metadata-standard",
+          "heat"          : 8,
+          "watchers"      : 0,
+          "size"          : 1,
+          "collaborators" : 2,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 8,
+        "watchers"      : 0,
+        "size"          : 1,
+        "collaborators" : 2,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      },
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "voice-call-metadata-standardization@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/voice-call-metadata-standardization"
+        }
+      ]
     }
   ],
   "allTags" : [
