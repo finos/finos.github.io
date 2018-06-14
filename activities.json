@@ -437,7 +437,7 @@
           "collaborators" : 33,
           "stars"         : 66,
           "forks"         : 40,
-          "openIssues"    : 10,
+          "openIssues"    : 11,
           "languages"     : {
             "TypeScript" : 330352,
             "HTML" : 10167,
@@ -454,7 +454,7 @@
           "collaborators" : 34,
           "stars"         : 8,
           "forks"         : 16,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 299601,
             "HTML" : 2335,
@@ -469,7 +469,7 @@
         "collaborators" : 67,
         "stars"         : 74,
         "forks"         : 56,
-        "openIssues"    : 11,
+        "openIssues"    : 13,
         "languages"     : {
           "TypeScript" : 629953,
           "HTML" : 12502,
@@ -496,7 +496,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
           "heat"          : 252,
           "watchers"      : 22,
-          "size"          : 14272,
+          "size"          : 14282,
           "collaborators" : 37,
           "stars"         : 22,
           "forks"         : 12,
@@ -511,7 +511,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 252,
         "watchers"      : 22,
-        "size"          : 14272,
+        "size"          : 14282,
         "collaborators" : 37,
         "stars"         : 22,
         "forks"         : 12,
@@ -635,7 +635,7 @@
           "gitHubURL"     : "https://github.com/finos-osr/bot-github-chatops",
           "heat"          : 27,
           "watchers"      : 3,
-          "size"          : 351,
+          "size"          : 347,
           "collaborators" : 4,
           "stars"         : 3,
           "forks"         : 1,
@@ -650,7 +650,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 27,
         "watchers"      : 3,
-        "size"          : 351,
+        "size"          : 347,
         "collaborators" : 4,
         "stars"         : 3,
         "forks"         : 1,
@@ -726,7 +726,7 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 718,
           "watchers"      : 238,
-          "size"          : 5634,
+          "size"          : 5638,
           "collaborators" : 8,
           "stars"         : 238,
           "forks"         : 42,
@@ -747,7 +747,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 718,
         "watchers"      : 238,
-        "size"          : 5634,
+        "size"          : 5638,
         "collaborators" : 8,
         "stars"         : 238,
         "forks"         : 42,
@@ -1227,11 +1227,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/GroupID",
           "heat"          : 46,
           "watchers"      : 0,
-          "size"          : 24537,
+          "size"          : 24543,
           "collaborators" : 9,
           "stars"         : 0,
           "forks"         : 2,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "Java" : 735956,
             "HTML" : 41867,
@@ -1243,11 +1243,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 46,
         "watchers"      : 0,
-        "size"          : 24537,
+        "size"          : 24543,
         "collaborators" : 9,
         "stars"         : 0,
         "forks"         : 2,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
           "Java" : 735956,
           "HTML" : 41867,
@@ -1781,7 +1781,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/bot-unfurl",
           "heat"          : 33,
           "watchers"      : 3,
-          "size"          : 703,
+          "size"          : 701,
           "collaborators" : 3,
           "stars"         : 3,
           "forks"         : 3,
@@ -1795,7 +1795,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 33,
         "watchers"      : 3,
-        "size"          : 703,
+        "size"          : 701,
         "collaborators" : 3,
         "stars"         : 3,
         "forks"         : 3,
@@ -1960,7 +1960,7 @@
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 446851,
+            "Java" : 446836,
             "FreeMarker" : 127306,
             "JavaScript" : 13681
           }
@@ -1990,7 +1990,7 @@
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 488697,
+          "Java" : 488682,
           "FreeMarker" : 127306,
           "JavaScript" : 13681
         }
@@ -2050,7 +2050,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
           "heat"          : 90,
           "watchers"      : 5,
-          "size"          : 179,
+          "size"          : 173,
           "collaborators" : 5,
           "stars"         : 5,
           "forks"         : 12,
@@ -2060,7 +2060,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 90,
         "watchers"      : 5,
-        "size"          : 179,
+        "size"          : 173,
         "collaborators" : 5,
         "stars"         : 5,
         "forks"         : 12,
@@ -2085,7 +2085,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/clj-symphony",
           "heat"          : 45,
           "watchers"      : 4,
-          "size"          : 214,
+          "size"          : 215,
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 5,
@@ -2098,7 +2098,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 45,
         "watchers"      : 4,
-        "size"          : 214,
+        "size"          : 215,
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 5,
@@ -2578,13 +2578,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 981,
+          "size"          : 997,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 389724,
+            "Java" : 395926,
             "CSS" : 29377,
             "Shell" : 21983,
             "HTML" : 16297
@@ -2609,13 +2609,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 50,
         "watchers"      : 0,
-        "size"          : 1032,
+        "size"          : 1048,
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 412550,
+          "Java" : 418752,
           "CSS" : 29377,
           "Shell" : 21983,
           "HTML" : 16297
@@ -3613,7 +3613,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 215,
           "watchers"      : 22,
-          "size"          : 33242,
+          "size"          : 33243,
           "collaborators" : 9,
           "stars"         : 22,
           "forks"         : 27,
@@ -3646,7 +3646,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 240,
         "watchers"      : 24,
-        "size"          : 33262,
+        "size"          : 33263,
         "collaborators" : 13,
         "stars"         : 24,
         "forks"         : 28,
