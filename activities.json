@@ -185,14 +185,26 @@
           "stars"         : 7,
           "forks"         : 1,
           "openIssues"    : 0
+        },
+        {
+          "name"          : "FDC3-Archive",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/FDC3/FDC3-Archive",
+          "heat"          : 176,
+          "watchers"      : 2,
+          "size"          : 2214,
+          "collaborators" : 43,
+          "stars"         : 2,
+          "forks"         : 0,
+          "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 191,
-        "watchers"      : 7,
-        "size"          : 6,
-        "collaborators" : 43,
-        "stars"         : 7,
+        "heat"          : 367,
+        "watchers"      : 9,
+        "size"          : 2220,
+        "collaborators" : 86,
+        "stars"         : 9,
         "forks"         : 1,
         "openIssues"    : 0
       }
@@ -536,12 +548,12 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 171,
+          "heat"          : 176,
           "watchers"      : 7,
           "size"          : 698,
           "collaborators" : 33,
           "stars"         : 7,
-          "forks"         : 5,
+          "forks"         : 6,
           "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 63088,
@@ -552,12 +564,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 171,
+        "heat"          : 176,
         "watchers"      : 7,
         "size"          : 698,
         "collaborators" : 33,
         "stars"         : 7,
-        "forks"         : 5,
+        "forks"         : 6,
         "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 63088,
@@ -611,6 +623,41 @@
           "Gherkin" : 120,
           "JavaScript" : 12542
         }
+      }
+    },
+    {
+      "programName"          : "Hadouken",
+      "programShortName"     : "Hadouken",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/HAD/overview",
+      "activityName"         : "Zero Downtime Trading Demo",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-06-14",
+      "tags"                 : [
+        "demo"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "zero-downtime-trading-web-ux",
+          "description"   : "Showcases how the OpenFin API, in conjunction with the ODP OpenShift Infrastructure and APIs, can create a powerful experience to live-reload an app and swap its environment from production to UAT",
+          "gitHubURL"     : "https://github.com/HadoukenIO/zero-downtime-trading-web-ux",
+          "heat"          : 136,
+          "watchers"      : 0,
+          "size"          : 0,
+          "collaborators" : 34,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 136,
+        "watchers"      : 0,
+        "size"          : 0,
+        "collaborators" : 34,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
       }
     },
     {
@@ -3791,6 +3838,7 @@
     "build",
     "calendar",
     "chatops",
+    "demo",
     "deploy",
     "desktop",
     "desktop technology",
