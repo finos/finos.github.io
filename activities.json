@@ -348,28 +348,28 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
           "heat"          : 178,
           "watchers"      : 8,
-          "size"          : 145,
+          "size"          : 151,
           "collaborators" : 33,
           "stars"         : 8,
           "forks"         : 6,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
             "HTML" : 534,
-            "JavaScript" : 2382
+            "JavaScript" : 3436
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 178,
         "watchers"      : 8,
-        "size"          : 145,
+        "size"          : 151,
         "collaborators" : 33,
         "stars"         : 8,
         "forks"         : 6,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
           "HTML" : 534,
-          "JavaScript" : 2382
+          "JavaScript" : 3436
         }
       }
     },
@@ -450,13 +450,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 232,
           "watchers"      : 8,
-          "size"          : 1335,
+          "size"          : 1339,
           "collaborators" : 34,
           "stars"         : 8,
           "forks"         : 16,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 299601,
+            "TypeScript" : 299887,
             "HTML" : 2335,
             "JavaScript" : 6380
           }
@@ -465,13 +465,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 698,
         "watchers"      : 75,
-        "size"          : 2856,
+        "size"          : 2860,
         "collaborators" : 67,
         "stars"         : 75,
         "forks"         : 56,
-        "openIssues"    : 14,
+        "openIssues"    : 13,
         "languages"     : {
-          "TypeScript" : 629953,
+          "TypeScript" : 630239,
           "HTML" : 12502,
           "JavaScript" : 411808
         }
