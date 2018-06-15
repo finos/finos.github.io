@@ -346,13 +346,13 @@
           "name"          : "app-template",
           "description"   : "A simple unopinionated Hadouken application template.",
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
-          "heat"          : 176,
-          "watchers"      : 7,
+          "heat"          : 178,
+          "watchers"      : 8,
           "size"          : 145,
           "collaborators" : 33,
-          "stars"         : 7,
+          "stars"         : 8,
           "forks"         : 6,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "HTML" : 534,
             "JavaScript" : 2382
@@ -360,13 +360,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 176,
-        "watchers"      : 7,
+        "heat"          : 178,
+        "watchers"      : 8,
         "size"          : 145,
         "collaborators" : 33,
-        "stars"         : 7,
+        "stars"         : 8,
         "forks"         : 6,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "HTML" : 534,
           "JavaScript" : 2382
@@ -390,11 +390,11 @@
           "name"          : "service-utils",
           "description"   : "all things common across desktop services - build/deploy utils, etc.",
           "gitHubURL"     : "https://github.com/HadoukenIO/service-utils",
-          "heat"          : 132,
-          "watchers"      : 0,
+          "heat"          : 134,
+          "watchers"      : 1,
           "size"          : 2,
           "collaborators" : 33,
-          "stars"         : 0,
+          "stars"         : 1,
           "forks"         : 0,
           "openIssues"    : 0,
           "languages"     : {
@@ -403,11 +403,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 132,
-        "watchers"      : 0,
+        "heat"          : 134,
+        "watchers"      : 1,
         "size"          : 2,
         "collaborators" : 33,
-        "stars"         : 0,
+        "stars"         : 1,
         "forks"         : 0,
         "openIssues"    : 0,
         "languages"     : {
@@ -431,11 +431,11 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 464,
-          "watchers"      : 66,
+          "heat"          : 466,
+          "watchers"      : 67,
           "size"          : 1521,
           "collaborators" : 33,
-          "stars"         : 66,
+          "stars"         : 67,
           "forks"         : 40,
           "openIssues"    : 11,
           "languages"     : {
@@ -454,7 +454,7 @@
           "collaborators" : 34,
           "stars"         : 8,
           "forks"         : 16,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 299601,
             "HTML" : 2335,
@@ -463,13 +463,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 696,
-        "watchers"      : 74,
+        "heat"          : 698,
+        "watchers"      : 75,
         "size"          : 2856,
         "collaborators" : 67,
-        "stars"         : 74,
+        "stars"         : 75,
         "forks"         : 56,
-        "openIssues"    : 13,
+        "openIssues"    : 14,
         "languages"     : {
           "TypeScript" : 629953,
           "HTML" : 12502,
@@ -536,34 +536,34 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 169,
-          "watchers"      : 6,
-          "size"          : 696,
+          "heat"          : 171,
+          "watchers"      : 7,
+          "size"          : 698,
           "collaborators" : 33,
-          "stars"         : 6,
+          "stars"         : 7,
           "forks"         : 5,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 63088,
             "HTML" : 4672,
             "CSS" : 1315,
-            "JavaScript" : 9508
+            "JavaScript" : 7499
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 169,
-        "watchers"      : 6,
-        "size"          : 696,
+        "heat"          : 171,
+        "watchers"      : 7,
+        "size"          : 698,
         "collaborators" : 33,
-        "stars"         : 6,
+        "stars"         : 7,
         "forks"         : 5,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 63088,
           "HTML" : 4672,
           "CSS" : 1315,
-          "JavaScript" : 9508
+          "JavaScript" : 7499
         }
       }
     },
@@ -580,36 +580,36 @@
           "name"          : "notifications-service",
           "description"   : "",
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
-          "heat"          : 145,
-          "watchers"      : 4,
-          "size"          : 6207,
+          "heat"          : 147,
+          "watchers"      : 5,
+          "size"          : 5768,
           "collaborators" : 33,
-          "stars"         : 4,
+          "stars"         : 5,
           "forks"         : 1,
           "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 100831,
-            "CSS" : 28507,
+            "TypeScript" : 107860,
+            "CSS" : 28538,
             "HTML" : 7305,
             "Gherkin" : 120,
-            "JavaScript" : 8805
+            "JavaScript" : 12542
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 145,
-        "watchers"      : 4,
-        "size"          : 6207,
+        "heat"          : 147,
+        "watchers"      : 5,
+        "size"          : 5768,
         "collaborators" : 33,
-        "stars"         : 4,
+        "stars"         : 5,
         "forks"         : 1,
         "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 100831,
-          "CSS" : 28507,
+          "TypeScript" : 107860,
+          "CSS" : 28538,
           "HTML" : 7305,
           "Gherkin" : 120,
-          "JavaScript" : 8805
+          "JavaScript" : 12542
         }
       }
     },
@@ -1954,14 +1954,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 522,
+          "size"          : 545,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
             "Java" : 446836,
-            "FreeMarker" : 127306,
+            "FreeMarker" : 127305,
             "JavaScript" : 13681
           }
         },
@@ -1971,7 +1971,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon-example",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 274,
+          "size"          : 279,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -1984,14 +1984,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 42,
         "watchers"      : 0,
-        "size"          : 796,
+        "size"          : 824,
         "collaborators" : 8,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
           "Java" : 488682,
-          "FreeMarker" : 127306,
+          "FreeMarker" : 127305,
           "JavaScript" : 13681
         }
       }
@@ -2085,26 +2085,26 @@
           "gitHubURL"     : "https://github.com/symphonyoss/clj-symphony",
           "heat"          : 45,
           "watchers"      : 4,
-          "size"          : 215,
+          "size"          : 217,
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 5,
           "openIssues"    : 1,
           "languages"     : {
-            "Clojure" : 60692
+            "Clojure" : 61177
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 45,
         "watchers"      : 4,
-        "size"          : 215,
+        "size"          : 217,
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 5,
         "openIssues"    : 1,
         "languages"     : {
-          "Clojure" : 60692
+          "Clojure" : 61177
         }
       }
     },
@@ -2578,13 +2578,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 997,
+          "size"          : 1005,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 395926,
+            "Java" : 395844,
             "CSS" : 29377,
             "Shell" : 21983,
             "HTML" : 16297
@@ -2609,13 +2609,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 50,
         "watchers"      : 0,
-        "size"          : 1048,
+        "size"          : 1056,
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 418752,
+          "Java" : 418670,
           "CSS" : 29377,
           "Shell" : 21983,
           "HTML" : 16297
@@ -2755,7 +2755,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Core",
           "heat"          : 96,
           "watchers"      : 4,
-          "size"          : 12108,
+          "size"          : 12113,
           "collaborators" : 12,
           "stars"         : 4,
           "forks"         : 8,
@@ -2801,7 +2801,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 266,
         "watchers"      : 6,
-        "size"          : 55521,
+        "size"          : 55526,
         "collaborators" : 41,
         "stars"         : 6,
         "forks"         : 18,
@@ -3518,7 +3518,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-common",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 391,
+          "size"          : 397,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
@@ -3543,7 +3543,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 64,
         "watchers"      : 0,
-        "size"          : 427,
+        "size"          : 433,
         "collaborators" : 11,
         "stars"         : 0,
         "forks"         : 4,
