@@ -58,12 +58,12 @@
           "name"          : "API",
           "description"   : "API Working Group repository",
           "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 193,
+          "heat"          : 198,
           "watchers"      : 3,
           "size"          : 43,
           "collaborators" : 43,
           "stars"         : 3,
-          "forks"         : 3,
+          "forks"         : 4,
           "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 3009
@@ -71,12 +71,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 193,
+        "heat"          : 198,
         "watchers"      : 3,
         "size"          : 43,
         "collaborators" : 43,
         "stars"         : 3,
-        "forks"         : 3,
+        "forks"         : 4,
         "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 3009
@@ -2258,11 +2258,11 @@
           "name"          : "symphony-java-client",
           "description"   : "Java client library for Symphony",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-client",
-          "heat"          : 214,
-          "watchers"      : 28,
+          "heat"          : 216,
+          "watchers"      : 29,
           "size"          : 2445,
           "collaborators" : 7,
-          "stars"         : 28,
+          "stars"         : 29,
           "forks"         : 26,
           "openIssues"    : 7,
           "languages"     : {
@@ -2303,11 +2303,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 377,
-        "watchers"      : 49,
+        "heat"          : 379,
+        "watchers"      : 50,
         "size"          : 3501,
         "collaborators" : 16,
-        "stars"         : 49,
+        "stars"         : 50,
         "forks"         : 43,
         "openIssues"    : 11,
         "languages"     : {
@@ -3669,7 +3669,7 @@
             "Shell" : 5677,
             "CSS" : 3497,
             "Batchfile" : 552,
-            "JavaScript" : 425948,
+            "JavaScript" : 425982,
             "HTML" : 13825,
             "Objective_C" : 6006
           }
@@ -3703,7 +3703,7 @@
           "Shell" : 5677,
           "CSS" : 3497,
           "Batchfile" : 552,
-          "JavaScript" : 425948,
+          "JavaScript" : 425982,
           "HTML" : 13825,
           "Objective_C" : 6006
         }
