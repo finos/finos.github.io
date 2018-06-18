@@ -656,20 +656,20 @@
           "name"          : "zero-downtime-trading-web-ux",
           "description"   : "Showcases how the OpenFin API, in conjunction with the ODP OpenShift Infrastructure and APIs, can create a powerful experience to live-reload an app and swap its environment from production to UAT",
           "gitHubURL"     : "https://github.com/HadoukenIO/zero-downtime-trading-web-ux",
-          "heat"          : 136,
+          "heat"          : 140,
           "watchers"      : 0,
-          "size"          : 0,
-          "collaborators" : 34,
+          "size"          : 1,
+          "collaborators" : 35,
           "stars"         : 0,
           "forks"         : 0,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 136,
+        "heat"          : 140,
         "watchers"      : 0,
-        "size"          : 0,
-        "collaborators" : 34,
+        "size"          : 1,
+        "collaborators" : 35,
         "stars"         : 0,
         "forks"         : 0,
         "openIssues"    : 0
@@ -792,7 +792,7 @@
           "collaborators" : 8,
           "stars"         : 238,
           "forks"         : 42,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 1029021,
             "C#" : 1522330,
@@ -813,7 +813,7 @@
         "collaborators" : 8,
         "stars"         : 238,
         "forks"         : 42,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 1029021,
           "C#" : 1522330,
@@ -3781,11 +3781,11 @@
           "name"          : "greenkey-sdk",
           "description"   : "",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-sdk",
-          "heat"          : 24,
-          "watchers"      : 0,
+          "heat"          : 26,
+          "watchers"      : 1,
           "size"          : 144,
           "collaborators" : 6,
-          "stars"         : 0,
+          "stars"         : 1,
           "forks"         : 0,
           "openIssues"    : 2,
           "languages"     : {
@@ -3794,11 +3794,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 24,
-        "watchers"      : 0,
+        "heat"          : 26,
+        "watchers"      : 1,
         "size"          : 144,
         "collaborators" : 6,
-        "stars"         : 0,
+        "stars"         : 1,
         "forks"         : 0,
         "openIssues"    : 2,
         "languages"     : {
