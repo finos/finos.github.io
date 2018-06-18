@@ -64,7 +64,7 @@
           "collaborators" : 43,
           "stars"         : 3,
           "forks"         : 4,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 3009
           }
@@ -77,7 +77,7 @@
         "collaborators" : 43,
         "stars"         : 3,
         "forks"         : 4,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 3009
         }
@@ -257,6 +257,21 @@
       "contributionDate"     : "2018-02-28"
     },
     {
+      "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
+      "programShortName"     : "FDC3",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
+      "activityName"         : "FDC3 Use Case WG",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2018-05-18",
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "fdc3-use-case@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdc3-use-case"
+        }
+      ]
+    },
+    {
       "programName"          : "FinServ Developer Experience",
       "programShortName"     : "FDX",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
@@ -364,7 +379,7 @@
           "collaborators" : 33,
           "stars"         : 8,
           "forks"         : 6,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
             "HTML" : 534,
             "JavaScript" : 3436
@@ -378,7 +393,7 @@
         "collaborators" : 33,
         "stars"         : 8,
         "forks"         : 6,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
           "HTML" : 534,
           "JavaScript" : 3436
@@ -2095,22 +2110,22 @@
           "name"          : "symphony-api-spec",
           "description"   : "Swagger definitions for Symphony LLC public REST API ",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
-          "heat"          : 90,
+          "heat"          : 85,
           "watchers"      : 5,
           "size"          : 173,
           "collaborators" : 5,
           "stars"         : 5,
-          "forks"         : 12,
+          "forks"         : 11,
           "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 90,
+        "heat"          : 85,
         "watchers"      : 5,
         "size"          : 173,
         "collaborators" : 5,
         "stars"         : 5,
-        "forks"         : 12,
+        "forks"         : 11,
         "openIssues"    : 2
       }
     },
@@ -3658,13 +3673,13 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 215,
+          "heat"          : 225,
           "watchers"      : 22,
           "size"          : 33243,
           "collaborators" : 9,
           "stars"         : 22,
-          "forks"         : 27,
-          "openIssues"    : 6,
+          "forks"         : 29,
+          "openIssues"    : 9,
           "languages"     : {
             "Shell" : 5677,
             "CSS" : 3497,
@@ -3691,13 +3706,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 240,
+        "heat"          : 250,
         "watchers"      : 24,
         "size"          : 33263,
         "collaborators" : 13,
         "stars"         : 24,
-        "forks"         : 28,
-        "openIssues"    : 6,
+        "forks"         : 30,
+        "openIssues"    : 9,
         "languages"     : {
           "C#" : 7673,
           "Shell" : 5677,
