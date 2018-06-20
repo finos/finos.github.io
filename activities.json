@@ -788,42 +788,42 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 718,
           "watchers"      : 238,
-          "size"          : 5638,
+          "size"          : 5681,
           "collaborators" : 8,
           "stars"         : 238,
           "forks"         : 42,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 1029021,
-            "C#" : 1522330,
-            "Xtend" : 215199,
+            "TypeScript" : 1035336,
+            "C#" : 1548331,
+            "Xtend" : 215657,
             "Java" : 70820,
             "Shell" : 550,
             "CSS" : 555,
             "Batchfile" : 8254,
             "JavaScript" : 1025115,
-            "HTML" : 12977
+            "HTML" : 12949
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 718,
         "watchers"      : 238,
-        "size"          : 5638,
+        "size"          : 5681,
         "collaborators" : 8,
         "stars"         : 238,
         "forks"         : 42,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 1029021,
-          "C#" : 1522330,
-          "Xtend" : 215199,
+          "TypeScript" : 1035336,
+          "C#" : 1548331,
+          "Xtend" : 215657,
           "Java" : 70820,
           "Shell" : 550,
           "CSS" : 555,
           "Batchfile" : 8254,
           "JavaScript" : 1025115,
-          "HTML" : 12977
+          "HTML" : 12949
         }
       }
     },
@@ -2539,13 +2539,13 @@
           "name"          : "extension-api-examples",
           "description"   : "Examples on how to use the extension API",
           "gitHubURL"     : "https://github.com/symphonyoss/extension-api-examples",
-          "heat"          : 129,
+          "heat"          : 134,
           "watchers"      : 12,
           "size"          : 1056,
           "collaborators" : 5,
           "stars"         : 12,
-          "forks"         : 17,
-          "openIssues"    : 8,
+          "forks"         : 18,
+          "openIssues"    : 10,
           "languages"     : {
             "HTML" : 6781,
             "CSS" : 794,
@@ -2566,13 +2566,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 218,
+        "heat"          : 223,
         "watchers"      : 20,
         "size"          : 1491,
         "collaborators" : 17,
         "stars"         : 20,
-        "forks"         : 22,
-        "openIssues"    : 9,
+        "forks"         : 23,
+        "openIssues"    : 11,
         "languages"     : {
           "Java" : 114904,
           "HTML" : 12563,
@@ -2640,13 +2640,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 1005,
+          "size"          : 1021,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 395844,
+            "Java" : 396152,
             "CSS" : 29377,
             "Shell" : 21983,
             "HTML" : 16297
@@ -2671,13 +2671,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 50,
         "watchers"      : 0,
-        "size"          : 1056,
+        "size"          : 1072,
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 418670,
+          "Java" : 418978,
           "CSS" : 29377,
           "Shell" : 21983,
           "HTML" : 16297
@@ -3595,7 +3595,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-super-pom",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 36,
+          "size"          : 45,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
@@ -3605,7 +3605,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 64,
         "watchers"      : 0,
-        "size"          : 433,
+        "size"          : 442,
         "collaborators" : 11,
         "stars"         : 0,
         "forks"         : 4,
@@ -3634,26 +3634,26 @@
           "gitHubURL"     : "https://github.com/symphonyoss/ScreenSnippet",
           "heat"          : 46,
           "watchers"      : 0,
-          "size"          : 21,
+          "size"          : 76,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 6,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "C#" : 17695
+            "C#" : 18006
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 46,
         "watchers"      : 0,
-        "size"          : 21,
+        "size"          : 76,
         "collaborators" : 4,
         "stars"         : 0,
         "forks"         : 6,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
-          "C#" : 17695
+          "C#" : 18006
         }
       }
     },
@@ -3675,17 +3675,17 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 225,
           "watchers"      : 22,
-          "size"          : 33243,
+          "size"          : 33258,
           "collaborators" : 9,
           "stars"         : 22,
           "forks"         : 29,
-          "openIssues"    : 9,
+          "openIssues"    : 10,
           "languages"     : {
             "Shell" : 5677,
             "CSS" : 3497,
             "Batchfile" : 552,
-            "JavaScript" : 425982,
-            "HTML" : 13825,
+            "JavaScript" : 433249,
+            "HTML" : 14408,
             "Objective_C" : 6006
           }
         },
@@ -3708,18 +3708,18 @@
       "cumulativeGitHubStats" : {
         "heat"          : 250,
         "watchers"      : 24,
-        "size"          : 33263,
+        "size"          : 33278,
         "collaborators" : 13,
         "stars"         : 24,
         "forks"         : 30,
-        "openIssues"    : 9,
+        "openIssues"    : 10,
         "languages"     : {
           "C#" : 7673,
           "Shell" : 5677,
           "CSS" : 3497,
           "Batchfile" : 552,
-          "JavaScript" : 425982,
-          "HTML" : 13825,
+          "JavaScript" : 433249,
+          "HTML" : 14408,
           "Objective_C" : 6006
         }
       }
@@ -3783,7 +3783,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-sdk",
           "heat"          : 26,
           "watchers"      : 1,
-          "size"          : 144,
+          "size"          : 147,
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 0,
@@ -3796,7 +3796,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 26,
         "watchers"      : 1,
-        "size"          : 144,
+        "size"          : 147,
         "collaborators" : 6,
         "stars"         : 1,
         "forks"         : 0,
@@ -3819,20 +3819,20 @@
           "name"          : "voice-metadata-standard",
           "description"   : "",
           "gitHubURL"     : "https://github.com/finos-voice/voice-metadata-standard",
-          "heat"          : 8,
+          "heat"          : 16,
           "watchers"      : 0,
-          "size"          : 1,
-          "collaborators" : 2,
+          "size"          : 7,
+          "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 0,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 8,
+        "heat"          : 16,
         "watchers"      : 0,
-        "size"          : 1,
-        "collaborators" : 2,
+        "size"          : 7,
+        "collaborators" : 4,
         "stars"         : 0,
         "forks"         : 0,
         "openIssues"    : 0
