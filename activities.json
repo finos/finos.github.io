@@ -464,7 +464,7 @@
           "collaborators" : 33,
           "stars"         : 67,
           "forks"         : 40,
-          "openIssues"    : 10,
+          "openIssues"    : 11,
           "languages"     : {
             "TypeScript" : 330352,
             "HTML" : 10167,
@@ -496,7 +496,7 @@
         "collaborators" : 67,
         "stars"         : 75,
         "forks"         : 56,
-        "openIssues"    : 13,
+        "openIssues"    : 14,
         "languages"     : {
           "TypeScript" : 630239,
           "HTML" : 12502,
@@ -656,22 +656,22 @@
           "name"          : "zero-downtime-trading-web-ux",
           "description"   : "Showcases how the OpenFin API, in conjunction with the ODP OpenShift Infrastructure and APIs, can create a powerful experience to live-reload an app and swap its environment from production to UAT",
           "gitHubURL"     : "https://github.com/HadoukenIO/zero-downtime-trading-web-ux",
-          "heat"          : 140,
+          "heat"          : 145,
           "watchers"      : 0,
           "size"          : 1,
           "collaborators" : 35,
           "stars"         : 0,
-          "forks"         : 0,
+          "forks"         : 1,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 140,
+        "heat"          : 145,
         "watchers"      : 0,
         "size"          : 1,
         "collaborators" : 35,
         "stars"         : 0,
-        "forks"         : 0,
+        "forks"         : 1,
         "openIssues"    : 0
       }
     },
@@ -788,15 +788,15 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 718,
           "watchers"      : 238,
-          "size"          : 5681,
+          "size"          : 5690,
           "collaborators" : 8,
           "stars"         : 238,
           "forks"         : 42,
           "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 1035336,
+            "TypeScript" : 1036826,
             "C#" : 1548331,
-            "Xtend" : 215657,
+            "Xtend" : 218290,
             "Java" : 70820,
             "Shell" : 550,
             "CSS" : 555,
@@ -809,15 +809,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 718,
         "watchers"      : 238,
-        "size"          : 5681,
+        "size"          : 5690,
         "collaborators" : 8,
         "stars"         : 238,
         "forks"         : 42,
         "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 1035336,
+          "TypeScript" : 1036826,
           "C#" : 1548331,
-          "Xtend" : 215657,
+          "Xtend" : 218290,
           "Java" : 70820,
           "Shell" : 550,
           "CSS" : 555,
@@ -3675,16 +3675,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 225,
           "watchers"      : 22,
-          "size"          : 33260,
+          "size"          : 33262,
           "collaborators" : 9,
           "stars"         : 22,
           "forks"         : 29,
-          "openIssues"    : 10,
+          "openIssues"    : 9,
           "languages"     : {
             "Shell" : 5677,
             "CSS" : 3497,
             "Batchfile" : 552,
-            "JavaScript" : 433174,
+            "JavaScript" : 435679,
             "HTML" : 14408,
             "Objective_C" : 6006
           }
@@ -3708,17 +3708,17 @@
       "cumulativeGitHubStats" : {
         "heat"          : 250,
         "watchers"      : 24,
-        "size"          : 33280,
+        "size"          : 33282,
         "collaborators" : 13,
         "stars"         : 24,
         "forks"         : 30,
-        "openIssues"    : 10,
+        "openIssues"    : 9,
         "languages"     : {
           "C#" : 7673,
           "Shell" : 5677,
           "CSS" : 3497,
           "Batchfile" : 552,
-          "JavaScript" : 433174,
+          "JavaScript" : 435679,
           "HTML" : 14408,
           "Objective_C" : 6006
         }
@@ -3783,11 +3783,11 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-sdk",
           "heat"          : 26,
           "watchers"      : 1,
-          "size"          : 147,
+          "size"          : 172,
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 0,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "JavaScript" : 7557
           }
@@ -3796,11 +3796,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 26,
         "watchers"      : 1,
-        "size"          : 147,
+        "size"          : 172,
         "collaborators" : 6,
         "stars"         : 1,
         "forks"         : 0,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "JavaScript" : 7557
         }
