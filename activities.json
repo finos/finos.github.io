@@ -58,12 +58,12 @@
           "name"          : "API",
           "description"   : "API Working Group repository",
           "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 198,
+          "heat"          : 203,
           "watchers"      : 3,
           "size"          : 43,
           "collaborators" : 43,
           "stars"         : 3,
-          "forks"         : 4,
+          "forks"         : 5,
           "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 3009
@@ -71,12 +71,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 198,
+        "heat"          : 203,
         "watchers"      : 3,
         "size"          : 43,
         "collaborators" : 43,
         "stars"         : 3,
-        "forks"         : 4,
+        "forks"         : 5,
         "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 3009
@@ -464,7 +464,7 @@
           "collaborators" : 33,
           "stars"         : 67,
           "forks"         : 40,
-          "openIssues"    : 11,
+          "openIssues"    : 10,
           "languages"     : {
             "TypeScript" : 330352,
             "HTML" : 10167,
@@ -481,7 +481,7 @@
           "collaborators" : 34,
           "stars"         : 8,
           "forks"         : 16,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 299887,
             "HTML" : 2335,
@@ -2640,13 +2640,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 1021,
+          "size"          : 1034,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 396152,
+            "Java" : 398769,
             "CSS" : 29377,
             "Shell" : 21983,
             "HTML" : 16297
@@ -2671,13 +2671,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 50,
         "watchers"      : 0,
-        "size"          : 1072,
+        "size"          : 1085,
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 418978,
+          "Java" : 421595,
           "CSS" : 29377,
           "Shell" : 21983,
           "HTML" : 16297
@@ -3675,7 +3675,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 225,
           "watchers"      : 22,
-          "size"          : 33258,
+          "size"          : 33260,
           "collaborators" : 9,
           "stars"         : 22,
           "forks"         : 29,
@@ -3684,7 +3684,7 @@
             "Shell" : 5677,
             "CSS" : 3497,
             "Batchfile" : 552,
-            "JavaScript" : 433249,
+            "JavaScript" : 433174,
             "HTML" : 14408,
             "Objective_C" : 6006
           }
@@ -3708,7 +3708,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 250,
         "watchers"      : 24,
-        "size"          : 33278,
+        "size"          : 33280,
         "collaborators" : 13,
         "stars"         : 24,
         "forks"         : 30,
@@ -3718,7 +3718,7 @@
           "Shell" : 5677,
           "CSS" : 3497,
           "Batchfile" : 552,
-          "JavaScript" : 433249,
+          "JavaScript" : 433174,
           "HTML" : 14408,
           "Objective_C" : 6006
         }
