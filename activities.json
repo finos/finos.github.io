@@ -228,7 +228,7 @@
           "collaborators" : 43,
           "stars"         : 3,
           "forks"         : 2,
-          "openIssues"    : 1
+          "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
@@ -238,7 +238,7 @@
         "collaborators" : 43,
         "stars"         : 3,
         "forks"         : 2,
-        "openIssues"    : 1
+        "openIssues"    : 2
       },
       "mailingLists"       : [
         {
@@ -460,11 +460,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 466,
           "watchers"      : 67,
-          "size"          : 1521,
+          "size"          : 1522,
           "collaborators" : 33,
           "stars"         : 67,
           "forks"         : 40,
-          "openIssues"    : 13,
+          "openIssues"    : 14,
           "languages"     : {
             "TypeScript" : 330352,
             "HTML" : 10167,
@@ -481,7 +481,7 @@
           "collaborators" : 34,
           "stars"         : 8,
           "forks"         : 16,
-          "openIssues"    : 3,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 299887,
             "HTML" : 2335,
@@ -492,11 +492,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 698,
         "watchers"      : 75,
-        "size"          : 2860,
+        "size"          : 2861,
         "collaborators" : 67,
         "stars"         : 75,
         "forks"         : 56,
-        "openIssues"    : 16,
+        "openIssues"    : 19,
         "languages"     : {
           "TypeScript" : 630239,
           "HTML" : 12502,
@@ -563,12 +563,12 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 176,
+          "heat"          : 181,
           "watchers"      : 7,
-          "size"          : 698,
+          "size"          : 508,
           "collaborators" : 33,
           "stars"         : 7,
-          "forks"         : 6,
+          "forks"         : 7,
           "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 63088,
@@ -579,12 +579,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 176,
+        "heat"          : 181,
         "watchers"      : 7,
-        "size"          : 698,
+        "size"          : 508,
         "collaborators" : 33,
         "stars"         : 7,
-        "forks"         : 6,
+        "forks"         : 7,
         "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 63088,
@@ -662,7 +662,7 @@
           "collaborators" : 35,
           "stars"         : 0,
           "forks"         : 1,
-          "openIssues"    : 0
+          "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
@@ -672,7 +672,7 @@
         "collaborators" : 35,
         "stars"         : 0,
         "forks"         : 1,
-        "openIssues"    : 0
+        "openIssues"    : 1
       }
     },
     {
@@ -788,13 +788,13 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 723,
           "watchers"      : 238,
-          "size"          : 5821,
+          "size"          : 5822,
           "collaborators" : 8,
           "stars"         : 238,
           "forks"         : 43,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 1036826,
+            "TypeScript" : 1038590,
             "C#" : 1548331,
             "Xtend" : 218290,
             "Java" : 70820,
@@ -809,13 +809,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 723,
         "watchers"      : 238,
-        "size"          : 5821,
+        "size"          : 5822,
         "collaborators" : 8,
         "stars"         : 238,
         "forks"         : 43,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 1036826,
+          "TypeScript" : 1038590,
           "C#" : 1548331,
           "Xtend" : 218290,
           "Java" : 70820,
@@ -1289,7 +1289,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/GroupID",
           "heat"          : 46,
           "watchers"      : 0,
-          "size"          : 24545,
+          "size"          : 24552,
           "collaborators" : 9,
           "stars"         : 0,
           "forks"         : 2,
@@ -1305,7 +1305,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 46,
         "watchers"      : 0,
-        "size"          : 24545,
+        "size"          : 24552,
         "collaborators" : 9,
         "stars"         : 0,
         "forks"         : 2,
@@ -3675,7 +3675,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 225,
           "watchers"      : 22,
-          "size"          : 33270,
+          "size"          : 33272,
           "collaborators" : 9,
           "stars"         : 22,
           "forks"         : 29,
@@ -3684,7 +3684,7 @@
             "Shell" : 5677,
             "CSS" : 3497,
             "Batchfile" : 552,
-            "JavaScript" : 437771,
+            "JavaScript" : 437877,
             "HTML" : 14408,
             "Objective_C" : 6006
           }
@@ -3708,7 +3708,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 250,
         "watchers"      : 24,
-        "size"          : 33290,
+        "size"          : 33292,
         "collaborators" : 13,
         "stars"         : 24,
         "forks"         : 30,
@@ -3718,7 +3718,7 @@
           "Shell" : 5677,
           "CSS" : 3497,
           "Batchfile" : 552,
-          "JavaScript" : 437771,
+          "JavaScript" : 437877,
           "HTML" : 14408,
           "Objective_C" : 6006
         }
