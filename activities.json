@@ -464,11 +464,11 @@
           "collaborators" : 33,
           "stars"         : 67,
           "forks"         : 40,
-          "openIssues"    : 14,
+          "openIssues"    : 13,
           "languages"     : {
-            "TypeScript" : 330352,
+            "TypeScript" : 330146,
             "HTML" : 10167,
-            "JavaScript" : 405428
+            "JavaScript" : 405435
           }
         },
         {
@@ -496,11 +496,11 @@
         "collaborators" : 67,
         "stars"         : 75,
         "forks"         : 56,
-        "openIssues"    : 19,
+        "openIssues"    : 18,
         "languages"     : {
-          "TypeScript" : 630239,
+          "TypeScript" : 630033,
           "HTML" : 12502,
-          "JavaScript" : 411808
+          "JavaScript" : 411815
         }
       }
     },
@@ -565,32 +565,32 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 181,
           "watchers"      : 7,
-          "size"          : 508,
+          "size"          : 564,
           "collaborators" : 33,
           "stars"         : 7,
           "forks"         : 7,
           "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 63088,
-            "HTML" : 4672,
+            "TypeScript" : 78897,
+            "HTML" : 7003,
             "CSS" : 1315,
-            "JavaScript" : 7499
+            "JavaScript" : 7850
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 181,
         "watchers"      : 7,
-        "size"          : 508,
+        "size"          : 564,
         "collaborators" : 33,
         "stars"         : 7,
         "forks"         : 7,
         "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 63088,
-          "HTML" : 4672,
+          "TypeScript" : 78897,
+          "HTML" : 7003,
           "CSS" : 1315,
-          "JavaScript" : 7499
+          "JavaScript" : 7850
         }
       }
     },
@@ -788,14 +788,14 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 723,
           "watchers"      : 238,
-          "size"          : 5822,
+          "size"          : 5779,
           "collaborators" : 8,
           "stars"         : 238,
           "forks"         : 43,
           "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 1038590,
-            "C#" : 1548331,
+            "C#" : 1548835,
             "Xtend" : 218290,
             "Java" : 70820,
             "Shell" : 550,
@@ -809,14 +809,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 723,
         "watchers"      : 238,
-        "size"          : 5822,
+        "size"          : 5779,
         "collaborators" : 8,
         "stars"         : 238,
         "forks"         : 43,
         "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 1038590,
-          "C#" : 1548331,
+          "C#" : 1548835,
           "Xtend" : 218290,
           "Java" : 70820,
           "Shell" : 550,
@@ -3675,16 +3675,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 225,
           "watchers"      : 22,
-          "size"          : 33272,
+          "size"          : 33293,
           "collaborators" : 9,
           "stars"         : 22,
           "forks"         : 29,
-          "openIssues"    : 10,
+          "openIssues"    : 8,
           "languages"     : {
             "Shell" : 5677,
             "CSS" : 3497,
             "Batchfile" : 552,
-            "JavaScript" : 437877,
+            "JavaScript" : 440182,
             "HTML" : 14408,
             "Objective_C" : 6006
           }
@@ -3708,17 +3708,17 @@
       "cumulativeGitHubStats" : {
         "heat"          : 250,
         "watchers"      : 24,
-        "size"          : 33292,
+        "size"          : 33313,
         "collaborators" : 13,
         "stars"         : 24,
         "forks"         : 30,
-        "openIssues"    : 10,
+        "openIssues"    : 8,
         "languages"     : {
           "C#" : 7673,
           "Shell" : 5677,
           "CSS" : 3497,
           "Batchfile" : 552,
-          "JavaScript" : 437877,
+          "JavaScript" : 440182,
           "HTML" : 14408,
           "Objective_C" : 6006
         }
