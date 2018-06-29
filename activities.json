@@ -460,11 +460,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 466,
           "watchers"      : 67,
-          "size"          : 1572,
+          "size"          : 1577,
           "collaborators" : 33,
           "stars"         : 67,
           "forks"         : 40,
-          "openIssues"    : 10,
+          "openIssues"    : 9,
           "languages"     : {
             "TypeScript" : 350002,
             "HTML" : 10167,
@@ -492,11 +492,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 698,
         "watchers"      : 75,
-        "size"          : 2911,
+        "size"          : 2916,
         "collaborators" : 67,
         "stars"         : 75,
         "forks"         : 56,
-        "openIssues"    : 15,
+        "openIssues"    : 14,
         "languages"     : {
           "TypeScript" : 649889,
           "HTML" : 12502,
@@ -565,13 +565,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 181,
           "watchers"      : 7,
-          "size"          : 570,
+          "size"          : 574,
           "collaborators" : 33,
           "stars"         : 7,
           "forks"         : 7,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 78897,
+            "TypeScript" : 78843,
             "HTML" : 7007,
             "CSS" : 1315,
             "JavaScript" : 8935
@@ -581,13 +581,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 181,
         "watchers"      : 7,
-        "size"          : 570,
+        "size"          : 574,
         "collaborators" : 33,
         "stars"         : 7,
         "forks"         : 7,
         "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 78897,
+          "TypeScript" : 78843,
           "HTML" : 7007,
           "CSS" : 1315,
           "JavaScript" : 8935
@@ -613,7 +613,7 @@
           "collaborators" : 33,
           "stars"         : 5,
           "forks"         : 1,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 107860,
             "CSS" : 28538,
@@ -630,7 +630,7 @@
         "collaborators" : 33,
         "stars"         : 5,
         "forks"         : 1,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 107860,
           "CSS" : 28538,
@@ -697,30 +697,30 @@
           "gitHubURL"     : "https://github.com/finos-osr/bot-github-chatops",
           "heat"          : 27,
           "watchers"      : 3,
-          "size"          : 350,
+          "size"          : 353,
           "collaborators" : 4,
           "stars"         : 3,
           "forks"         : 1,
-          "openIssues"    : 11,
+          "openIssues"    : 10,
           "languages"     : {
             "Shell" : 1298,
             "FreeMarker" : 7545,
-            "Clojure" : 52019
+            "Clojure" : 51963
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 27,
         "watchers"      : 3,
-        "size"          : 350,
+        "size"          : 353,
         "collaborators" : 4,
         "stars"         : 3,
         "forks"         : 1,
-        "openIssues"    : 11,
+        "openIssues"    : 10,
         "languages"     : {
           "Shell" : 1298,
           "FreeMarker" : 7545,
-          "Clojure" : 52019
+          "Clojure" : 51963
         }
       }
     },
@@ -3679,7 +3679,7 @@
           "collaborators" : 9,
           "stars"         : 22,
           "forks"         : 29,
-          "openIssues"    : 8,
+          "openIssues"    : 9,
           "languages"     : {
             "Shell" : 5677,
             "CSS" : 3497,
@@ -3712,7 +3712,7 @@
         "collaborators" : 13,
         "stars"         : 24,
         "forks"         : 30,
-        "openIssues"    : 8,
+        "openIssues"    : 9,
         "languages"     : {
           "C#" : 7673,
           "Shell" : 5677,
