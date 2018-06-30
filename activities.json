@@ -222,21 +222,21 @@
           "name"          : "Intents",
           "description"   : "FDC3 Intents specifications, schemas, and examples",
           "gitHubURL"     : "https://github.com/FDC3/Intents",
-          "heat"          : 188,
-          "watchers"      : 3,
+          "heat"          : 190,
+          "watchers"      : 4,
           "size"          : 11,
           "collaborators" : 43,
-          "stars"         : 3,
+          "stars"         : 4,
           "forks"         : 2,
           "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 188,
-        "watchers"      : 3,
+        "heat"          : 190,
+        "watchers"      : 4,
         "size"          : 11,
         "collaborators" : 43,
-        "stars"         : 3,
+        "stars"         : 4,
         "forks"         : 2,
         "openIssues"    : 2
       },
