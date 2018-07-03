@@ -464,7 +464,7 @@
           "collaborators" : 33,
           "stars"         : 67,
           "forks"         : 40,
-          "openIssues"    : 10,
+          "openIssues"    : 14,
           "languages"     : {
             "TypeScript" : 350002,
             "HTML" : 10167,
@@ -496,7 +496,7 @@
         "collaborators" : 67,
         "stars"         : 75,
         "forks"         : 56,
-        "openIssues"    : 16,
+        "openIssues"    : 20,
         "languages"     : {
           "TypeScript" : 649889,
           "HTML" : 12502,
@@ -527,7 +527,7 @@
           "collaborators" : 37,
           "stars"         : 22,
           "forks"         : 12,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "HTML" : 34543,
             "CSS" : 5438,
@@ -542,7 +542,7 @@
         "collaborators" : 37,
         "stars"         : 22,
         "forks"         : 12,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "HTML" : 34543,
           "CSS" : 5438,
@@ -3675,7 +3675,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 225,
           "watchers"      : 22,
-          "size"          : 33304,
+          "size"          : 33298,
           "collaborators" : 9,
           "stars"         : 22,
           "forks"         : 29,
@@ -3708,7 +3708,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 250,
         "watchers"      : 24,
-        "size"          : 33324,
+        "size"          : 33318,
         "collaborators" : 13,
         "stars"         : 24,
         "forks"         : 30,
