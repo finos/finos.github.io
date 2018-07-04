@@ -58,12 +58,12 @@
           "name"          : "API",
           "description"   : "API Working Group repository",
           "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 203,
+          "heat"          : 208,
           "watchers"      : 3,
           "size"          : 43,
           "collaborators" : 43,
           "stars"         : 3,
-          "forks"         : 5,
+          "forks"         : 6,
           "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 3009
@@ -71,12 +71,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 203,
+        "heat"          : 208,
         "watchers"      : 3,
         "size"          : 43,
         "collaborators" : 43,
         "stars"         : 3,
-        "forks"         : 5,
+        "forks"         : 6,
         "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 3009
@@ -2539,12 +2539,12 @@
           "name"          : "extension-api-examples",
           "description"   : "Examples on how to use the extension API",
           "gitHubURL"     : "https://github.com/symphonyoss/extension-api-examples",
-          "heat"          : 134,
+          "heat"          : 139,
           "watchers"      : 12,
           "size"          : 1056,
           "collaborators" : 5,
           "stars"         : 12,
-          "forks"         : 18,
+          "forks"         : 19,
           "openIssues"    : 10,
           "languages"     : {
             "HTML" : 6781,
@@ -2566,12 +2566,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 223,
+        "heat"          : 228,
         "watchers"      : 20,
         "size"          : 1491,
         "collaborators" : 17,
         "stars"         : 20,
-        "forks"         : 23,
+        "forks"         : 24,
         "openIssues"    : 11,
         "languages"     : {
           "Java" : 114904,
@@ -2640,13 +2640,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 967,
+          "size"          : 988,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 402641,
+            "Java" : 436154,
             "CSS" : 29377,
             "Shell" : 21983,
             "HTML" : 16297
@@ -2671,13 +2671,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 50,
         "watchers"      : 0,
-        "size"          : 1020,
+        "size"          : 1041,
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 425467,
+          "Java" : 458980,
           "CSS" : 29377,
           "Shell" : 21983,
           "HTML" : 16297
@@ -3580,13 +3580,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-common",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 344,
+          "size"          : 352,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 423949
+            "Java" : 424971
           }
         },
         {
@@ -3605,13 +3605,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 64,
         "watchers"      : 0,
-        "size"          : 389,
+        "size"          : 397,
         "collaborators" : 11,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 423949
+          "Java" : 424971
         }
       }
     },
@@ -3675,11 +3675,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 225,
           "watchers"      : 22,
-          "size"          : 33298,
+          "size"          : 30218,
           "collaborators" : 9,
           "stars"         : 22,
           "forks"         : 29,
-          "openIssues"    : 7,
+          "openIssues"    : 8,
           "languages"     : {
             "Shell" : 5677,
             "CSS" : 3497,
@@ -3708,11 +3708,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 250,
         "watchers"      : 24,
-        "size"          : 33318,
+        "size"          : 30238,
         "collaborators" : 13,
         "stars"         : 24,
         "forks"         : 30,
-        "openIssues"    : 7,
+        "openIssues"    : 8,
         "languages"     : {
           "C#" : 7673,
           "Shell" : 5677,
