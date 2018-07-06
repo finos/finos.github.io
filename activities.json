@@ -4,6 +4,95 @@
       "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
       "programShortName"     : "FDC3",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
+      "activityName"         : "Open API Demo",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-02-28",
+      "tags"                 : [
+        "desktop technology",
+        "example",
+        "sample"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "open-api-demo",
+          "description"   : "Demonstration/Prototype of the FDC3 proposed Open API",
+          "gitHubURL"     : "https://github.com/FDC3/open-api-demo",
+          "heat"          : 183,
+          "watchers"      : 3,
+          "size"          : 20,
+          "collaborators" : 43,
+          "stars"         : 3,
+          "forks"         : 1,
+          "openIssues"    : 0,
+          "languages"     : {
+            "HTML" : 3858,
+            "JavaScript" : 3994
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 183,
+        "watchers"      : 3,
+        "size"          : 20,
+        "collaborators" : 43,
+        "stars"         : 3,
+        "forks"         : 1,
+        "openIssues"    : 0,
+        "languages"     : {
+          "HTML" : 3858,
+          "JavaScript" : 3994
+        }
+      }
+    },
+    {
+      "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
+      "programShortName"     : "FDC3",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
+      "activityName"         : "FDC3 API WG",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2018-04-20",
+      "gitHubRepos"          : [
+        {
+          "name"          : "API",
+          "description"   : "API Working Group repository",
+          "gitHubURL"     : "https://github.com/FDC3/api",
+          "heat"          : 208,
+          "watchers"      : 3,
+          "size"          : 43,
+          "collaborators" : 43,
+          "stars"         : 3,
+          "forks"         : 6,
+          "openIssues"    : 3,
+          "languages"     : {
+            "TypeScript" : 3009
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 208,
+        "watchers"      : 3,
+        "size"          : 43,
+        "collaborators" : 43,
+        "stars"         : 3,
+        "forks"         : 6,
+        "openIssues"    : 3,
+        "languages"     : {
+          "TypeScript" : 3009
+        }
+      },
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "fdc3-api@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdc3-api"
+        }
+      ]
+    },
+    {
+      "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
+      "programShortName"     : "FDC3",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
       "activityName"         : "Application Directory",
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
@@ -13,21 +102,21 @@
           "name"          : "App-Directory",
           "description"   : "The FDC3 App Directory - specifications and implementations.",
           "gitHubURL"     : "https://github.com/FDC3/App-Directory",
-          "heat"          : 186,
-          "watchers"      : 2,
+          "heat"          : 188,
+          "watchers"      : 3,
           "size"          : 19,
           "collaborators" : 43,
-          "stars"         : 2,
+          "stars"         : 3,
           "forks"         : 2,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 186,
-        "watchers"      : 2,
+        "heat"          : 188,
+        "watchers"      : 3,
         "size"          : 19,
         "collaborators" : 43,
-        "stars"         : 2,
+        "stars"         : 3,
         "forks"         : 2,
         "openIssues"    : 0
       },
@@ -35,44 +124,6 @@
         {
           "emailAddress"  : "fdc3-app-directory@finos.org",
           "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdc3-app-directory"
-        }
-      ]
-    },
-    {
-      "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
-      "programShortName"     : "FDC3",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
-      "activityName"         : "Application Intents",
-      "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
-      "contributionDate"     : "2018-02-28",
-      "gitHubRepos"          : [
-        {
-          "name"          : "Intents",
-          "description"   : "FDC3 Intents specifications, schemas, and examples",
-          "gitHubURL"     : "https://github.com/FDC3/Intents",
-          "heat"          : 179,
-          "watchers"      : 1,
-          "size"          : 11,
-          "collaborators" : 43,
-          "stars"         : 1,
-          "forks"         : 1,
-          "openIssues"    : 1
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 179,
-        "watchers"      : 1,
-        "size"          : 11,
-        "collaborators" : 43,
-        "stars"         : 1,
-        "forks"         : 1,
-        "openIssues"    : 1
-      },
-      "mailingLists"       : [
-        {
-          "emailAddress"  : "fdc3-intents@finos.org",
-          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdc3-intents"
         }
       ]
     },
@@ -89,22 +140,22 @@
           "name"          : "ContextData",
           "description"   : "Context data object specifications, schemas, and examples",
           "gitHubURL"     : "https://github.com/FDC3/ContextData",
-          "heat"          : 189,
-          "watchers"      : 1,
+          "heat"          : 198,
+          "watchers"      : 3,
           "size"          : 107,
           "collaborators" : 43,
-          "stars"         : 1,
-          "forks"         : 3,
+          "stars"         : 3,
+          "forks"         : 4,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 189,
-        "watchers"      : 1,
+        "heat"          : 198,
+        "watchers"      : 3,
         "size"          : 107,
         "collaborators" : 43,
-        "stars"         : 1,
-        "forks"         : 3,
+        "stars"         : 3,
+        "forks"         : 4,
         "openIssues"    : 0
       },
       "mailingLists"       : [
@@ -127,21 +178,33 @@
           "name"          : "FDC3",
           "description"   : "Organizational Document for the FDC3",
           "gitHubURL"     : "https://github.com/FDC3/FDC3",
-          "heat"          : 189,
-          "watchers"      : 6,
+          "heat"          : 191,
+          "watchers"      : 7,
           "size"          : 6,
           "collaborators" : 43,
-          "stars"         : 6,
+          "stars"         : 7,
           "forks"         : 1,
+          "openIssues"    : 0
+        },
+        {
+          "name"          : "FDC3-Archive",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/FDC3/FDC3-Archive",
+          "heat"          : 176,
+          "watchers"      : 2,
+          "size"          : 2214,
+          "collaborators" : 43,
+          "stars"         : 2,
+          "forks"         : 0,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 189,
-        "watchers"      : 6,
-        "size"          : 6,
-        "collaborators" : 43,
-        "stars"         : 6,
+        "heat"          : 367,
+        "watchers"      : 9,
+        "size"          : 2220,
+        "collaborators" : 86,
+        "stars"         : 9,
         "forks"         : 1,
         "openIssues"    : 0
       }
@@ -150,82 +213,61 @@
       "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
       "programShortName"     : "FDC3",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
-      "activityName"         : "Open API Demo",
-      "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "activityName"         : "Intents",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
       "contributionDate"     : "2018-02-28",
-      "tags"                 : [
-        "desktop technology",
-        "example",
-        "sample"
-      ],
       "gitHubRepos"          : [
         {
-          "name"          : "open-api-demo",
-          "description"   : "Demonstration/Prototype of the FDC3 proposed Open API",
-          "gitHubURL"     : "https://github.com/FDC3/open-api-demo",
-          "heat"          : 181,
-          "watchers"      : 2,
-          "size"          : 20,
+          "name"          : "Intents",
+          "description"   : "FDC3 Intents specifications, schemas, and examples",
+          "gitHubURL"     : "https://github.com/FDC3/Intents",
+          "heat"          : 190,
+          "watchers"      : 4,
+          "size"          : 11,
           "collaborators" : 43,
-          "stars"         : 2,
-          "forks"         : 1,
-          "openIssues"    : 0,
-          "languages"     : {
-            "HTML" : 3858,
-            "JavaScript" : 3994
-          }
+          "stars"         : 4,
+          "forks"         : 2,
+          "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 181,
-        "watchers"      : 2,
-        "size"          : 20,
+        "heat"          : 190,
+        "watchers"      : 4,
+        "size"          : 11,
         "collaborators" : 43,
-        "stars"         : 2,
-        "forks"         : 1,
-        "openIssues"    : 0,
-        "languages"     : {
-          "HTML" : 3858,
-          "JavaScript" : 3994
+        "stars"         : 4,
+        "forks"         : 2,
+        "openIssues"    : 2
+      },
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "fdc3-intents@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdc3-intents"
         }
-      }
+      ]
     },
     {
       "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
       "programShortName"     : "FDC3",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
-      "activityName"         : "FDC3 API WG",
+      "activityName"         : "Technical Steering",
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
-      "contributionDate"     : "2018-04-20",
-      "gitHubRepos"          : [
-        {
-          "name"          : "API",
-          "description"   : "API Working Group repository",
-          "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 189,
-          "watchers"      : 1,
-          "size"          : 20,
-          "collaborators" : 43,
-          "stars"         : 1,
-          "forks"         : 3,
-          "openIssues"    : 6
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 189,
-        "watchers"      : 1,
-        "size"          : 20,
-        "collaborators" : 43,
-        "stars"         : 1,
-        "forks"         : 3,
-        "openIssues"    : 6
-      },
+      "contributionDate"     : "2018-02-28"
+    },
+    {
+      "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
+      "programShortName"     : "FDC3",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
+      "activityName"         : "FDC3 Use Case WG",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2018-05-18",
       "mailingLists"       : [
         {
-          "emailAddress"  : "fdc3-api@finos.org",
-          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdc3-api"
+          "emailAddress"  : "fdc3-use-case@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdc3-use-case"
         }
       ]
     },
@@ -269,10 +311,26 @@
       "programName"          : "Financial Objects",
       "programShortName"     : "Financial Objects",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FO/overview",
-      "activityName"         : "Financial Objects Standardization WG",
+      "activityName"         : "Financial Objects WG",
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
+      "contributionDate"     : "2018-04-24",
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "fo-trade-object@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fo-trade-object"
+        }
+      ]
+    },
+    {
+      "programName"          : "Financial Objects",
+      "programShortName"     : "Financial Objects",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FO/overview",
+      "activityName"         : "Financial Objects Standardization WG",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2016-02-08",
+      "archiveDate"          : "2018-05-14",
       "gitHubRepos"          : [
         {
           "name"          : "symphony-object",
@@ -280,7 +338,7 @@
           "gitHubURL"     : "https://github.com/finos-fo/symphony-object",
           "heat"          : 16,
           "watchers"      : 1,
-          "size"          : 22,
+          "size"          : 21,
           "collaborators" : 1,
           "stars"         : 1,
           "forks"         : 2,
@@ -290,30 +348,12 @@
       "cumulativeGitHubStats" : {
         "heat"          : 16,
         "watchers"      : 1,
-        "size"          : 22,
+        "size"          : 21,
         "collaborators" : 1,
         "stars"         : 1,
         "forks"         : 2,
         "openIssues"    : 0
       }
-    },
-    {
-      "programName"          : "Financial Objects",
-      "programShortName"     : "Financial Objects",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FO/overview",
-      "activityName"         : "RFQ Object WG",
-      "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
-      "contributionDate"     : "2018-04-24"
-    },
-    {
-      "programName"          : "Financial Objects",
-      "programShortName"     : "Financial Objects",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FO/overview",
-      "activityName"         : "Trade Object WG",
-      "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
-      "contributionDate"     : "2018-04-24"
     },
     {
       "programName"          : "Hadouken",
@@ -333,30 +373,72 @@
           "name"          : "app-template",
           "description"   : "A simple unopinionated Hadouken application template.",
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
-          "heat"          : 172,
-          "watchers"      : 7,
-          "size"          : 145,
-          "collaborators" : 32,
-          "stars"         : 7,
+          "heat"          : 178,
+          "watchers"      : 8,
+          "size"          : 151,
+          "collaborators" : 33,
+          "stars"         : 8,
           "forks"         : 6,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
             "HTML" : 534,
-            "JavaScript" : 2382
+            "JavaScript" : 3436
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 172,
-        "watchers"      : 7,
-        "size"          : 145,
-        "collaborators" : 32,
-        "stars"         : 7,
+        "heat"          : 178,
+        "watchers"      : 8,
+        "size"          : 151,
+        "collaborators" : 33,
+        "stars"         : 8,
         "forks"         : 6,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
           "HTML" : 534,
-          "JavaScript" : 2382
+          "JavaScript" : 3436
+        }
+      }
+    },
+    {
+      "programName"          : "Hadouken",
+      "programShortName"     : "Hadouken",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/HAD/overview",
+      "activityName"         : "Desktop Services",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-06-05",
+      "tags"                 : [
+        "build",
+        "deploy"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "service-utils",
+          "description"   : "all things common across desktop services - build/deploy utils, etc.",
+          "gitHubURL"     : "https://github.com/HadoukenIO/service-utils",
+          "heat"          : 134,
+          "watchers"      : 1,
+          "size"          : 2,
+          "collaborators" : 33,
+          "stars"         : 1,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "JavaScript" : 4041
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 134,
+        "watchers"      : 1,
+        "size"          : 2,
+        "collaborators" : 33,
+        "stars"         : 1,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "JavaScript" : 4041
         }
       }
     },
@@ -376,49 +458,49 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 456,
-          "watchers"      : 64,
-          "size"          : 1337,
-          "collaborators" : 32,
-          "stars"         : 64,
+          "heat"          : 466,
+          "watchers"      : 67,
+          "size"          : 1588,
+          "collaborators" : 33,
+          "stars"         : 67,
           "forks"         : 40,
-          "openIssues"    : 9,
+          "openIssues"    : 21,
           "languages"     : {
-            "TypeScript" : 306818,
+            "TypeScript" : 350002,
             "HTML" : 10167,
-            "JavaScript" : 404003
+            "JavaScript" : 387878
           }
         },
         {
           "name"          : "js-adapter",
           "description"   : "Hadouken Node Adapter",
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
-          "heat"          : 226,
-          "watchers"      : 7,
-          "size"          : 1265,
-          "collaborators" : 33,
-          "stars"         : 7,
-          "forks"         : 16,
-          "openIssues"    : 2,
+          "heat"          : 237,
+          "watchers"      : 8,
+          "size"          : 1339,
+          "collaborators" : 34,
+          "stars"         : 8,
+          "forks"         : 17,
+          "openIssues"    : 8,
           "languages"     : {
-            "TypeScript" : 280087,
-            "HTML" : 1119,
-            "JavaScript" : 6017
+            "TypeScript" : 299887,
+            "HTML" : 2335,
+            "JavaScript" : 6380
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 682,
-        "watchers"      : 71,
-        "size"          : 2602,
-        "collaborators" : 65,
-        "stars"         : 71,
-        "forks"         : 56,
-        "openIssues"    : 11,
+        "heat"          : 703,
+        "watchers"      : 75,
+        "size"          : 2927,
+        "collaborators" : 67,
+        "stars"         : 75,
+        "forks"         : 57,
+        "openIssues"    : 29,
         "languages"     : {
-          "TypeScript" : 586905,
-          "HTML" : 11286,
-          "JavaScript" : 410020
+          "TypeScript" : 649889,
+          "HTML" : 12502,
+          "JavaScript" : 394258
         }
       }
     },
@@ -441,11 +523,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
           "heat"          : 252,
           "watchers"      : 22,
-          "size"          : 14209,
+          "size"          : 14282,
           "collaborators" : 37,
           "stars"         : 22,
           "forks"         : 12,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "HTML" : 34543,
             "CSS" : 5438,
@@ -456,11 +538,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 252,
         "watchers"      : 22,
-        "size"          : 14209,
+        "size"          : 14282,
         "collaborators" : 37,
         "stars"         : 22,
         "forks"         : 12,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "HTML" : 34543,
           "CSS" : 5438,
@@ -481,32 +563,34 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 155,
-          "watchers"      : 6,
-          "size"          : 169,
-          "collaborators" : 32,
-          "stars"         : 6,
-          "forks"         : 3,
-          "openIssues"    : 2,
+          "heat"          : 186,
+          "watchers"      : 7,
+          "size"          : 574,
+          "collaborators" : 33,
+          "stars"         : 7,
+          "forks"         : 8,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 67406,
-            "HTML" : 4478,
-            "JavaScript" : 6020
+            "TypeScript" : 78843,
+            "HTML" : 7007,
+            "CSS" : 1315,
+            "JavaScript" : 8935
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 155,
-        "watchers"      : 6,
-        "size"          : 169,
-        "collaborators" : 32,
-        "stars"         : 6,
-        "forks"         : 3,
-        "openIssues"    : 2,
+        "heat"          : 186,
+        "watchers"      : 7,
+        "size"          : 574,
+        "collaborators" : 33,
+        "stars"         : 7,
+        "forks"         : 8,
+        "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 67406,
-          "HTML" : 4478,
-          "JavaScript" : 6020
+          "TypeScript" : 78843,
+          "HTML" : 7007,
+          "CSS" : 1315,
+          "JavaScript" : 8935
         }
       }
     },
@@ -523,37 +607,72 @@
           "name"          : "notifications-service",
           "description"   : "",
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
-          "heat"          : 136,
-          "watchers"      : 4,
-          "size"          : 5826,
-          "collaborators" : 32,
-          "stars"         : 4,
-          "forks"         : 0,
-          "openIssues"    : 0,
+          "heat"          : 147,
+          "watchers"      : 5,
+          "size"          : 5770,
+          "collaborators" : 33,
+          "stars"         : 5,
+          "forks"         : 1,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 100215,
-            "CSS" : 28507,
+            "TypeScript" : 107860,
+            "CSS" : 28538,
             "HTML" : 7305,
             "Gherkin" : 120,
-            "JavaScript" : 8805
+            "JavaScript" : 12945
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 136,
-        "watchers"      : 4,
-        "size"          : 5826,
-        "collaborators" : 32,
-        "stars"         : 4,
-        "forks"         : 0,
-        "openIssues"    : 0,
+        "heat"          : 147,
+        "watchers"      : 5,
+        "size"          : 5770,
+        "collaborators" : 33,
+        "stars"         : 5,
+        "forks"         : 1,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 100215,
-          "CSS" : 28507,
+          "TypeScript" : 107860,
+          "CSS" : 28538,
           "HTML" : 7305,
           "Gherkin" : 120,
-          "JavaScript" : 8805
+          "JavaScript" : 12945
         }
+      }
+    },
+    {
+      "programName"          : "Hadouken",
+      "programShortName"     : "Hadouken",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/HAD/overview",
+      "activityName"         : "Zero Downtime Trading Demo",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-06-14",
+      "tags"                 : [
+        "demo"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "zero-downtime-trading-web-ux",
+          "description"   : "Showcases how the OpenFin API, in conjunction with the ODP OpenShift Infrastructure and APIs, can create a powerful experience to live-reload an app and swap its environment from production to UAT",
+          "gitHubURL"     : "https://github.com/HadoukenIO/zero-downtime-trading-web-ux",
+          "heat"          : 145,
+          "watchers"      : 0,
+          "size"          : 1,
+          "collaborators" : 35,
+          "stars"         : 0,
+          "forks"         : 1,
+          "openIssues"    : 1
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 145,
+        "watchers"      : 0,
+        "size"          : 1,
+        "collaborators" : 35,
+        "stars"         : 0,
+        "forks"         : 1,
+        "openIssues"    : 1
       }
     },
     {
@@ -576,33 +695,69 @@
           "name"          : "bot-github-chatops",
           "description"   : "A Symphony bot that uses ChatOps techniques to allow a firm employee to interact in a compliant manner with GitHub issues and PRs",
           "gitHubURL"     : "https://github.com/finos-osr/bot-github-chatops",
-          "heat"          : 23,
+          "heat"          : 27,
           "watchers"      : 3,
-          "size"          : 348,
-          "collaborators" : 3,
+          "size"          : 353,
+          "collaborators" : 4,
           "stars"         : 3,
           "forks"         : 1,
           "openIssues"    : 10,
           "languages"     : {
             "Shell" : 1298,
             "FreeMarker" : 7545,
-            "Clojure" : 53694
+            "Clojure" : 51963
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 23,
+        "heat"          : 27,
         "watchers"      : 3,
-        "size"          : 348,
-        "collaborators" : 3,
+        "size"          : 353,
+        "collaborators" : 4,
         "stars"         : 3,
         "forks"         : 1,
         "openIssues"    : 10,
         "languages"     : {
           "Shell" : 1298,
           "FreeMarker" : 7545,
-          "Clojure" : 53694
+          "Clojure" : 51963
         }
+      }
+    },
+    {
+      "programName"          : "Open Source Readiness",
+      "programShortName"     : "OSR",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/OSR/overview",
+      "activityName"         : "Reference FOSS Policy",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-05-28",
+      "tags"                 : [
+        "policy",
+        "reference"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "reference-foss-policy",
+          "description"   : "Reference FOSS Policy for Financial Services Institutions",
+          "gitHubURL"     : "https://github.com/finos-osr/reference-foss-policy",
+          "heat"          : 12,
+          "watchers"      : 0,
+          "size"          : 57,
+          "collaborators" : 3,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 12,
+        "watchers"      : 0,
+        "size"          : 57,
+        "collaborators" : 3,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
       }
     },
     {
@@ -631,44 +786,44 @@
           "name"          : "plexus-interop",
           "description"   : "Plexus Interop open source project hosted by the Fintech Open Source Foundation",
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
-          "heat"          : 697,
-          "watchers"      : 232,
-          "size"          : 5113,
-          "collaborators" : 7,
-          "stars"         : 232,
-          "forks"         : 41,
-          "openIssues"    : 0,
+          "heat"          : 726,
+          "watchers"      : 237,
+          "size"          : 5826,
+          "collaborators" : 8,
+          "stars"         : 237,
+          "forks"         : 44,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 1015042,
-            "C#" : 1477017,
-            "Xtend" : 169765,
-            "Java" : 46839,
+            "TypeScript" : 1054108,
+            "C#" : 1549069,
+            "Xtend" : 222390,
+            "Java" : 70820,
             "Shell" : 550,
             "CSS" : 555,
-            "Batchfile" : 8273,
-            "JavaScript" : 1025115,
-            "HTML" : 11859
+            "Batchfile" : 8254,
+            "JavaScript" : 1025341,
+            "HTML" : 12949
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 697,
-        "watchers"      : 232,
-        "size"          : 5113,
-        "collaborators" : 7,
-        "stars"         : 232,
-        "forks"         : 41,
-        "openIssues"    : 0,
+        "heat"          : 726,
+        "watchers"      : 237,
+        "size"          : 5826,
+        "collaborators" : 8,
+        "stars"         : 237,
+        "forks"         : 44,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 1015042,
-          "C#" : 1477017,
-          "Xtend" : 169765,
-          "Java" : 46839,
+          "TypeScript" : 1054108,
+          "C#" : 1549069,
+          "Xtend" : 222390,
+          "Java" : 70820,
           "Shell" : 550,
           "CSS" : 555,
-          "Batchfile" : 8273,
-          "JavaScript" : 1025115,
-          "HTML" : 11859
+          "Batchfile" : 8254,
+          "JavaScript" : 1025341,
+          "HTML" : 12949
         }
       }
     },
@@ -963,28 +1118,30 @@
           "gitHubURL"     : "https://github.com/symphonyoss/bot-butler",
           "heat"          : 71,
           "watchers"      : 3,
-          "size"          : 92,
+          "size"          : 97,
           "collaborators" : 5,
           "stars"         : 3,
           "forks"         : 9,
           "openIssues"    : 3,
           "languages"     : {
-            "CoffeeScript" : 23979,
-            "Shell" : 2245
+            "CoffeeScript" : 25010,
+            "Shell" : 2245,
+            "JavaScript" : 3466
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 71,
         "watchers"      : 3,
-        "size"          : 92,
+        "size"          : 97,
         "collaborators" : 5,
         "stars"         : 3,
         "forks"         : 9,
         "openIssues"    : 3,
         "languages"     : {
-          "CoffeeScript" : 23979,
-          "Shell" : 2245
+          "CoffeeScript" : 25010,
+          "Shell" : 2245,
+          "JavaScript" : 3466
         }
       }
     },
@@ -1132,7 +1289,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/GroupID",
           "heat"          : 46,
           "watchers"      : 0,
-          "size"          : 24537,
+          "size"          : 24552,
           "collaborators" : 9,
           "stars"         : 0,
           "forks"         : 2,
@@ -1148,7 +1305,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 46,
         "watchers"      : 0,
-        "size"          : 24537,
+        "size"          : 24552,
         "collaborators" : 9,
         "stars"         : 0,
         "forks"         : 2,
@@ -1589,11 +1746,11 @@
           "name"          : "symfuny-chat-bot",
           "description"   : "Symphony Chat Bot",
           "gitHubURL"     : "https://github.com/symphonyoss/symfuny-chat-bot",
-          "heat"          : 23,
-          "watchers"      : 1,
+          "heat"          : 25,
+          "watchers"      : 2,
           "size"          : 1844,
           "collaborators" : 4,
-          "stars"         : 1,
+          "stars"         : 2,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
@@ -1604,11 +1761,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 23,
-        "watchers"      : 1,
+        "heat"          : 25,
+        "watchers"      : 2,
         "size"          : 1844,
         "collaborators" : 4,
-        "stars"         : 1,
+        "stars"         : 2,
         "forks"         : 1,
         "openIssues"    : 0,
         "languages"     : {
@@ -1636,11 +1793,11 @@
           "name"          : "bot-twilio",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/bot-twilio",
-          "heat"          : 25,
-          "watchers"      : 0,
+          "heat"          : 27,
+          "watchers"      : 1,
           "size"          : 1884,
           "collaborators" : 5,
-          "stars"         : 0,
+          "stars"         : 1,
           "forks"         : 1,
           "openIssues"    : 2,
           "languages"     : {
@@ -1651,11 +1808,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 25,
-        "watchers"      : 0,
+        "heat"          : 27,
+        "watchers"      : 1,
         "size"          : 1884,
         "collaborators" : 5,
-        "stars"         : 0,
+        "stars"         : 1,
         "forks"         : 1,
         "openIssues"    : 2,
         "languages"     : {
@@ -1686,28 +1843,28 @@
           "gitHubURL"     : "https://github.com/symphonyoss/bot-unfurl",
           "heat"          : 33,
           "watchers"      : 3,
-          "size"          : 702,
+          "size"          : 711,
           "collaborators" : 3,
           "stars"         : 3,
           "forks"         : 3,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
             "Shell" : 993,
-            "Clojure" : 41717
+            "Clojure" : 39986
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 33,
         "watchers"      : 3,
-        "size"          : 702,
+        "size"          : 711,
         "collaborators" : 3,
         "stars"         : 3,
         "forks"         : 3,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
           "Shell" : 993,
-          "Clojure" : 41717
+          "Clojure" : 39986
         }
       }
     },
@@ -1859,14 +2016,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 474,
+          "size"          : 586,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 434836,
-            "FreeMarker" : 141307,
+            "Java" : 449312,
+            "FreeMarker" : 129308,
             "JavaScript" : 13681
           }
         },
@@ -1876,27 +2033,27 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon-example",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 277,
+          "size"          : 282,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 43100
+            "Java" : 41846
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 42,
         "watchers"      : 0,
-        "size"          : 751,
+        "size"          : 868,
         "collaborators" : 8,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 477936,
-          "FreeMarker" : 141307,
+          "Java" : 491158,
+          "FreeMarker" : 129308,
           "JavaScript" : 13681
         }
       }
@@ -1953,21 +2110,21 @@
           "name"          : "symphony-api-spec",
           "description"   : "Swagger definitions for Symphony LLC public REST API ",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
-          "heat"          : 85,
-          "watchers"      : 5,
-          "size"          : 179,
+          "heat"          : 87,
+          "watchers"      : 6,
+          "size"          : 173,
           "collaborators" : 5,
-          "stars"         : 5,
+          "stars"         : 6,
           "forks"         : 11,
           "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 85,
-        "watchers"      : 5,
-        "size"          : 179,
+        "heat"          : 87,
+        "watchers"      : 6,
+        "size"          : 173,
         "collaborators" : 5,
-        "stars"         : 5,
+        "stars"         : 6,
         "forks"         : 11,
         "openIssues"    : 2
       }
@@ -1988,28 +2145,28 @@
           "name"          : "clj-symphony",
           "description"   : "An idiomatic Clojure wrapper for the symphony-java-client",
           "gitHubURL"     : "https://github.com/symphonyoss/clj-symphony",
-          "heat"          : 43,
-          "watchers"      : 3,
-          "size"          : 221,
+          "heat"          : 45,
+          "watchers"      : 4,
+          "size"          : 218,
           "collaborators" : 3,
-          "stars"         : 3,
+          "stars"         : 4,
           "forks"         : 5,
           "openIssues"    : 1,
           "languages"     : {
-            "Clojure" : 60692
+            "Clojure" : 61177
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 43,
-        "watchers"      : 3,
-        "size"          : 221,
+        "heat"          : 45,
+        "watchers"      : 4,
+        "size"          : 218,
         "collaborators" : 3,
-        "stars"         : 3,
+        "stars"         : 4,
         "forks"         : 5,
         "openIssues"    : 1,
         "languages"     : {
-          "Clojure" : 60692
+          "Clojure" : 61177
         }
       }
     },
@@ -2074,26 +2231,26 @@
           "name"          : "hubot-symphony",
           "description"   : "Hubot adapter for Symphony",
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
-          "heat"          : 89,
+          "heat"          : 94,
           "watchers"      : 9,
           "size"          : 287,
           "collaborators" : 4,
           "stars"         : 9,
-          "forks"         : 11,
-          "openIssues"    : 11,
+          "forks"         : 12,
+          "openIssues"    : 12,
           "languages"     : {
             "JavaScript" : 81960
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 89,
+        "heat"          : 94,
         "watchers"      : 9,
         "size"          : 287,
         "collaborators" : 4,
         "stars"         : 9,
-        "forks"         : 11,
-        "openIssues"    : 11,
+        "forks"         : 12,
+        "openIssues"    : 12,
         "languages"     : {
           "JavaScript" : 81960
         }
@@ -2116,13 +2273,13 @@
           "name"          : "symphony-java-client",
           "description"   : "Java client library for Symphony",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-client",
-          "heat"          : 209,
-          "watchers"      : 28,
-          "size"          : 2440,
+          "heat"          : 216,
+          "watchers"      : 29,
+          "size"          : 2445,
           "collaborators" : 7,
-          "stars"         : 28,
-          "forks"         : 25,
-          "openIssues"    : 8,
+          "stars"         : 29,
+          "forks"         : 26,
+          "openIssues"    : 7,
           "languages"     : {
             "Java" : 695383,
             "Shell" : 1987
@@ -2147,11 +2304,11 @@
           "name"          : "symphony-java-sample-bots",
           "description"   : "A set of simple Bots for Symphony, implemented in Java.",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-sample-bots",
-          "heat"          : 103,
-          "watchers"      : 16,
+          "heat"          : 109,
+          "watchers"      : 19,
           "size"          : 932,
           "collaborators" : 4,
-          "stars"         : 16,
+          "stars"         : 19,
           "forks"         : 11,
           "openIssues"    : 4,
           "languages"     : {
@@ -2161,13 +2318,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 366,
-        "watchers"      : 46,
-        "size"          : 3496,
+        "heat"          : 379,
+        "watchers"      : 50,
+        "size"          : 3501,
         "collaborators" : 16,
-        "stars"         : 46,
-        "forks"         : 42,
-        "openIssues"    : 12,
+        "stars"         : 50,
+        "forks"         : 43,
+        "openIssues"    : 11,
         "languages"     : {
           "Java" : 718953,
           "Shell" : 4382
@@ -2191,28 +2348,28 @@
           "name"          : "symphony-node-binding",
           "description"   : "A node.js symphony api implementation",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-node-binding",
-          "heat"          : 71,
-          "watchers"      : 0,
-          "size"          : 16,
-          "collaborators" : 4,
-          "stars"         : 0,
+          "heat"          : 79,
+          "watchers"      : 2,
+          "size"          : 22,
+          "collaborators" : 5,
+          "stars"         : 2,
           "forks"         : 11,
           "openIssues"    : 3,
           "languages"     : {
-            "JavaScript" : 12037
+            "JavaScript" : 28233
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 71,
-        "watchers"      : 0,
-        "size"          : 16,
-        "collaborators" : 4,
-        "stars"         : 0,
+        "heat"          : 79,
+        "watchers"      : 2,
+        "size"          : 22,
+        "collaborators" : 5,
+        "stars"         : 2,
         "forks"         : 11,
         "openIssues"    : 3,
         "languages"     : {
-          "JavaScript" : 12037
+          "JavaScript" : 28233
         }
       }
     },
@@ -2232,17 +2389,17 @@
           "name"          : "python-symphony",
           "description"   : "An importable class that provides methods and objects for interacting with the Symphony Agent API from python",
           "gitHubURL"     : "https://github.com/symphonyoss/python-symphony",
-          "heat"          : 50,
-          "watchers"      : 7,
-          "size"          : 180,
+          "heat"          : 64,
+          "watchers"      : 9,
+          "size"          : 181,
           "collaborators" : 4,
-          "stars"         : 7,
-          "forks"         : 4,
-          "openIssues"    : 5,
+          "stars"         : 9,
+          "forks"         : 6,
+          "openIssues"    : 6,
           "languages"     : {
             "Shell" : 11,
             "Makefile" : 2118,
-            "Python" : 80744
+            "Python" : 80746
           }
         },
         {
@@ -2264,17 +2421,17 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 76,
-        "watchers"      : 7,
-        "size"          : 225,
+        "heat"          : 90,
+        "watchers"      : 9,
+        "size"          : 226,
         "collaborators" : 8,
-        "stars"         : 7,
-        "forks"         : 6,
-        "openIssues"    : 5,
+        "stars"         : 9,
+        "forks"         : 8,
+        "openIssues"    : 6,
         "languages"     : {
           "Shell" : 22,
           "Makefile" : 4236,
-          "Python" : 84193
+          "Python" : 84195
         }
       }
     },
@@ -2294,11 +2451,11 @@
           "name"          : "ContainerJS",
           "description"   : "ContainerJS provides an abstraction layer over multiple HTML5 containers (OpenFin, Electron, Browser), that follows the Symphony Desktop APIs",
           "gitHubURL"     : "https://github.com/symphonyoss/ContainerJS",
-          "heat"          : 140,
-          "watchers"      : 25,
+          "heat"          : 142,
+          "watchers"      : 26,
           "size"          : 650,
           "collaborators" : 10,
-          "stars"         : 25,
+          "stars"         : 26,
           "forks"         : 10,
           "openIssues"    : 26,
           "languages"     : {
@@ -2312,11 +2469,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 140,
-        "watchers"      : 25,
+        "heat"          : 142,
+        "watchers"      : 26,
         "size"          : 650,
         "collaborators" : 10,
-        "stars"         : 25,
+        "stars"         : 26,
         "forks"         : 10,
         "openIssues"    : 26,
         "languages"     : {
@@ -2382,13 +2539,13 @@
           "name"          : "extension-api-examples",
           "description"   : "Examples on how to use the extension API",
           "gitHubURL"     : "https://github.com/symphonyoss/extension-api-examples",
-          "heat"          : 117,
-          "watchers"      : 11,
+          "heat"          : 139,
+          "watchers"      : 12,
           "size"          : 1056,
           "collaborators" : 5,
-          "stars"         : 11,
-          "forks"         : 15,
-          "openIssues"    : 8,
+          "stars"         : 12,
+          "forks"         : 19,
+          "openIssues"    : 10,
           "languages"     : {
             "HTML" : 6781,
             "CSS" : 794,
@@ -2409,13 +2566,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 206,
-        "watchers"      : 19,
+        "heat"          : 228,
+        "watchers"      : 20,
         "size"          : 1491,
         "collaborators" : 17,
-        "stars"         : 19,
-        "forks"         : 20,
-        "openIssues"    : 9,
+        "stars"         : 20,
+        "forks"         : 24,
+        "openIssues"    : 11,
         "languages"     : {
           "Java" : 114904,
           "HTML" : 12563,
@@ -2483,14 +2640,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 867,
+          "size"          : 988,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 176445,
-            "Shell" : 21983
+            "Java" : 436154,
+            "CSS" : 29377,
+            "Shell" : 21983,
+            "HTML" : 16297
           }
         },
         {
@@ -2499,27 +2658,29 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-example",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 57,
+          "size"          : 53,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 22843
+            "Java" : 22826
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 50,
         "watchers"      : 0,
-        "size"          : 924,
+        "size"          : 1041,
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 199288,
-          "Shell" : 21983
+          "Java" : 458980,
+          "CSS" : 29377,
+          "Shell" : 21983,
+          "HTML" : 16297
         }
       }
     },
@@ -2641,13 +2802,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Commons",
           "heat"          : 87,
           "watchers"      : 2,
-          "size"          : 20181,
+          "size"          : 20184,
           "collaborators" : 12,
           "stars"         : 2,
           "forks"         : 7,
           "openIssues"    : 2,
           "languages"     : {
-            "Java" : 728606
+            "Java" : 728617
           }
         },
         {
@@ -2656,7 +2817,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Core",
           "heat"          : 96,
           "watchers"      : 4,
-          "size"          : 12108,
+          "size"          : 12113,
           "collaborators" : 12,
           "stars"         : 4,
           "forks"         : 8,
@@ -2673,14 +2834,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-FE-Commons",
           "heat"          : 54,
           "watchers"      : 0,
-          "size"          : 22587,
+          "size"          : 22595,
           "collaborators" : 11,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
             "CSS" : 13989,
-            "JavaScript" : 99880
+            "JavaScript" : 99926
           }
         },
         {
@@ -2702,17 +2863,17 @@
       "cumulativeGitHubStats" : {
         "heat"          : 266,
         "watchers"      : 6,
-        "size"          : 55510,
+        "size"          : 55526,
         "collaborators" : 41,
         "stars"         : 6,
         "forks"         : 18,
         "openIssues"    : 3,
         "languages"     : {
-          "Java" : 1861661,
+          "Java" : 1861672,
           "Shell" : 1870,
           "CSS" : 13989,
           "HTML" : 651,
-          "JavaScript" : 100700
+          "JavaScript" : 100746
         }
       }
     },
@@ -2736,13 +2897,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Github",
           "heat"          : 71,
           "watchers"      : 2,
-          "size"          : 1585,
+          "size"          : 1592,
           "collaborators" : 13,
           "stars"         : 2,
           "forks"         : 3,
           "openIssues"    : 2,
           "languages"     : {
-            "Java" : 122819,
+            "Java" : 123428,
             "HTML" : 2240,
             "Shell" : 1440,
             "JavaScript" : 7928
@@ -2752,13 +2913,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 71,
         "watchers"      : 2,
-        "size"          : 1585,
+        "size"          : 1592,
         "collaborators" : 13,
         "stars"         : 2,
         "forks"         : 3,
         "openIssues"    : 2,
         "languages"     : {
-          "Java" : 122819,
+          "Java" : 123428,
           "HTML" : 2240,
           "Shell" : 1440,
           "JavaScript" : 7928
@@ -2922,7 +3083,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Salesforce",
           "heat"          : 64,
           "watchers"      : 1,
-          "size"          : 21849,
+          "size"          : 21845,
           "collaborators" : 13,
           "stars"         : 1,
           "forks"         : 2,
@@ -2938,7 +3099,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 64,
         "watchers"      : 1,
-        "size"          : 21849,
+        "size"          : 21845,
         "collaborators" : 13,
         "stars"         : 1,
         "forks"         : 2,
@@ -3020,11 +3181,11 @@
           "name"          : "App-Integrations-Universal",
           "description"   : "Universal Webhook Integration",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Universal",
-          "heat"          : 79,
-          "watchers"      : 1,
-          "size"          : 982,
+          "heat"          : 81,
+          "watchers"      : 2,
+          "size"          : 983,
           "collaborators" : 13,
-          "stars"         : 1,
+          "stars"         : 2,
           "forks"         : 5,
           "openIssues"    : 2,
           "languages"     : {
@@ -3036,11 +3197,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 79,
-        "watchers"      : 1,
-        "size"          : 982,
+        "heat"          : 81,
+        "watchers"      : 2,
+        "size"          : 983,
         "collaborators" : 13,
-        "stars"         : 1,
+        "stars"         : 2,
         "forks"         : 5,
         "openIssues"    : 2,
         "languages"     : {
@@ -3071,7 +3232,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Zapier",
           "heat"          : 71,
           "watchers"      : 2,
-          "size"          : 1139,
+          "size"          : 1140,
           "collaborators" : 13,
           "stars"         : 2,
           "forks"         : 3,
@@ -3087,7 +3248,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 71,
         "watchers"      : 2,
-        "size"          : 1139,
+        "size"          : 1140,
         "collaborators" : 13,
         "stars"         : 2,
         "forks"         : 3,
@@ -3158,28 +3319,28 @@
           "name"          : "messageml-utils",
           "description"   : "MessageML parser",
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
-          "heat"          : 94,
+          "heat"          : 99,
           "watchers"      : 3,
-          "size"          : 349,
+          "size"          : 353,
           "collaborators" : 7,
           "stars"         : 3,
-          "forks"         : 12,
+          "forks"         : 13,
           "openIssues"    : 2,
           "languages"     : {
-            "Java" : 596428
+            "Java" : 597550
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 94,
+        "heat"          : 99,
         "watchers"      : 3,
-        "size"          : 349,
+        "size"          : 353,
         "collaborators" : 7,
         "stars"         : 3,
-        "forks"         : 12,
+        "forks"         : 13,
         "openIssues"    : 2,
         "languages"     : {
-          "Java" : 596428
+          "Java" : 597550
         }
       }
     },
@@ -3417,15 +3578,15 @@
           "name"          : "S2-common",
           "description"   : "S2 Common Classes - for consumption by SBE and S2",
           "gitHubURL"     : "https://github.com/symphonyoss/S2-common",
-          "heat"          : 34,
+          "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 331,
+          "size"          : 352,
           "collaborators" : 6,
           "stars"         : 0,
-          "forks"         : 2,
+          "forks"         : 3,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 483536
+            "Java" : 424971
           }
         },
         {
@@ -3434,7 +3595,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-super-pom",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 43,
+          "size"          : 45,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
@@ -3442,15 +3603,15 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 59,
+        "heat"          : 64,
         "watchers"      : 0,
-        "size"          : 374,
+        "size"          : 397,
         "collaborators" : 11,
         "stars"         : 0,
-        "forks"         : 3,
+        "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 483536
+          "Java" : 424971
         }
       }
     },
@@ -3471,28 +3632,28 @@
           "name"          : "ScreenSnippet",
           "description"   : "Screen snippet utility for Windows.",
           "gitHubURL"     : "https://github.com/symphonyoss/ScreenSnippet",
-          "heat"          : 41,
+          "heat"          : 46,
           "watchers"      : 0,
-          "size"          : 21,
+          "size"          : 76,
           "collaborators" : 4,
           "stars"         : 0,
-          "forks"         : 5,
+          "forks"         : 6,
           "openIssues"    : 0,
           "languages"     : {
-            "C#" : 17695
+            "C#" : 18006
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 41,
+        "heat"          : 46,
         "watchers"      : 0,
-        "size"          : 21,
+        "size"          : 76,
         "collaborators" : 4,
         "stars"         : 0,
-        "forks"         : 5,
+        "forks"         : 6,
         "openIssues"    : 0,
         "languages"     : {
-          "C#" : 17695
+          "C#" : 18006
         }
       }
     },
@@ -3512,19 +3673,19 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 192,
-          "watchers"      : 20,
-          "size"          : 33125,
-          "collaborators" : 8,
-          "stars"         : 20,
-          "forks"         : 24,
-          "openIssues"    : 5,
+          "heat"          : 230,
+          "watchers"      : 22,
+          "size"          : 30220,
+          "collaborators" : 9,
+          "stars"         : 22,
+          "forks"         : 30,
+          "openIssues"    : 8,
           "languages"     : {
             "Shell" : 5677,
-            "CSS" : 3308,
+            "CSS" : 3497,
             "Batchfile" : 552,
-            "JavaScript" : 415368,
-            "HTML" : 13825,
+            "JavaScript" : 441846,
+            "HTML" : 14408,
             "Objective_C" : 6006
           }
         },
@@ -3545,20 +3706,20 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 217,
-        "watchers"      : 22,
-        "size"          : 33145,
-        "collaborators" : 12,
-        "stars"         : 22,
-        "forks"         : 25,
-        "openIssues"    : 5,
+        "heat"          : 255,
+        "watchers"      : 24,
+        "size"          : 30240,
+        "collaborators" : 13,
+        "stars"         : 24,
+        "forks"         : 31,
+        "openIssues"    : 8,
         "languages"     : {
           "C#" : 7673,
           "Shell" : 5677,
-          "CSS" : 3308,
+          "CSS" : 3497,
           "Batchfile" : 552,
-          "JavaScript" : 415368,
-          "HTML" : 13825,
+          "JavaScript" : 441846,
+          "HTML" : 14408,
           "Objective_C" : 6006
         }
       }
@@ -3583,6 +3744,22 @@
       "programName"          : "Symphony",
       "programShortName"     : "Symphony",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Desktop Wrapper API WG",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2016-02-08",
+      "archiveDate"          : "2018-05-12",
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "wg-api@symphony.foundation",
+          "webArchiveUrl" : "https://groups.google.com/a/symphony.foundation/forum/#!forum/wg-api"
+        }
+      ]
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "Hashtag Standardization WG",
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
@@ -3592,10 +3769,80 @@
       "programName"          : "Voice, Voice Metadata, and Voice API",
       "programShortName"     : "Voice",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/VOICE/overview",
-      "activityName"         : "Call Metadata Standardization",
+      "activityName"         : "Greenkey SDK",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-05-25",
+      "tags"                 : [
+        "rest api client"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "greenkey-sdk",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/finos-voice/greenkey-sdk",
+          "heat"          : 26,
+          "watchers"      : 1,
+          "size"          : 172,
+          "collaborators" : 6,
+          "stars"         : 1,
+          "forks"         : 0,
+          "openIssues"    : 3,
+          "languages"     : {
+            "JavaScript" : 7557
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 26,
+        "watchers"      : 1,
+        "size"          : 172,
+        "collaborators" : 6,
+        "stars"         : 1,
+        "forks"         : 0,
+        "openIssues"    : 3,
+        "languages"     : {
+          "JavaScript" : 7557
+        }
+      }
+    },
+    {
+      "programName"          : "Voice, Voice Metadata, and Voice API",
+      "programShortName"     : "Voice",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/VOICE/overview",
+      "activityName"         : "Voice Metadata Standardization",
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
-      "contributionDate"     : "2018-02-28"
+      "contributionDate"     : "2018-02-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "voice-metadata-standard",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/finos-voice/voice-metadata-standard",
+          "heat"          : 16,
+          "watchers"      : 0,
+          "size"          : 7,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 16,
+        "watchers"      : 0,
+        "size"          : 7,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      },
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "voice-call-metadata-standardization@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/voice-call-metadata-standardization"
+        }
+      ]
     }
   ],
   "allTags" : [
@@ -3603,8 +3850,11 @@
     "authentication",
     "bitbucket",
     "bot",
+    "build",
     "calendar",
     "chatops",
+    "demo",
+    "deploy",
     "desktop",
     "desktop technology",
     "developer productivity",
@@ -3623,7 +3873,9 @@
     "library",
     "nlp/ml",
     "node.js",
+    "policy",
     "pull requests",
+    "reference",
     "rest api client",
     "salesforce",
     "sample",
