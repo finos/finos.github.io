@@ -569,7 +569,7 @@
           "collaborators" : 33,
           "stars"         : 7,
           "forks"         : 8,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 78843,
             "HTML" : 7007,
@@ -585,7 +585,7 @@
         "collaborators" : 33,
         "stars"         : 7,
         "forks"         : 8,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 78843,
           "HTML" : 7007,
@@ -697,11 +697,11 @@
           "gitHubURL"     : "https://github.com/finos-osr/bot-github-chatops",
           "heat"          : 27,
           "watchers"      : 3,
-          "size"          : 353,
+          "size"          : 358,
           "collaborators" : 4,
           "stars"         : 3,
           "forks"         : 1,
-          "openIssues"    : 10,
+          "openIssues"    : 11,
           "languages"     : {
             "Shell" : 1298,
             "FreeMarker" : 7545,
@@ -712,11 +712,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 27,
         "watchers"      : 3,
-        "size"          : 353,
+        "size"          : 358,
         "collaborators" : 4,
         "stars"         : 3,
         "forks"         : 1,
-        "openIssues"    : 10,
+        "openIssues"    : 11,
         "languages"     : {
           "Shell" : 1298,
           "FreeMarker" : 7545,
