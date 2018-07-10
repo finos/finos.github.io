@@ -460,15 +460,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 466,
           "watchers"      : 67,
-          "size"          : 1615,
+          "size"          : 1619,
           "collaborators" : 33,
           "stars"         : 67,
           "forks"         : 40,
-          "openIssues"    : 19,
+          "openIssues"    : 18,
           "languages"     : {
-            "TypeScript" : 351786,
+            "TypeScript" : 357212,
             "HTML" : 10167,
-            "JavaScript" : 387998
+            "JavaScript" : 386618
           }
         },
         {
@@ -492,15 +492,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 703,
         "watchers"      : 75,
-        "size"          : 2954,
+        "size"          : 2958,
         "collaborators" : 67,
         "stars"         : 75,
         "forks"         : 57,
-        "openIssues"    : 27,
+        "openIssues"    : 26,
         "languages"     : {
-          "TypeScript" : 651673,
+          "TypeScript" : 657099,
           "HTML" : 12502,
-          "JavaScript" : 394378
+          "JavaScript" : 392998
         }
       }
     },
@@ -2110,21 +2110,21 @@
           "name"          : "symphony-api-spec",
           "description"   : "Swagger definitions for Symphony LLC public REST API ",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
-          "heat"          : 87,
-          "watchers"      : 6,
+          "heat"          : 85,
+          "watchers"      : 5,
           "size"          : 173,
           "collaborators" : 5,
-          "stars"         : 6,
+          "stars"         : 5,
           "forks"         : 11,
           "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 87,
-        "watchers"      : 6,
+        "heat"          : 85,
+        "watchers"      : 5,
         "size"          : 173,
         "collaborators" : 5,
-        "stars"         : 6,
+        "stars"         : 5,
         "forks"         : 11,
         "openIssues"    : 2
       }
@@ -3673,13 +3673,13 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 230,
-          "watchers"      : 22,
-          "size"          : 30236,
+          "heat"          : 232,
+          "watchers"      : 23,
+          "size"          : 30234,
           "collaborators" : 9,
-          "stars"         : 22,
+          "stars"         : 23,
           "forks"         : 30,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "Shell" : 5677,
             "CSS" : 4428,
@@ -3706,13 +3706,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 255,
-        "watchers"      : 24,
-        "size"          : 30256,
+        "heat"          : 257,
+        "watchers"      : 25,
+        "size"          : 30254,
         "collaborators" : 13,
-        "stars"         : 24,
+        "stars"         : 25,
         "forks"         : 31,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "C#" : 7673,
           "Shell" : 5677,
