@@ -3675,7 +3675,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 232,
           "watchers"      : 23,
-          "size"          : 30234,
+          "size"          : 30233,
           "collaborators" : 9,
           "stars"         : 23,
           "forks"         : 30,
@@ -3708,7 +3708,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 257,
         "watchers"      : 25,
-        "size"          : 30254,
+        "size"          : 30253,
         "collaborators" : 13,
         "stars"         : 25,
         "forks"         : 31,
