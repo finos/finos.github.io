@@ -58,11 +58,11 @@
           "name"          : "API",
           "description"   : "API Working Group repository",
           "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 208,
-          "watchers"      : 3,
+          "heat"          : 210,
+          "watchers"      : 4,
           "size"          : 43,
           "collaborators" : 43,
-          "stars"         : 3,
+          "stars"         : 4,
           "forks"         : 6,
           "openIssues"    : 3,
           "languages"     : {
@@ -71,11 +71,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 208,
-        "watchers"      : 3,
+        "heat"          : 210,
+        "watchers"      : 4,
         "size"          : 43,
         "collaborators" : 43,
-        "stars"         : 3,
+        "stars"         : 4,
         "forks"         : 6,
         "openIssues"    : 3,
         "languages"     : {
@@ -460,15 +460,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 466,
           "watchers"      : 67,
-          "size"          : 1619,
+          "size"          : 1725,
           "collaborators" : 33,
           "stars"         : 67,
           "forks"         : 40,
-          "openIssues"    : 18,
+          "openIssues"    : 12,
           "languages"     : {
-            "TypeScript" : 357212,
+            "TypeScript" : 319317,
             "HTML" : 10167,
-            "JavaScript" : 386618
+            "JavaScript" : 368568
           }
         },
         {
@@ -492,15 +492,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 703,
         "watchers"      : 75,
-        "size"          : 2958,
+        "size"          : 3064,
         "collaborators" : 67,
         "stars"         : 75,
         "forks"         : 57,
-        "openIssues"    : 26,
+        "openIssues"    : 20,
         "languages"     : {
-          "TypeScript" : 657099,
+          "TypeScript" : 619204,
           "HTML" : 12502,
-          "JavaScript" : 392998
+          "JavaScript" : 374948
         }
       }
     },
@@ -569,7 +569,7 @@
           "collaborators" : 33,
           "stars"         : 7,
           "forks"         : 8,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 78843,
             "HTML" : 7007,
@@ -585,7 +585,7 @@
         "collaborators" : 33,
         "stars"         : 7,
         "forks"         : 8,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 78843,
           "HTML" : 7007,
@@ -2821,7 +2821,7 @@
           "collaborators" : 12,
           "stars"         : 4,
           "forks"         : 8,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Java" : 1133055,
             "Shell" : 1870,
@@ -2867,7 +2867,7 @@
         "collaborators" : 41,
         "stars"         : 6,
         "forks"         : 18,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "Java" : 1861672,
           "Shell" : 1870,
@@ -3325,7 +3325,7 @@
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 13,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "Java" : 597550
           }
@@ -3338,7 +3338,7 @@
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 13,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "Java" : 597550
         }
@@ -3781,12 +3781,12 @@
           "name"          : "greenkey-sdk",
           "description"   : "",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-sdk",
-          "heat"          : 26,
+          "heat"          : 31,
           "watchers"      : 1,
           "size"          : 155,
           "collaborators" : 6,
           "stars"         : 1,
-          "forks"         : 0,
+          "forks"         : 1,
           "openIssues"    : 1,
           "languages"     : {
             "JavaScript" : 7806
@@ -3794,12 +3794,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 26,
+        "heat"          : 31,
         "watchers"      : 1,
         "size"          : 155,
         "collaborators" : 6,
         "stars"         : 1,
-        "forks"         : 0,
+        "forks"         : 1,
         "openIssues"    : 1,
         "languages"     : {
           "JavaScript" : 7806
