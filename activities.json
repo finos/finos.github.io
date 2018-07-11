@@ -464,11 +464,11 @@
           "collaborators" : 33,
           "stars"         : 67,
           "forks"         : 40,
-          "openIssues"    : 12,
+          "openIssues"    : 11,
           "languages"     : {
             "TypeScript" : 319317,
             "HTML" : 10167,
-            "JavaScript" : 368568
+            "JavaScript" : 368324
           }
         },
         {
@@ -496,11 +496,11 @@
         "collaborators" : 67,
         "stars"         : 75,
         "forks"         : 57,
-        "openIssues"    : 20,
+        "openIssues"    : 19,
         "languages"     : {
           "TypeScript" : 619204,
           "HTML" : 12502,
-          "JavaScript" : 374948
+          "JavaScript" : 374704
         }
       }
     },
