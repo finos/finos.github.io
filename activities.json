@@ -460,15 +460,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 466,
           "watchers"      : 67,
-          "size"          : 1692,
+          "size"          : 1703,
           "collaborators" : 33,
           "stars"         : 67,
           "forks"         : 40,
           "openIssues"    : 8,
           "languages"     : {
-            "TypeScript" : 317590,
+            "TypeScript" : 317484,
             "HTML" : 10167,
-            "JavaScript" : 366908
+            "JavaScript" : 366635
           }
         },
         {
@@ -492,15 +492,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 703,
         "watchers"      : 75,
-        "size"          : 3031,
+        "size"          : 3042,
         "collaborators" : 67,
         "stars"         : 75,
         "forks"         : 57,
         "openIssues"    : 16,
         "languages"     : {
-          "TypeScript" : 617477,
+          "TypeScript" : 617371,
           "HTML" : 12502,
-          "JavaScript" : 373288
+          "JavaScript" : 373015
         }
       }
     },
@@ -565,13 +565,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 186,
           "watchers"      : 7,
-          "size"          : 601,
+          "size"          : 606,
           "collaborators" : 33,
           "stars"         : 7,
           "forks"         : 8,
           "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 100505,
+            "TypeScript" : 100694,
             "HTML" : 11621,
             "CSS" : 1315,
             "JavaScript" : 11885
@@ -581,13 +581,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 186,
         "watchers"      : 7,
-        "size"          : 601,
+        "size"          : 606,
         "collaborators" : 33,
         "stars"         : 7,
         "forks"         : 8,
         "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 100505,
+          "TypeScript" : 100694,
           "HTML" : 11621,
           "CSS" : 1315,
           "JavaScript" : 11885
@@ -609,7 +609,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 147,
           "watchers"      : 5,
-          "size"          : 5770,
+          "size"          : 5780,
           "collaborators" : 33,
           "stars"         : 5,
           "forks"         : 1,
@@ -626,7 +626,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 147,
         "watchers"      : 5,
-        "size"          : 5770,
+        "size"          : 5780,
         "collaborators" : 33,
         "stars"         : 5,
         "forks"         : 1,
@@ -2233,7 +2233,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 89,
           "watchers"      : 9,
-          "size"          : 287,
+          "size"          : 273,
           "collaborators" : 4,
           "stars"         : 9,
           "forks"         : 11,
@@ -2246,7 +2246,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 89,
         "watchers"      : 9,
-        "size"          : 287,
+        "size"          : 273,
         "collaborators" : 4,
         "stars"         : 9,
         "forks"         : 11,
@@ -2539,12 +2539,12 @@
           "name"          : "extension-api-examples",
           "description"   : "Examples on how to use the extension API",
           "gitHubURL"     : "https://github.com/symphonyoss/extension-api-examples",
-          "heat"          : 139,
-          "watchers"      : 12,
+          "heat"          : 146,
+          "watchers"      : 13,
           "size"          : 1056,
           "collaborators" : 5,
-          "stars"         : 12,
-          "forks"         : 19,
+          "stars"         : 13,
+          "forks"         : 20,
           "openIssues"    : 10,
           "languages"     : {
             "HTML" : 6781,
@@ -2566,12 +2566,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 228,
-        "watchers"      : 20,
+        "heat"          : 235,
+        "watchers"      : 21,
         "size"          : 1491,
         "collaborators" : 17,
-        "stars"         : 20,
-        "forks"         : 24,
+        "stars"         : 21,
+        "forks"         : 25,
         "openIssues"    : 11,
         "languages"     : {
           "Java" : 114904,
