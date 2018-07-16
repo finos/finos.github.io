@@ -464,7 +464,7 @@
           "collaborators" : 33,
           "stars"         : 67,
           "forks"         : 40,
-          "openIssues"    : 8,
+          "openIssues"    : 9,
           "languages"     : {
             "TypeScript" : 317484,
             "HTML" : 10167,
@@ -496,7 +496,7 @@
         "collaborators" : 67,
         "stars"         : 75,
         "forks"         : 57,
-        "openIssues"    : 16,
+        "openIssues"    : 17,
         "languages"     : {
           "TypeScript" : 617371,
           "HTML" : 12502,
@@ -565,32 +565,32 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 186,
           "watchers"      : 7,
-          "size"          : 606,
+          "size"          : 613,
           "collaborators" : 33,
           "stars"         : 7,
           "forks"         : 8,
           "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 100694,
+            "TypeScript" : 101323,
             "HTML" : 11621,
             "CSS" : 1315,
-            "JavaScript" : 11885
+            "JavaScript" : 11953
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 186,
         "watchers"      : 7,
-        "size"          : 606,
+        "size"          : 613,
         "collaborators" : 33,
         "stars"         : 7,
         "forks"         : 8,
         "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 100694,
+          "TypeScript" : 101323,
           "HTML" : 11621,
           "CSS" : 1315,
-          "JavaScript" : 11885
+          "JavaScript" : 11953
         }
       }
     },
@@ -695,13 +695,13 @@
           "name"          : "bot-github-chatops",
           "description"   : "A Symphony bot that uses ChatOps techniques to allow a firm employee to interact in a compliant manner with GitHub issues and PRs",
           "gitHubURL"     : "https://github.com/finos-osr/bot-github-chatops",
-          "heat"          : 27,
-          "watchers"      : 3,
+          "heat"          : 29,
+          "watchers"      : 4,
           "size"          : 364,
           "collaborators" : 4,
-          "stars"         : 3,
+          "stars"         : 4,
           "forks"         : 1,
-          "openIssues"    : 9,
+          "openIssues"    : 10,
           "languages"     : {
             "Shell" : 1298,
             "FreeMarker" : 7553,
@@ -710,13 +710,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 27,
-        "watchers"      : 3,
+        "heat"          : 29,
+        "watchers"      : 4,
         "size"          : 364,
         "collaborators" : 4,
-        "stars"         : 3,
+        "stars"         : 4,
         "forks"         : 1,
-        "openIssues"    : 9,
+        "openIssues"    : 10,
         "languages"     : {
           "Shell" : 1298,
           "FreeMarker" : 7553,
@@ -1289,7 +1289,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/GroupID",
           "heat"          : 46,
           "watchers"      : 0,
-          "size"          : 24552,
+          "size"          : 24567,
           "collaborators" : 9,
           "stars"         : 0,
           "forks"         : 2,
@@ -1305,7 +1305,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 46,
         "watchers"      : 0,
-        "size"          : 24552,
+        "size"          : 24567,
         "collaborators" : 9,
         "stars"         : 0,
         "forks"         : 2,
@@ -2640,13 +2640,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 1025,
+          "size"          : 1033,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 448115,
+            "Java" : 449234,
             "CSS" : 29377,
             "Shell" : 21983,
             "HTML" : 16297
@@ -2671,13 +2671,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 50,
         "watchers"      : 0,
-        "size"          : 1078,
+        "size"          : 1086,
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 470941,
+          "Java" : 472060,
           "CSS" : 29377,
           "Shell" : 21983,
           "HTML" : 16297
