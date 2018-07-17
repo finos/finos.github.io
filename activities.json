@@ -64,7 +64,7 @@
           "collaborators" : 43,
           "stars"         : 4,
           "forks"         : 6,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 3009
           }
@@ -77,7 +77,7 @@
         "collaborators" : 43,
         "stars"         : 4,
         "forks"         : 6,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 3009
         }
@@ -373,11 +373,11 @@
           "name"          : "app-template",
           "description"   : "A simple unopinionated Hadouken application template.",
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
-          "heat"          : 178,
-          "watchers"      : 8,
+          "heat"          : 180,
+          "watchers"      : 9,
           "size"          : 151,
           "collaborators" : 33,
-          "stars"         : 8,
+          "stars"         : 9,
           "forks"         : 6,
           "openIssues"    : 2,
           "languages"     : {
@@ -387,11 +387,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 178,
-        "watchers"      : 8,
+        "heat"          : 180,
+        "watchers"      : 9,
         "size"          : 151,
         "collaborators" : 33,
-        "stars"         : 8,
+        "stars"         : 9,
         "forks"         : 6,
         "openIssues"    : 2,
         "languages"     : {
@@ -460,15 +460,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 466,
           "watchers"      : 67,
-          "size"          : 1703,
+          "size"          : 1761,
           "collaborators" : 33,
           "stars"         : 67,
           "forks"         : 40,
           "openIssues"    : 9,
           "languages"     : {
-            "TypeScript" : 317484,
-            "HTML" : 10167,
-            "JavaScript" : 366635
+            "TypeScript" : 317652,
+            "HTML" : 11176,
+            "JavaScript" : 366621
           }
         },
         {
@@ -481,7 +481,7 @@
           "collaborators" : 34,
           "stars"         : 8,
           "forks"         : 17,
-          "openIssues"    : 8,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 299887,
             "HTML" : 2335,
@@ -492,15 +492,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 703,
         "watchers"      : 75,
-        "size"          : 3042,
+        "size"          : 3100,
         "collaborators" : 67,
         "stars"         : 75,
         "forks"         : 57,
-        "openIssues"    : 17,
+        "openIssues"    : 16,
         "languages"     : {
-          "TypeScript" : 617371,
-          "HTML" : 12502,
-          "JavaScript" : 373015
+          "TypeScript" : 617539,
+          "HTML" : 13511,
+          "JavaScript" : 373001
         }
       }
     },
@@ -565,32 +565,32 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 186,
           "watchers"      : 7,
-          "size"          : 613,
+          "size"          : 679,
           "collaborators" : 33,
           "stars"         : 7,
           "forks"         : 8,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 101323,
-            "HTML" : 11621,
+            "TypeScript" : 146781,
+            "HTML" : 11899,
             "CSS" : 1315,
-            "JavaScript" : 11953
+            "JavaScript" : 12263
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 186,
         "watchers"      : 7,
-        "size"          : 613,
+        "size"          : 679,
         "collaborators" : 33,
         "stars"         : 7,
         "forks"         : 8,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 101323,
-          "HTML" : 11621,
+          "TypeScript" : 146781,
+          "HTML" : 11899,
           "CSS" : 1315,
-          "JavaScript" : 11953
+          "JavaScript" : 12263
         }
       }
     },
@@ -607,11 +607,11 @@
           "name"          : "notifications-service",
           "description"   : "Notifications Desktop Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
-          "heat"          : 147,
-          "watchers"      : 5,
+          "heat"          : 149,
+          "watchers"      : 6,
           "size"          : 5780,
           "collaborators" : 33,
-          "stars"         : 5,
+          "stars"         : 6,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
@@ -624,11 +624,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 147,
-        "watchers"      : 5,
+        "heat"          : 149,
+        "watchers"      : 6,
         "size"          : 5780,
         "collaborators" : 33,
-        "stars"         : 5,
+        "stars"         : 6,
         "forks"         : 1,
         "openIssues"    : 0,
         "languages"     : {
@@ -788,7 +788,7 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 726,
           "watchers"      : 237,
-          "size"          : 5826,
+          "size"          : 5891,
           "collaborators" : 8,
           "stars"         : 237,
           "forks"         : 44,
@@ -809,7 +809,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 726,
         "watchers"      : 237,
-        "size"          : 5826,
+        "size"          : 5891,
         "collaborators" : 8,
         "stars"         : 237,
         "forks"         : 44,
@@ -2110,22 +2110,22 @@
           "name"          : "symphony-api-spec",
           "description"   : "Swagger definitions for Symphony LLC public REST API ",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
-          "heat"          : 85,
+          "heat"          : 90,
           "watchers"      : 5,
           "size"          : 173,
           "collaborators" : 5,
           "stars"         : 5,
-          "forks"         : 11,
+          "forks"         : 12,
           "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 85,
+        "heat"          : 90,
         "watchers"      : 5,
         "size"          : 173,
         "collaborators" : 5,
         "stars"         : 5,
-        "forks"         : 11,
+        "forks"         : 12,
         "openIssues"    : 2
       }
     },
@@ -3675,16 +3675,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 232,
           "watchers"      : 23,
-          "size"          : 30275,
+          "size"          : 30280,
           "collaborators" : 9,
           "stars"         : 23,
           "forks"         : 30,
-          "openIssues"    : 10,
+          "openIssues"    : 6,
           "languages"     : {
             "Shell" : 5677,
             "CSS" : 4428,
             "Batchfile" : 552,
-            "JavaScript" : 450596,
+            "JavaScript" : 451921,
             "HTML" : 14408,
             "Objective_C" : 6006
           }
@@ -3708,17 +3708,17 @@
       "cumulativeGitHubStats" : {
         "heat"          : 257,
         "watchers"      : 25,
-        "size"          : 30295,
+        "size"          : 30300,
         "collaborators" : 13,
         "stars"         : 25,
         "forks"         : 31,
-        "openIssues"    : 10,
+        "openIssues"    : 6,
         "languages"     : {
           "C#" : 7673,
           "Shell" : 5677,
           "CSS" : 4428,
           "Batchfile" : 552,
-          "JavaScript" : 450596,
+          "JavaScript" : 451921,
           "HTML" : 14408,
           "Objective_C" : 6006
         }
