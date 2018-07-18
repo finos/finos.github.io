@@ -464,7 +464,7 @@
           "collaborators" : 33,
           "stars"         : 67,
           "forks"         : 40,
-          "openIssues"    : 9,
+          "openIssues"    : 10,
           "languages"     : {
             "TypeScript" : 317652,
             "HTML" : 11176,
@@ -496,7 +496,7 @@
         "collaborators" : 67,
         "stars"         : 75,
         "forks"         : 57,
-        "openIssues"    : 16,
+        "openIssues"    : 17,
         "languages"     : {
           "TypeScript" : 617539,
           "HTML" : 13511,
@@ -794,9 +794,9 @@
           "forks"         : 44,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 1054108,
+            "TypeScript" : 1057791,
             "C#" : 1549069,
-            "Xtend" : 222390,
+            "Xtend" : 217985,
             "Java" : 70820,
             "Shell" : 550,
             "CSS" : 555,
@@ -815,9 +815,9 @@
         "forks"         : 44,
         "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 1054108,
+          "TypeScript" : 1057791,
           "C#" : 1549069,
-          "Xtend" : 222390,
+          "Xtend" : 217985,
           "Java" : 70820,
           "Shell" : 550,
           "CSS" : 555,
@@ -2186,11 +2186,11 @@
           "name"          : "RestApiClient",
           "description"   : "Symphony .Net Agent API client",
           "gitHubURL"     : "https://github.com/symphonyoss/RestApiClient",
-          "heat"          : 107,
-          "watchers"      : 14,
+          "heat"          : 105,
+          "watchers"      : 13,
           "size"          : 14480,
           "collaborators" : 6,
-          "stars"         : 14,
+          "stars"         : 13,
           "forks"         : 11,
           "openIssues"    : 6,
           "languages"     : {
@@ -2200,11 +2200,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 107,
-        "watchers"      : 14,
+        "heat"          : 105,
+        "watchers"      : 13,
         "size"          : 14480,
         "collaborators" : 6,
-        "stars"         : 14,
+        "stars"         : 13,
         "forks"         : 11,
         "openIssues"    : 6,
         "languages"     : {
@@ -2273,12 +2273,12 @@
           "name"          : "symphony-java-client",
           "description"   : "Java client library for Symphony",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-client",
-          "heat"          : 218,
+          "heat"          : 223,
           "watchers"      : 30,
           "size"          : 2447,
           "collaborators" : 7,
           "stars"         : 30,
-          "forks"         : 26,
+          "forks"         : 27,
           "openIssues"    : 8,
           "languages"     : {
             "Java" : 695383,
@@ -2318,12 +2318,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 381,
+        "heat"          : 386,
         "watchers"      : 51,
         "size"          : 3503,
         "collaborators" : 16,
         "stars"         : 51,
-        "forks"         : 43,
+        "forks"         : 44,
         "openIssues"    : 12,
         "languages"     : {
           "Java" : 718953,
@@ -3679,7 +3679,7 @@
           "collaborators" : 9,
           "stars"         : 23,
           "forks"         : 30,
-          "openIssues"    : 6,
+          "openIssues"    : 8,
           "languages"     : {
             "Shell" : 5677,
             "CSS" : 4428,
@@ -3712,7 +3712,7 @@
         "collaborators" : 13,
         "stars"         : 25,
         "forks"         : 31,
-        "openIssues"    : 6,
+        "openIssues"    : 8,
         "languages"     : {
           "C#" : 7673,
           "Shell" : 5677,
