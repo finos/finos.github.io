@@ -460,15 +460,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 466,
           "watchers"      : 67,
-          "size"          : 1761,
+          "size"          : 1765,
           "collaborators" : 33,
           "stars"         : 67,
           "forks"         : 40,
-          "openIssues"    : 10,
+          "openIssues"    : 11,
           "languages"     : {
-            "TypeScript" : 317652,
+            "TypeScript" : 339239,
             "HTML" : 11176,
-            "JavaScript" : 366621
+            "JavaScript" : 347352
           }
         },
         {
@@ -492,15 +492,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 703,
         "watchers"      : 75,
-        "size"          : 3100,
+        "size"          : 3104,
         "collaborators" : 67,
         "stars"         : 75,
         "forks"         : 57,
-        "openIssues"    : 17,
+        "openIssues"    : 18,
         "languages"     : {
-          "TypeScript" : 617539,
+          "TypeScript" : 639126,
           "HTML" : 13511,
-          "JavaScript" : 373001
+          "JavaScript" : 353732
         }
       }
     },
@@ -569,7 +569,7 @@
           "collaborators" : 33,
           "stars"         : 7,
           "forks"         : 8,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 146781,
             "HTML" : 11899,
@@ -585,7 +585,7 @@
         "collaborators" : 33,
         "stars"         : 7,
         "forks"         : 8,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 146781,
           "HTML" : 11899,
@@ -2640,15 +2640,15 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 1033,
+          "size"          : 1057,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 449234,
+            "Java" : 450196,
             "CSS" : 29377,
-            "Shell" : 21983,
+            "Shell" : 26804,
             "HTML" : 16297
           }
         },
@@ -2671,15 +2671,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 50,
         "watchers"      : 0,
-        "size"          : 1086,
+        "size"          : 1110,
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 472060,
+          "Java" : 473022,
           "CSS" : 29377,
-          "Shell" : 21983,
+          "Shell" : 26804,
           "HTML" : 16297
         }
       }
@@ -3675,16 +3675,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 232,
           "watchers"      : 23,
-          "size"          : 30280,
+          "size"          : 30284,
           "collaborators" : 9,
           "stars"         : 23,
           "forks"         : 30,
-          "openIssues"    : 8,
+          "openIssues"    : 10,
           "languages"     : {
             "Shell" : 5677,
             "CSS" : 4428,
             "Batchfile" : 552,
-            "JavaScript" : 451921,
+            "JavaScript" : 365739,
             "HTML" : 14408,
             "Objective_C" : 6006
           }
@@ -3708,17 +3708,17 @@
       "cumulativeGitHubStats" : {
         "heat"          : 257,
         "watchers"      : 25,
-        "size"          : 30300,
+        "size"          : 30304,
         "collaborators" : 13,
         "stars"         : 25,
         "forks"         : 31,
-        "openIssues"    : 8,
+        "openIssues"    : 10,
         "languages"     : {
           "C#" : 7673,
           "Shell" : 5677,
           "CSS" : 4428,
           "Batchfile" : 552,
-          "JavaScript" : 451921,
+          "JavaScript" : 365739,
           "HTML" : 14408,
           "Objective_C" : 6006
         }
