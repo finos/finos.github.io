@@ -460,15 +460,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 466,
           "watchers"      : 67,
-          "size"          : 1765,
+          "size"          : 1768,
           "collaborators" : 33,
           "stars"         : 67,
           "forks"         : 40,
-          "openIssues"    : 11,
+          "openIssues"    : 13,
           "languages"     : {
             "TypeScript" : 339239,
             "HTML" : 11176,
-            "JavaScript" : 347352
+            "JavaScript" : 347385
           }
         },
         {
@@ -492,15 +492,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 703,
         "watchers"      : 75,
-        "size"          : 3104,
+        "size"          : 3107,
         "collaborators" : 67,
         "stars"         : 75,
         "forks"         : 57,
-        "openIssues"    : 18,
+        "openIssues"    : 20,
         "languages"     : {
           "TypeScript" : 639126,
           "HTML" : 13511,
-          "JavaScript" : 353732
+          "JavaScript" : 353765
         }
       }
     },
@@ -569,7 +569,7 @@
           "collaborators" : 33,
           "stars"         : 7,
           "forks"         : 8,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 146781,
             "HTML" : 11899,
@@ -585,7 +585,7 @@
         "collaborators" : 33,
         "stars"         : 7,
         "forks"         : 8,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 146781,
           "HTML" : 11899,
@@ -613,7 +613,7 @@
           "collaborators" : 33,
           "stars"         : 6,
           "forks"         : 1,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 114518,
             "CSS" : 28538,
@@ -630,7 +630,7 @@
         "collaborators" : 33,
         "stars"         : 6,
         "forks"         : 1,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 114518,
           "CSS" : 28538,
@@ -788,15 +788,15 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 726,
           "watchers"      : 237,
-          "size"          : 5891,
+          "size"          : 5907,
           "collaborators" : 8,
           "stars"         : 237,
           "forks"         : 44,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 1057791,
+            "TypeScript" : 1059950,
             "C#" : 1549069,
-            "Xtend" : 217985,
+            "Xtend" : 217421,
             "Java" : 70820,
             "Shell" : 550,
             "CSS" : 555,
@@ -809,15 +809,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 726,
         "watchers"      : 237,
-        "size"          : 5891,
+        "size"          : 5907,
         "collaborators" : 8,
         "stars"         : 237,
         "forks"         : 44,
         "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 1057791,
+          "TypeScript" : 1059950,
           "C#" : 1549069,
-          "Xtend" : 217985,
+          "Xtend" : 217421,
           "Java" : 70820,
           "Shell" : 550,
           "CSS" : 555,
@@ -2110,20 +2110,20 @@
           "name"          : "symphony-api-spec",
           "description"   : "Swagger definitions for Symphony LLC public REST API ",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
-          "heat"          : 90,
+          "heat"          : 86,
           "watchers"      : 5,
           "size"          : 173,
-          "collaborators" : 5,
+          "collaborators" : 4,
           "stars"         : 5,
           "forks"         : 12,
           "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 90,
+        "heat"          : 86,
         "watchers"      : 5,
         "size"          : 173,
-        "collaborators" : 5,
+        "collaborators" : 4,
         "stars"         : 5,
         "forks"         : 12,
         "openIssues"    : 2
@@ -2348,26 +2348,26 @@
           "name"          : "symphony-node-binding",
           "description"   : "A node.js symphony api implementation",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-node-binding",
-          "heat"          : 79,
+          "heat"          : 84,
           "watchers"      : 2,
           "size"          : 22,
           "collaborators" : 5,
           "stars"         : 2,
-          "forks"         : 11,
-          "openIssues"    : 3,
+          "forks"         : 12,
+          "openIssues"    : 4,
           "languages"     : {
             "JavaScript" : 28233
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 79,
+        "heat"          : 84,
         "watchers"      : 2,
         "size"          : 22,
         "collaborators" : 5,
         "stars"         : 2,
-        "forks"         : 11,
-        "openIssues"    : 3,
+        "forks"         : 12,
+        "openIssues"    : 4,
         "languages"     : {
           "JavaScript" : 28233
         }
@@ -2640,13 +2640,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 1057,
+          "size"          : 1073,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 450196,
+            "Java" : 450723,
             "CSS" : 29377,
             "Shell" : 26804,
             "HTML" : 16297
@@ -2671,13 +2671,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 50,
         "watchers"      : 0,
-        "size"          : 1110,
+        "size"          : 1126,
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 473022,
+          "Java" : 473549,
           "CSS" : 29377,
           "Shell" : 26804,
           "HTML" : 16297
@@ -2895,10 +2895,10 @@
           "name"          : "App-Integrations-Github",
           "description"   : "GitHub Integration",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Github",
-          "heat"          : 71,
+          "heat"          : 67,
           "watchers"      : 2,
           "size"          : 1592,
-          "collaborators" : 13,
+          "collaborators" : 12,
           "stars"         : 2,
           "forks"         : 3,
           "openIssues"    : 2,
@@ -2911,10 +2911,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 71,
+        "heat"          : 67,
         "watchers"      : 2,
         "size"          : 1592,
-        "collaborators" : 13,
+        "collaborators" : 12,
         "stars"         : 2,
         "forks"         : 3,
         "openIssues"    : 2,
@@ -3032,10 +3032,10 @@
           "name"          : "App-Integrations-Jira",
           "description"   : "Jira Integration",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Jira",
-          "heat"          : 102,
+          "heat"          : 98,
           "watchers"      : 3,
           "size"          : 1869,
-          "collaborators" : 14,
+          "collaborators" : 13,
           "stars"         : 3,
           "forks"         : 8,
           "openIssues"    : 1,
@@ -3048,10 +3048,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 102,
+        "heat"          : 98,
         "watchers"      : 3,
         "size"          : 1869,
-        "collaborators" : 14,
+        "collaborators" : 13,
         "stars"         : 3,
         "forks"         : 8,
         "openIssues"    : 1,
@@ -3081,10 +3081,10 @@
           "name"          : "App-Integrations-Salesforce",
           "description"   : "Salesforce Integration",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Salesforce",
-          "heat"          : 64,
+          "heat"          : 60,
           "watchers"      : 1,
           "size"          : 21845,
-          "collaborators" : 13,
+          "collaborators" : 12,
           "stars"         : 1,
           "forks"         : 2,
           "openIssues"    : 0,
@@ -3097,10 +3097,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 64,
+        "heat"          : 60,
         "watchers"      : 1,
         "size"          : 21845,
-        "collaborators" : 13,
+        "collaborators" : 12,
         "stars"         : 1,
         "forks"         : 2,
         "openIssues"    : 0,
@@ -3130,10 +3130,10 @@
           "name"          : "App-Integrations-Trello",
           "description"   : "Trello Integration",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Trello",
-          "heat"          : 64,
+          "heat"          : 60,
           "watchers"      : 1,
           "size"          : 1059,
-          "collaborators" : 13,
+          "collaborators" : 12,
           "stars"         : 1,
           "forks"         : 2,
           "openIssues"    : 1,
@@ -3146,10 +3146,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 64,
+        "heat"          : 60,
         "watchers"      : 1,
         "size"          : 1059,
-        "collaborators" : 13,
+        "collaborators" : 12,
         "stars"         : 1,
         "forks"         : 2,
         "openIssues"    : 1,
@@ -3181,10 +3181,10 @@
           "name"          : "App-Integrations-Universal",
           "description"   : "Universal Webhook Integration",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Universal",
-          "heat"          : 81,
+          "heat"          : 77,
           "watchers"      : 2,
           "size"          : 983,
-          "collaborators" : 13,
+          "collaborators" : 12,
           "stars"         : 2,
           "forks"         : 5,
           "openIssues"    : 2,
@@ -3197,10 +3197,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 81,
+        "heat"          : 77,
         "watchers"      : 2,
         "size"          : 983,
-        "collaborators" : 13,
+        "collaborators" : 12,
         "stars"         : 2,
         "forks"         : 5,
         "openIssues"    : 2,
@@ -3230,10 +3230,10 @@
           "name"          : "App-Integrations-Zapier",
           "description"   : "Zapier Integration",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Zapier",
-          "heat"          : 71,
+          "heat"          : 67,
           "watchers"      : 2,
           "size"          : 1140,
-          "collaborators" : 13,
+          "collaborators" : 12,
           "stars"         : 2,
           "forks"         : 3,
           "openIssues"    : 0,
@@ -3246,10 +3246,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 71,
+        "heat"          : 67,
         "watchers"      : 2,
         "size"          : 1140,
-        "collaborators" : 13,
+        "collaborators" : 12,
         "stars"         : 2,
         "forks"         : 3,
         "openIssues"    : 0,
@@ -3673,20 +3673,20 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 232,
+          "heat"          : 228,
           "watchers"      : 23,
-          "size"          : 30284,
-          "collaborators" : 9,
+          "size"          : 30403,
+          "collaborators" : 8,
           "stars"         : 23,
           "forks"         : 30,
-          "openIssues"    : 10,
+          "openIssues"    : 7,
           "languages"     : {
-            "Shell" : 5677,
+            "Shell" : 5938,
             "CSS" : 4428,
             "Batchfile" : 552,
-            "JavaScript" : 365739,
+            "JavaScript" : 366993,
             "HTML" : 14408,
-            "Objective_C" : 6006
+            "Objective_C" : 6218
           }
         },
         {
@@ -3706,21 +3706,21 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 257,
+        "heat"          : 253,
         "watchers"      : 25,
-        "size"          : 30304,
-        "collaborators" : 13,
+        "size"          : 30423,
+        "collaborators" : 12,
         "stars"         : 25,
         "forks"         : 31,
-        "openIssues"    : 10,
+        "openIssues"    : 7,
         "languages"     : {
           "C#" : 7673,
-          "Shell" : 5677,
+          "Shell" : 5938,
           "CSS" : 4428,
           "Batchfile" : 552,
-          "JavaScript" : 365739,
+          "JavaScript" : 366993,
           "HTML" : 14408,
-          "Objective_C" : 6006
+          "Objective_C" : 6218
         }
       }
     },
