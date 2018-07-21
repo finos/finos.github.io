@@ -1,6 +1,18 @@
 {
   "activities" : [
     {
+      "programName"          : "Data Technologies",
+      "programShortName"     : "Data Tech",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/DT/overview",
+      "activityName"         : "kdb+ Working Group",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2018-07-11",
+      "tags"                 : [
+        "kdb+"
+      ]
+    },
+    {
       "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
       "programShortName"     : "FDC3",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
@@ -460,11 +472,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 466,
           "watchers"      : 67,
-          "size"          : 1768,
+          "size"          : 1800,
           "collaborators" : 33,
           "stars"         : 67,
           "forks"         : 40,
-          "openIssues"    : 13,
+          "openIssues"    : 14,
           "languages"     : {
             "TypeScript" : 339239,
             "HTML" : 11176,
@@ -492,11 +504,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 703,
         "watchers"      : 75,
-        "size"          : 3107,
+        "size"          : 3139,
         "collaborators" : 67,
         "stars"         : 75,
         "forks"         : 57,
-        "openIssues"    : 20,
+        "openIssues"    : 21,
         "languages"     : {
           "TypeScript" : 639126,
           "HTML" : 13511,
@@ -3703,22 +3715,39 @@
           "languages"     : {
             "C#" : 7673
           }
+        },
+        {
+          "name"          : "SwiftSearch",
+          "description"   : "SwiftSearch is a plugin for SymphonyElectron",
+          "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
+          "heat"          : 23,
+          "watchers"      : 1,
+          "size"          : 56,
+          "collaborators" : 4,
+          "stars"         : 1,
+          "forks"         : 1,
+          "openIssues"    : 0,
+          "languages"     : {
+            "TypeScript" : 78297,
+            "JavaScript" : 385
+          }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 253,
-        "watchers"      : 25,
-        "size"          : 30423,
-        "collaborators" : 12,
-        "stars"         : 25,
-        "forks"         : 31,
+        "heat"          : 276,
+        "watchers"      : 26,
+        "size"          : 30479,
+        "collaborators" : 16,
+        "stars"         : 26,
+        "forks"         : 32,
         "openIssues"    : 7,
         "languages"     : {
           "C#" : 7673,
+          "TypeScript" : 78297,
           "Shell" : 5938,
           "CSS" : 4428,
           "Batchfile" : 552,
-          "JavaScript" : 366993,
+          "JavaScript" : 367378,
           "HTML" : 14408,
           "Objective_C" : 6218
         }
@@ -3870,6 +3899,7 @@
     "interoperability",
     "issues",
     "jira",
+    "kdb+",
     "library",
     "nlp/ml",
     "node.js",
