@@ -121,16 +121,48 @@
           "stars"         : 3,
           "forks"         : 2,
           "openIssues"    : 0
+        },
+        {
+          "name"          : "appd-poc",
+          "description"   : "Application Directory POC is a reference implementation of the Application Directory API",
+          "gitHubURL"     : "https://github.com/FDC3/appd-poc",
+          "heat"          : 172,
+          "watchers"      : 0,
+          "size"          : 36,
+          "collaborators" : 43,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 32893,
+            "Shell" : 636
+          }
+        },
+        {
+          "name"          : "appd-api",
+          "description"   : "Application Directory API - THIS IS NOT A RATIFIED FDC3 API or SPECIFICATION, but rather work in-progress",
+          "gitHubURL"     : "https://github.com/FDC3/appd-api",
+          "heat"          : 177,
+          "watchers"      : 0,
+          "size"          : 12,
+          "collaborators" : 43,
+          "stars"         : 0,
+          "forks"         : 1,
+          "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 188,
+        "heat"          : 537,
         "watchers"      : 3,
-        "size"          : 19,
-        "collaborators" : 43,
+        "size"          : 67,
+        "collaborators" : 129,
         "stars"         : 3,
-        "forks"         : 2,
-        "openIssues"    : 0
+        "forks"         : 3,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 32893,
+          "Shell" : 636
+        }
       },
       "mailingLists"       : [
         {
@@ -287,10 +319,104 @@
       "programName"          : "FinServ Developer Experience",
       "programShortName"     : "FDX",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
+      "activityName"         : "GitHub Chatops Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2017-12-01",
+      "tags"                 : [
+        "bot",
+        "chatops",
+        "github",
+        "issues",
+        "pull requests"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "bot-github-chatops",
+          "description"   : "A Symphony bot that uses ChatOps techniques to allow a firm employee to interact in a compliant manner with GitHub issues and PRs",
+          "gitHubURL"     : "https://github.com/finos-fdx/bot-github-chatops",
+          "heat"          : 25,
+          "watchers"      : 4,
+          "size"          : 364,
+          "collaborators" : 3,
+          "stars"         : 4,
+          "forks"         : 1,
+          "openIssues"    : 10,
+          "languages"     : {
+            "Shell" : 1298,
+            "FreeMarker" : 7553,
+            "Clojure" : 52681
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 25,
+        "watchers"      : 4,
+        "size"          : 364,
+        "collaborators" : 3,
+        "stars"         : 4,
+        "forks"         : 1,
+        "openIssues"    : 10,
+        "languages"     : {
+          "Shell" : 1298,
+          "FreeMarker" : 7553,
+          "Clojure" : 52681
+        }
+      }
+    },
+    {
+      "programName"          : "FinServ Developer Experience",
+      "programShortName"     : "FDX",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
       "activityName"         : "Foundation CI/CD",
       "type"                 : "PROJECT",
       "state"                : "INCUBATING",
-      "contributionDate"     : "2018-04-24"
+      "contributionDate"     : "2018-04-24",
+      "gitHubRepos"          : [
+        {
+          "name"          : "finos-parent-pom",
+          "description"   : "A Maven Parent POM that provide common build and release features using the Symphony Software Foundation Infrastructure",
+          "gitHubURL"     : "https://github.com/finos-fdx/finos-parent-pom",
+          "heat"          : 10,
+          "watchers"      : 1,
+          "size"          : 76,
+          "collaborators" : 2,
+          "stars"         : 1,
+          "forks"         : 0,
+          "openIssues"    : 0
+        },
+        {
+          "name"          : "contrib-toolbox",
+          "description"   : "A collection of utilities to support the FINOS contribution process",
+          "gitHubURL"     : "https://github.com/finos-fdx/contrib-toolbox",
+          "heat"          : 8,
+          "watchers"      : 0,
+          "size"          : 169,
+          "collaborators" : 2,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 1,
+          "languages"     : {
+            "Shell" : 20962,
+            "HTML" : 472,
+            "Python" : 7381
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 18,
+        "watchers"      : 1,
+        "size"          : 245,
+        "collaborators" : 4,
+        "stars"         : 1,
+        "forks"         : 0,
+        "openIssues"    : 1,
+        "languages"     : {
+          "Shell" : 20962,
+          "HTML" : 472,
+          "Python" : 7381
+        }
+      }
     },
     {
       "programName"          : "FinServ Developer Experience",
@@ -470,12 +596,12 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 473,
+          "heat"          : 478,
           "watchers"      : 68,
           "size"          : 1800,
           "collaborators" : 33,
           "stars"         : 68,
-          "forks"         : 41,
+          "forks"         : 42,
           "openIssues"    : 14,
           "languages"     : {
             "TypeScript" : 339239,
@@ -487,13 +613,13 @@
           "name"          : "js-adapter",
           "description"   : "Hadouken Node Adapter",
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
-          "heat"          : 237,
+          "heat"          : 242,
           "watchers"      : 8,
           "size"          : 1339,
           "collaborators" : 34,
           "stars"         : 8,
-          "forks"         : 17,
-          "openIssues"    : 7,
+          "forks"         : 18,
+          "openIssues"    : 8,
           "languages"     : {
             "TypeScript" : 299887,
             "HTML" : 2335,
@@ -502,13 +628,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 710,
+        "heat"          : 720,
         "watchers"      : 76,
         "size"          : 3139,
         "collaborators" : 67,
         "stars"         : 76,
-        "forks"         : 58,
-        "openIssues"    : 21,
+        "forks"         : 60,
+        "openIssues"    : 22,
         "languages"     : {
           "TypeScript" : 639126,
           "HTML" : 13511,
@@ -581,9 +707,9 @@
           "collaborators" : 33,
           "stars"         : 7,
           "forks"         : 8,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 146781,
+            "TypeScript" : 146782,
             "HTML" : 11899,
             "CSS" : 1315,
             "JavaScript" : 12263
@@ -597,9 +723,9 @@
         "collaborators" : 33,
         "stars"         : 7,
         "forks"         : 8,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 146781,
+          "TypeScript" : 146782,
           "HTML" : 11899,
           "CSS" : 1315,
           "JavaScript" : 12263
@@ -685,55 +811,6 @@
         "stars"         : 0,
         "forks"         : 1,
         "openIssues"    : 1
-      }
-    },
-    {
-      "programName"          : "Open Source Readiness",
-      "programShortName"     : "OSR",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/OSR/overview",
-      "activityName"         : "GitHub Chatops Bot",
-      "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
-      "contributionDate"     : "2017-12-01",
-      "tags"                 : [
-        "bot",
-        "chatops",
-        "github",
-        "issues",
-        "pull requests"
-      ],
-      "gitHubRepos"          : [
-        {
-          "name"          : "bot-github-chatops",
-          "description"   : "A Symphony bot that uses ChatOps techniques to allow a firm employee to interact in a compliant manner with GitHub issues and PRs",
-          "gitHubURL"     : "https://github.com/finos-osr/bot-github-chatops",
-          "heat"          : 25,
-          "watchers"      : 4,
-          "size"          : 364,
-          "collaborators" : 3,
-          "stars"         : 4,
-          "forks"         : 1,
-          "openIssues"    : 10,
-          "languages"     : {
-            "Shell" : 1298,
-            "FreeMarker" : 7553,
-            "Clojure" : 52681
-          }
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 25,
-        "watchers"      : 4,
-        "size"          : 364,
-        "collaborators" : 3,
-        "stars"         : 4,
-        "forks"         : 1,
-        "openIssues"    : 10,
-        "languages"     : {
-          "Shell" : 1298,
-          "FreeMarker" : 7553,
-          "Clojure" : 52681
-        }
       }
     },
     {
@@ -1381,11 +1458,11 @@
           "name"          : "helpdesk-bot",
           "description"   : "Symphony HelpDesk BOT ",
           "gitHubURL"     : "https://github.com/symphonyoss/helpdesk-bot",
-          "heat"          : 37,
-          "watchers"      : 4,
+          "heat"          : 39,
+          "watchers"      : 5,
           "size"          : 191060,
           "collaborators" : 6,
-          "stars"         : 4,
+          "stars"         : 5,
           "forks"         : 1,
           "openIssues"    : 7,
           "languages"     : {
@@ -1395,11 +1472,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 37,
-        "watchers"      : 4,
+        "heat"          : 39,
+        "watchers"      : 5,
         "size"          : 191060,
         "collaborators" : 6,
-        "stars"         : 4,
+        "stars"         : 5,
         "forks"         : 1,
         "openIssues"    : 7,
         "languages"     : {
@@ -2513,6 +2590,38 @@
       ],
       "gitHubRepos"          : [
         {
+          "name"          : "contrib-toolbox",
+          "description"   : "A collection of utilities to help with contribution validations",
+          "gitHubURL"     : "https://github.com/symphonyoss/contrib-toolbox",
+          "heat"          : 24,
+          "watchers"      : 1,
+          "size"          : 68,
+          "collaborators" : 3,
+          "stars"         : 1,
+          "forks"         : 2,
+          "openIssues"    : 3,
+          "languages"     : {
+            "Shell" : 21334,
+            "HTML" : 472,
+            "Python" : 7381
+          }
+        },
+        {
+          "name"          : "symphonyoss.github.io",
+          "description"   : "Source code for https://symphonyoss.github.io/",
+          "gitHubURL"     : "https://github.com/symphonyoss/symphonyoss.github.io",
+          "heat"          : 36,
+          "watchers"      : 2,
+          "size"          : 2257,
+          "collaborators" : 3,
+          "stars"         : 2,
+          "forks"         : 4,
+          "openIssues"    : 9,
+          "languages"     : {
+            "HTML" : 498
+          }
+        },
+        {
           "name"          : "app-auth-example",
           "description"   : "Example app demonstrating App Authentication flow",
           "gitHubURL"     : "https://github.com/symphonyoss/app-auth-example",
@@ -2578,18 +2687,20 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 235,
-        "watchers"      : 21,
-        "size"          : 1491,
-        "collaborators" : 17,
-        "stars"         : 21,
-        "forks"         : 25,
-        "openIssues"    : 11,
+        "heat"          : 295,
+        "watchers"      : 24,
+        "size"          : 3816,
+        "collaborators" : 23,
+        "stars"         : 24,
+        "forks"         : 31,
+        "openIssues"    : 23,
         "languages"     : {
           "Java" : 114904,
-          "HTML" : 12563,
+          "Shell" : 21334,
           "CSS" : 1908,
-          "JavaScript" : 100893
+          "JavaScript" : 100893,
+          "HTML" : 13533,
+          "Python" : 7381
         }
       }
     },
@@ -3687,7 +3798,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 230,
           "watchers"      : 24,
-          "size"          : 30403,
+          "size"          : 30298,
           "collaborators" : 8,
           "stars"         : 24,
           "forks"         : 30,
@@ -3696,7 +3807,7 @@
             "Shell" : 5938,
             "CSS" : 4428,
             "Batchfile" : 552,
-            "JavaScript" : 366993,
+            "JavaScript" : 367098,
             "HTML" : 14408,
             "Objective_C" : 6218
           }
@@ -3722,7 +3833,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 23,
           "watchers"      : 1,
-          "size"          : 56,
+          "size"          : 47,
           "collaborators" : 4,
           "stars"         : 1,
           "forks"         : 1,
@@ -3736,7 +3847,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 278,
         "watchers"      : 27,
-        "size"          : 30479,
+        "size"          : 30365,
         "collaborators" : 16,
         "stars"         : 27,
         "forks"         : 32,
@@ -3747,7 +3858,7 @@
           "Shell" : 5938,
           "CSS" : 4428,
           "Batchfile" : 552,
-          "JavaScript" : 367378,
+          "JavaScript" : 367483,
           "HTML" : 14408,
           "Objective_C" : 6218
         }
