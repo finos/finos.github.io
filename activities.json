@@ -598,15 +598,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 478,
           "watchers"      : 68,
-          "size"          : 1800,
+          "size"          : 1829,
           "collaborators" : 33,
           "stars"         : 68,
           "forks"         : 42,
-          "openIssues"    : 14,
+          "openIssues"    : 13,
           "languages"     : {
-            "TypeScript" : 339239,
+            "TypeScript" : 339243,
             "HTML" : 11176,
-            "JavaScript" : 347385
+            "JavaScript" : 346885
           }
         },
         {
@@ -619,7 +619,7 @@
           "collaborators" : 34,
           "stars"         : 8,
           "forks"         : 18,
-          "openIssues"    : 8,
+          "openIssues"    : 11,
           "languages"     : {
             "TypeScript" : 299887,
             "HTML" : 2335,
@@ -630,15 +630,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 720,
         "watchers"      : 76,
-        "size"          : 3139,
+        "size"          : 3168,
         "collaborators" : 67,
         "stars"         : 76,
         "forks"         : 60,
-        "openIssues"    : 22,
+        "openIssues"    : 24,
         "languages"     : {
-          "TypeScript" : 639126,
+          "TypeScript" : 639130,
           "HTML" : 13511,
-          "JavaScript" : 353765
+          "JavaScript" : 353265
         }
       }
     },
@@ -747,34 +747,34 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 149,
           "watchers"      : 6,
-          "size"          : 5780,
+          "size"          : 5820,
           "collaborators" : 33,
           "stars"         : 6,
           "forks"         : 1,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 114518,
+            "TypeScript" : 115561,
             "CSS" : 28538,
-            "HTML" : 7130,
+            "HTML" : 7124,
             "Gherkin" : 120,
-            "JavaScript" : 9495
+            "JavaScript" : 8229
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 149,
         "watchers"      : 6,
-        "size"          : 5780,
+        "size"          : 5820,
         "collaborators" : 33,
         "stars"         : 6,
         "forks"         : 1,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 114518,
+          "TypeScript" : 115561,
           "CSS" : 28538,
-          "HTML" : 7130,
+          "HTML" : 7124,
           "Gherkin" : 120,
-          "JavaScript" : 9495
+          "JavaScript" : 8229
         }
       }
     },
@@ -1382,11 +1382,12 @@
           "collaborators" : 9,
           "stars"         : 0,
           "forks"         : 2,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "Java" : 735956,
+            "Dockerfile" : 4705,
             "HTML" : 41867,
-            "Shell" : 30684,
+            "Shell" : 31328,
             "JavaScript" : 106224
           }
         }
@@ -1398,11 +1399,12 @@
         "collaborators" : 9,
         "stars"         : 0,
         "forks"         : 2,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
           "Java" : 735956,
+          "Dockerfile" : 4705,
           "HTML" : 41867,
-          "Shell" : 30684,
+          "Shell" : 31328,
           "JavaScript" : 106224
         }
       }
@@ -3798,14 +3800,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 230,
           "watchers"      : 24,
-          "size"          : 30298,
+          "size"          : 30326,
           "collaborators" : 8,
           "stars"         : 24,
           "forks"         : 30,
           "openIssues"    : 7,
           "languages"     : {
-            "Shell" : 5938,
             "CSS" : 4428,
+            "Shell" : 3860,
             "Batchfile" : 552,
             "JavaScript" : 367098,
             "HTML" : 14408,
@@ -3831,12 +3833,12 @@
           "name"          : "SwiftSearch",
           "description"   : "SwiftSearch is a plugin for SymphonyElectron",
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
-          "heat"          : 23,
-          "watchers"      : 1,
+          "heat"          : 35,
+          "watchers"      : 2,
           "size"          : 47,
           "collaborators" : 4,
-          "stars"         : 1,
-          "forks"         : 1,
+          "stars"         : 2,
+          "forks"         : 3,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 78297,
@@ -3845,18 +3847,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 278,
-        "watchers"      : 27,
-        "size"          : 30365,
+        "heat"          : 290,
+        "watchers"      : 28,
+        "size"          : 30393,
         "collaborators" : 16,
-        "stars"         : 27,
-        "forks"         : 32,
+        "stars"         : 28,
+        "forks"         : 34,
         "openIssues"    : 7,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 78297,
-          "Shell" : 5938,
           "CSS" : 4428,
+          "Shell" : 3860,
           "Batchfile" : 552,
           "JavaScript" : 367483,
           "HTML" : 14408,
