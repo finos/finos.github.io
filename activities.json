@@ -598,15 +598,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 478,
           "watchers"      : 68,
-          "size"          : 1829,
+          "size"          : 1809,
           "collaborators" : 33,
           "stars"         : 68,
           "forks"         : 42,
-          "openIssues"    : 13,
+          "openIssues"    : 14,
           "languages"     : {
-            "TypeScript" : 339243,
+            "TypeScript" : 340365,
             "HTML" : 11176,
-            "JavaScript" : 346885
+            "JavaScript" : 347755
           }
         },
         {
@@ -619,7 +619,7 @@
           "collaborators" : 34,
           "stars"         : 8,
           "forks"         : 18,
-          "openIssues"    : 11,
+          "openIssues"    : 12,
           "languages"     : {
             "TypeScript" : 299887,
             "HTML" : 2335,
@@ -630,15 +630,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 720,
         "watchers"      : 76,
-        "size"          : 3168,
+        "size"          : 3148,
         "collaborators" : 67,
         "stars"         : 76,
         "forks"         : 60,
-        "openIssues"    : 24,
+        "openIssues"    : 26,
         "languages"     : {
-          "TypeScript" : 639130,
+          "TypeScript" : 640252,
           "HTML" : 13511,
-          "JavaScript" : 353265
+          "JavaScript" : 354135
         }
       }
     },
@@ -2662,13 +2662,13 @@
           "name"          : "extension-api-examples",
           "description"   : "Examples on how to use the extension API",
           "gitHubURL"     : "https://github.com/symphonyoss/extension-api-examples",
-          "heat"          : 146,
+          "heat"          : 151,
           "watchers"      : 13,
           "size"          : 1056,
           "collaborators" : 5,
           "stars"         : 13,
-          "forks"         : 20,
-          "openIssues"    : 10,
+          "forks"         : 21,
+          "openIssues"    : 11,
           "languages"     : {
             "HTML" : 6781,
             "CSS" : 794,
@@ -2689,13 +2689,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 295,
+        "heat"          : 300,
         "watchers"      : 24,
         "size"          : 3816,
         "collaborators" : 23,
         "stars"         : 24,
-        "forks"         : 31,
-        "openIssues"    : 23,
+        "forks"         : 32,
+        "openIssues"    : 24,
         "languages"     : {
           "Java" : 114904,
           "Shell" : 21334,
@@ -3804,7 +3804,7 @@
           "collaborators" : 8,
           "stars"         : 24,
           "forks"         : 30,
-          "openIssues"    : 7,
+          "openIssues"    : 5,
           "languages"     : {
             "CSS" : 4428,
             "Shell" : 3860,
@@ -3853,7 +3853,7 @@
         "collaborators" : 16,
         "stars"         : 28,
         "forks"         : 34,
-        "openIssues"    : 7,
+        "openIssues"    : 5,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 78297,
