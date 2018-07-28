@@ -598,13 +598,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 486,
           "watchers"      : 68,
-          "size"          : 1839,
+          "size"          : 1852,
           "collaborators" : 35,
           "stars"         : 68,
           "forks"         : 42,
           "openIssues"    : 11,
           "languages"     : {
-            "TypeScript" : 344526,
+            "TypeScript" : 345101,
             "HTML" : 11176,
             "JavaScript" : 349414
           }
@@ -615,14 +615,14 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 250,
           "watchers"      : 8,
-          "size"          : 1367,
+          "size"          : 1433,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 18,
-          "openIssues"    : 10,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 302141,
-            "HTML" : 2335,
+            "TypeScript" : 311051,
+            "HTML" : 2371,
             "JavaScript" : 6380
           }
         }
@@ -630,14 +630,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 736,
         "watchers"      : 76,
-        "size"          : 3206,
+        "size"          : 3285,
         "collaborators" : 71,
         "stars"         : 76,
         "forks"         : 60,
-        "openIssues"    : 21,
+        "openIssues"    : 12,
         "languages"     : {
-          "TypeScript" : 646667,
-          "HTML" : 13511,
+          "TypeScript" : 656152,
+          "HTML" : 13547,
           "JavaScript" : 355794
         }
       }
@@ -703,32 +703,32 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 199,
           "watchers"      : 7,
-          "size"          : 648,
+          "size"          : 671,
           "collaborators" : 35,
           "stars"         : 7,
           "forks"         : 9,
-          "openIssues"    : 3,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 149708,
-            "HTML" : 12348,
-            "CSS" : 1315,
-            "JavaScript" : 12402
+            "TypeScript" : 159376,
+            "HTML" : 12121,
+            "CSS" : 2178,
+            "JavaScript" : 12926
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 199,
         "watchers"      : 7,
-        "size"          : 648,
+        "size"          : 671,
         "collaborators" : 35,
         "stars"         : 7,
         "forks"         : 9,
-        "openIssues"    : 3,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 149708,
-          "HTML" : 12348,
-          "CSS" : 1315,
-          "JavaScript" : 12402
+          "TypeScript" : 159376,
+          "HTML" : 12121,
+          "CSS" : 2178,
+          "JavaScript" : 12926
         }
       }
     },
@@ -3804,7 +3804,7 @@
           "collaborators" : 8,
           "stars"         : 24,
           "forks"         : 30,
-          "openIssues"    : 7,
+          "openIssues"    : 9,
           "languages"     : {
             "CSS" : 4428,
             "Shell" : 3860,
@@ -3853,7 +3853,7 @@
         "collaborators" : 16,
         "stars"         : 28,
         "forks"         : 34,
-        "openIssues"    : 7,
+        "openIssues"    : 9,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 78297,
