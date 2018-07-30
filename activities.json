@@ -144,7 +144,7 @@
           "gitHubURL"     : "https://github.com/FDC3/appd-api",
           "heat"          : 177,
           "watchers"      : 0,
-          "size"          : 12,
+          "size"          : 13,
           "collaborators" : 43,
           "stars"         : 0,
           "forks"         : 1,
@@ -154,7 +154,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 537,
         "watchers"      : 3,
-        "size"          : 67,
+        "size"          : 68,
         "collaborators" : 129,
         "stars"         : 3,
         "forks"         : 3,
@@ -598,13 +598,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 486,
           "watchers"      : 68,
-          "size"          : 1852,
+          "size"          : 1878,
           "collaborators" : 35,
           "stars"         : 68,
           "forks"         : 42,
-          "openIssues"    : 11,
+          "openIssues"    : 12,
           "languages"     : {
-            "TypeScript" : 345101,
+            "TypeScript" : 345201,
             "HTML" : 11176,
             "JavaScript" : 349414
           }
@@ -619,7 +619,7 @@
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 18,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 311051,
             "HTML" : 2371,
@@ -630,13 +630,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 736,
         "watchers"      : 76,
-        "size"          : 3285,
+        "size"          : 3311,
         "collaborators" : 71,
         "stars"         : 76,
         "forks"         : 60,
-        "openIssues"    : 12,
+        "openIssues"    : 14,
         "languages"     : {
-          "TypeScript" : 656152,
+          "TypeScript" : 656252,
           "HTML" : 13547,
           "JavaScript" : 355794
         }
@@ -707,7 +707,7 @@
           "collaborators" : 35,
           "stars"         : 7,
           "forks"         : 9,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 159376,
             "HTML" : 12121,
@@ -723,7 +723,7 @@
         "collaborators" : 35,
         "stars"         : 7,
         "forks"         : 9,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 159376,
           "HTML" : 12121,
@@ -747,11 +747,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 157,
           "watchers"      : 6,
-          "size"          : 5820,
+          "size"          : 5822,
           "collaborators" : 35,
           "stars"         : 6,
           "forks"         : 1,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 115561,
             "CSS" : 28538,
@@ -764,11 +764,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 157,
         "watchers"      : 6,
-        "size"          : 5820,
+        "size"          : 5822,
         "collaborators" : 35,
         "stars"         : 6,
         "forks"         : 1,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 115561,
           "CSS" : 28538,
@@ -877,7 +877,7 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 724,
           "watchers"      : 236,
-          "size"          : 5907,
+          "size"          : 5891,
           "collaborators" : 8,
           "stars"         : 236,
           "forks"         : 44,
@@ -898,7 +898,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 724,
         "watchers"      : 236,
-        "size"          : 5907,
+        "size"          : 5891,
         "collaborators" : 8,
         "stars"         : 236,
         "forks"         : 44,
@@ -2480,11 +2480,11 @@
           "name"          : "python-symphony",
           "description"   : "An importable class that provides methods and objects for interacting with the Symphony Agent API from python",
           "gitHubURL"     : "https://github.com/symphonyoss/python-symphony",
-          "heat"          : 66,
-          "watchers"      : 10,
+          "heat"          : 68,
+          "watchers"      : 11,
           "size"          : 181,
           "collaborators" : 4,
-          "stars"         : 10,
+          "stars"         : 11,
           "forks"         : 6,
           "openIssues"    : 6,
           "languages"     : {
@@ -2512,11 +2512,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 92,
-        "watchers"      : 10,
+        "heat"          : 94,
+        "watchers"      : 11,
         "size"          : 226,
         "collaborators" : 8,
-        "stars"         : 10,
+        "stars"         : 11,
         "forks"         : 8,
         "openIssues"    : 6,
         "languages"     : {
