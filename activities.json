@@ -76,7 +76,7 @@
           "collaborators" : 43,
           "stars"         : 4,
           "forks"         : 6,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 3009
           }
@@ -89,7 +89,7 @@
         "collaborators" : 43,
         "stars"         : 4,
         "forks"         : 6,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "TypeScript" : 3009
         }
@@ -602,11 +602,11 @@
           "collaborators" : 35,
           "stars"         : 68,
           "forks"         : 42,
-          "openIssues"    : 12,
+          "openIssues"    : 11,
           "languages"     : {
             "TypeScript" : 345201,
             "HTML" : 11176,
-            "JavaScript" : 349414
+            "JavaScript" : 350064
           }
         },
         {
@@ -619,7 +619,7 @@
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 18,
-          "openIssues"    : 2,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 311051,
             "HTML" : 2371,
@@ -634,11 +634,11 @@
         "collaborators" : 71,
         "stars"         : 76,
         "forks"         : 60,
-        "openIssues"    : 14,
+        "openIssues"    : 15,
         "languages"     : {
           "TypeScript" : 656252,
           "HTML" : 13547,
-          "JavaScript" : 355794
+          "JavaScript" : 356444
         }
       }
     },
@@ -703,32 +703,32 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 199,
           "watchers"      : 7,
-          "size"          : 671,
+          "size"          : 662,
           "collaborators" : 35,
           "stars"         : 7,
           "forks"         : 9,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 159376,
+            "TypeScript" : 163922,
             "HTML" : 12121,
             "CSS" : 2178,
-            "JavaScript" : 12926
+            "JavaScript" : 13155
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 199,
         "watchers"      : 7,
-        "size"          : 671,
+        "size"          : 662,
         "collaborators" : 35,
         "stars"         : 7,
         "forks"         : 9,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 159376,
+          "TypeScript" : 163922,
           "HTML" : 12121,
           "CSS" : 2178,
-          "JavaScript" : 12926
+          "JavaScript" : 13155
         }
       }
     },
@@ -747,11 +747,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 157,
           "watchers"      : 6,
-          "size"          : 5822,
+          "size"          : 5823,
           "collaborators" : 35,
           "stars"         : 6,
           "forks"         : 1,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 115561,
             "CSS" : 28538,
@@ -764,11 +764,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 157,
         "watchers"      : 6,
-        "size"          : 5822,
+        "size"          : 5823,
         "collaborators" : 35,
         "stars"         : 6,
         "forks"         : 1,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 115561,
           "CSS" : 28538,
@@ -3800,7 +3800,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 230,
           "watchers"      : 24,
-          "size"          : 30326,
+          "size"          : 30340,
           "collaborators" : 8,
           "stars"         : 24,
           "forks"         : 30,
@@ -3809,7 +3809,7 @@
             "CSS" : 4428,
             "Shell" : 3860,
             "Batchfile" : 552,
-            "JavaScript" : 367098,
+            "JavaScript" : 373054,
             "HTML" : 14408,
             "Objective_C" : 6218
           }
@@ -3849,7 +3849,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 290,
         "watchers"      : 28,
-        "size"          : 30393,
+        "size"          : 30407,
         "collaborators" : 16,
         "stars"         : 28,
         "forks"         : 34,
@@ -3860,7 +3860,7 @@
           "CSS" : 4428,
           "Shell" : 3860,
           "Batchfile" : 552,
-          "JavaScript" : 367483,
+          "JavaScript" : 373439,
           "HTML" : 14408,
           "Objective_C" : 6218
         }
