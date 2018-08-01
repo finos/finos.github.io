@@ -598,7 +598,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 486,
           "watchers"      : 68,
-          "size"          : 1878,
+          "size"          : 1882,
           "collaborators" : 35,
           "stars"         : 68,
           "forks"         : 42,
@@ -606,7 +606,7 @@
           "languages"     : {
             "TypeScript" : 345201,
             "HTML" : 11176,
-            "JavaScript" : 350064
+            "JavaScript" : 349938
           }
         },
         {
@@ -619,7 +619,7 @@
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 18,
-          "openIssues"    : 4,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 311051,
             "HTML" : 2371,
@@ -630,15 +630,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 736,
         "watchers"      : 76,
-        "size"          : 3311,
+        "size"          : 3315,
         "collaborators" : 71,
         "stars"         : 76,
         "forks"         : 60,
-        "openIssues"    : 15,
+        "openIssues"    : 17,
         "languages"     : {
           "TypeScript" : 656252,
           "HTML" : 13547,
-          "JavaScript" : 356444
+          "JavaScript" : 356318
         }
       }
     },
@@ -707,12 +707,12 @@
           "collaborators" : 35,
           "stars"         : 7,
           "forks"         : 9,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 163922,
             "HTML" : 12121,
             "CSS" : 2178,
-            "JavaScript" : 13155
+            "JavaScript" : 13455
           }
         }
       ],
@@ -723,12 +723,12 @@
         "collaborators" : 35,
         "stars"         : 7,
         "forks"         : 9,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 163922,
           "HTML" : 12121,
           "CSS" : 2178,
-          "JavaScript" : 13155
+          "JavaScript" : 13455
         }
       }
     },
@@ -747,34 +747,34 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 157,
           "watchers"      : 6,
-          "size"          : 5823,
+          "size"          : 5821,
           "collaborators" : 35,
           "stars"         : 6,
           "forks"         : 1,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 115561,
+            "TypeScript" : 115793,
             "CSS" : 28538,
             "HTML" : 7124,
             "Gherkin" : 120,
-            "JavaScript" : 8229
+            "JavaScript" : 8228
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 157,
         "watchers"      : 6,
-        "size"          : 5823,
+        "size"          : 5821,
         "collaborators" : 35,
         "stars"         : 6,
         "forks"         : 1,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 115561,
+          "TypeScript" : 115793,
           "CSS" : 28538,
           "HTML" : 7124,
           "Gherkin" : 120,
-          "JavaScript" : 8229
+          "JavaScript" : 8228
         }
       }
     },
@@ -2203,7 +2203,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
           "heat"          : 86,
           "watchers"      : 5,
-          "size"          : 173,
+          "size"          : 175,
           "collaborators" : 4,
           "stars"         : 5,
           "forks"         : 12,
@@ -2213,7 +2213,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 86,
         "watchers"      : 5,
-        "size"          : 173,
+        "size"          : 175,
         "collaborators" : 4,
         "stars"         : 5,
         "forks"         : 12,
@@ -3446,26 +3446,26 @@
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
           "heat"          : 99,
           "watchers"      : 3,
-          "size"          : 353,
+          "size"          : 358,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 13,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
-            "Java" : 597550
+            "Java" : 597898
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 99,
         "watchers"      : 3,
-        "size"          : 353,
+        "size"          : 358,
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 13,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
-          "Java" : 597550
+          "Java" : 597898
         }
       }
     },
@@ -3800,16 +3800,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 230,
           "watchers"      : 24,
-          "size"          : 30340,
+          "size"          : 30348,
           "collaborators" : 8,
           "stars"         : 24,
           "forks"         : 30,
-          "openIssues"    : 9,
+          "openIssues"    : 7,
           "languages"     : {
             "CSS" : 4428,
             "Shell" : 3860,
             "Batchfile" : 552,
-            "JavaScript" : 373054,
+            "JavaScript" : 393546,
             "HTML" : 14408,
             "Objective_C" : 6218
           }
@@ -3849,18 +3849,18 @@
       "cumulativeGitHubStats" : {
         "heat"          : 290,
         "watchers"      : 28,
-        "size"          : 30407,
+        "size"          : 30415,
         "collaborators" : 16,
         "stars"         : 28,
         "forks"         : 34,
-        "openIssues"    : 9,
+        "openIssues"    : 7,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 78297,
           "CSS" : 4428,
           "Shell" : 3860,
           "Batchfile" : 552,
-          "JavaScript" : 373439,
+          "JavaScript" : 393931,
           "HTML" : 14408,
           "Objective_C" : 6218
         }
