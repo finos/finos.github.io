@@ -70,26 +70,26 @@
           "name"          : "API",
           "description"   : "API Working Group repository",
           "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 210,
+          "heat"          : 205,
           "watchers"      : 4,
           "size"          : 43,
           "collaborators" : 43,
           "stars"         : 4,
-          "forks"         : 6,
-          "openIssues"    : 5,
+          "forks"         : 5,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 3009
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 210,
+        "heat"          : 205,
         "watchers"      : 4,
         "size"          : 43,
         "collaborators" : 43,
         "stars"         : 4,
-        "forks"         : 6,
-        "openIssues"    : 5,
+        "forks"         : 5,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 3009
         }
@@ -598,7 +598,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 486,
           "watchers"      : 68,
-          "size"          : 1882,
+          "size"          : 1880,
           "collaborators" : 35,
           "stars"         : 68,
           "forks"         : 42,
@@ -619,7 +619,7 @@
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 18,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 311051,
             "HTML" : 2371,
@@ -630,11 +630,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 736,
         "watchers"      : 76,
-        "size"          : 3315,
+        "size"          : 3313,
         "collaborators" : 71,
         "stars"         : 76,
         "forks"         : 60,
-        "openIssues"    : 17,
+        "openIssues"    : 18,
         "languages"     : {
           "TypeScript" : 656252,
           "HTML" : 13547,
@@ -703,32 +703,32 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 199,
           "watchers"      : 7,
-          "size"          : 662,
+          "size"          : 670,
           "collaborators" : 35,
           "stars"         : 7,
           "forks"         : 9,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 163922,
             "HTML" : 12121,
             "CSS" : 2178,
-            "JavaScript" : 13455
+            "JavaScript" : 14140
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 199,
         "watchers"      : 7,
-        "size"          : 662,
+        "size"          : 670,
         "collaborators" : 35,
         "stars"         : 7,
         "forks"         : 9,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 163922,
           "HTML" : 12121,
           "CSS" : 2178,
-          "JavaScript" : 13455
+          "JavaScript" : 14140
         }
       }
     },
@@ -3800,7 +3800,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 230,
           "watchers"      : 24,
-          "size"          : 30348,
+          "size"          : 30353,
           "collaborators" : 8,
           "stars"         : 24,
           "forks"         : 30,
@@ -3809,7 +3809,7 @@
             "CSS" : 4428,
             "Shell" : 3860,
             "Batchfile" : 552,
-            "JavaScript" : 393546,
+            "JavaScript" : 398026,
             "HTML" : 14408,
             "Objective_C" : 6218
           }
@@ -3849,7 +3849,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 290,
         "watchers"      : 28,
-        "size"          : 30415,
+        "size"          : 30420,
         "collaborators" : 16,
         "stars"         : 28,
         "forks"         : 34,
@@ -3860,7 +3860,7 @@
           "CSS" : 4428,
           "Shell" : 3860,
           "Batchfile" : 552,
-          "JavaScript" : 393931,
+          "JavaScript" : 398411,
           "HTML" : 14408,
           "Objective_C" : 6218
         }
