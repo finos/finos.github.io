@@ -832,7 +832,7 @@
           "gitHubURL"     : "https://github.com/finos-osr/reference-foss-policy",
           "heat"          : 12,
           "watchers"      : 0,
-          "size"          : 57,
+          "size"          : 78,
           "collaborators" : 3,
           "stars"         : 0,
           "forks"         : 0,
@@ -842,7 +842,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 12,
         "watchers"      : 0,
-        "size"          : 57,
+        "size"          : 78,
         "collaborators" : 3,
         "stars"         : 0,
         "forks"         : 0,
@@ -3800,7 +3800,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 230,
           "watchers"      : 24,
-          "size"          : 30353,
+          "size"          : 30354,
           "collaborators" : 8,
           "stars"         : 24,
           "forks"         : 30,
@@ -3809,7 +3809,7 @@
             "CSS" : 4428,
             "Shell" : 3860,
             "Batchfile" : 552,
-            "JavaScript" : 398026,
+            "JavaScript" : 399715,
             "HTML" : 14408,
             "Objective_C" : 6218
           }
@@ -3849,7 +3849,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 290,
         "watchers"      : 28,
-        "size"          : 30420,
+        "size"          : 30421,
         "collaborators" : 16,
         "stars"         : 28,
         "forks"         : 34,
@@ -3860,7 +3860,7 @@
           "CSS" : 4428,
           "Shell" : 3860,
           "Batchfile" : 552,
-          "JavaScript" : 398411,
+          "JavaScript" : 400100,
           "HTML" : 14408,
           "Objective_C" : 6218
         }
