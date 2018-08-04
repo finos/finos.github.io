@@ -598,7 +598,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 486,
           "watchers"      : 68,
-          "size"          : 1880,
+          "size"          : 1881,
           "collaborators" : 35,
           "stars"         : 68,
           "forks"         : 42,
@@ -606,7 +606,7 @@
           "languages"     : {
             "TypeScript" : 345201,
             "HTML" : 11176,
-            "JavaScript" : 349938
+            "JavaScript" : 349959
           }
         },
         {
@@ -630,7 +630,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 736,
         "watchers"      : 76,
-        "size"          : 3313,
+        "size"          : 3314,
         "collaborators" : 71,
         "stars"         : 76,
         "forks"         : 60,
@@ -638,7 +638,7 @@
         "languages"     : {
           "TypeScript" : 656252,
           "HTML" : 13547,
-          "JavaScript" : 356318
+          "JavaScript" : 356339
         }
       }
     },
@@ -2166,20 +2166,20 @@
           "name"          : "symphony-click2dial",
           "description"   : "Dial a number using your corporate telephony service from Symphony chat",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-click2dial",
-          "heat"          : 21,
+          "heat"          : 25,
           "watchers"      : 0,
           "size"          : 6,
-          "collaborators" : 4,
+          "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 21,
+        "heat"          : 25,
         "watchers"      : 0,
         "size"          : 6,
-        "collaborators" : 4,
+        "collaborators" : 5,
         "stars"         : 0,
         "forks"         : 1,
         "openIssues"    : 0
