@@ -598,15 +598,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 486,
           "watchers"      : 68,
-          "size"          : 1937,
+          "size"          : 1965,
           "collaborators" : 35,
           "stars"         : 68,
           "forks"         : 42,
-          "openIssues"    : 9,
+          "openIssues"    : 8,
           "languages"     : {
-            "TypeScript" : 346682,
+            "TypeScript" : 343693,
             "HTML" : 11245,
-            "JavaScript" : 351295
+            "JavaScript" : 351150
           }
         },
         {
@@ -615,13 +615,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 250,
           "watchers"      : 8,
-          "size"          : 1433,
+          "size"          : 1394,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 18,
           "openIssues"    : 7,
           "languages"     : {
-            "TypeScript" : 311051,
+            "TypeScript" : 307833,
             "HTML" : 2371,
             "JavaScript" : 6380
           }
@@ -630,15 +630,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 736,
         "watchers"      : 76,
-        "size"          : 3370,
+        "size"          : 3359,
         "collaborators" : 71,
         "stars"         : 76,
         "forks"         : 60,
-        "openIssues"    : 16,
+        "openIssues"    : 15,
         "languages"     : {
-          "TypeScript" : 657733,
+          "TypeScript" : 651526,
           "HTML" : 13616,
-          "JavaScript" : 357675
+          "JavaScript" : 357530
         }
       }
     },
@@ -707,7 +707,7 @@
           "collaborators" : 35,
           "stars"         : 7,
           "forks"         : 9,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 169107,
             "HTML" : 3834,
@@ -723,7 +723,7 @@
         "collaborators" : 35,
         "stars"         : 7,
         "forks"         : 9,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 169107,
           "HTML" : 3834,
@@ -2765,7 +2765,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 1101,
+          "size"          : 1117,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
@@ -2796,7 +2796,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 50,
         "watchers"      : 0,
-        "size"          : 1154,
+        "size"          : 1170,
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 2,
@@ -3800,16 +3800,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 230,
           "watchers"      : 24,
-          "size"          : 30571,
+          "size"          : 30600,
           "collaborators" : 8,
           "stars"         : 24,
           "forks"         : 30,
-          "openIssues"    : 7,
+          "openIssues"    : 6,
           "languages"     : {
             "CSS" : 4428,
             "Shell" : 3860,
             "Batchfile" : 552,
-            "JavaScript" : 401728,
+            "JavaScript" : 434178,
             "HTML" : 14408,
             "Objective_C" : 6218
           }
@@ -3849,18 +3849,18 @@
       "cumulativeGitHubStats" : {
         "heat"          : 290,
         "watchers"      : 28,
-        "size"          : 30638,
+        "size"          : 30667,
         "collaborators" : 16,
         "stars"         : 28,
         "forks"         : 34,
-        "openIssues"    : 7,
+        "openIssues"    : 6,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 78297,
           "CSS" : 4428,
           "Shell" : 3860,
           "Batchfile" : 552,
-          "JavaScript" : 402113,
+          "JavaScript" : 434563,
           "HTML" : 14408,
           "Objective_C" : 6218
         }
