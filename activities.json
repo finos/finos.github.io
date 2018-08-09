@@ -128,13 +128,14 @@
           "gitHubURL"     : "https://github.com/FDC3/appd-poc",
           "heat"          : 172,
           "watchers"      : 0,
-          "size"          : 36,
+          "size"          : 48,
           "collaborators" : 43,
           "stars"         : 0,
           "forks"         : 0,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 32893,
+            "Java" : 45772,
+            "Dockerfile" : 763,
             "Shell" : 636
           }
         },
@@ -154,13 +155,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 537,
         "watchers"      : 3,
-        "size"          : 68,
+        "size"          : 80,
         "collaborators" : 129,
         "stars"         : 3,
         "forks"         : 3,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 32893,
+          "Java" : 45772,
+          "Dockerfile" : 763,
           "Shell" : 636
         }
       },
@@ -602,7 +604,7 @@
           "collaborators" : 35,
           "stars"         : 68,
           "forks"         : 42,
-          "openIssues"    : 8,
+          "openIssues"    : 9,
           "languages"     : {
             "TypeScript" : 343693,
             "HTML" : 11245,
@@ -634,7 +636,7 @@
         "collaborators" : 71,
         "stars"         : 76,
         "forks"         : 60,
-        "openIssues"    : 13,
+        "openIssues"    : 14,
         "languages"     : {
           "TypeScript" : 651728,
           "HTML" : 13616,
@@ -3800,16 +3802,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 235,
           "watchers"      : 24,
-          "size"          : 30602,
+          "size"          : 30603,
           "collaborators" : 8,
           "stars"         : 24,
           "forks"         : 31,
-          "openIssues"    : 8,
+          "openIssues"    : 6,
           "languages"     : {
             "CSS" : 4428,
             "Shell" : 3860,
             "Batchfile" : 552,
-            "JavaScript" : 432887,
+            "JavaScript" : 439956,
             "HTML" : 14408,
             "Objective_C" : 6218
           }
@@ -3849,18 +3851,18 @@
       "cumulativeGitHubStats" : {
         "heat"          : 295,
         "watchers"      : 28,
-        "size"          : 30669,
+        "size"          : 30670,
         "collaborators" : 16,
         "stars"         : 28,
         "forks"         : 35,
-        "openIssues"    : 8,
+        "openIssues"    : 6,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 78297,
           "CSS" : 4428,
           "Shell" : 3860,
           "Batchfile" : 552,
-          "JavaScript" : 433272,
+          "JavaScript" : 440341,
           "HTML" : 14408,
           "Objective_C" : 6218
         }
