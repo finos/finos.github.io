@@ -701,12 +701,12 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 199,
+          "heat"          : 204,
           "watchers"      : 7,
           "size"          : 711,
           "collaborators" : 35,
           "stars"         : 7,
-          "forks"         : 9,
+          "forks"         : 10,
           "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 192642,
@@ -717,12 +717,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 199,
+        "heat"          : 204,
         "watchers"      : 7,
         "size"          : 711,
         "collaborators" : 35,
         "stars"         : 7,
-        "forks"         : 9,
+        "forks"         : 10,
         "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 192642,
@@ -3804,7 +3804,7 @@
           "collaborators" : 8,
           "stars"         : 24,
           "forks"         : 31,
-          "openIssues"    : 7,
+          "openIssues"    : 8,
           "languages"     : {
             "CSS" : 4428,
             "Shell" : 3860,
@@ -3853,7 +3853,7 @@
         "collaborators" : 16,
         "stars"         : 28,
         "forks"         : 35,
-        "openIssues"    : 7,
+        "openIssues"    : 8,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 78297,
