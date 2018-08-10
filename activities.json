@@ -600,15 +600,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 486,
           "watchers"      : 68,
-          "size"          : 1965,
+          "size"          : 1983,
           "collaborators" : 35,
           "stars"         : 68,
           "forks"         : 42,
           "openIssues"    : 9,
           "languages"     : {
-            "TypeScript" : 343693,
+            "TypeScript" : 345123,
             "HTML" : 11245,
-            "JavaScript" : 351150
+            "JavaScript" : 351347
           }
         },
         {
@@ -617,13 +617,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 250,
           "watchers"      : 8,
-          "size"          : 1458,
+          "size"          : 1425,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 18,
-          "openIssues"    : 5,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 308035,
+            "TypeScript" : 313657,
             "HTML" : 2371,
             "JavaScript" : 10853
           }
@@ -632,15 +632,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 736,
         "watchers"      : 76,
-        "size"          : 3423,
+        "size"          : 3408,
         "collaborators" : 71,
         "stars"         : 76,
         "forks"         : 60,
-        "openIssues"    : 14,
+        "openIssues"    : 10,
         "languages"     : {
-          "TypeScript" : 651728,
+          "TypeScript" : 658780,
           "HTML" : 13616,
-          "JavaScript" : 362003
+          "JavaScript" : 362200
         }
       }
     },
@@ -709,7 +709,7 @@
           "collaborators" : 35,
           "stars"         : 7,
           "forks"         : 10,
-          "openIssues"    : 1,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 192642,
             "HTML" : 3834,
@@ -725,7 +725,7 @@
         "collaborators" : 35,
         "stars"         : 7,
         "forks"         : 10,
-        "openIssues"    : 1,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 192642,
           "HTML" : 3834,
@@ -753,7 +753,7 @@
           "collaborators" : 35,
           "stars"         : 6,
           "forks"         : 1,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 115793,
             "CSS" : 28538,
@@ -770,7 +770,7 @@
         "collaborators" : 35,
         "stars"         : 6,
         "forks"         : 1,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 115793,
           "CSS" : 28538,
@@ -2279,12 +2279,12 @@
           "name"          : "RestApiClient",
           "description"   : "Symphony .Net Agent API client",
           "gitHubURL"     : "https://github.com/symphonyoss/RestApiClient",
-          "heat"          : 105,
+          "heat"          : 110,
           "watchers"      : 13,
           "size"          : 14480,
           "collaborators" : 6,
           "stars"         : 13,
-          "forks"         : 11,
+          "forks"         : 12,
           "openIssues"    : 6,
           "languages"     : {
             "C#" : 1992342,
@@ -2293,12 +2293,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 105,
+        "heat"          : 110,
         "watchers"      : 13,
         "size"          : 14480,
         "collaborators" : 6,
         "stars"         : 13,
-        "forks"         : 11,
+        "forks"         : 12,
         "openIssues"    : 6,
         "languages"     : {
           "C#" : 1992342,
@@ -2767,15 +2767,15 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 1108,
+          "size"          : 1136,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 495315,
+            "Java" : 496512,
             "CSS" : 29377,
-            "Shell" : 26804,
+            "Shell" : 26545,
             "HTML" : 16297
           }
         },
@@ -2798,15 +2798,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 50,
         "watchers"      : 0,
-        "size"          : 1161,
+        "size"          : 1189,
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 518141,
+          "Java" : 519338,
           "CSS" : 29377,
-          "Shell" : 26804,
+          "Shell" : 26545,
           "HTML" : 16297
         }
       }
@@ -3802,11 +3802,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 235,
           "watchers"      : 24,
-          "size"          : 30603,
+          "size"          : 30605,
           "collaborators" : 8,
           "stars"         : 24,
           "forks"         : 31,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
             "CSS" : 4428,
             "Shell" : 3860,
@@ -3851,11 +3851,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 295,
         "watchers"      : 28,
-        "size"          : 30670,
+        "size"          : 30672,
         "collaborators" : 16,
         "stars"         : 28,
         "forks"         : 35,
-        "openIssues"    : 6,
+        "openIssues"    : 7,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 78297,
