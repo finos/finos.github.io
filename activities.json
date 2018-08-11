@@ -600,7 +600,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 486,
           "watchers"      : 68,
-          "size"          : 1983,
+          "size"          : 1991,
           "collaborators" : 35,
           "stars"         : 68,
           "forks"         : 42,
@@ -608,7 +608,7 @@
           "languages"     : {
             "TypeScript" : 345123,
             "HTML" : 11245,
-            "JavaScript" : 351347
+            "JavaScript" : 351187
           }
         },
         {
@@ -617,7 +617,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 250,
           "watchers"      : 8,
-          "size"          : 1425,
+          "size"          : 1476,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 18,
@@ -632,7 +632,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 736,
         "watchers"      : 76,
-        "size"          : 3408,
+        "size"          : 3467,
         "collaborators" : 71,
         "stars"         : 76,
         "forks"         : 60,
@@ -640,7 +640,7 @@
         "languages"     : {
           "TypeScript" : 658780,
           "HTML" : 13616,
-          "JavaScript" : 362200
+          "JavaScript" : 362040
         }
       }
     },
@@ -2203,22 +2203,22 @@
           "name"          : "symphony-api-spec",
           "description"   : "Swagger definitions for Symphony LLC public REST API ",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
-          "heat"          : 86,
+          "heat"          : 91,
           "watchers"      : 5,
           "size"          : 176,
           "collaborators" : 4,
           "stars"         : 5,
-          "forks"         : 12,
+          "forks"         : 13,
           "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 86,
+        "heat"          : 91,
         "watchers"      : 5,
         "size"          : 176,
         "collaborators" : 4,
         "stars"         : 5,
-        "forks"         : 12,
+        "forks"         : 13,
         "openIssues"    : 2
       }
     },
