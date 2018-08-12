@@ -2170,21 +2170,21 @@
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-click2dial",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 6,
+          "size"          : 18,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
-          "openIssues"    : 0
+          "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 25,
         "watchers"      : 0,
-        "size"          : 6,
+        "size"          : 18,
         "collaborators" : 5,
         "stars"         : 0,
         "forks"         : 1,
-        "openIssues"    : 0
+        "openIssues"    : 1
       }
     },
     {
