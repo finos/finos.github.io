@@ -600,11 +600,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 486,
           "watchers"      : 68,
-          "size"          : 1991,
+          "size"          : 1993,
           "collaborators" : 35,
           "stars"         : 68,
           "forks"         : 42,
-          "openIssues"    : 9,
+          "openIssues"    : 12,
           "languages"     : {
             "TypeScript" : 345123,
             "HTML" : 11245,
@@ -621,7 +621,7 @@
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 18,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 313657,
             "HTML" : 2371,
@@ -632,11 +632,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 736,
         "watchers"      : 76,
-        "size"          : 3467,
+        "size"          : 3469,
         "collaborators" : 71,
         "stars"         : 76,
         "forks"         : 60,
-        "openIssues"    : 10,
+        "openIssues"    : 14,
         "languages"     : {
           "TypeScript" : 658780,
           "HTML" : 13616,
@@ -703,34 +703,34 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 204,
-          "watchers"      : 7,
-          "size"          : 711,
+          "heat"          : 206,
+          "watchers"      : 8,
+          "size"          : 772,
           "collaborators" : 35,
-          "stars"         : 7,
+          "stars"         : 8,
           "forks"         : 10,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 192642,
-            "HTML" : 3834,
-            "CSS" : 863,
-            "JavaScript" : 5237
+            "TypeScript" : 289807,
+            "CSS" : 15564,
+            "HTML" : 11723,
+            "JavaScript" : 5698
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 204,
-        "watchers"      : 7,
-        "size"          : 711,
+        "heat"          : 206,
+        "watchers"      : 8,
+        "size"          : 772,
         "collaborators" : 35,
-        "stars"         : 7,
+        "stars"         : 8,
         "forks"         : 10,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 192642,
-          "HTML" : 3834,
-          "CSS" : 863,
-          "JavaScript" : 5237
+          "TypeScript" : 289807,
+          "CSS" : 15564,
+          "HTML" : 11723,
+          "JavaScript" : 5698
         }
       }
     },
@@ -879,7 +879,7 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 724,
           "watchers"      : 236,
-          "size"          : 6003,
+          "size"          : 6006,
           "collaborators" : 8,
           "stars"         : 236,
           "forks"         : 44,
@@ -900,7 +900,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 724,
         "watchers"      : 236,
-        "size"          : 6003,
+        "size"          : 6006,
         "collaborators" : 8,
         "stars"         : 236,
         "forks"         : 44,
@@ -3629,11 +3629,11 @@
           "name"          : "symphony-rest-tools",
           "description"   : "Low level tools for use with the Symphony public REST API",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-rest-tools",
-          "heat"          : 40,
-          "watchers"      : 0,
+          "heat"          : 42,
+          "watchers"      : 1,
           "size"          : 4444,
           "collaborators" : 5,
-          "stars"         : 0,
+          "stars"         : 1,
           "forks"         : 4,
           "openIssues"    : 0,
           "languages"     : {
@@ -3675,11 +3675,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 87,
-        "watchers"      : 0,
+        "heat"          : 89,
+        "watchers"      : 1,
         "size"          : 7327,
         "collaborators" : 13,
-        "stars"         : 0,
+        "stars"         : 1,
         "forks"         : 7,
         "openIssues"    : 0,
         "languages"     : {
@@ -3802,16 +3802,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 235,
           "watchers"      : 24,
-          "size"          : 30605,
+          "size"          : 30622,
           "collaborators" : 8,
           "stars"         : 24,
           "forks"         : 31,
-          "openIssues"    : 7,
+          "openIssues"    : 8,
           "languages"     : {
             "CSS" : 4428,
             "Shell" : 3860,
             "Batchfile" : 552,
-            "JavaScript" : 439956,
+            "JavaScript" : 443367,
             "HTML" : 14408,
             "Objective_C" : 6218
           }
@@ -3837,11 +3837,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 35,
           "watchers"      : 2,
-          "size"          : 47,
+          "size"          : 44,
           "collaborators" : 4,
           "stars"         : 2,
           "forks"         : 3,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 78297,
             "JavaScript" : 385
@@ -3851,18 +3851,18 @@
       "cumulativeGitHubStats" : {
         "heat"          : 295,
         "watchers"      : 28,
-        "size"          : 30672,
+        "size"          : 30686,
         "collaborators" : 16,
         "stars"         : 28,
         "forks"         : 35,
-        "openIssues"    : 7,
+        "openIssues"    : 9,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 78297,
           "CSS" : 4428,
           "Shell" : 3860,
           "Batchfile" : 552,
-          "JavaScript" : 440341,
+          "JavaScript" : 443752,
           "HTML" : 14408,
           "Objective_C" : 6218
         }
