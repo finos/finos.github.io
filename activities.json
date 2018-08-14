@@ -114,12 +114,12 @@
           "name"          : "App-Directory",
           "description"   : "The FDC3 App Directory - specifications and implementations.",
           "gitHubURL"     : "https://github.com/FDC3/App-Directory",
-          "heat"          : 188,
+          "heat"          : 193,
           "watchers"      : 3,
           "size"          : 19,
           "collaborators" : 43,
           "stars"         : 3,
-          "forks"         : 2,
+          "forks"         : 3,
           "openIssues"    : 0
         },
         {
@@ -153,12 +153,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 537,
+        "heat"          : 542,
         "watchers"      : 3,
         "size"          : 80,
         "collaborators" : 129,
         "stars"         : 3,
-        "forks"         : 3,
+        "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
           "Java" : 45772,
@@ -600,15 +600,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 486,
           "watchers"      : 68,
-          "size"          : 1993,
+          "size"          : 1972,
           "collaborators" : 35,
           "stars"         : 68,
           "forks"         : 42,
-          "openIssues"    : 12,
+          "openIssues"    : 11,
           "languages"     : {
-            "TypeScript" : 345123,
+            "TypeScript" : 345146,
             "HTML" : 11245,
-            "JavaScript" : 351187
+            "JavaScript" : 351783
           }
         },
         {
@@ -632,15 +632,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 736,
         "watchers"      : 76,
-        "size"          : 3469,
+        "size"          : 3448,
         "collaborators" : 71,
         "stars"         : 76,
         "forks"         : 60,
-        "openIssues"    : 14,
+        "openIssues"    : 13,
         "languages"     : {
-          "TypeScript" : 658780,
+          "TypeScript" : 658803,
           "HTML" : 13616,
-          "JavaScript" : 362040
+          "JavaScript" : 362636
         }
       }
     },
@@ -2793,13 +2793,25 @@
           "languages"     : {
             "Java" : 22826
           }
+        },
+        {
+          "name"          : "fugue-cicd",
+          "description"   : "Jenkins pipeline library for the Fugue project",
+          "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
+          "heat"          : 16,
+          "watchers"      : 0,
+          "size"          : 6,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 50,
+        "heat"          : 66,
         "watchers"      : 0,
-        "size"          : 1189,
-        "collaborators" : 10,
+        "size"          : 1195,
+        "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
@@ -3802,16 +3814,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 235,
           "watchers"      : 24,
-          "size"          : 30622,
+          "size"          : 30630,
           "collaborators" : 8,
           "stars"         : 24,
           "forks"         : 31,
-          "openIssues"    : 8,
+          "openIssues"    : 7,
           "languages"     : {
             "CSS" : 4428,
             "Shell" : 3860,
             "Batchfile" : 552,
-            "JavaScript" : 443367,
+            "JavaScript" : 453168,
             "HTML" : 14408,
             "Objective_C" : 6218
           }
@@ -3837,13 +3849,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 35,
           "watchers"      : 2,
-          "size"          : 44,
+          "size"          : 46,
           "collaborators" : 4,
           "stars"         : 2,
           "forks"         : 3,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 78297,
+            "TypeScript" : 78406,
             "JavaScript" : 385
           }
         }
@@ -3851,18 +3863,18 @@
       "cumulativeGitHubStats" : {
         "heat"          : 295,
         "watchers"      : 28,
-        "size"          : 30686,
+        "size"          : 30696,
         "collaborators" : 16,
         "stars"         : 28,
         "forks"         : 35,
-        "openIssues"    : 9,
+        "openIssues"    : 7,
         "languages"     : {
           "C#" : 7673,
-          "TypeScript" : 78297,
+          "TypeScript" : 78406,
           "CSS" : 4428,
           "Shell" : 3860,
           "Batchfile" : 552,
-          "JavaScript" : 443752,
+          "JavaScript" : 453553,
           "HTML" : 14408,
           "Objective_C" : 6218
         }
