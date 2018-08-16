@@ -600,15 +600,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 492,
           "watchers"      : 69,
-          "size"          : 1972,
+          "size"          : 1974,
           "collaborators" : 36,
           "stars"         : 69,
           "forks"         : 42,
-          "openIssues"    : 12,
+          "openIssues"    : 10,
           "languages"     : {
             "TypeScript" : 345146,
             "HTML" : 11245,
-            "JavaScript" : 351783
+            "JavaScript" : 353115
           }
         },
         {
@@ -632,15 +632,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 748,
         "watchers"      : 78,
-        "size"          : 3448,
+        "size"          : 3450,
         "collaborators" : 73,
         "stars"         : 78,
         "forks"         : 60,
-        "openIssues"    : 15,
+        "openIssues"    : 13,
         "languages"     : {
           "TypeScript" : 658803,
           "HTML" : 13616,
-          "JavaScript" : 362636
+          "JavaScript" : 363968
         }
       }
     },
@@ -663,7 +663,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
           "heat"          : 264,
           "watchers"      : 22,
-          "size"          : 14234,
+          "size"          : 14257,
           "collaborators" : 40,
           "stars"         : 22,
           "forks"         : 12,
@@ -678,7 +678,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 264,
         "watchers"      : 22,
-        "size"          : 14234,
+        "size"          : 14257,
         "collaborators" : 40,
         "stars"         : 22,
         "forks"         : 12,
@@ -2126,7 +2126,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon-example",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 282,
+          "size"          : 265,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -2139,7 +2139,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 42,
         "watchers"      : 0,
-        "size"          : 762,
+        "size"          : 745,
         "collaborators" : 8,
         "stars"         : 0,
         "forks"         : 2,
@@ -2785,7 +2785,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-example",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 53,
+          "size"          : 50,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
@@ -2810,7 +2810,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 66,
         "watchers"      : 0,
-        "size"          : 1208,
+        "size"          : 1205,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 2,
@@ -3814,16 +3814,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 235,
           "watchers"      : 24,
-          "size"          : 30630,
+          "size"          : 30646,
           "collaborators" : 8,
           "stars"         : 24,
           "forks"         : 31,
-          "openIssues"    : 10,
+          "openIssues"    : 4,
           "languages"     : {
             "CSS" : 4428,
             "Shell" : 3860,
             "Batchfile" : 552,
-            "JavaScript" : 453168,
+            "JavaScript" : 469059,
             "HTML" : 14408,
             "Objective_C" : 6218
           }
@@ -3863,18 +3863,18 @@
       "cumulativeGitHubStats" : {
         "heat"          : 295,
         "watchers"      : 28,
-        "size"          : 30696,
+        "size"          : 30712,
         "collaborators" : 16,
         "stars"         : 28,
         "forks"         : 35,
-        "openIssues"    : 10,
+        "openIssues"    : 4,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 78406,
           "CSS" : 4428,
           "Shell" : 3860,
           "Batchfile" : 552,
-          "JavaScript" : 453553,
+          "JavaScript" : 469444,
           "HTML" : 14408,
           "Objective_C" : 6218
         }
