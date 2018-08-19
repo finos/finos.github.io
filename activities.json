@@ -3849,13 +3849,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 35,
           "watchers"      : 2,
-          "size"          : 51,
+          "size"          : 52,
           "collaborators" : 4,
           "stars"         : 2,
           "forks"         : 3,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 77959,
+            "TypeScript" : 78056,
             "JavaScript" : 385
           }
         }
@@ -3863,14 +3863,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 295,
         "watchers"      : 28,
-        "size"          : 30717,
+        "size"          : 30718,
         "collaborators" : 16,
         "stars"         : 28,
         "forks"         : 35,
         "openIssues"    : 4,
         "languages"     : {
           "C#" : 7673,
-          "TypeScript" : 77959,
+          "TypeScript" : 78056,
           "CSS" : 4428,
           "Shell" : 3860,
           "Batchfile" : 552,
