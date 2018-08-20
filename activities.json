@@ -598,11 +598,11 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 492,
-          "watchers"      : 69,
+          "heat"          : 494,
+          "watchers"      : 70,
           "size"          : 1978,
           "collaborators" : 36,
-          "stars"         : 69,
+          "stars"         : 70,
           "forks"         : 42,
           "openIssues"    : 10,
           "languages"     : {
@@ -617,7 +617,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 256,
           "watchers"      : 9,
-          "size"          : 1476,
+          "size"          : 1477,
           "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 18,
@@ -630,11 +630,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 748,
-        "watchers"      : 78,
-        "size"          : 3454,
+        "heat"          : 750,
+        "watchers"      : 79,
+        "size"          : 3455,
         "collaborators" : 73,
-        "stars"         : 78,
+        "stars"         : 79,
         "forks"         : 60,
         "openIssues"    : 15,
         "languages"     : {
@@ -711,7 +711,7 @@
           "forks"         : 11,
           "openIssues"    : 6,
           "languages"     : {
-            "TypeScript" : 300231,
+            "TypeScript" : 300334,
             "CSS" : 16637,
             "HTML" : 13363,
             "JavaScript" : 5698
@@ -727,7 +727,7 @@
         "forks"         : 11,
         "openIssues"    : 6,
         "languages"     : {
-          "TypeScript" : 300231,
+          "TypeScript" : 300334,
           "CSS" : 16637,
           "HTML" : 13363,
           "JavaScript" : 5698
@@ -879,19 +879,19 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 726,
           "watchers"      : 237,
-          "size"          : 6006,
+          "size"          : 6042,
           "collaborators" : 8,
           "stars"         : 237,
           "forks"         : 44,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 1063190,
-            "C#" : 1549069,
-            "Xtend" : 218491,
-            "Java" : 74714,
+            "C#" : 1557370,
+            "Xtend" : 218490,
+            "Java" : 74698,
             "Shell" : 550,
             "CSS" : 555,
-            "Batchfile" : 8254,
+            "Batchfile" : 7942,
             "JavaScript" : 1025341,
             "HTML" : 13671
           }
@@ -900,19 +900,19 @@
       "cumulativeGitHubStats" : {
         "heat"          : 726,
         "watchers"      : 237,
-        "size"          : 6006,
+        "size"          : 6042,
         "collaborators" : 8,
         "stars"         : 237,
         "forks"         : 44,
         "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 1063190,
-          "C#" : 1549069,
-          "Xtend" : 218491,
-          "Java" : 74714,
+          "C#" : 1557370,
+          "Xtend" : 218490,
+          "Java" : 74698,
           "Shell" : 550,
           "CSS" : 555,
-          "Batchfile" : 8254,
+          "Batchfile" : 7942,
           "JavaScript" : 1025341,
           "HTML" : 13671
         }
@@ -3814,16 +3814,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 235,
           "watchers"      : 24,
-          "size"          : 30646,
+          "size"          : 30645,
           "collaborators" : 8,
           "stars"         : 24,
           "forks"         : 31,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
             "CSS" : 4428,
             "Shell" : 3860,
             "Batchfile" : 552,
-            "JavaScript" : 469059,
+            "JavaScript" : 469161,
             "HTML" : 14408,
             "Objective_C" : 6218
           }
@@ -3849,13 +3849,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 35,
           "watchers"      : 2,
-          "size"          : 52,
+          "size"          : 54,
           "collaborators" : 4,
           "stars"         : 2,
           "forks"         : 3,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 78056,
+            "TypeScript" : 79190,
             "JavaScript" : 385
           }
         }
@@ -3863,18 +3863,18 @@
       "cumulativeGitHubStats" : {
         "heat"          : 295,
         "watchers"      : 28,
-        "size"          : 30718,
+        "size"          : 30719,
         "collaborators" : 16,
         "stars"         : 28,
         "forks"         : 35,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
           "C#" : 7673,
-          "TypeScript" : 78056,
+          "TypeScript" : 79190,
           "CSS" : 4428,
           "Shell" : 3860,
           "Batchfile" : 552,
-          "JavaScript" : 469444,
+          "JavaScript" : 469546,
           "HTML" : 14408,
           "Objective_C" : 6218
         }
@@ -3934,31 +3934,31 @@
       ],
       "gitHubRepos"          : [
         {
-          "name"          : "greenkey-sdk",
-          "description"   : "",
+          "name"          : "greenkey-voice-sdk",
+          "description"   : "Voice-enable your front-end apps with instant intercoms",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-sdk",
           "heat"          : 31,
           "watchers"      : 1,
-          "size"          : 155,
+          "size"          : 227,
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 1,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
-            "JavaScript" : 7806
+            "JavaScript" : 7824
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 31,
         "watchers"      : 1,
-        "size"          : 155,
+        "size"          : 227,
         "collaborators" : 6,
         "stars"         : 1,
         "forks"         : 1,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
-          "JavaScript" : 7806
+          "JavaScript" : 7824
         }
       }
     },
