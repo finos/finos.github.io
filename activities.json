@@ -598,13 +598,13 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 494,
-          "watchers"      : 70,
-          "size"          : 1978,
+          "heat"          : 496,
+          "watchers"      : 71,
+          "size"          : 1980,
           "collaborators" : 36,
-          "stars"         : 70,
+          "stars"         : 71,
           "forks"         : 42,
-          "openIssues"    : 10,
+          "openIssues"    : 11,
           "languages"     : {
             "TypeScript" : 359449,
             "HTML" : 11245,
@@ -630,13 +630,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 750,
-        "watchers"      : 79,
-        "size"          : 3455,
+        "heat"          : 752,
+        "watchers"      : 80,
+        "size"          : 3457,
         "collaborators" : 73,
-        "stars"         : 79,
+        "stars"         : 80,
         "forks"         : 60,
-        "openIssues"    : 15,
+        "openIssues"    : 16,
         "languages"     : {
           "TypeScript" : 673106,
           "HTML" : 13616,
@@ -705,11 +705,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 215,
           "watchers"      : 8,
-          "size"          : 821,
+          "size"          : 824,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 11,
-          "openIssues"    : 6,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 300334,
             "CSS" : 16637,
@@ -721,11 +721,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 215,
         "watchers"      : 8,
-        "size"          : 821,
+        "size"          : 824,
         "collaborators" : 36,
         "stars"         : 8,
         "forks"         : 11,
-        "openIssues"    : 6,
+        "openIssues"    : 5,
         "languages"     : {
           "TypeScript" : 300334,
           "CSS" : 16637,
@@ -749,34 +749,34 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 161,
           "watchers"      : 6,
-          "size"          : 5821,
+          "size"          : 5834,
           "collaborators" : 36,
           "stars"         : 6,
           "forks"         : 1,
-          "openIssues"    : 2,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 115793,
+            "TypeScript" : 116022,
             "CSS" : 28538,
             "HTML" : 7124,
             "Gherkin" : 120,
-            "JavaScript" : 8228
+            "JavaScript" : 8524
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 161,
         "watchers"      : 6,
-        "size"          : 5821,
+        "size"          : 5834,
         "collaborators" : 36,
         "stars"         : 6,
         "forks"         : 1,
-        "openIssues"    : 2,
+        "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 115793,
+          "TypeScript" : 116022,
           "CSS" : 28538,
           "HTML" : 7124,
           "Gherkin" : 120,
-          "JavaScript" : 8228
+          "JavaScript" : 8524
         }
       }
     },
@@ -3818,7 +3818,7 @@
           "collaborators" : 8,
           "stars"         : 24,
           "forks"         : 31,
-          "openIssues"    : 3,
+          "openIssues"    : 5,
           "languages"     : {
             "CSS" : 4428,
             "Shell" : 3860,
@@ -3849,13 +3849,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 35,
           "watchers"      : 2,
-          "size"          : 54,
+          "size"          : 62,
           "collaborators" : 4,
           "stars"         : 2,
           "forks"         : 3,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 79190,
+            "TypeScript" : 79189,
             "JavaScript" : 385
           }
         }
@@ -3863,14 +3863,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 295,
         "watchers"      : 28,
-        "size"          : 30719,
+        "size"          : 30727,
         "collaborators" : 16,
         "stars"         : 28,
         "forks"         : 35,
-        "openIssues"    : 3,
+        "openIssues"    : 5,
         "languages"     : {
           "C#" : 7673,
-          "TypeScript" : 79190,
+          "TypeScript" : 79189,
           "CSS" : 4428,
           "Shell" : 3860,
           "Batchfile" : 552,
@@ -3925,7 +3925,48 @@
       "programName"          : "Voice, Voice Metadata, and Voice API",
       "programShortName"     : "Voice",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/VOICE/overview",
-      "activityName"         : "Greenkey SDK",
+      "activityName"         : "Greenkey Discovery SDK",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-08-20",
+      "tags"                 : [
+        "rest api client"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "greenkey-discovery-sdk",
+          "description"   : "Speed up business workflows through creating custom 'voice skills' and text interpreters",
+          "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
+          "heat"          : 12,
+          "watchers"      : 0,
+          "size"          : 53,
+          "collaborators" : 3,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 4,
+          "languages"     : {
+            "Python" : 11559
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 12,
+        "watchers"      : 0,
+        "size"          : 53,
+        "collaborators" : 3,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 4,
+        "languages"     : {
+          "Python" : 11559
+        }
+      }
+    },
+    {
+      "programName"          : "Voice, Voice Metadata, and Voice API",
+      "programShortName"     : "Voice",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/VOICE/overview",
+      "activityName"         : "Greenkey Voice SDK",
       "type"                 : "PROJECT",
       "state"                : "INCUBATING",
       "contributionDate"     : "2018-05-25",
@@ -3936,7 +3977,7 @@
         {
           "name"          : "greenkey-voice-sdk",
           "description"   : "Voice-enable your front-end apps with instant intercoms",
-          "gitHubURL"     : "https://github.com/finos-voice/greenkey-sdk",
+          "gitHubURL"     : "https://github.com/finos-voice/greenkey-voice-sdk",
           "heat"          : 31,
           "watchers"      : 1,
           "size"          : 227,
