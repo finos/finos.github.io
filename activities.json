@@ -126,12 +126,12 @@
           "name"          : "appd-poc",
           "description"   : "Application Directory POC is a reference implementation of the Application Directory API",
           "gitHubURL"     : "https://github.com/FDC3/appd-poc",
-          "heat"          : 172,
+          "heat"          : 177,
           "watchers"      : 0,
           "size"          : 48,
           "collaborators" : 43,
           "stars"         : 0,
-          "forks"         : 0,
+          "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
             "Java" : 45772,
@@ -143,22 +143,22 @@
           "name"          : "appd-api",
           "description"   : "Application Directory API - THIS IS NOT A RATIFIED FDC3 API or SPECIFICATION, but rather work in-progress",
           "gitHubURL"     : "https://github.com/FDC3/appd-api",
-          "heat"          : 177,
+          "heat"          : 182,
           "watchers"      : 0,
           "size"          : 13,
           "collaborators" : 43,
           "stars"         : 0,
-          "forks"         : 1,
+          "forks"         : 2,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 542,
+        "heat"          : 552,
         "watchers"      : 3,
         "size"          : 80,
         "collaborators" : 129,
         "stars"         : 3,
-        "forks"         : 4,
+        "forks"         : 6,
         "openIssues"    : 0,
         "languages"     : {
           "Java" : 45772,
@@ -337,10 +337,10 @@
           "name"          : "bot-github-chatops",
           "description"   : "A Symphony bot that uses ChatOps techniques to allow a firm employee to interact in a compliant manner with GitHub issues and PRs",
           "gitHubURL"     : "https://github.com/finos-fdx/bot-github-chatops",
-          "heat"          : 25,
+          "heat"          : 33,
           "watchers"      : 4,
           "size"          : 364,
-          "collaborators" : 3,
+          "collaborators" : 5,
           "stars"         : 4,
           "forks"         : 1,
           "openIssues"    : 10,
@@ -352,10 +352,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 25,
+        "heat"          : 33,
         "watchers"      : 4,
         "size"          : 364,
-        "collaborators" : 3,
+        "collaborators" : 5,
         "stars"         : 4,
         "forks"         : 1,
         "openIssues"    : 10,
@@ -379,10 +379,10 @@
           "name"          : "finos-parent-pom",
           "description"   : "A Maven Parent POM that provide common build and release features using the Symphony Software Foundation Infrastructure",
           "gitHubURL"     : "https://github.com/finos-fdx/finos-parent-pom",
-          "heat"          : 10,
+          "heat"          : 18,
           "watchers"      : 1,
           "size"          : 76,
-          "collaborators" : 2,
+          "collaborators" : 4,
           "stars"         : 1,
           "forks"         : 0,
           "openIssues"    : 0
@@ -391,10 +391,10 @@
           "name"          : "contrib-toolbox",
           "description"   : "A collection of utilities to support the FINOS contribution process",
           "gitHubURL"     : "https://github.com/finos-fdx/contrib-toolbox",
-          "heat"          : 8,
+          "heat"          : 16,
           "watchers"      : 0,
           "size"          : 169,
-          "collaborators" : 2,
+          "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 0,
           "openIssues"    : 1,
@@ -406,10 +406,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 18,
+        "heat"          : 34,
         "watchers"      : 1,
         "size"          : 245,
-        "collaborators" : 4,
+        "collaborators" : 8,
         "stars"         : 1,
         "forks"         : 0,
         "openIssues"    : 1,
@@ -600,11 +600,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 496,
           "watchers"      : 71,
-          "size"          : 1980,
+          "size"          : 1986,
           "collaborators" : 36,
           "stars"         : 71,
           "forks"         : 42,
-          "openIssues"    : 11,
+          "openIssues"    : 12,
           "languages"     : {
             "TypeScript" : 359449,
             "HTML" : 11245,
@@ -617,13 +617,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 256,
           "watchers"      : 9,
-          "size"          : 1477,
+          "size"          : 1498,
           "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 18,
-          "openIssues"    : 5,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 313657,
+            "TypeScript" : 317926,
             "HTML" : 2371,
             "JavaScript" : 10853
           }
@@ -632,13 +632,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 752,
         "watchers"      : 80,
-        "size"          : 3457,
+        "size"          : 3484,
         "collaborators" : 73,
         "stars"         : 80,
         "forks"         : 60,
-        "openIssues"    : 16,
+        "openIssues"    : 15,
         "languages"     : {
-          "TypeScript" : 673106,
+          "TypeScript" : 677375,
           "HTML" : 13616,
           "JavaScript" : 349697
         }
@@ -705,32 +705,32 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 215,
           "watchers"      : 8,
-          "size"          : 824,
+          "size"          : 833,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 11,
           "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 300334,
+            "TypeScript" : 315529,
             "CSS" : 16637,
-            "HTML" : 13363,
-            "JavaScript" : 5698
+            "HTML" : 14275,
+            "JavaScript" : 5701
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 215,
         "watchers"      : 8,
-        "size"          : 824,
+        "size"          : 833,
         "collaborators" : 36,
         "stars"         : 8,
         "forks"         : 11,
         "openIssues"    : 5,
         "languages"     : {
-          "TypeScript" : 300334,
+          "TypeScript" : 315529,
           "CSS" : 16637,
-          "HTML" : 13363,
-          "JavaScript" : 5698
+          "HTML" : 14275,
+          "JavaScript" : 5701
         }
       }
     },
@@ -2170,21 +2170,31 @@
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-click2dial",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 18,
+          "size"          : 19,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
-          "openIssues"    : 1
+          "openIssues"    : 0,
+          "languages"     : {
+            "HTML" : 1834,
+            "CSS" : 1018,
+            "JavaScript" : 36518
+          }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 25,
         "watchers"      : 0,
-        "size"          : 18,
+        "size"          : 19,
         "collaborators" : 5,
         "stars"         : 0,
         "forks"         : 1,
-        "openIssues"    : 1
+        "openIssues"    : 0,
+        "languages"     : {
+          "HTML" : 1834,
+          "CSS" : 1018,
+          "JavaScript" : 36518
+        }
       }
     },
     {
@@ -3814,16 +3824,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 235,
           "watchers"      : 24,
-          "size"          : 30645,
+          "size"          : 30677,
           "collaborators" : 8,
           "stars"         : 24,
           "forks"         : 31,
-          "openIssues"    : 5,
+          "openIssues"    : 4,
           "languages"     : {
             "CSS" : 4428,
             "Shell" : 3860,
             "Batchfile" : 552,
-            "JavaScript" : 469161,
+            "JavaScript" : 472131,
             "HTML" : 14408,
             "Objective_C" : 6218
           }
@@ -3863,18 +3873,18 @@
       "cumulativeGitHubStats" : {
         "heat"          : 295,
         "watchers"      : 28,
-        "size"          : 30727,
+        "size"          : 30759,
         "collaborators" : 16,
         "stars"         : 28,
         "forks"         : 35,
-        "openIssues"    : 5,
+        "openIssues"    : 4,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 79189,
           "CSS" : 4428,
           "Shell" : 3860,
           "Batchfile" : 552,
-          "JavaScript" : 469546,
+          "JavaScript" : 472516,
           "HTML" : 14408,
           "Objective_C" : 6218
         }
@@ -3937,10 +3947,10 @@
           "name"          : "greenkey-discovery-sdk",
           "description"   : "Speed up business workflows through creating custom 'voice skills' and text interpreters",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
-          "heat"          : 12,
+          "heat"          : 16,
           "watchers"      : 0,
-          "size"          : 53,
-          "collaborators" : 3,
+          "size"          : 60,
+          "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 0,
           "openIssues"    : 4,
@@ -3950,10 +3960,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 12,
+        "heat"          : 16,
         "watchers"      : 0,
-        "size"          : 53,
-        "collaborators" : 3,
+        "size"          : 60,
+        "collaborators" : 4,
         "stars"         : 0,
         "forks"         : 0,
         "openIssues"    : 4,
