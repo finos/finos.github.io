@@ -519,7 +519,7 @@
           "collaborators" : 36,
           "stars"         : 9,
           "forks"         : 6,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "HTML" : 534,
             "JavaScript" : 3436
@@ -533,7 +533,7 @@
         "collaborators" : 36,
         "stars"         : 9,
         "forks"         : 6,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "HTML" : 534,
           "JavaScript" : 3436
@@ -604,7 +604,7 @@
           "collaborators" : 36,
           "stars"         : 71,
           "forks"         : 42,
-          "openIssues"    : 12,
+          "openIssues"    : 14,
           "languages"     : {
             "TypeScript" : 359449,
             "HTML" : 11245,
@@ -617,22 +617,22 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 256,
           "watchers"      : 9,
-          "size"          : 1498,
+          "size"          : 1493,
           "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 18,
-          "openIssues"    : 3,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 317926,
             "HTML" : 2371,
-            "JavaScript" : 10853
+            "JavaScript" : 11026
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 752,
         "watchers"      : 80,
-        "size"          : 3484,
+        "size"          : 3479,
         "collaborators" : 73,
         "stars"         : 80,
         "forks"         : 60,
@@ -640,7 +640,7 @@
         "languages"     : {
           "TypeScript" : 677375,
           "HTML" : 13616,
-          "JavaScript" : 349697
+          "JavaScript" : 349870
         }
       }
     },
@@ -705,15 +705,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 215,
           "watchers"      : 8,
-          "size"          : 833,
+          "size"          : 868,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 11,
-          "openIssues"    : 5,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 315529,
-            "CSS" : 16637,
-            "HTML" : 14275,
+            "TypeScript" : 331486,
+            "CSS" : 16543,
+            "HTML" : 14273,
             "JavaScript" : 5701
           }
         }
@@ -721,15 +721,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 215,
         "watchers"      : 8,
-        "size"          : 833,
+        "size"          : 868,
         "collaborators" : 36,
         "stars"         : 8,
         "forks"         : 11,
-        "openIssues"    : 5,
+        "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 315529,
-          "CSS" : 16637,
-          "HTML" : 14275,
+          "TypeScript" : 331486,
+          "CSS" : 16543,
+          "HTML" : 14273,
           "JavaScript" : 5701
         }
       }
@@ -2168,11 +2168,11 @@
           "name"          : "symphony-click2dial",
           "description"   : "Dial a number using your corporate telephony service from Symphony chat",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-click2dial",
-          "heat"          : 25,
-          "watchers"      : 0,
+          "heat"          : 27,
+          "watchers"      : 1,
           "size"          : 19,
           "collaborators" : 5,
-          "stars"         : 0,
+          "stars"         : 1,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
@@ -2183,11 +2183,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 25,
-        "watchers"      : 0,
+        "heat"          : 27,
+        "watchers"      : 1,
         "size"          : 19,
         "collaborators" : 5,
-        "stars"         : 0,
+        "stars"         : 1,
         "forks"         : 1,
         "openIssues"    : 0,
         "languages"     : {
@@ -3824,7 +3824,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 235,
           "watchers"      : 24,
-          "size"          : 30677,
+          "size"          : 30698,
           "collaborators" : 8,
           "stars"         : 24,
           "forks"         : 31,
@@ -3833,7 +3833,7 @@
             "CSS" : 4428,
             "Shell" : 3860,
             "Batchfile" : 552,
-            "JavaScript" : 472131,
+            "JavaScript" : 472121,
             "HTML" : 14408,
             "Objective_C" : 6218
           }
@@ -3859,13 +3859,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 35,
           "watchers"      : 2,
-          "size"          : 62,
+          "size"          : 59,
           "collaborators" : 4,
           "stars"         : 2,
           "forks"         : 3,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 79189,
+            "TypeScript" : 79181,
             "JavaScript" : 385
           }
         }
@@ -3873,18 +3873,18 @@
       "cumulativeGitHubStats" : {
         "heat"          : 295,
         "watchers"      : 28,
-        "size"          : 30759,
+        "size"          : 30777,
         "collaborators" : 16,
         "stars"         : 28,
         "forks"         : 35,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "C#" : 7673,
-          "TypeScript" : 79189,
+          "TypeScript" : 79181,
           "CSS" : 4428,
           "Shell" : 3860,
           "Batchfile" : 552,
-          "JavaScript" : 472516,
+          "JavaScript" : 472506,
           "HTML" : 14408,
           "Objective_C" : 6218
         }
