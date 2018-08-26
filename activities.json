@@ -766,7 +766,7 @@
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 12,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 342051,
             "CSS" : 16543,
@@ -782,7 +782,7 @@
         "collaborators" : 36,
         "stars"         : 8,
         "forks"         : 12,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 342051,
           "CSS" : 16543,
@@ -2454,7 +2454,7 @@
           "collaborators" : 7,
           "stars"         : 30,
           "forks"         : 27,
-          "openIssues"    : 9,
+          "openIssues"    : 10,
           "languages"     : {
             "Java" : 695383,
             "Shell" : 1987
@@ -2499,7 +2499,7 @@
         "collaborators" : 16,
         "stars"         : 51,
         "forks"         : 44,
-        "openIssues"    : 13,
+        "openIssues"    : 14,
         "languages"     : {
           "Java" : 718953,
           "Shell" : 4382
