@@ -66,7 +66,7 @@ body {
   word-wrap: break-word;
 }
 .multiselect-native-select {
-  float:right;
+  float:left;
 }
 
 img#logo {
@@ -187,6 +187,34 @@ article > img {
       margin-top: 2%;
       width:25px;
 }
+
+@media (min-width: 320px) { 
+      div#activities.container {
+        padding-left: 85px;
+      }
+}
+
+@media (max-width: 767px) {
+      
+}
+
+@media (min-width: 768px) { 
+      .btn-group {
+        max-width: 70px !important;
+      }
+      
+      .row {
+        margin-left: -10px !important;
+      }
+}
+@media (min-width: 992px) { 
+      .btn-group {
+        max-width: 100px !important;
+      }
+      div#activities.container {
+        padding-left: 15px;
+      }
+ }
 
 /* Activity states and types */
 .project-activity-type {
