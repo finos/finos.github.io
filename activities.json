@@ -72,11 +72,11 @@
           "gitHubURL"     : "https://github.com/FDC3/api",
           "heat"          : 205,
           "watchers"      : 4,
-          "size"          : 43,
+          "size"          : 226,
           "collaborators" : 43,
           "stars"         : 4,
           "forks"         : 5,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 3009
           }
@@ -85,11 +85,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 205,
         "watchers"      : 4,
-        "size"          : 43,
+        "size"          : 226,
         "collaborators" : 43,
         "stars"         : 4,
         "forks"         : 5,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 3009
         }
@@ -638,11 +638,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 496,
           "watchers"      : 71,
-          "size"          : 1989,
+          "size"          : 1997,
           "collaborators" : 36,
           "stars"         : 71,
           "forks"         : 42,
-          "openIssues"    : 12,
+          "openIssues"    : 13,
           "languages"     : {
             "TypeScript" : 359467,
             "HTML" : 11245,
@@ -655,11 +655,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 256,
           "watchers"      : 9,
-          "size"          : 1493,
+          "size"          : 1492,
           "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 18,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 317926,
             "HTML" : 2371,
@@ -688,11 +688,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 903,
         "watchers"      : 81,
-        "size"          : 3639,
+        "size"          : 3646,
         "collaborators" : 109,
         "stars"         : 81,
         "forks"         : 61,
-        "openIssues"    : 16,
+        "openIssues"    : 18,
         "languages"     : {
           "TypeScript" : 782440,
           "HTML" : 16004,
@@ -762,32 +762,32 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 220,
           "watchers"      : 8,
-          "size"          : 1040,
+          "size"          : 1099,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 12,
-          "openIssues"    : 1,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 366853,
-            "CSS" : 16543,
-            "HTML" : 13050,
-            "JavaScript" : 6638
+            "TypeScript" : 346869,
+            "CSS" : 16580,
+            "HTML" : 12338,
+            "JavaScript" : 6736
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 220,
         "watchers"      : 8,
-        "size"          : 1040,
+        "size"          : 1099,
         "collaborators" : 36,
         "stars"         : 8,
         "forks"         : 12,
-        "openIssues"    : 1,
+        "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 366853,
-          "CSS" : 16543,
-          "HTML" : 13050,
-          "JavaScript" : 6638
+          "TypeScript" : 346869,
+          "CSS" : 16580,
+          "HTML" : 12338,
+          "JavaScript" : 6736
         }
       }
     },
@@ -806,13 +806,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 161,
           "watchers"      : 6,
-          "size"          : 5841,
+          "size"          : 5848,
           "collaborators" : 36,
           "stars"         : 6,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 115931,
+            "TypeScript" : 116016,
             "CSS" : 28538,
             "HTML" : 7124,
             "Gherkin" : 120,
@@ -823,13 +823,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 161,
         "watchers"      : 6,
-        "size"          : 5841,
+        "size"          : 5848,
         "collaborators" : 36,
         "stars"         : 6,
         "forks"         : 1,
         "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 115931,
+          "TypeScript" : 116016,
           "CSS" : 28538,
           "HTML" : 7124,
           "Gherkin" : 120,
@@ -934,11 +934,11 @@
           "name"          : "plexus-interop",
           "description"   : "Plexus Interop open source project hosted by the Fintech Open Source Foundation",
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
-          "heat"          : 728,
-          "watchers"      : 238,
+          "heat"          : 726,
+          "watchers"      : 237,
           "size"          : 6042,
           "collaborators" : 8,
-          "stars"         : 238,
+          "stars"         : 237,
           "forks"         : 44,
           "openIssues"    : 0,
           "languages"     : {
@@ -970,11 +970,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 759,
-        "watchers"      : 239,
+        "heat"          : 757,
+        "watchers"      : 238,
         "size"          : 6053,
         "collaborators" : 14,
-        "stars"         : 239,
+        "stars"         : 238,
         "forks"         : 45,
         "openIssues"    : 0,
         "languages"     : {
@@ -2849,13 +2849,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 1083,
+          "size"          : 1120,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 542392,
+            "Java" : 542465,
             "CSS" : 29377,
             "Shell" : 26545,
             "HTML" : 16297
@@ -2892,13 +2892,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 66,
         "watchers"      : 0,
-        "size"          : 1141,
+        "size"          : 1178,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 565218,
+          "Java" : 565291,
           "CSS" : 29377,
           "Shell" : 26545,
           "HTML" : 16297
@@ -3587,7 +3587,7 @@
           "collaborators" : 7,
           "stars"         : 4,
           "forks"         : 10,
-          "openIssues"    : 9,
+          "openIssues"    : 10,
           "languages"     : {
             "C#" : 4124024,
             "PowerShell" : 1467,
@@ -3627,7 +3627,7 @@
         "collaborators" : 14,
         "stars"         : 4,
         "forks"         : 14,
-        "openIssues"    : 11,
+        "openIssues"    : 12,
         "languages"     : {
           "C#" : 4320034,
           "PowerShell" : 4773,
@@ -3801,13 +3801,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-common",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 380,
+          "size"          : 389,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 428021
+            "Java" : 428918
           }
         },
         {
@@ -3826,13 +3826,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 64,
         "watchers"      : 0,
-        "size"          : 421,
+        "size"          : 430,
         "collaborators" : 11,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 428021
+          "Java" : 428918
         }
       }
     },
@@ -3896,16 +3896,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 262,
           "watchers"      : 26,
-          "size"          : 30719,
+          "size"          : 30729,
           "collaborators" : 10,
           "stars"         : 26,
           "forks"         : 34,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
             "Shell" : 6288,
             "CSS" : 4428,
             "Batchfile" : 552,
-            "JavaScript" : 474511,
+            "JavaScript" : 475656,
             "HTML" : 14408,
             "Objective_C" : 6218
           }
@@ -3945,18 +3945,18 @@
       "cumulativeGitHubStats" : {
         "heat"          : 322,
         "watchers"      : 30,
-        "size"          : 30798,
+        "size"          : 30808,
         "collaborators" : 18,
         "stars"         : 30,
         "forks"         : 38,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 79181,
           "Shell" : 6288,
           "CSS" : 4428,
           "Batchfile" : 552,
-          "JavaScript" : 474896,
+          "JavaScript" : 476041,
           "HTML" : 14408,
           "Objective_C" : 6218
         }
@@ -4019,26 +4019,26 @@
           "name"          : "greenkey-discovery-sdk",
           "description"   : "Speed up business workflows through creating custom 'voice skills' and text interpreters",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
-          "heat"          : 16,
-          "watchers"      : 0,
-          "size"          : 73,
+          "heat"          : 18,
+          "watchers"      : 1,
+          "size"          : 68,
           "collaborators" : 4,
-          "stars"         : 0,
+          "stars"         : 1,
           "forks"         : 0,
-          "openIssues"    : 6,
+          "openIssues"    : 5,
           "languages"     : {
             "Python" : 12225
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 16,
-        "watchers"      : 0,
-        "size"          : 73,
+        "heat"          : 18,
+        "watchers"      : 1,
+        "size"          : 68,
         "collaborators" : 4,
-        "stars"         : 0,
+        "stars"         : 1,
         "forks"         : 0,
-        "openIssues"    : 6,
+        "openIssues"    : 5,
         "languages"     : {
           "Python" : 12225
         }
