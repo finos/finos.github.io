@@ -638,7 +638,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 496,
           "watchers"      : 71,
-          "size"          : 1997,
+          "size"          : 2005,
           "collaborators" : 36,
           "stars"         : 71,
           "forks"         : 42,
@@ -688,7 +688,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 903,
         "watchers"      : 81,
-        "size"          : 3646,
+        "size"          : 3654,
         "collaborators" : 109,
         "stars"         : 81,
         "forks"         : 61,
@@ -766,7 +766,7 @@
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 12,
-          "openIssues"    : 3,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 346869,
             "CSS" : 16580,
@@ -782,7 +782,7 @@
         "collaborators" : 36,
         "stars"         : 8,
         "forks"         : 12,
-        "openIssues"    : 3,
+        "openIssues"    : 5,
         "languages"     : {
           "TypeScript" : 346869,
           "CSS" : 16580,
@@ -2849,13 +2849,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 1120,
+          "size"          : 1145,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 542465,
+            "Java" : 543490,
             "CSS" : 29377,
             "Shell" : 26545,
             "HTML" : 16297
@@ -2892,13 +2892,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 66,
         "watchers"      : 0,
-        "size"          : 1178,
+        "size"          : 1203,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 565291,
+          "Java" : 566316,
           "CSS" : 29377,
           "Shell" : 26545,
           "HTML" : 16297
@@ -3896,16 +3896,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 262,
           "watchers"      : 26,
-          "size"          : 30729,
+          "size"          : 30730,
           "collaborators" : 10,
           "stars"         : 26,
           "forks"         : 34,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
             "Shell" : 6288,
             "CSS" : 4428,
             "Batchfile" : 552,
-            "JavaScript" : 475656,
+            "JavaScript" : 480055,
             "HTML" : 14408,
             "Objective_C" : 6218
           }
@@ -3945,18 +3945,18 @@
       "cumulativeGitHubStats" : {
         "heat"          : 322,
         "watchers"      : 30,
-        "size"          : 30808,
+        "size"          : 30809,
         "collaborators" : 18,
         "stars"         : 30,
         "forks"         : 38,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 79181,
           "Shell" : 6288,
           "CSS" : 4428,
           "Batchfile" : 552,
-          "JavaScript" : 476041,
+          "JavaScript" : 480440,
           "HTML" : 14408,
           "Objective_C" : 6218
         }
