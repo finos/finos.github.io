@@ -636,11 +636,11 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 496,
-          "watchers"      : 71,
+          "heat"          : 498,
+          "watchers"      : 72,
           "size"          : 2005,
           "collaborators" : 36,
-          "stars"         : 71,
+          "stars"         : 72,
           "forks"         : 42,
           "openIssues"    : 13,
           "languages"     : {
@@ -686,11 +686,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 903,
-        "watchers"      : 81,
+        "heat"          : 905,
+        "watchers"      : 82,
         "size"          : 3654,
         "collaborators" : 109,
-        "stars"         : 81,
+        "stars"         : 82,
         "forks"         : 61,
         "openIssues"    : 18,
         "languages"     : {
@@ -766,12 +766,12 @@
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 12,
-          "openIssues"    : 5,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 346869,
+            "TypeScript" : 347371,
             "CSS" : 16580,
-            "HTML" : 12338,
-            "JavaScript" : 6736
+            "HTML" : 12333,
+            "JavaScript" : 6728
           }
         }
       ],
@@ -782,12 +782,12 @@
         "collaborators" : 36,
         "stars"         : 8,
         "forks"         : 12,
-        "openIssues"    : 5,
+        "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 346869,
+          "TypeScript" : 347371,
           "CSS" : 16580,
-          "HTML" : 12338,
-          "JavaScript" : 6736
+          "HTML" : 12333,
+          "JavaScript" : 6728
         }
       }
     },
@@ -934,11 +934,11 @@
           "name"          : "plexus-interop",
           "description"   : "Plexus Interop open source project hosted by the Fintech Open Source Foundation",
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
-          "heat"          : 726,
-          "watchers"      : 237,
+          "heat"          : 728,
+          "watchers"      : 238,
           "size"          : 6042,
           "collaborators" : 8,
-          "stars"         : 237,
+          "stars"         : 238,
           "forks"         : 44,
           "openIssues"    : 0,
           "languages"     : {
@@ -970,11 +970,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 757,
-        "watchers"      : 238,
+        "heat"          : 759,
+        "watchers"      : 239,
         "size"          : 6053,
         "collaborators" : 14,
-        "stars"         : 238,
+        "stars"         : 239,
         "forks"         : 45,
         "openIssues"    : 0,
         "languages"     : {
