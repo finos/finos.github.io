@@ -642,7 +642,7 @@
           "collaborators" : 36,
           "stars"         : 72,
           "forks"         : 42,
-          "openIssues"    : 13,
+          "openIssues"    : 14,
           "languages"     : {
             "TypeScript" : 359739,
             "HTML" : 11245,
@@ -692,7 +692,7 @@
         "collaborators" : 109,
         "stars"         : 82,
         "forks"         : 61,
-        "openIssues"    : 18,
+        "openIssues"    : 19,
         "languages"     : {
           "TypeScript" : 782712,
           "HTML" : 16004,
@@ -766,12 +766,12 @@
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 364409,
             "CSS" : 16466,
             "HTML" : 12886,
-            "JavaScript" : 6728
+            "JavaScript" : 6555
           }
         }
       ],
@@ -782,12 +782,12 @@
         "collaborators" : 36,
         "stars"         : 8,
         "forks"         : 13,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 364409,
           "CSS" : 16466,
           "HTML" : 12886,
-          "JavaScript" : 6728
+          "JavaScript" : 6555
         }
       }
     },
