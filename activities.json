@@ -762,13 +762,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 225,
           "watchers"      : 8,
-          "size"          : 1244,
+          "size"          : 1260,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 0,
+          "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 363944,
+            "TypeScript" : 364409,
             "CSS" : 16466,
             "HTML" : 12886,
             "JavaScript" : 6728
@@ -778,13 +778,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 225,
         "watchers"      : 8,
-        "size"          : 1244,
+        "size"          : 1260,
         "collaborators" : 36,
         "stars"         : 8,
         "forks"         : 13,
-        "openIssues"    : 0,
+        "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 363944,
+          "TypeScript" : 364409,
           "CSS" : 16466,
           "HTML" : 12886,
           "JavaScript" : 6728
@@ -3896,11 +3896,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 262,
           "watchers"      : 26,
-          "size"          : 30751,
+          "size"          : 30767,
           "collaborators" : 10,
           "stars"         : 26,
           "forks"         : 34,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
             "Shell" : 6288,
             "CSS" : 4428,
@@ -3945,11 +3945,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 322,
         "watchers"      : 30,
-        "size"          : 30830,
+        "size"          : 30846,
         "collaborators" : 18,
         "stars"         : 30,
         "forks"         : 38,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 79181,
