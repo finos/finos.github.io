@@ -551,12 +551,12 @@
           "name"          : "app-template",
           "description"   : "A simple unopinionated Hadouken application template.",
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
-          "heat"          : 192,
+          "heat"          : 197,
           "watchers"      : 9,
           "size"          : 151,
           "collaborators" : 36,
           "stars"         : 9,
-          "forks"         : 6,
+          "forks"         : 7,
           "openIssues"    : 3,
           "languages"     : {
             "HTML" : 534,
@@ -565,12 +565,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 192,
+        "heat"          : 197,
         "watchers"      : 9,
         "size"          : 151,
         "collaborators" : 36,
         "stars"         : 9,
-        "forks"         : 6,
+        "forks"         : 7,
         "openIssues"    : 3,
         "languages"     : {
           "HTML" : 534,
@@ -638,15 +638,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 498,
           "watchers"      : 72,
-          "size"          : 2005,
+          "size"          : 2006,
           "collaborators" : 36,
           "stars"         : 72,
           "forks"         : 42,
           "openIssues"    : 13,
           "languages"     : {
-            "TypeScript" : 359467,
+            "TypeScript" : 359739,
             "HTML" : 11245,
-            "JavaScript" : 339561
+            "JavaScript" : 340067
           }
         },
         {
@@ -688,16 +688,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 905,
         "watchers"      : 82,
-        "size"          : 3654,
+        "size"          : 3655,
         "collaborators" : 109,
         "stars"         : 82,
         "forks"         : 61,
         "openIssues"    : 18,
         "languages"     : {
-          "TypeScript" : 782440,
+          "TypeScript" : 782712,
           "HTML" : 16004,
           "CSS" : 48222,
-          "JavaScript" : 356001
+          "JavaScript" : 356507
         }
       }
     },
@@ -760,33 +760,33 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 220,
+          "heat"          : 225,
           "watchers"      : 8,
-          "size"          : 1299,
+          "size"          : 1244,
           "collaborators" : 36,
           "stars"         : 8,
-          "forks"         : 12,
-          "openIssues"    : 1,
+          "forks"         : 13,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 361531,
+            "TypeScript" : 363944,
             "CSS" : 16466,
-            "HTML" : 12806,
+            "HTML" : 12886,
             "JavaScript" : 6728
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 220,
+        "heat"          : 225,
         "watchers"      : 8,
-        "size"          : 1299,
+        "size"          : 1244,
         "collaborators" : 36,
         "stars"         : 8,
-        "forks"         : 12,
-        "openIssues"    : 1,
+        "forks"         : 13,
+        "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 361531,
+          "TypeScript" : 363944,
           "CSS" : 16466,
-          "HTML" : 12806,
+          "HTML" : 12886,
           "JavaScript" : 6728
         }
       }
@@ -936,11 +936,11 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 728,
           "watchers"      : 238,
-          "size"          : 6042,
+          "size"          : 6079,
           "collaborators" : 8,
           "stars"         : 238,
           "forks"         : 44,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 1063190,
             "C#" : 1557370,
@@ -972,11 +972,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 759,
         "watchers"      : 239,
-        "size"          : 6053,
+        "size"          : 6090,
         "collaborators" : 14,
         "stars"         : 239,
         "forks"         : 45,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 1084782,
           "C#" : 1557370,
@@ -3900,7 +3900,7 @@
           "collaborators" : 10,
           "stars"         : 26,
           "forks"         : 34,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "Shell" : 6288,
             "CSS" : 4428,
@@ -3949,7 +3949,7 @@
         "collaborators" : 18,
         "stars"         : 30,
         "forks"         : 38,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 79181,
@@ -4021,26 +4021,28 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 18,
           "watchers"      : 1,
-          "size"          : 68,
+          "size"          : 69,
           "collaborators" : 4,
           "stars"         : 1,
           "forks"         : 0,
-          "openIssues"    : 5,
+          "openIssues"    : 4,
           "languages"     : {
-            "Python" : 12225
+            "Shell" : 28,
+            "Python" : 31698
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 18,
         "watchers"      : 1,
-        "size"          : 68,
+        "size"          : 69,
         "collaborators" : 4,
         "stars"         : 1,
         "forks"         : 0,
-        "openIssues"    : 5,
+        "openIssues"    : 4,
         "languages"     : {
-          "Python" : 12225
+          "Shell" : 28,
+          "Python" : 31698
         }
       }
     },
