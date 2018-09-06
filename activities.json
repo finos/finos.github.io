@@ -638,15 +638,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 498,
           "watchers"      : 72,
-          "size"          : 2006,
+          "size"          : 2008,
           "collaborators" : 36,
           "stars"         : 72,
           "forks"         : 42,
           "openIssues"    : 14,
           "languages"     : {
-            "TypeScript" : 359739,
+            "TypeScript" : 361188,
             "HTML" : 11245,
-            "JavaScript" : 340067
+            "JavaScript" : 340051
           }
         },
         {
@@ -655,15 +655,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 256,
           "watchers"      : 9,
-          "size"          : 1492,
+          "size"          : 1541,
           "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 18,
-          "openIssues"    : 5,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 317926,
-            "HTML" : 2371,
-            "JavaScript" : 11026
+            "TypeScript" : 319218,
+            "HTML" : 2364,
+            "JavaScript" : 11148
           }
         },
         {
@@ -688,16 +688,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 905,
         "watchers"      : 82,
-        "size"          : 3655,
+        "size"          : 3706,
         "collaborators" : 109,
         "stars"         : 82,
         "forks"         : 61,
-        "openIssues"    : 19,
+        "openIssues"    : 17,
         "languages"     : {
-          "TypeScript" : 782712,
-          "HTML" : 16004,
+          "TypeScript" : 785453,
+          "HTML" : 15997,
           "CSS" : 48222,
-          "JavaScript" : 356507
+          "JavaScript" : 356613
         }
       }
     },
@@ -762,32 +762,50 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 225,
           "watchers"      : 8,
-          "size"          : 1260,
+          "size"          : 1278,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 364409,
+            "TypeScript" : 364658,
             "CSS" : 16466,
-            "HTML" : 12886,
+            "HTML" : 12960,
             "JavaScript" : 6555
+          }
+        },
+        {
+          "name"          : "layouts-tabstrip",
+          "description"   : "Repository for the tabstrip used by default in the OpenFin Layouts Service",
+          "gitHubURL"     : "https://github.com/HadoukenIO/layouts-tabstrip",
+          "heat"          : 154,
+          "watchers"      : 0,
+          "size"          : 64,
+          "collaborators" : 36,
+          "stars"         : 0,
+          "forks"         : 2,
+          "openIssues"    : 0,
+          "languages"     : {
+            "TypeScript" : 16204,
+            "CSS" : 4589,
+            "HTML" : 1293,
+            "JavaScript" : 1526
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 225,
+        "heat"          : 379,
         "watchers"      : 8,
-        "size"          : 1260,
-        "collaborators" : 36,
+        "size"          : 1342,
+        "collaborators" : 72,
         "stars"         : 8,
-        "forks"         : 13,
-        "openIssues"    : 1,
+        "forks"         : 15,
+        "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 364409,
-          "CSS" : 16466,
-          "HTML" : 12886,
-          "JavaScript" : 6555
+          "TypeScript" : 380862,
+          "CSS" : 21055,
+          "HTML" : 14253,
+          "JavaScript" : 8081
         }
       }
     },
@@ -3023,13 +3041,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Commons",
           "heat"          : 92,
           "watchers"      : 2,
-          "size"          : 20184,
+          "size"          : 20185,
           "collaborators" : 12,
           "stars"         : 2,
           "forks"         : 8,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
-            "Java" : 728617
+            "Java" : 729718
           }
         },
         {
@@ -3084,13 +3102,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 266,
         "watchers"      : 6,
-        "size"          : 55531,
+        "size"          : 55532,
         "collaborators" : 41,
         "stars"         : 6,
         "forks"         : 18,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
-          "Java" : 1866847,
+          "Java" : 1867948,
           "Shell" : 1870,
           "CSS" : 13989,
           "HTML" : 651,
@@ -3894,18 +3912,18 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 262,
+          "heat"          : 257,
           "watchers"      : 26,
-          "size"          : 30767,
+          "size"          : 30776,
           "collaborators" : 10,
           "stars"         : 26,
-          "forks"         : 34,
-          "openIssues"    : 3,
+          "forks"         : 33,
+          "openIssues"    : 2,
           "languages"     : {
             "Shell" : 6288,
             "CSS" : 4428,
             "Batchfile" : 552,
-            "JavaScript" : 478693,
+            "JavaScript" : 474495,
             "HTML" : 14408,
             "Objective_C" : 6218
           }
@@ -3943,20 +3961,20 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 322,
+        "heat"          : 317,
         "watchers"      : 30,
-        "size"          : 30846,
+        "size"          : 30855,
         "collaborators" : 18,
         "stars"         : 30,
-        "forks"         : 38,
-        "openIssues"    : 3,
+        "forks"         : 37,
+        "openIssues"    : 2,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 79181,
           "Shell" : 6288,
           "CSS" : 4428,
           "Batchfile" : 552,
-          "JavaScript" : 479078,
+          "JavaScript" : 474880,
           "HTML" : 14408,
           "Objective_C" : 6218
         }
