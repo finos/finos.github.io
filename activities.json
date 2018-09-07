@@ -2634,8 +2634,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "ContainerJS",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2017-04-24",
+      "archiveDate"          : "2018-09-06",
       "tags"                 : [
         "desktop technology"
       ],
@@ -3560,7 +3561,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
           "heat"          : 94,
           "watchers"      : 3,
-          "size"          : 358,
+          "size"          : 361,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 12,
@@ -3573,7 +3574,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 94,
         "watchers"      : 3,
-        "size"          : 358,
+        "size"          : 361,
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 12,
@@ -3918,7 +3919,7 @@
           "collaborators" : 10,
           "stars"         : 26,
           "forks"         : 33,
-          "openIssues"    : 2,
+          "openIssues"    : 8,
           "languages"     : {
             "Shell" : 6288,
             "CSS" : 4428,
@@ -3967,7 +3968,7 @@
         "collaborators" : 18,
         "stars"         : 30,
         "forks"         : 37,
-        "openIssues"    : 2,
+        "openIssues"    : 8,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 79181,
