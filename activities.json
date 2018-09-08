@@ -70,12 +70,12 @@
           "name"          : "API",
           "description"   : "API Working Group repository",
           "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 205,
+          "heat"          : 210,
           "watchers"      : 4,
           "size"          : 226,
           "collaborators" : 43,
           "stars"         : 4,
-          "forks"         : 5,
+          "forks"         : 6,
           "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 3009
@@ -83,12 +83,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 205,
+        "heat"          : 210,
         "watchers"      : 4,
         "size"          : 226,
         "collaborators" : 43,
         "stars"         : 4,
-        "forks"         : 5,
+        "forks"         : 6,
         "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 3009
@@ -638,15 +638,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 498,
           "watchers"      : 72,
-          "size"          : 2008,
+          "size"          : 2029,
           "collaborators" : 36,
           "stars"         : 72,
           "forks"         : 42,
-          "openIssues"    : 14,
+          "openIssues"    : 12,
           "languages"     : {
-            "TypeScript" : 361188,
+            "TypeScript" : 360942,
             "HTML" : 11245,
-            "JavaScript" : 340051
+            "JavaScript" : 340773
           }
         },
         {
@@ -655,13 +655,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 256,
           "watchers"      : 9,
-          "size"          : 1541,
+          "size"          : 1563,
           "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 18,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 319218,
+            "TypeScript" : 318958,
             "HTML" : 2364,
             "JavaScript" : 11148
           }
@@ -688,16 +688,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 905,
         "watchers"      : 82,
-        "size"          : 3706,
+        "size"          : 3749,
         "collaborators" : 109,
         "stars"         : 82,
         "forks"         : 61,
-        "openIssues"    : 17,
+        "openIssues"    : 14,
         "languages"     : {
-          "TypeScript" : 785453,
+          "TypeScript" : 784947,
           "HTML" : 15997,
           "CSS" : 48222,
-          "JavaScript" : 356613
+          "JavaScript" : 357335
         }
       }
     },
@@ -4040,28 +4040,28 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 18,
           "watchers"      : 1,
-          "size"          : 69,
+          "size"          : 63,
           "collaborators" : 4,
           "stars"         : 1,
           "forks"         : 0,
           "openIssues"    : 4,
           "languages"     : {
             "Shell" : 28,
-            "Python" : 31698
+            "Python" : 47375
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 18,
         "watchers"      : 1,
-        "size"          : 69,
+        "size"          : 63,
         "collaborators" : 4,
         "stars"         : 1,
         "forks"         : 0,
         "openIssues"    : 4,
         "languages"     : {
           "Shell" : 28,
-          "Python" : 31698
+          "Python" : 47375
         }
       }
     },
