@@ -70,12 +70,12 @@
           "name"          : "API",
           "description"   : "API Working Group repository",
           "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 210,
+          "heat"          : 215,
           "watchers"      : 4,
           "size"          : 226,
           "collaborators" : 43,
           "stars"         : 4,
-          "forks"         : 6,
+          "forks"         : 7,
           "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 3009
@@ -83,12 +83,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 210,
+        "heat"          : 215,
         "watchers"      : 4,
         "size"          : 226,
         "collaborators" : 43,
         "stars"         : 4,
-        "forks"         : 6,
+        "forks"         : 7,
         "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 3009
@@ -638,13 +638,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 498,
           "watchers"      : 72,
-          "size"          : 2029,
+          "size"          : 2031,
           "collaborators" : 36,
           "stars"         : 72,
           "forks"         : 42,
           "openIssues"    : 12,
           "languages"     : {
-            "TypeScript" : 360942,
+            "TypeScript" : 360795,
             "HTML" : 11245,
             "JavaScript" : 340773
           }
@@ -655,13 +655,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 256,
           "watchers"      : 9,
-          "size"          : 1563,
+          "size"          : 1572,
           "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 18,
           "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 318958,
+            "TypeScript" : 324747,
             "HTML" : 2364,
             "JavaScript" : 11148
           }
@@ -688,13 +688,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 905,
         "watchers"      : 82,
-        "size"          : 3749,
+        "size"          : 3760,
         "collaborators" : 109,
         "stars"         : 82,
         "forks"         : 61,
         "openIssues"    : 14,
         "languages"     : {
-          "TypeScript" : 784947,
+          "TypeScript" : 790589,
           "HTML" : 15997,
           "CSS" : 48222,
           "JavaScript" : 357335
@@ -766,7 +766,7 @@
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 364658,
             "CSS" : 16466,
@@ -800,7 +800,7 @@
         "collaborators" : 72,
         "stars"         : 8,
         "forks"         : 15,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 380862,
           "CSS" : 21055,
@@ -3565,7 +3565,7 @@
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 12,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "Java" : 597898
           }
@@ -3578,7 +3578,7 @@
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 12,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "Java" : 597898
         }
@@ -3915,16 +3915,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 259,
           "watchers"      : 27,
-          "size"          : 30776,
+          "size"          : 30805,
           "collaborators" : 10,
           "stars"         : 27,
           "forks"         : 33,
-          "openIssues"    : 8,
+          "openIssues"    : 4,
           "languages"     : {
             "Shell" : 6288,
             "CSS" : 4428,
             "Batchfile" : 552,
-            "JavaScript" : 474495,
+            "JavaScript" : 467598,
             "HTML" : 14408,
             "Objective_C" : 6218
           }
@@ -3964,18 +3964,18 @@
       "cumulativeGitHubStats" : {
         "heat"          : 319,
         "watchers"      : 31,
-        "size"          : 30855,
+        "size"          : 30884,
         "collaborators" : 18,
         "stars"         : 31,
         "forks"         : 37,
-        "openIssues"    : 8,
+        "openIssues"    : 4,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 79181,
           "Shell" : 6288,
           "CSS" : 4428,
           "Batchfile" : 552,
-          "JavaScript" : 474880,
+          "JavaScript" : 467983,
           "HTML" : 14408,
           "Objective_C" : 6218
         }
