@@ -76,7 +76,7 @@
           "collaborators" : 43,
           "stars"         : 4,
           "forks"         : 7,
-          "openIssues"    : 3,
+          "openIssues"    : 12,
           "languages"     : {
             "TypeScript" : 3009
           }
@@ -89,7 +89,7 @@
         "collaborators" : 43,
         "stars"         : 4,
         "forks"         : 7,
-        "openIssues"    : 3,
+        "openIssues"    : 12,
         "languages"     : {
           "TypeScript" : 3009
         }
@@ -642,9 +642,9 @@
           "collaborators" : 36,
           "stars"         : 72,
           "forks"         : 42,
-          "openIssues"    : 12,
+          "openIssues"    : 11,
           "languages"     : {
-            "TypeScript" : 360795,
+            "TypeScript" : 361257,
             "HTML" : 11245,
             "JavaScript" : 340773
           }
@@ -692,9 +692,9 @@
         "collaborators" : 109,
         "stars"         : 82,
         "forks"         : 61,
-        "openIssues"    : 14,
+        "openIssues"    : 13,
         "languages"     : {
-          "TypeScript" : 790589,
+          "TypeScript" : 791051,
           "HTML" : 15997,
           "CSS" : 48222,
           "JavaScript" : 357335
@@ -766,7 +766,7 @@
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 364658,
             "CSS" : 16466,
@@ -800,7 +800,7 @@
         "collaborators" : 72,
         "stars"         : 8,
         "forks"         : 15,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 380862,
           "CSS" : 21055,
@@ -2024,11 +2024,11 @@
           "name"          : "bot-unfurl",
           "description"   : "A small Symphony bot that attempts to unfurl URLs posted to any chat or room the bot is invited to.",
           "gitHubURL"     : "https://github.com/symphonyoss/bot-unfurl",
-          "heat"          : 33,
-          "watchers"      : 3,
+          "heat"          : 35,
+          "watchers"      : 4,
           "size"          : 705,
           "collaborators" : 3,
-          "stars"         : 3,
+          "stars"         : 4,
           "forks"         : 3,
           "openIssues"    : 3,
           "languages"     : {
@@ -2038,11 +2038,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 33,
-        "watchers"      : 3,
+        "heat"          : 35,
+        "watchers"      : 4,
         "size"          : 705,
         "collaborators" : 3,
-        "stars"         : 3,
+        "stars"         : 4,
         "forks"         : 3,
         "openIssues"    : 3,
         "languages"     : {
@@ -2582,11 +2582,11 @@
           "name"          : "python-symphony",
           "description"   : "An importable class that provides methods and objects for interacting with the Symphony Agent API from python",
           "gitHubURL"     : "https://github.com/symphonyoss/python-symphony",
-          "heat"          : 68,
-          "watchers"      : 11,
+          "heat"          : 70,
+          "watchers"      : 12,
           "size"          : 181,
           "collaborators" : 4,
-          "stars"         : 11,
+          "stars"         : 12,
           "forks"         : 6,
           "openIssues"    : 6,
           "languages"     : {
@@ -2614,11 +2614,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 94,
-        "watchers"      : 11,
+        "heat"          : 96,
+        "watchers"      : 12,
         "size"          : 226,
         "collaborators" : 8,
-        "stars"         : 11,
+        "stars"         : 12,
         "forks"         : 8,
         "openIssues"    : 6,
         "languages"     : {
@@ -2868,13 +2868,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 1145,
+          "size"          : 1183,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 543490,
+            "Java" : 544667,
             "CSS" : 29377,
             "Shell" : 26545,
             "HTML" : 16297
@@ -2911,13 +2911,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 66,
         "watchers"      : 0,
-        "size"          : 1203,
+        "size"          : 1241,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 566316,
+          "Java" : 567493,
           "CSS" : 29377,
           "Shell" : 26545,
           "HTML" : 16297
