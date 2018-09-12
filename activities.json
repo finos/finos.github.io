@@ -72,11 +72,11 @@
           "gitHubURL"     : "https://github.com/FDC3/api",
           "heat"          : 215,
           "watchers"      : 4,
-          "size"          : 226,
+          "size"          : 227,
           "collaborators" : 43,
           "stars"         : 4,
           "forks"         : 7,
-          "openIssues"    : 12,
+          "openIssues"    : 11,
           "languages"     : {
             "TypeScript" : 3009
           }
@@ -85,11 +85,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 215,
         "watchers"      : 4,
-        "size"          : 226,
+        "size"          : 227,
         "collaborators" : 43,
         "stars"         : 4,
         "forks"         : 7,
-        "openIssues"    : 12,
+        "openIssues"    : 11,
         "languages"     : {
           "TypeScript" : 3009
         }
@@ -143,23 +143,23 @@
           "name"          : "appd-api",
           "description"   : "Application Directory API - THIS IS NOT A RATIFIED FDC3 API or SPECIFICATION, but rather work in-progress",
           "gitHubURL"     : "https://github.com/FDC3/appd-api",
-          "heat"          : 182,
+          "heat"          : 187,
           "watchers"      : 0,
           "size"          : 21,
           "collaborators" : 43,
           "stars"         : 0,
-          "forks"         : 2,
-          "openIssues"    : 0
+          "forks"         : 3,
+          "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 552,
+        "heat"          : 557,
         "watchers"      : 3,
         "size"          : 88,
         "collaborators" : 129,
         "stars"         : 3,
-        "forks"         : 6,
-        "openIssues"    : 0,
+        "forks"         : 7,
+        "openIssues"    : 1,
         "languages"     : {
           "Java" : 45772,
           "Dockerfile" : 763,
@@ -638,15 +638,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 498,
           "watchers"      : 72,
-          "size"          : 2031,
+          "size"          : 2033,
           "collaborators" : 36,
           "stars"         : 72,
           "forks"         : 42,
           "openIssues"    : 11,
           "languages"     : {
-            "TypeScript" : 361257,
+            "TypeScript" : 362318,
             "HTML" : 11245,
-            "JavaScript" : 340773
+            "JavaScript" : 340811
           }
         },
         {
@@ -688,16 +688,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 905,
         "watchers"      : 82,
-        "size"          : 3760,
+        "size"          : 3762,
         "collaborators" : 109,
         "stars"         : 82,
         "forks"         : 61,
         "openIssues"    : 13,
         "languages"     : {
-          "TypeScript" : 791051,
+          "TypeScript" : 792112,
           "HTML" : 15997,
           "CSS" : 48222,
-          "JavaScript" : 357335
+          "JavaScript" : 357373
         }
       }
     },
@@ -720,7 +720,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
           "heat"          : 269,
           "watchers"      : 22,
-          "size"          : 14270,
+          "size"          : 14281,
           "collaborators" : 40,
           "stars"         : 22,
           "forks"         : 13,
@@ -728,14 +728,14 @@
           "languages"     : {
             "HTML" : 34543,
             "CSS" : 5438,
-            "JavaScript" : 55103
+            "JavaScript" : 45973
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 269,
         "watchers"      : 22,
-        "size"          : 14270,
+        "size"          : 14281,
         "collaborators" : 40,
         "stars"         : 22,
         "forks"         : 13,
@@ -743,7 +743,7 @@
         "languages"     : {
           "HTML" : 34543,
           "CSS" : 5438,
-          "JavaScript" : 55103
+          "JavaScript" : 45973
         }
       }
     },
@@ -762,13 +762,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 225,
           "watchers"      : 8,
-          "size"          : 1278,
+          "size"          : 1302,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 364658,
+            "TypeScript" : 367478,
             "CSS" : 16466,
             "HTML" : 12960,
             "JavaScript" : 6555
@@ -796,13 +796,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 379,
         "watchers"      : 8,
-        "size"          : 1342,
+        "size"          : 1366,
         "collaborators" : 72,
         "stars"         : 8,
         "forks"         : 15,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 380862,
+          "TypeScript" : 383682,
           "CSS" : 21055,
           "HTML" : 14253,
           "JavaScript" : 8081
@@ -2868,15 +2868,15 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 1183,
+          "size"          : 1193,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 544667,
+            "Java" : 544790,
             "CSS" : 29377,
-            "Shell" : 26545,
+            "Shell" : 26563,
             "HTML" : 16297
           }
         },
@@ -2911,15 +2911,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 66,
         "watchers"      : 0,
-        "size"          : 1241,
+        "size"          : 1251,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 567493,
+          "Java" : 567616,
           "CSS" : 29377,
-          "Shell" : 26545,
+          "Shell" : 26563,
           "HTML" : 16297
         }
       }
@@ -3040,13 +3040,13 @@
           "name"          : "App-Integrations-Commons",
           "description"   : "Common components for Symphony App Integrations.",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Commons",
-          "heat"          : 92,
-          "watchers"      : 2,
+          "heat"          : 99,
+          "watchers"      : 3,
           "size"          : 20185,
           "collaborators" : 12,
-          "stars"         : 2,
-          "forks"         : 8,
-          "openIssues"    : 2,
+          "stars"         : 3,
+          "forks"         : 9,
+          "openIssues"    : 3,
           "languages"     : {
             "Java" : 729718
           }
@@ -3072,11 +3072,11 @@
           "name"          : "App-Integrations-FE-Commons",
           "description"   : "Common components for Front-End development of Symphony Integrations.",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-FE-Commons",
-          "heat"          : 54,
-          "watchers"      : 0,
+          "heat"          : 56,
+          "watchers"      : 1,
           "size"          : 22595,
           "collaborators" : 11,
-          "stars"         : 0,
+          "stars"         : 1,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
@@ -3101,13 +3101,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 266,
-        "watchers"      : 6,
+        "heat"          : 275,
+        "watchers"      : 8,
         "size"          : 55532,
         "collaborators" : 41,
-        "stars"         : 6,
-        "forks"         : 18,
-        "openIssues"    : 3,
+        "stars"         : 8,
+        "forks"         : 19,
+        "openIssues"    : 4,
         "languages"     : {
           "Java" : 1867948,
           "Shell" : 1870,
@@ -3915,7 +3915,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 259,
           "watchers"      : 27,
-          "size"          : 30805,
+          "size"          : 30820,
           "collaborators" : 10,
           "stars"         : 27,
           "forks"         : 33,
@@ -3924,7 +3924,7 @@
             "Shell" : 6288,
             "CSS" : 4428,
             "Batchfile" : 552,
-            "JavaScript" : 467598,
+            "JavaScript" : 463571,
             "HTML" : 14408,
             "Objective_C" : 6218
           }
@@ -3964,7 +3964,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 319,
         "watchers"      : 31,
-        "size"          : 30884,
+        "size"          : 30899,
         "collaborators" : 18,
         "stars"         : 31,
         "forks"         : 37,
@@ -3975,7 +3975,7 @@
           "Shell" : 6288,
           "CSS" : 4428,
           "Batchfile" : 552,
-          "JavaScript" : 467983,
+          "JavaScript" : 463956,
           "HTML" : 14408,
           "Objective_C" : 6218
         }
@@ -4040,28 +4040,28 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 18,
           "watchers"      : 1,
-          "size"          : 63,
+          "size"          : 68,
           "collaborators" : 4,
           "stars"         : 1,
           "forks"         : 0,
           "openIssues"    : 4,
           "languages"     : {
             "Shell" : 28,
-            "Python" : 47375
+            "Python" : 51181
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 18,
         "watchers"      : 1,
-        "size"          : 63,
+        "size"          : 68,
         "collaborators" : 4,
         "stars"         : 1,
         "forks"         : 0,
         "openIssues"    : 4,
         "languages"     : {
           "Shell" : 28,
-          "Python" : 47375
+          "Python" : 51181
         }
       }
     },
