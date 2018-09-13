@@ -76,7 +76,7 @@
           "collaborators" : 43,
           "stars"         : 4,
           "forks"         : 7,
-          "openIssues"    : 11,
+          "openIssues"    : 13,
           "languages"     : {
             "TypeScript" : 3009
           }
@@ -89,7 +89,7 @@
         "collaborators" : 43,
         "stars"         : 4,
         "forks"         : 7,
-        "openIssues"    : 11,
+        "openIssues"    : 13,
         "languages"     : {
           "TypeScript" : 3009
         }
@@ -638,7 +638,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 498,
           "watchers"      : 72,
-          "size"          : 2033,
+          "size"          : 2049,
           "collaborators" : 36,
           "stars"         : 72,
           "forks"         : 42,
@@ -688,7 +688,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 905,
         "watchers"      : 82,
-        "size"          : 3762,
+        "size"          : 3778,
         "collaborators" : 109,
         "stars"         : 82,
         "forks"         : 61,
@@ -720,30 +720,30 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
           "heat"          : 269,
           "watchers"      : 22,
-          "size"          : 14281,
+          "size"          : 14269,
           "collaborators" : 40,
           "stars"         : 22,
           "forks"         : 13,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "HTML" : 34543,
             "CSS" : 5438,
-            "JavaScript" : 45973
+            "JavaScript" : 46022
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 269,
         "watchers"      : 22,
-        "size"          : 14281,
+        "size"          : 14269,
         "collaborators" : 40,
         "stars"         : 22,
         "forks"         : 13,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "HTML" : 34543,
           "CSS" : 5438,
-          "JavaScript" : 45973
+          "JavaScript" : 46022
         }
       }
     },
@@ -3518,26 +3518,26 @@
           "name"          : "JCurl",
           "description"   : "JSON-aware curl (1) in Java",
           "gitHubURL"     : "https://github.com/symphonyoss/JCurl",
-          "heat"          : 106,
+          "heat"          : 111,
           "watchers"      : 10,
           "size"          : 66,
           "collaborators" : 4,
           "stars"         : 10,
-          "forks"         : 14,
-          "openIssues"    : 7,
+          "forks"         : 15,
+          "openIssues"    : 8,
           "languages"     : {
             "Java" : 60780
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 106,
+        "heat"          : 111,
         "watchers"      : 10,
         "size"          : 66,
         "collaborators" : 4,
         "stars"         : 10,
-        "forks"         : 14,
-        "openIssues"    : 7,
+        "forks"         : 15,
+        "openIssues"    : 8,
         "languages"     : {
           "Java" : 60780
         }
@@ -4040,7 +4040,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 18,
           "watchers"      : 1,
-          "size"          : 68,
+          "size"          : 67,
           "collaborators" : 4,
           "stars"         : 1,
           "forks"         : 0,
@@ -4054,7 +4054,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 18,
         "watchers"      : 1,
-        "size"          : 68,
+        "size"          : 67,
         "collaborators" : 4,
         "stars"         : 1,
         "forks"         : 0,
