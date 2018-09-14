@@ -143,23 +143,23 @@
           "name"          : "appd-api",
           "description"   : "Application Directory API - THIS IS NOT A RATIFIED FDC3 API or SPECIFICATION, but rather work in-progress",
           "gitHubURL"     : "https://github.com/FDC3/appd-api",
-          "heat"          : 187,
+          "heat"          : 192,
           "watchers"      : 0,
-          "size"          : 21,
+          "size"          : 22,
           "collaborators" : 43,
           "stars"         : 0,
-          "forks"         : 3,
-          "openIssues"    : 1
+          "forks"         : 4,
+          "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 557,
+        "heat"          : 562,
         "watchers"      : 3,
-        "size"          : 88,
+        "size"          : 89,
         "collaborators" : 129,
         "stars"         : 3,
-        "forks"         : 7,
-        "openIssues"    : 1,
+        "forks"         : 8,
+        "openIssues"    : 0,
         "languages"     : {
           "Java" : 45772,
           "Dockerfile" : 763,
@@ -638,15 +638,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 498,
           "watchers"      : 72,
-          "size"          : 2049,
+          "size"          : 2043,
           "collaborators" : 36,
           "stars"         : 72,
           "forks"         : 42,
           "openIssues"    : 11,
           "languages"     : {
-            "TypeScript" : 362318,
+            "TypeScript" : 374509,
             "HTML" : 11245,
-            "JavaScript" : 340811
+            "JavaScript" : 342461
           }
         },
         {
@@ -659,7 +659,7 @@
           "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 18,
-          "openIssues"    : 2,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 324747,
             "HTML" : 2364,
@@ -688,16 +688,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 905,
         "watchers"      : 82,
-        "size"          : 3778,
+        "size"          : 3772,
         "collaborators" : 109,
         "stars"         : 82,
         "forks"         : 61,
-        "openIssues"    : 13,
+        "openIssues"    : 18,
         "languages"     : {
-          "TypeScript" : 792112,
+          "TypeScript" : 804303,
           "HTML" : 15997,
           "CSS" : 48222,
-          "JavaScript" : 357373
+          "JavaScript" : 359023
         }
       }
     },
@@ -720,30 +720,30 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
           "heat"          : 269,
           "watchers"      : 22,
-          "size"          : 14269,
+          "size"          : 14295,
           "collaborators" : 40,
           "stars"         : 22,
           "forks"         : 13,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
-            "HTML" : 34543,
+            "HTML" : 35004,
             "CSS" : 5438,
-            "JavaScript" : 46022
+            "JavaScript" : 46243
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 269,
         "watchers"      : 22,
-        "size"          : 14269,
+        "size"          : 14295,
         "collaborators" : 40,
         "stars"         : 22,
         "forks"         : 13,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
-          "HTML" : 34543,
+          "HTML" : 35004,
           "CSS" : 5438,
-          "JavaScript" : 46022
+          "JavaScript" : 46243
         }
       }
     },
@@ -766,7 +766,7 @@
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 367478,
             "CSS" : 16466,
@@ -800,7 +800,7 @@
         "collaborators" : 72,
         "stars"         : 8,
         "forks"         : 15,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 383682,
           "CSS" : 21055,
