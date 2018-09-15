@@ -339,7 +339,7 @@
           "gitHubURL"     : "https://github.com/finos-fdx/bot-github-chatops",
           "heat"          : 33,
           "watchers"      : 4,
-          "size"          : 359,
+          "size"          : 362,
           "collaborators" : 5,
           "stars"         : 4,
           "forks"         : 1,
@@ -354,7 +354,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 33,
         "watchers"      : 4,
-        "size"          : 359,
+        "size"          : 362,
         "collaborators" : 5,
         "stars"         : 4,
         "forks"         : 1,
@@ -642,7 +642,7 @@
           "collaborators" : 36,
           "stars"         : 72,
           "forks"         : 42,
-          "openIssues"    : 11,
+          "openIssues"    : 13,
           "languages"     : {
             "TypeScript" : 374509,
             "HTML" : 11245,
@@ -692,7 +692,7 @@
         "collaborators" : 109,
         "stars"         : 82,
         "forks"         : 61,
-        "openIssues"    : 18,
+        "openIssues"    : 20,
         "languages"     : {
           "TypeScript" : 804303,
           "HTML" : 15997,
@@ -2026,7 +2026,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/bot-unfurl",
           "heat"          : 35,
           "watchers"      : 4,
-          "size"          : 705,
+          "size"          : 708,
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 3,
@@ -2040,7 +2040,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 35,
         "watchers"      : 4,
-        "size"          : 705,
+        "size"          : 708,
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 3,
@@ -2868,13 +2868,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 1193,
+          "size"          : 1218,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 544790,
+            "Java" : 546815,
             "CSS" : 29377,
             "Shell" : 26563,
             "HTML" : 16297
@@ -2911,13 +2911,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 66,
         "watchers"      : 0,
-        "size"          : 1251,
+        "size"          : 1276,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 567616,
+          "Java" : 569641,
           "CSS" : 29377,
           "Shell" : 26563,
           "HTML" : 16297
@@ -3561,26 +3561,26 @@
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
           "heat"          : 94,
           "watchers"      : 3,
-          "size"          : 361,
+          "size"          : 359,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 12,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
-            "Java" : 597898
+            "Java" : 600264
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 94,
         "watchers"      : 3,
-        "size"          : 361,
+        "size"          : 359,
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 12,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
-          "Java" : 597898
+          "Java" : 600264
         }
       }
     },
@@ -4040,11 +4040,11 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 18,
           "watchers"      : 1,
-          "size"          : 67,
+          "size"          : 71,
           "collaborators" : 4,
           "stars"         : 1,
           "forks"         : 0,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "Shell" : 28,
             "Python" : 51181
@@ -4054,11 +4054,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 18,
         "watchers"      : 1,
-        "size"          : 67,
+        "size"          : 71,
         "collaborators" : 4,
         "stars"         : 1,
         "forks"         : 0,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "Shell" : 28,
           "Python" : 51181
