@@ -642,7 +642,7 @@
           "collaborators" : 36,
           "stars"         : 72,
           "forks"         : 42,
-          "openIssues"    : 13,
+          "openIssues"    : 14,
           "languages"     : {
             "TypeScript" : 374509,
             "HTML" : 11245,
@@ -655,13 +655,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 256,
           "watchers"      : 9,
-          "size"          : 1572,
+          "size"          : 1594,
           "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 18,
-          "openIssues"    : 7,
+          "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 324747,
+            "TypeScript" : 324540,
             "HTML" : 2364,
             "JavaScript" : 11148
           }
@@ -688,13 +688,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 905,
         "watchers"      : 82,
-        "size"          : 3772,
+        "size"          : 3794,
         "collaborators" : 109,
         "stars"         : 82,
         "forks"         : 61,
-        "openIssues"    : 20,
+        "openIssues"    : 19,
         "languages"     : {
-          "TypeScript" : 804303,
+          "TypeScript" : 804096,
           "HTML" : 15997,
           "CSS" : 48222,
           "JavaScript" : 359023
@@ -762,16 +762,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 225,
           "watchers"      : 8,
-          "size"          : 1302,
+          "size"          : 1346,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 2,
+          "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 367478,
+            "TypeScript" : 367991,
             "CSS" : 16466,
             "HTML" : 12960,
-            "JavaScript" : 6555
+            "JavaScript" : 6573
           }
         },
         {
@@ -796,16 +796,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 379,
         "watchers"      : 8,
-        "size"          : 1366,
+        "size"          : 1410,
         "collaborators" : 72,
         "stars"         : 8,
         "forks"         : 15,
-        "openIssues"    : 2,
+        "openIssues"    : 5,
         "languages"     : {
-          "TypeScript" : 383682,
+          "TypeScript" : 384195,
           "CSS" : 21055,
           "HTML" : 14253,
-          "JavaScript" : 8081
+          "JavaScript" : 8099
         }
       }
     },
@@ -981,7 +981,7 @@
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 1,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 21592
           }
@@ -994,7 +994,7 @@
         "collaborators" : 14,
         "stars"         : 239,
         "forks"         : 45,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 1084782,
           "C#" : 1557370,
@@ -2868,13 +2868,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 1218,
+          "size"          : 1237,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 546815,
+            "Java" : 547427,
             "CSS" : 29377,
             "Shell" : 26563,
             "HTML" : 16297
@@ -2911,13 +2911,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 66,
         "watchers"      : 0,
-        "size"          : 1276,
+        "size"          : 1295,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 569641,
+          "Java" : 570253,
           "CSS" : 29377,
           "Shell" : 26563,
           "HTML" : 16297
@@ -3518,28 +3518,30 @@
           "name"          : "JCurl",
           "description"   : "JSON-aware curl (1) in Java",
           "gitHubURL"     : "https://github.com/symphonyoss/JCurl",
-          "heat"          : 111,
-          "watchers"      : 10,
-          "size"          : 66,
+          "heat"          : 113,
+          "watchers"      : 11,
+          "size"          : 62,
           "collaborators" : 4,
-          "stars"         : 10,
+          "stars"         : 11,
           "forks"         : 15,
           "openIssues"    : 9,
           "languages"     : {
-            "Java" : 60780
+            "Java" : 60780,
+            "Ruby" : 467
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 111,
-        "watchers"      : 10,
-        "size"          : 66,
+        "heat"          : 113,
+        "watchers"      : 11,
+        "size"          : 62,
         "collaborators" : 4,
-        "stars"         : 10,
+        "stars"         : 11,
         "forks"         : 15,
         "openIssues"    : 9,
         "languages"     : {
-          "Java" : 60780
+          "Java" : 60780,
+          "Ruby" : 467
         }
       }
     },
@@ -3913,20 +3915,20 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 259,
+          "heat"          : 249,
           "watchers"      : 27,
-          "size"          : 30820,
+          "size"          : 30835,
           "collaborators" : 10,
           "stars"         : 27,
-          "forks"         : 33,
-          "openIssues"    : 4,
+          "forks"         : 31,
+          "openIssues"    : 2,
           "languages"     : {
             "Shell" : 6288,
             "CSS" : 4428,
             "Batchfile" : 552,
-            "JavaScript" : 463571,
+            "JavaScript" : 463876,
             "HTML" : 14408,
-            "Objective_C" : 6218
+            "Objective_C" : 6723
           }
         },
         {
@@ -3962,22 +3964,22 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 319,
+        "heat"          : 309,
         "watchers"      : 31,
-        "size"          : 30899,
+        "size"          : 30914,
         "collaborators" : 18,
         "stars"         : 31,
-        "forks"         : 37,
-        "openIssues"    : 4,
+        "forks"         : 35,
+        "openIssues"    : 2,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 79181,
           "Shell" : 6288,
           "CSS" : 4428,
           "Batchfile" : 552,
-          "JavaScript" : 463956,
+          "JavaScript" : 464261,
           "HTML" : 14408,
-          "Objective_C" : 6218
+          "Objective_C" : 6723
         }
       }
     },
@@ -4040,28 +4042,26 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 18,
           "watchers"      : 1,
-          "size"          : 71,
+          "size"          : 77,
           "collaborators" : 4,
           "stars"         : 1,
           "forks"         : 0,
-          "openIssues"    : 5,
+          "openIssues"    : 3,
           "languages"     : {
-            "Shell" : 28,
-            "Python" : 51181
+            "Python" : 54770
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 18,
         "watchers"      : 1,
-        "size"          : 71,
+        "size"          : 77,
         "collaborators" : 4,
         "stars"         : 1,
         "forks"         : 0,
-        "openIssues"    : 5,
+        "openIssues"    : 3,
         "languages"     : {
-          "Shell" : 28,
-          "Python" : 51181
+          "Python" : 54770
         }
       }
     },
