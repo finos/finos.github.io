@@ -339,11 +339,11 @@
           "gitHubURL"     : "https://github.com/finos-fdx/bot-github-chatops",
           "heat"          : 33,
           "watchers"      : 4,
-          "size"          : 362,
+          "size"          : 365,
           "collaborators" : 5,
           "stars"         : 4,
           "forks"         : 1,
-          "openIssues"    : 12,
+          "openIssues"    : 11,
           "languages"     : {
             "Shell" : 1298,
             "FreeMarker" : 7553,
@@ -354,11 +354,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 33,
         "watchers"      : 4,
-        "size"          : 362,
+        "size"          : 365,
         "collaborators" : 5,
         "stars"         : 4,
         "forks"         : 1,
-        "openIssues"    : 12,
+        "openIssues"    : 11,
         "languages"     : {
           "Shell" : 1298,
           "FreeMarker" : 7553,
@@ -638,7 +638,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 498,
           "watchers"      : 72,
-          "size"          : 2043,
+          "size"          : 2044,
           "collaborators" : 36,
           "stars"         : 72,
           "forks"         : 42,
@@ -688,7 +688,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 905,
         "watchers"      : 82,
-        "size"          : 3794,
+        "size"          : 3795,
         "collaborators" : 109,
         "stars"         : 82,
         "forks"         : 61,
@@ -720,7 +720,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
           "heat"          : 269,
           "watchers"      : 22,
-          "size"          : 14295,
+          "size"          : 14291,
           "collaborators" : 40,
           "stars"         : 22,
           "forks"         : 13,
@@ -728,14 +728,14 @@
           "languages"     : {
             "HTML" : 35004,
             "CSS" : 5438,
-            "JavaScript" : 46243
+            "JavaScript" : 46520
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 269,
         "watchers"      : 22,
-        "size"          : 14295,
+        "size"          : 14291,
         "collaborators" : 40,
         "stars"         : 22,
         "forks"         : 13,
@@ -743,7 +743,7 @@
         "languages"     : {
           "HTML" : 35004,
           "CSS" : 5438,
-          "JavaScript" : 46243
+          "JavaScript" : 46520
         }
       }
     },
@@ -762,16 +762,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 225,
           "watchers"      : 8,
-          "size"          : 1346,
+          "size"          : 1347,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 5,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 367991,
+            "TypeScript" : 367941,
             "CSS" : 16466,
             "HTML" : 12960,
-            "JavaScript" : 6573
+            "JavaScript" : 7739
           }
         },
         {
@@ -796,16 +796,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 379,
         "watchers"      : 8,
-        "size"          : 1410,
+        "size"          : 1411,
         "collaborators" : 72,
         "stars"         : 8,
         "forks"         : 15,
-        "openIssues"    : 5,
+        "openIssues"    : 4,
         "languages"     : {
-          "TypeScript" : 384195,
+          "TypeScript" : 384145,
           "CSS" : 21055,
           "HTML" : 14253,
-          "JavaScript" : 8099
+          "JavaScript" : 9265
         }
       }
     },
@@ -954,19 +954,19 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 728,
           "watchers"      : 238,
-          "size"          : 6079,
+          "size"          : 6086,
           "collaborators" : 8,
           "stars"         : 238,
           "forks"         : 44,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 1063190,
-            "C#" : 1557370,
+            "TypeScript" : 1066177,
+            "C#" : 1558256,
             "Xtend" : 218490,
             "Java" : 74698,
             "Shell" : 550,
             "CSS" : 555,
-            "Batchfile" : 7942,
+            "Batchfile" : 11083,
             "JavaScript" : 1025341,
             "HTML" : 13671
           }
@@ -990,19 +990,19 @@
       "cumulativeGitHubStats" : {
         "heat"          : 759,
         "watchers"      : 239,
-        "size"          : 6090,
+        "size"          : 6097,
         "collaborators" : 14,
         "stars"         : 239,
         "forks"         : 45,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 1084782,
-          "C#" : 1557370,
+          "TypeScript" : 1087769,
+          "C#" : 1558256,
           "Xtend" : 218490,
           "Java" : 74698,
           "Shell" : 550,
           "CSS" : 555,
-          "Batchfile" : 7942,
+          "Batchfile" : 11083,
           "JavaScript" : 1025341,
           "HTML" : 13671
         }
@@ -2026,11 +2026,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/bot-unfurl",
           "heat"          : 35,
           "watchers"      : 4,
-          "size"          : 708,
+          "size"          : 711,
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 3,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
             "Shell" : 993,
             "Clojure" : 39986
@@ -2040,11 +2040,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 35,
         "watchers"      : 4,
-        "size"          : 708,
+        "size"          : 711,
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 3,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
           "Shell" : 993,
           "Clojure" : 39986
@@ -2472,7 +2472,7 @@
           "collaborators" : 7,
           "stars"         : 30,
           "forks"         : 27,
-          "openIssues"    : 10,
+          "openIssues"    : 11,
           "languages"     : {
             "Java" : 695383,
             "Shell" : 1987
@@ -2517,7 +2517,7 @@
         "collaborators" : 16,
         "stars"         : 52,
         "forks"         : 44,
-        "openIssues"    : 14,
+        "openIssues"    : 15,
         "languages"     : {
           "Java" : 718953,
           "Shell" : 4382
