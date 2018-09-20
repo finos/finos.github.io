@@ -72,26 +72,26 @@
           "gitHubURL"     : "https://github.com/FDC3/api",
           "heat"          : 215,
           "watchers"      : 4,
-          "size"          : 227,
+          "size"          : 230,
           "collaborators" : 43,
           "stars"         : 4,
           "forks"         : 7,
-          "openIssues"    : 13,
+          "openIssues"    : 11,
           "languages"     : {
-            "TypeScript" : 3009
+            "TypeScript" : 2601
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 215,
         "watchers"      : 4,
-        "size"          : 227,
+        "size"          : 230,
         "collaborators" : 43,
         "stars"         : 4,
         "forks"         : 7,
-        "openIssues"    : 13,
+        "openIssues"    : 11,
         "languages"     : {
-          "TypeScript" : 3009
+          "TypeScript" : 2601
         }
       },
       "mailingLists"       : [
@@ -642,11 +642,11 @@
           "collaborators" : 36,
           "stars"         : 72,
           "forks"         : 42,
-          "openIssues"    : 17,
+          "openIssues"    : 16,
           "languages"     : {
             "TypeScript" : 374509,
             "HTML" : 11245,
-            "JavaScript" : 342461
+            "JavaScript" : 342661
           }
         },
         {
@@ -692,12 +692,12 @@
         "collaborators" : 109,
         "stars"         : 82,
         "forks"         : 61,
-        "openIssues"    : 22,
+        "openIssues"    : 21,
         "languages"     : {
           "TypeScript" : 804096,
           "HTML" : 15997,
           "CSS" : 48222,
-          "JavaScript" : 359023
+          "JavaScript" : 359223
         }
       }
     },
@@ -724,7 +724,7 @@
           "collaborators" : 40,
           "stars"         : 22,
           "forks"         : 13,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
             "HTML" : 35004,
             "CSS" : 5438,
@@ -739,7 +739,7 @@
         "collaborators" : 40,
         "stars"         : 22,
         "forks"         : 13,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
           "HTML" : 35004,
           "CSS" : 5438,
@@ -762,13 +762,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 225,
           "watchers"      : 8,
-          "size"          : 1357,
+          "size"          : 1360,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 376516,
+            "TypeScript" : 377032,
             "CSS" : 16466,
             "HTML" : 12960,
             "JavaScript" : 7739
@@ -796,13 +796,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 379,
         "watchers"      : 8,
-        "size"          : 1421,
+        "size"          : 1424,
         "collaborators" : 72,
         "stars"         : 8,
         "forks"         : 15,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 392720,
+          "TypeScript" : 393236,
           "CSS" : 21055,
           "HTML" : 14253,
           "JavaScript" : 9265
@@ -2466,11 +2466,11 @@
           "name"          : "symphony-java-client",
           "description"   : "Java client library for Symphony",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-client",
-          "heat"          : 223,
-          "watchers"      : 30,
+          "heat"          : 225,
+          "watchers"      : 31,
           "size"          : 2447,
           "collaborators" : 7,
-          "stars"         : 30,
+          "stars"         : 31,
           "forks"         : 27,
           "openIssues"    : 11,
           "languages"     : {
@@ -2511,11 +2511,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 388,
-        "watchers"      : 52,
+        "heat"          : 390,
+        "watchers"      : 53,
         "size"          : 3503,
         "collaborators" : 16,
-        "stars"         : 52,
+        "stars"         : 53,
         "forks"         : 44,
         "openIssues"    : 15,
         "languages"     : {
@@ -2899,22 +2899,22 @@
           "name"          : "fugue-cicd",
           "description"   : "Jenkins pipeline library for the Fugue project",
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
-          "heat"          : 16,
+          "heat"          : 21,
           "watchers"      : 0,
           "size"          : 6,
           "collaborators" : 4,
           "stars"         : 0,
-          "forks"         : 0,
+          "forks"         : 1,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 66,
+        "heat"          : 71,
         "watchers"      : 0,
         "size"          : 1295,
         "collaborators" : 14,
         "stars"         : 0,
-        "forks"         : 2,
+        "forks"         : 3,
         "openIssues"    : 0,
         "languages"     : {
           "Java" : 570253,
@@ -3632,7 +3632,7 @@
           "collaborators" : 7,
           "stars"         : 0,
           "forks"         : 4,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "C#" : 196010,
             "PowerShell" : 3306,
@@ -3648,7 +3648,7 @@
         "collaborators" : 14,
         "stars"         : 4,
         "forks"         : 14,
-        "openIssues"    : 12,
+        "openIssues"    : 13,
         "languages"     : {
           "C#" : 4320034,
           "PowerShell" : 4773,
@@ -3822,13 +3822,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-common",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 389,
+          "size"          : 366,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 428918
+            "Java" : 429422
           }
         },
         {
@@ -3847,13 +3847,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 64,
         "watchers"      : 0,
-        "size"          : 430,
+        "size"          : 407,
         "collaborators" : 11,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 428918
+          "Java" : 429422
         }
       }
     },
