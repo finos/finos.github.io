@@ -72,26 +72,26 @@
           "gitHubURL"     : "https://github.com/FDC3/api",
           "heat"          : 215,
           "watchers"      : 4,
-          "size"          : 230,
+          "size"          : 233,
           "collaborators" : 43,
           "stars"         : 4,
           "forks"         : 7,
-          "openIssues"    : 11,
+          "openIssues"    : 10,
           "languages"     : {
-            "TypeScript" : 2601
+            "TypeScript" : 2863
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 215,
         "watchers"      : 4,
-        "size"          : 230,
+        "size"          : 233,
         "collaborators" : 43,
         "stars"         : 4,
         "forks"         : 7,
-        "openIssues"    : 11,
+        "openIssues"    : 10,
         "languages"     : {
-          "TypeScript" : 2601
+          "TypeScript" : 2863
         }
       },
       "mailingLists"       : [
@@ -638,7 +638,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 498,
           "watchers"      : 72,
-          "size"          : 2048,
+          "size"          : 2049,
           "collaborators" : 36,
           "stars"         : 72,
           "forks"         : 42,
@@ -688,7 +688,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 905,
         "watchers"      : 82,
-        "size"          : 3799,
+        "size"          : 3800,
         "collaborators" : 109,
         "stars"         : 82,
         "forks"         : 61,
@@ -2868,13 +2868,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 1237,
+          "size"          : 1256,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 547427,
+            "Java" : 547525,
             "CSS" : 29377,
             "Shell" : 26563,
             "HTML" : 16297
@@ -2911,13 +2911,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 71,
         "watchers"      : 0,
-        "size"          : 1295,
+        "size"          : 1314,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 3,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 570253,
+          "Java" : 570351,
           "CSS" : 29377,
           "Shell" : 26563,
           "HTML" : 16297
@@ -3604,13 +3604,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SFE-Minuet-DesktopClient",
           "heat"          : 86,
           "watchers"      : 4,
-          "size"          : 473020,
+          "size"          : 473042,
           "collaborators" : 7,
           "stars"         : 4,
           "forks"         : 10,
-          "openIssues"    : 10,
+          "openIssues"    : 9,
           "languages"     : {
-            "C#" : 4124024,
+            "C#" : 4127753,
             "PowerShell" : 1467,
             "Java" : 32387,
             "C++" : 1356227,
@@ -3628,35 +3628,35 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SFE-DesktopClient-pgx",
           "heat"          : 48,
           "watchers"      : 0,
-          "size"          : 2254,
+          "size"          : 2259,
           "collaborators" : 7,
           "stars"         : 0,
           "forks"         : 4,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
             "C#" : 196010,
             "PowerShell" : 3306,
             "Batchfile" : 1625,
-            "JavaScript" : 30181
+            "JavaScript" : 30660
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 134,
         "watchers"      : 4,
-        "size"          : 475274,
+        "size"          : 475301,
         "collaborators" : 14,
         "stars"         : 4,
         "forks"         : 14,
-        "openIssues"    : 13,
+        "openIssues"    : 11,
         "languages"     : {
-          "C#" : 4320034,
+          "C#" : 4323763,
           "PowerShell" : 4773,
           "Java" : 32387,
           "C++" : 1356227,
           "C" : 857186,
           "Batchfile" : 1959,
-          "JavaScript" : 35932,
+          "JavaScript" : 36411,
           "Objective_C" : 7806,
           "HTML" : 4990,
           "Python" : 120486
