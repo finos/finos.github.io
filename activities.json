@@ -553,11 +553,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
           "heat"          : 197,
           "watchers"      : 9,
-          "size"          : 151,
+          "size"          : 166,
           "collaborators" : 36,
           "stars"         : 9,
           "forks"         : 7,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
             "HTML" : 534,
             "JavaScript" : 3436
@@ -567,11 +567,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 197,
         "watchers"      : 9,
-        "size"          : 151,
+        "size"          : 166,
         "collaborators" : 36,
         "stars"         : 9,
         "forks"         : 7,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
           "HTML" : 534,
           "JavaScript" : 3436
@@ -638,15 +638,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 498,
           "watchers"      : 72,
-          "size"          : 2049,
+          "size"          : 2053,
           "collaborators" : 36,
           "stars"         : 72,
           "forks"         : 42,
-          "openIssues"    : 16,
+          "openIssues"    : 12,
           "languages"     : {
-            "TypeScript" : 374509,
+            "TypeScript" : 376665,
             "HTML" : 11245,
-            "JavaScript" : 342661
+            "JavaScript" : 342699
           }
         },
         {
@@ -688,16 +688,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 905,
         "watchers"      : 82,
-        "size"          : 3800,
+        "size"          : 3804,
         "collaborators" : 109,
         "stars"         : 82,
         "forks"         : 61,
-        "openIssues"    : 21,
+        "openIssues"    : 17,
         "languages"     : {
-          "TypeScript" : 804096,
+          "TypeScript" : 806252,
           "HTML" : 15997,
           "CSS" : 48222,
-          "JavaScript" : 359223
+          "JavaScript" : 359261
         }
       }
     },
@@ -3921,7 +3921,7 @@
           "collaborators" : 10,
           "stars"         : 27,
           "forks"         : 31,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "Shell" : 5900,
             "CSS" : 4428,
@@ -3970,7 +3970,7 @@
         "collaborators" : 18,
         "stars"         : 31,
         "forks"         : 35,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 79181,
@@ -4040,26 +4040,26 @@
           "name"          : "greenkey-discovery-sdk",
           "description"   : "Speed up business workflows through creating custom 'voice skills' and text interpreters",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
-          "heat"          : 18,
+          "heat"          : 22,
           "watchers"      : 1,
-          "size"          : 80,
-          "collaborators" : 4,
+          "size"          : 81,
+          "collaborators" : 5,
           "stars"         : 1,
           "forks"         : 0,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "Python" : 54771
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 18,
+        "heat"          : 22,
         "watchers"      : 1,
-        "size"          : 80,
-        "collaborators" : 4,
+        "size"          : 81,
+        "collaborators" : 5,
         "stars"         : 1,
         "forks"         : 0,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "Python" : 54771
         }
