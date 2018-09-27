@@ -72,26 +72,26 @@
           "gitHubURL"     : "https://github.com/FDC3/api",
           "heat"          : 215,
           "watchers"      : 4,
-          "size"          : 252,
+          "size"          : 254,
           "collaborators" : 43,
           "stars"         : 4,
           "forks"         : 7,
-          "openIssues"    : 5,
+          "openIssues"    : 6,
           "languages"     : {
-            "TypeScript" : 3571
+            "TypeScript" : 3497
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 215,
         "watchers"      : 4,
-        "size"          : 252,
+        "size"          : 254,
         "collaborators" : 43,
         "stars"         : 4,
         "forks"         : 7,
-        "openIssues"    : 5,
+        "openIssues"    : 6,
         "languages"     : {
-          "TypeScript" : 3571
+          "TypeScript" : 3497
         }
       },
       "mailingLists"       : [
@@ -636,17 +636,17 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 494,
-          "watchers"      : 70,
+          "heat"          : 496,
+          "watchers"      : 71,
           "size"          : 2067,
           "collaborators" : 36,
-          "stars"         : 70,
+          "stars"         : 71,
           "forks"         : 42,
           "openIssues"    : 14,
           "languages"     : {
-            "TypeScript" : 382111,
+            "TypeScript" : 405871,
             "HTML" : 11245,
-            "JavaScript" : 342977
+            "JavaScript" : 322287
           }
         },
         {
@@ -655,11 +655,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 256,
           "watchers"      : 9,
-          "size"          : 1587,
+          "size"          : 1614,
           "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 18,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 340997,
             "HTML" : 2364,
@@ -686,18 +686,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 901,
-        "watchers"      : 80,
-        "size"          : 3811,
+        "heat"          : 903,
+        "watchers"      : 81,
+        "size"          : 3838,
         "collaborators" : 109,
-        "stars"         : 80,
+        "stars"         : 81,
         "forks"         : 61,
-        "openIssues"    : 15,
+        "openIssues"    : 14,
         "languages"     : {
-          "TypeScript" : 828155,
+          "TypeScript" : 851915,
           "HTML" : 15997,
           "CSS" : 48222,
-          "JavaScript" : 359539
+          "JavaScript" : 338849
         }
       }
     },
@@ -720,30 +720,30 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
           "heat"          : 279,
           "watchers"      : 22,
-          "size"          : 14306,
+          "size"          : 14310,
           "collaborators" : 40,
           "stars"         : 22,
           "forks"         : 15,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
             "HTML" : 35004,
             "CSS" : 5438,
-            "JavaScript" : 46147
+            "JavaScript" : 48118
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 279,
         "watchers"      : 22,
-        "size"          : 14306,
+        "size"          : 14310,
         "collaborators" : 40,
         "stars"         : 22,
         "forks"         : 15,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
           "HTML" : 35004,
           "CSS" : 5438,
-          "JavaScript" : 46147
+          "JavaScript" : 48118
         }
       }
     },
@@ -762,16 +762,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 225,
           "watchers"      : 8,
-          "size"          : 1360,
+          "size"          : 1364,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 377032,
+            "TypeScript" : 383736,
             "CSS" : 16466,
-            "HTML" : 12960,
-            "JavaScript" : 7739
+            "HTML" : 13088,
+            "JavaScript" : 7931
           }
         },
         {
@@ -796,16 +796,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 379,
         "watchers"      : 8,
-        "size"          : 1424,
+        "size"          : 1428,
         "collaborators" : 72,
         "stars"         : 8,
         "forks"         : 15,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 393236,
+          "TypeScript" : 399940,
           "CSS" : 21055,
-          "HTML" : 14253,
-          "JavaScript" : 9265
+          "HTML" : 14381,
+          "JavaScript" : 9457
         }
       }
     },
@@ -2868,13 +2868,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 1260,
+          "size"          : 1300,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 547525,
+            "Java" : 571167,
             "CSS" : 29377,
             "Shell" : 26563,
             "HTML" : 16297
@@ -2901,30 +2901,30 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 27,
+          "size"          : 49,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Groovy" : 80911
+            "Groovy" : 82178
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 71,
         "watchers"      : 0,
-        "size"          : 1339,
+        "size"          : 1401,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 3,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 570351,
+          "Java" : 593993,
           "CSS" : 29377,
           "Shell" : 26563,
           "HTML" : 16297,
-          "Groovy" : 80911
+          "Groovy" : 82178
         }
       }
     },
@@ -3826,13 +3826,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-common",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 373,
+          "size"          : 386,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 429627
+            "Java" : 440965
           }
         },
         {
@@ -3841,7 +3841,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-super-pom",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 41,
+          "size"          : 34,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
@@ -3851,13 +3851,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 64,
         "watchers"      : 0,
-        "size"          : 414,
+        "size"          : 420,
         "collaborators" : 11,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 429627
+          "Java" : 440965
         }
       }
     },
@@ -3921,7 +3921,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 249,
           "watchers"      : 27,
-          "size"          : 30855,
+          "size"          : 30858,
           "collaborators" : 10,
           "stars"         : 27,
           "forks"         : 31,
@@ -3930,7 +3930,7 @@
             "Shell" : 5900,
             "CSS" : 4428,
             "Batchfile" : 552,
-            "JavaScript" : 452924,
+            "JavaScript" : 453004,
             "HTML" : 14408,
             "Objective_C" : 6723
           }
@@ -3970,7 +3970,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 309,
         "watchers"      : 31,
-        "size"          : 30934,
+        "size"          : 30937,
         "collaborators" : 18,
         "stars"         : 31,
         "forks"         : 35,
@@ -3981,7 +3981,7 @@
           "Shell" : 5900,
           "CSS" : 4428,
           "Batchfile" : 552,
-          "JavaScript" : 453309,
+          "JavaScript" : 453389,
           "HTML" : 14408,
           "Objective_C" : 6723
         }
@@ -4046,11 +4046,11 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 22,
           "watchers"      : 1,
-          "size"          : 82,
+          "size"          : 86,
           "collaborators" : 5,
           "stars"         : 1,
           "forks"         : 0,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "Python" : 54800
           }
@@ -4059,11 +4059,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 22,
         "watchers"      : 1,
-        "size"          : 82,
+        "size"          : 86,
         "collaborators" : 5,
         "stars"         : 1,
         "forks"         : 0,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "Python" : 54800
         }
