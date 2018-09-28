@@ -76,7 +76,7 @@
           "collaborators" : 43,
           "stars"         : 4,
           "forks"         : 7,
-          "openIssues"    : 6,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 3497
           }
@@ -89,7 +89,7 @@
         "collaborators" : 43,
         "stars"         : 4,
         "forks"         : 7,
-        "openIssues"    : 6,
+        "openIssues"    : 5,
         "languages"     : {
           "TypeScript" : 3497
         }
@@ -2239,6 +2239,38 @@
           "FreeMarker" : 130145,
           "JavaScript" : 13681
         }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Click to Call Integration",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-09-28",
+      "gitHubRepos"          : [
+        {
+          "name"          : "click-to-call-integration",
+          "description"   : "Click to Call (C2C) Integration",
+          "gitHubURL"     : "https://github.com/symphonyoss/click-to-call-integration",
+          "heat"          : 12,
+          "watchers"      : 0,
+          "size"          : 0,
+          "collaborators" : 3,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 12,
+        "watchers"      : 0,
+        "size"          : 0,
+        "collaborators" : 3,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
       }
     },
     {
