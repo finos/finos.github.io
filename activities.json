@@ -72,26 +72,26 @@
           "gitHubURL"     : "https://github.com/FDC3/api",
           "heat"          : 215,
           "watchers"      : 4,
-          "size"          : 254,
+          "size"          : 270,
           "collaborators" : 43,
           "stars"         : 4,
           "forks"         : 7,
-          "openIssues"    : 5,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 3497
+            "TypeScript" : 4748
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 215,
         "watchers"      : 4,
-        "size"          : 254,
+        "size"          : 270,
         "collaborators" : 43,
         "stars"         : 4,
         "forks"         : 7,
-        "openIssues"    : 5,
+        "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 3497
+          "TypeScript" : 4748
         }
       },
       "mailingLists"       : [
@@ -638,11 +638,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 496,
           "watchers"      : 71,
-          "size"          : 2070,
+          "size"          : 2072,
           "collaborators" : 36,
           "stars"         : 71,
           "forks"         : 42,
-          "openIssues"    : 14,
+          "openIssues"    : 15,
           "languages"     : {
             "TypeScript" : 405871,
             "HTML" : 11245,
@@ -688,11 +688,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 903,
         "watchers"      : 81,
-        "size"          : 3841,
+        "size"          : 3843,
         "collaborators" : 109,
         "stars"         : 81,
         "forks"         : 61,
-        "openIssues"    : 14,
+        "openIssues"    : 15,
         "languages"     : {
           "TypeScript" : 851915,
           "HTML" : 15997,
@@ -720,30 +720,30 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
           "heat"          : 279,
           "watchers"      : 22,
-          "size"          : 14290,
+          "size"          : 14289,
           "collaborators" : 40,
           "stars"         : 22,
           "forks"         : 15,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
-            "HTML" : 35004,
+            "HTML" : 34867,
             "CSS" : 5438,
-            "JavaScript" : 48118
+            "JavaScript" : 48487
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 279,
         "watchers"      : 22,
-        "size"          : 14290,
+        "size"          : 14289,
         "collaborators" : 40,
         "stars"         : 22,
         "forks"         : 15,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
-          "HTML" : 35004,
+          "HTML" : 34867,
           "CSS" : 5438,
-          "JavaScript" : 48118
+          "JavaScript" : 48487
         }
       }
     },
@@ -2254,20 +2254,20 @@
           "name"          : "click-to-call-integration",
           "description"   : "Click to Call (C2C) Integration",
           "gitHubURL"     : "https://github.com/symphonyoss/click-to-call-integration",
-          "heat"          : 12,
+          "heat"          : 16,
           "watchers"      : 0,
-          "size"          : 0,
-          "collaborators" : 3,
+          "size"          : 5,
+          "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 0,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 12,
+        "heat"          : 16,
         "watchers"      : 0,
-        "size"          : 0,
-        "collaborators" : 3,
+        "size"          : 5,
+        "collaborators" : 4,
         "stars"         : 0,
         "forks"         : 0,
         "openIssues"    : 0
@@ -2933,20 +2933,20 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 55,
+          "size"          : 145,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Groovy" : 82178
+            "Groovy" : 82872
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 71,
         "watchers"      : 0,
-        "size"          : 1407,
+        "size"          : 1497,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 3,
@@ -2956,7 +2956,7 @@
           "CSS" : 29377,
           "Shell" : 26563,
           "HTML" : 16297,
-          "Groovy" : 82178
+          "Groovy" : 82872
         }
       }
     },
@@ -3953,16 +3953,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 254,
           "watchers"      : 27,
-          "size"          : 30872,
+          "size"          : 30875,
           "collaborators" : 10,
           "stars"         : 27,
           "forks"         : 32,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "Shell" : 5900,
             "CSS" : 4428,
             "Batchfile" : 552,
-            "JavaScript" : 453481,
+            "JavaScript" : 453593,
             "HTML" : 14408,
             "Objective_C" : 6723
           }
@@ -4002,18 +4002,18 @@
       "cumulativeGitHubStats" : {
         "heat"          : 314,
         "watchers"      : 31,
-        "size"          : 30951,
+        "size"          : 30954,
         "collaborators" : 18,
         "stars"         : 31,
         "forks"         : 36,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 79181,
           "Shell" : 5900,
           "CSS" : 4428,
           "Batchfile" : 552,
-          "JavaScript" : 453866,
+          "JavaScript" : 453978,
           "HTML" : 14408,
           "Objective_C" : 6723
         }
@@ -4076,26 +4076,26 @@
           "name"          : "greenkey-discovery-sdk",
           "description"   : "Speed up business workflows through creating custom 'voice skills' and text interpreters",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
-          "heat"          : 22,
-          "watchers"      : 1,
-          "size"          : 86,
+          "heat"          : 24,
+          "watchers"      : 2,
+          "size"          : 88,
           "collaborators" : 5,
-          "stars"         : 1,
+          "stars"         : 2,
           "forks"         : 0,
-          "openIssues"    : 5,
+          "openIssues"    : 6,
           "languages"     : {
             "Python" : 54800
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 22,
-        "watchers"      : 1,
-        "size"          : 86,
+        "heat"          : 24,
+        "watchers"      : 2,
+        "size"          : 88,
         "collaborators" : 5,
-        "stars"         : 1,
+        "stars"         : 2,
         "forks"         : 0,
-        "openIssues"    : 5,
+        "openIssues"    : 6,
         "languages"     : {
           "Python" : 54800
         }
