@@ -10,7 +10,30 @@
       "contributionDate"     : "2018-07-11",
       "tags"                 : [
         "kdb+"
-      ]
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "coding-standards",
+          "description"   : "Coding standards used within the Data Technologies program",
+          "gitHubURL"     : "https://github.com/finos-data-tech/coding-standards",
+          "heat"          : 0,
+          "watchers"      : 0,
+          "size"          : 5,
+          "collaborators" : 0,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 0,
+        "watchers"      : 0,
+        "size"          : 5,
+        "collaborators" : 0,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
     },
     {
       "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
@@ -150,13 +173,25 @@
           "stars"         : 0,
           "forks"         : 4,
           "openIssues"    : 0
+        },
+        {
+          "name"          : "appd-glue42-launcher-poc",
+          "description"   : "Launcher example interfacing with AppD",
+          "gitHubURL"     : "https://github.com/FDC3/appd-glue42-launcher-poc",
+          "heat"          : 176,
+          "watchers"      : 0,
+          "size"          : 0,
+          "collaborators" : 44,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 562,
+        "heat"          : 738,
         "watchers"      : 3,
         "size"          : 89,
-        "collaborators" : 129,
+        "collaborators" : 173,
         "stars"         : 3,
         "forks"         : 8,
         "openIssues"    : 0,
@@ -720,7 +755,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
           "heat"          : 279,
           "watchers"      : 22,
-          "size"          : 14289,
+          "size"          : 14594,
           "collaborators" : 40,
           "stars"         : 22,
           "forks"         : 15,
@@ -735,7 +770,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 279,
         "watchers"      : 22,
-        "size"          : 14289,
+        "size"          : 14594,
         "collaborators" : 40,
         "stars"         : 22,
         "forks"         : 15,
@@ -762,13 +797,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 225,
           "watchers"      : 8,
-          "size"          : 1364,
+          "size"          : 1382,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 383736,
+            "TypeScript" : 383766,
             "CSS" : 16466,
             "HTML" : 13088,
             "JavaScript" : 7931
@@ -796,13 +831,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 379,
         "watchers"      : 8,
-        "size"          : 1428,
+        "size"          : 1446,
         "collaborators" : 72,
         "stars"         : 8,
         "forks"         : 15,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 399940,
+          "TypeScript" : 399970,
           "CSS" : 21055,
           "HTML" : 14381,
           "JavaScript" : 9457
@@ -2026,7 +2061,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/bot-unfurl",
           "heat"          : 35,
           "watchers"      : 4,
-          "size"          : 713,
+          "size"          : 715,
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 3,
@@ -2040,7 +2075,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 35,
         "watchers"      : 4,
-        "size"          : 713,
+        "size"          : 715,
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 3,
@@ -2254,21 +2289,21 @@
           "name"          : "click-to-call-integration",
           "description"   : "Click to Call (C2C) Integration",
           "gitHubURL"     : "https://github.com/symphonyoss/click-to-call-integration",
-          "heat"          : 16,
-          "watchers"      : 0,
+          "heat"          : 24,
+          "watchers"      : 2,
           "size"          : 5,
-          "collaborators" : 4,
-          "stars"         : 0,
+          "collaborators" : 5,
+          "stars"         : 2,
           "forks"         : 0,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 16,
-        "watchers"      : 0,
+        "heat"          : 24,
+        "watchers"      : 2,
         "size"          : 5,
-        "collaborators" : 4,
-        "stars"         : 0,
+        "collaborators" : 5,
+        "stars"         : 2,
         "forks"         : 0,
         "openIssues"    : 0
       }
@@ -2372,26 +2407,26 @@
           "gitHubURL"     : "https://github.com/symphonyoss/clj-symphony",
           "heat"          : 45,
           "watchers"      : 4,
-          "size"          : 227,
+          "size"          : 224,
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 5,
           "openIssues"    : 1,
           "languages"     : {
-            "Clojure" : 61084
+            "Clojure" : 61191
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 45,
         "watchers"      : 4,
-        "size"          : 227,
+        "size"          : 224,
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 5,
         "openIssues"    : 1,
         "languages"     : {
-          "Clojure" : 61084
+          "Clojure" : 61191
         }
       }
     },
@@ -2933,7 +2968,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 145,
+          "size"          : 75,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -2946,7 +2981,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 71,
         "watchers"      : 0,
-        "size"          : 1497,
+        "size"          : 1427,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 3,
