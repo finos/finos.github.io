@@ -303,23 +303,23 @@
           "name"          : "Intents",
           "description"   : "FDC3 Intents specifications, schemas, and examples",
           "gitHubURL"     : "https://github.com/FDC3/Intents",
-          "heat"          : 190,
+          "heat"          : 195,
           "watchers"      : 4,
           "size"          : 13,
           "collaborators" : 43,
           "stars"         : 4,
-          "forks"         : 2,
-          "openIssues"    : 1
+          "forks"         : 3,
+          "openIssues"    : 3
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 190,
+        "heat"          : 195,
         "watchers"      : 4,
         "size"          : 13,
         "collaborators" : 43,
         "stars"         : 4,
-        "forks"         : 2,
-        "openIssues"    : 1
+        "forks"         : 3,
+        "openIssues"    : 3
       },
       "mailingLists"       : [
         {
@@ -374,7 +374,7 @@
           "gitHubURL"     : "https://github.com/finos-fdx/bot-github-chatops",
           "heat"          : 33,
           "watchers"      : 4,
-          "size"          : 366,
+          "size"          : 369,
           "collaborators" : 5,
           "stars"         : 4,
           "forks"         : 1,
@@ -389,7 +389,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 33,
         "watchers"      : 4,
-        "size"          : 366,
+        "size"          : 369,
         "collaborators" : 5,
         "stars"         : 4,
         "forks"         : 1,
@@ -677,9 +677,9 @@
           "collaborators" : 36,
           "stars"         : 71,
           "forks"         : 42,
-          "openIssues"    : 15,
+          "openIssues"    : 18,
           "languages"     : {
-            "TypeScript" : 405871,
+            "TypeScript" : 406102,
             "HTML" : 11245,
             "JavaScript" : 322287
           }
@@ -727,9 +727,9 @@
         "collaborators" : 109,
         "stars"         : 81,
         "forks"         : 61,
-        "openIssues"    : 15,
+        "openIssues"    : 18,
         "languages"     : {
-          "TypeScript" : 851915,
+          "TypeScript" : 852146,
           "HTML" : 15997,
           "CSS" : 48222,
           "JavaScript" : 338849
@@ -759,7 +759,7 @@
           "collaborators" : 40,
           "stars"         : 22,
           "forks"         : 15,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "HTML" : 34867,
             "CSS" : 5438,
@@ -774,7 +774,7 @@
         "collaborators" : 40,
         "stars"         : 22,
         "forks"         : 15,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "HTML" : 34867,
           "CSS" : 5438,
@@ -797,11 +797,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 225,
           "watchers"      : 8,
-          "size"          : 1382,
+          "size"          : 1386,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 0,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 383766,
             "CSS" : 16466,
@@ -831,11 +831,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 379,
         "watchers"      : 8,
-        "size"          : 1446,
+        "size"          : 1450,
         "collaborators" : 72,
         "stars"         : 8,
         "forks"         : 15,
-        "openIssues"    : 0,
+        "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 399970,
           "CSS" : 21055,
@@ -863,7 +863,7 @@
           "collaborators" : 36,
           "stars"         : 6,
           "forks"         : 1,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 116016,
             "CSS" : 28538,
@@ -880,7 +880,7 @@
         "collaborators" : 36,
         "stars"         : 6,
         "forks"         : 1,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 116016,
           "CSS" : 28538,
@@ -906,22 +906,22 @@
           "name"          : "zero-downtime-trading-web-ux",
           "description"   : "Showcases how the OpenFin API, in conjunction with the ODP OpenShift Infrastructure and APIs, can create a powerful experience to live-reload an app and swap its environment from production to UAT",
           "gitHubURL"     : "https://github.com/HadoukenIO/zero-downtime-trading-web-ux",
-          "heat"          : 157,
+          "heat"          : 162,
           "watchers"      : 0,
-          "size"          : 1,
+          "size"          : 17,
           "collaborators" : 38,
           "stars"         : 0,
-          "forks"         : 1,
+          "forks"         : 2,
           "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 157,
+        "heat"          : 162,
         "watchers"      : 0,
-        "size"          : 1,
+        "size"          : 17,
         "collaborators" : 38,
         "stars"         : 0,
-        "forks"         : 1,
+        "forks"         : 2,
         "openIssues"    : 1
       }
     },
@@ -1012,11 +1012,11 @@
           "gitHubURL"     : "https://github.com/finos-plexus/finos-plexus.github.io",
           "heat"          : 31,
           "watchers"      : 1,
-          "size"          : 11,
+          "size"          : 162,
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 1,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 21592
           }
@@ -1025,11 +1025,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 759,
         "watchers"      : 239,
-        "size"          : 6097,
+        "size"          : 6248,
         "collaborators" : 14,
         "stars"         : 239,
         "forks"         : 45,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 1087769,
           "C#" : 1558256,
@@ -2061,7 +2061,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/bot-unfurl",
           "heat"          : 35,
           "watchers"      : 4,
-          "size"          : 715,
+          "size"          : 716,
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 3,
@@ -2075,7 +2075,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 35,
         "watchers"      : 4,
-        "size"          : 715,
+        "size"          : 716,
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 3,
@@ -2372,21 +2372,21 @@
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
           "heat"          : 91,
           "watchers"      : 5,
-          "size"          : 176,
+          "size"          : 177,
           "collaborators" : 4,
           "stars"         : 5,
           "forks"         : 13,
-          "openIssues"    : 2
+          "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 91,
         "watchers"      : 5,
-        "size"          : 176,
+        "size"          : 177,
         "collaborators" : 4,
         "stars"         : 5,
         "forks"         : 13,
-        "openIssues"    : 2
+        "openIssues"    : 0
       }
     },
     {
@@ -2407,11 +2407,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/clj-symphony",
           "heat"          : 45,
           "watchers"      : 4,
-          "size"          : 224,
+          "size"          : 226,
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 5,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "Clojure" : 61191
           }
@@ -2420,11 +2420,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 45,
         "watchers"      : 4,
-        "size"          : 224,
+        "size"          : 226,
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 5,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "Clojure" : 61191
         }
@@ -2968,7 +2968,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 75,
+          "size"          : 105,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -2981,7 +2981,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 71,
         "watchers"      : 0,
-        "size"          : 1427,
+        "size"          : 1457,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 3,
@@ -3988,17 +3988,17 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 254,
           "watchers"      : 27,
-          "size"          : 30875,
+          "size"          : 30880,
           "collaborators" : 10,
           "stars"         : 27,
           "forks"         : 32,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "Shell" : 5900,
             "CSS" : 4428,
             "Batchfile" : 552,
-            "JavaScript" : 453593,
-            "HTML" : 14408,
+            "JavaScript" : 454394,
+            "HTML" : 14460,
             "Objective_C" : 6723
           }
         },
@@ -4037,19 +4037,19 @@
       "cumulativeGitHubStats" : {
         "heat"          : 314,
         "watchers"      : 31,
-        "size"          : 30954,
+        "size"          : 30959,
         "collaborators" : 18,
         "stars"         : 31,
         "forks"         : 36,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 79181,
           "Shell" : 5900,
           "CSS" : 4428,
           "Batchfile" : 552,
-          "JavaScript" : 453978,
-          "HTML" : 14408,
+          "JavaScript" : 454779,
+          "HTML" : 14460,
           "Objective_C" : 6723
         }
       }
