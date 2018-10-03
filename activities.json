@@ -53,12 +53,12 @@
           "name"          : "open-api-demo",
           "description"   : "Demonstration/Prototype of the FDC3 proposed Open API",
           "gitHubURL"     : "https://github.com/FDC3/open-api-demo",
-          "heat"          : 183,
+          "heat"          : 188,
           "watchers"      : 3,
           "size"          : 20,
           "collaborators" : 43,
           "stars"         : 3,
-          "forks"         : 1,
+          "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
             "HTML" : 3858,
@@ -67,12 +67,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 183,
+        "heat"          : 188,
         "watchers"      : 3,
         "size"          : 20,
         "collaborators" : 43,
         "stars"         : 3,
-        "forks"         : 1,
+        "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
           "HTML" : 3858,
@@ -671,13 +671,13 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 496,
+          "heat"          : 501,
           "watchers"      : 71,
-          "size"          : 2072,
+          "size"          : 2071,
           "collaborators" : 36,
           "stars"         : 71,
-          "forks"         : 42,
-          "openIssues"    : 18,
+          "forks"         : 43,
+          "openIssues"    : 20,
           "languages"     : {
             "TypeScript" : 406102,
             "HTML" : 11245,
@@ -694,7 +694,7 @@
           "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 18,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 340997,
             "HTML" : 2364,
@@ -721,13 +721,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 903,
+        "heat"          : 908,
         "watchers"      : 81,
-        "size"          : 3843,
+        "size"          : 3842,
         "collaborators" : 109,
         "stars"         : 81,
-        "forks"         : 61,
-        "openIssues"    : 18,
+        "forks"         : 62,
+        "openIssues"    : 21,
         "languages"     : {
           "TypeScript" : 852146,
           "HTML" : 15997,
@@ -797,13 +797,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 225,
           "watchers"      : 8,
-          "size"          : 1386,
+          "size"          : 1396,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 13,
           "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 383766,
+            "TypeScript" : 384950,
             "CSS" : 16466,
             "HTML" : 13088,
             "JavaScript" : 7931
@@ -831,13 +831,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 379,
         "watchers"      : 8,
-        "size"          : 1450,
+        "size"          : 1460,
         "collaborators" : 72,
         "stars"         : 8,
         "forks"         : 15,
         "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 399970,
+          "TypeScript" : 401154,
           "CSS" : 21055,
           "HTML" : 14381,
           "JavaScript" : 9457
@@ -2968,20 +2968,20 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 105,
+          "size"          : 71,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Groovy" : 82872
+            "Groovy" : 89437
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 71,
         "watchers"      : 0,
-        "size"          : 1457,
+        "size"          : 1423,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 3,
@@ -2991,7 +2991,7 @@
           "CSS" : 29377,
           "Shell" : 26563,
           "HTML" : 16297,
-          "Groovy" : 82872
+          "Groovy" : 89437
         }
       }
     },
@@ -3591,11 +3591,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/JCurl",
           "heat"          : 108,
           "watchers"      : 11,
-          "size"          : 62,
+          "size"          : 66,
           "collaborators" : 4,
           "stars"         : 11,
           "forks"         : 14,
-          "openIssues"    : 9,
+          "openIssues"    : 8,
           "languages"     : {
             "Java" : 60780,
             "Ruby" : 467
@@ -3605,11 +3605,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 108,
         "watchers"      : 11,
-        "size"          : 62,
+        "size"          : 66,
         "collaborators" : 4,
         "stars"         : 11,
         "forks"         : 14,
-        "openIssues"    : 9,
+        "openIssues"    : 8,
         "languages"     : {
           "Java" : 60780,
           "Ruby" : 467
@@ -3988,7 +3988,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 254,
           "watchers"      : 27,
-          "size"          : 30880,
+          "size"          : 30882,
           "collaborators" : 10,
           "stars"         : 27,
           "forks"         : 32,
@@ -4037,7 +4037,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 314,
         "watchers"      : 31,
-        "size"          : 30959,
+        "size"          : 30961,
         "collaborators" : 18,
         "stars"         : 31,
         "forks"         : 36,
@@ -4113,7 +4113,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 24,
           "watchers"      : 2,
-          "size"          : 88,
+          "size"          : 98,
           "collaborators" : 5,
           "stars"         : 2,
           "forks"         : 0,
@@ -4126,7 +4126,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 24,
         "watchers"      : 2,
-        "size"          : 88,
+        "size"          : 98,
         "collaborators" : 5,
         "stars"         : 2,
         "forks"         : 0,
