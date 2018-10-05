@@ -2968,7 +2968,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 71,
+          "size"          : 99,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -2981,7 +2981,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 71,
         "watchers"      : 0,
-        "size"          : 1449,
+        "size"          : 1477,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 3,
