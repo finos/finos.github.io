@@ -221,23 +221,23 @@
           "name"          : "ContextData",
           "description"   : "Context data object specifications, schemas, and examples",
           "gitHubURL"     : "https://github.com/FDC3/ContextData",
-          "heat"          : 200,
+          "heat"          : 205,
           "watchers"      : 4,
           "size"          : 107,
           "collaborators" : 43,
           "stars"         : 4,
-          "forks"         : 4,
-          "openIssues"    : 0
+          "forks"         : 5,
+          "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 200,
+        "heat"          : 205,
         "watchers"      : 4,
         "size"          : 107,
         "collaborators" : 43,
         "stars"         : 4,
-        "forks"         : 4,
-        "openIssues"    : 0
+        "forks"         : 5,
+        "openIssues"    : 1
       },
       "mailingLists"       : [
         {
@@ -3986,12 +3986,12 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 254,
+          "heat"          : 259,
           "watchers"      : 27,
           "size"          : 30882,
           "collaborators" : 10,
           "stars"         : 27,
-          "forks"         : 32,
+          "forks"         : 33,
           "openIssues"    : 3,
           "languages"     : {
             "Shell" : 5900,
@@ -4035,12 +4035,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 314,
+        "heat"          : 319,
         "watchers"      : 31,
         "size"          : 30961,
         "collaborators" : 18,
         "stars"         : 31,
-        "forks"         : 36,
+        "forks"         : 37,
         "openIssues"    : 3,
         "languages"     : {
           "C#" : 7673,
