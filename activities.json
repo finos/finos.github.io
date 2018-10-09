@@ -671,11 +671,11 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 501,
-          "watchers"      : 71,
+          "heat"          : 503,
+          "watchers"      : 72,
           "size"          : 2093,
           "collaborators" : 36,
-          "stars"         : 71,
+          "stars"         : 72,
           "forks"         : 43,
           "openIssues"    : 20,
           "languages"     : {
@@ -721,11 +721,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 908,
-        "watchers"      : 81,
+        "heat"          : 910,
+        "watchers"      : 82,
         "size"          : 3864,
         "collaborators" : 109,
-        "stars"         : 81,
+        "stars"         : 82,
         "forks"         : 62,
         "openIssues"    : 24,
         "languages"     : {
@@ -857,11 +857,11 @@
           "name"          : "notifications-service",
           "description"   : "Notifications Desktop Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
-          "heat"          : 161,
-          "watchers"      : 6,
+          "heat"          : 163,
+          "watchers"      : 7,
           "size"          : 5848,
           "collaborators" : 36,
-          "stars"         : 6,
+          "stars"         : 7,
           "forks"         : 1,
           "openIssues"    : 1,
           "languages"     : {
@@ -874,11 +874,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 161,
-        "watchers"      : 6,
+        "heat"          : 163,
+        "watchers"      : 7,
         "size"          : 5848,
         "collaborators" : 36,
-        "stars"         : 6,
+        "stars"         : 7,
         "forks"         : 1,
         "openIssues"    : 1,
         "languages"     : {
@@ -2935,13 +2935,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 1326,
+          "size"          : 1344,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 576393,
+            "Java" : 578236,
             "CSS" : 29377,
             "Shell" : 26563,
             "HTML" : 16297
@@ -2981,13 +2981,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 71,
         "watchers"      : 0,
-        "size"          : 1477,
+        "size"          : 1495,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 3,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 599219,
+          "Java" : 601062,
           "CSS" : 29377,
           "Shell" : 26563,
           "HTML" : 16297,
@@ -3697,12 +3697,12 @@
           "name"          : "SFE-DesktopClient-pgx",
           "description"   : "project containing build for Symphony.pgx needed for desktop client (aka wrapper).",
           "gitHubURL"     : "https://github.com/symphonyoss/SFE-DesktopClient-pgx",
-          "heat"          : 48,
+          "heat"          : 53,
           "watchers"      : 0,
           "size"          : 2259,
           "collaborators" : 7,
           "stars"         : 0,
-          "forks"         : 4,
+          "forks"         : 5,
           "openIssues"    : 2,
           "languages"     : {
             "C#" : 196010,
@@ -3713,12 +3713,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 134,
+        "heat"          : 139,
         "watchers"      : 4,
         "size"          : 475301,
         "collaborators" : 14,
         "stars"         : 4,
-        "forks"         : 14,
+        "forks"         : 15,
         "openIssues"    : 11,
         "languages"     : {
           "C#" : 4323763,
@@ -4094,6 +4094,48 @@
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
       "contributionDate"     : "2018-02-28"
+    },
+    {
+      "programName"          : "Voice, Voice Metadata, and Voice API",
+      "programShortName"     : "Voice",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/VOICE/overview",
+      "activityName"         : "Greenkey Automatic Speech Recognition Toolkit",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-10-08",
+      "gitHubRepos"          : [
+        {
+          "name"          : "greenkey-asr-toolkit",
+          "description"   : "A collection of useful tools for handling speech recognition data",
+          "gitHubURL"     : "https://github.com/finos-voice/greenkey-asr-toolkit",
+          "heat"          : 19,
+          "watchers"      : 1,
+          "size"          : 44,
+          "collaborators" : 3,
+          "stars"         : 1,
+          "forks"         : 1,
+          "openIssues"    : 3,
+          "languages"     : {
+            "Dockerfile" : 344,
+            "Shell" : 37,
+            "Python" : 26375
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 19,
+        "watchers"      : 1,
+        "size"          : 44,
+        "collaborators" : 3,
+        "stars"         : 1,
+        "forks"         : 1,
+        "openIssues"    : 3,
+        "languages"     : {
+          "Dockerfile" : 344,
+          "Shell" : 37,
+          "Python" : 26375
+        }
+      }
     },
     {
       "programName"          : "Voice, Voice Metadata, and Voice API",
