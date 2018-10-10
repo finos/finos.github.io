@@ -93,12 +93,12 @@
           "name"          : "API",
           "description"   : "API Working Group repository",
           "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 215,
+          "heat"          : 220,
           "watchers"      : 4,
           "size"          : 270,
           "collaborators" : 43,
           "stars"         : 4,
-          "forks"         : 7,
+          "forks"         : 8,
           "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 4748
@@ -106,12 +106,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 215,
+        "heat"          : 220,
         "watchers"      : 4,
         "size"          : 270,
         "collaborators" : 43,
         "stars"         : 4,
-        "forks"         : 7,
+        "forks"         : 8,
         "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 4748
@@ -151,15 +151,15 @@
           "gitHubURL"     : "https://github.com/FDC3/appd-poc",
           "heat"          : 177,
           "watchers"      : 0,
-          "size"          : 48,
+          "size"          : 62,
           "collaborators" : 43,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 45772,
+            "Java" : 82889,
             "Dockerfile" : 763,
-            "Shell" : 636
+            "Shell" : 641
           }
         },
         {
@@ -190,15 +190,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 738,
         "watchers"      : 3,
-        "size"          : 89,
+        "size"          : 103,
         "collaborators" : 173,
         "stars"         : 3,
         "forks"         : 8,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 45772,
+          "Java" : 82889,
           "Dockerfile" : 763,
-          "Shell" : 636
+          "Shell" : 641
         }
       },
       "mailingLists"       : [
@@ -223,21 +223,21 @@
           "gitHubURL"     : "https://github.com/FDC3/ContextData",
           "heat"          : 205,
           "watchers"      : 4,
-          "size"          : 107,
+          "size"          : 111,
           "collaborators" : 43,
           "stars"         : 4,
           "forks"         : 5,
-          "openIssues"    : 1
+          "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 205,
         "watchers"      : 4,
-        "size"          : 107,
+        "size"          : 111,
         "collaborators" : 43,
         "stars"         : 4,
         "forks"         : 5,
-        "openIssues"    : 1
+        "openIssues"    : 0
       },
       "mailingLists"       : [
         {
@@ -303,22 +303,22 @@
           "name"          : "Intents",
           "description"   : "FDC3 Intents specifications, schemas, and examples",
           "gitHubURL"     : "https://github.com/FDC3/Intents",
-          "heat"          : 195,
+          "heat"          : 200,
           "watchers"      : 4,
           "size"          : 13,
           "collaborators" : 43,
           "stars"         : 4,
-          "forks"         : 3,
+          "forks"         : 4,
           "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 195,
+        "heat"          : 200,
         "watchers"      : 4,
         "size"          : 13,
         "collaborators" : 43,
         "stars"         : 4,
-        "forks"         : 3,
+        "forks"         : 4,
         "openIssues"    : 1
       },
       "mailingLists"       : [
@@ -492,26 +492,26 @@
       "contributionDate"     : "2018-04-24",
       "gitHubRepos"          : [
         {
-          "name"          : "odp-wiki",
+          "name"          : "odp-test",
           "description"   : "Testing GitHub as a platform to host https://finosfoundation.atlassian.net/wiki/spaces/FDX/pages/243859459/Open+Developer+Platform+Working+Group",
           "gitHubURL"     : "https://github.com/finos-fdx/odp-wiki",
-          "heat"          : 20,
+          "heat"          : 30,
           "watchers"      : 0,
           "size"          : 5,
           "collaborators" : 5,
           "stars"         : 0,
-          "forks"         : 0,
-          "openIssues"    : 3
+          "forks"         : 2,
+          "openIssues"    : 5
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 20,
+        "heat"          : 30,
         "watchers"      : 0,
         "size"          : 5,
         "collaborators" : 5,
         "stars"         : 0,
-        "forks"         : 0,
-        "openIssues"    : 3
+        "forks"         : 2,
+        "openIssues"    : 5
       },
       "mailingLists"       : [
         {
@@ -671,13 +671,13 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 503,
-          "watchers"      : 72,
+          "heat"          : 505,
+          "watchers"      : 73,
           "size"          : 2093,
           "collaborators" : 36,
-          "stars"         : 72,
+          "stars"         : 73,
           "forks"         : 43,
-          "openIssues"    : 20,
+          "openIssues"    : 22,
           "languages"     : {
             "TypeScript" : 406102,
             "HTML" : 11245,
@@ -694,7 +694,7 @@
           "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 18,
-          "openIssues"    : 4,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 340997,
             "HTML" : 2364,
@@ -721,13 +721,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 910,
-        "watchers"      : 82,
+        "heat"          : 912,
+        "watchers"      : 83,
         "size"          : 3864,
         "collaborators" : 109,
-        "stars"         : 82,
+        "stars"         : 83,
         "forks"         : 62,
-        "openIssues"    : 24,
+        "openIssues"    : 28,
         "languages"     : {
           "TypeScript" : 852146,
           "HTML" : 15997,
@@ -753,11 +753,11 @@
           "name"          : "symphony-of",
           "description"   : "OpenFin Sym Integration",
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
-          "heat"          : 279,
-          "watchers"      : 22,
+          "heat"          : 281,
+          "watchers"      : 23,
           "size"          : 14599,
           "collaborators" : 40,
-          "stars"         : 22,
+          "stars"         : 23,
           "forks"         : 15,
           "openIssues"    : 3,
           "languages"     : {
@@ -768,11 +768,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 279,
-        "watchers"      : 22,
+        "heat"          : 281,
+        "watchers"      : 23,
         "size"          : 14599,
         "collaborators" : 40,
-        "stars"         : 22,
+        "stars"         : 23,
         "forks"         : 15,
         "openIssues"    : 3,
         "languages"     : {
@@ -797,16 +797,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 225,
           "watchers"      : 8,
-          "size"          : 1420,
+          "size"          : 1501,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 384950,
+            "TypeScript" : 389795,
             "CSS" : 16466,
-            "HTML" : 13088,
-            "JavaScript" : 7931
+            "HTML" : 13795,
+            "JavaScript" : 9797
           }
         },
         {
@@ -831,16 +831,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 379,
         "watchers"      : 8,
-        "size"          : 1484,
+        "size"          : 1565,
         "collaborators" : 72,
         "stars"         : 8,
         "forks"         : 15,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 401154,
+          "TypeScript" : 405999,
           "CSS" : 21055,
-          "HTML" : 14381,
-          "JavaScript" : 9457
+          "HTML" : 15088,
+          "JavaScript" : 11323
         }
       }
     },
@@ -859,34 +859,34 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 163,
           "watchers"      : 7,
-          "size"          : 5848,
+          "size"          : 5862,
           "collaborators" : 36,
           "stars"         : 7,
           "forks"         : 1,
           "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 116016,
+            "TypeScript" : 116893,
             "CSS" : 28538,
             "HTML" : 7124,
             "Gherkin" : 120,
-            "JavaScript" : 8524
+            "JavaScript" : 7105
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 163,
         "watchers"      : 7,
-        "size"          : 5848,
+        "size"          : 5862,
         "collaborators" : 36,
         "stars"         : 7,
         "forks"         : 1,
         "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 116016,
+          "TypeScript" : 116893,
           "CSS" : 28538,
           "HTML" : 7124,
           "Gherkin" : 120,
-          "JavaScript" : 8524
+          "JavaScript" : 7105
         }
       }
     },
@@ -2289,22 +2289,22 @@
           "name"          : "click-to-call-integration",
           "description"   : "Click to Call (C2C) Integration",
           "gitHubURL"     : "https://github.com/symphonyoss/click-to-call-integration",
-          "heat"          : 24,
+          "heat"          : 34,
           "watchers"      : 2,
           "size"          : 5,
           "collaborators" : 5,
           "stars"         : 2,
-          "forks"         : 0,
+          "forks"         : 2,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 24,
+        "heat"          : 34,
         "watchers"      : 2,
         "size"          : 5,
         "collaborators" : 5,
         "stars"         : 2,
-        "forks"         : 0,
+        "forks"         : 2,
         "openIssues"    : 0
       }
     },
@@ -2411,7 +2411,7 @@
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 5,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
             "Clojure" : 61191
           }
@@ -2424,7 +2424,7 @@
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 5,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
           "Clojure" : 61191
         }
@@ -2539,7 +2539,7 @@
           "collaborators" : 7,
           "stars"         : 31,
           "forks"         : 27,
-          "openIssues"    : 11,
+          "openIssues"    : 10,
           "languages"     : {
             "Java" : 695383,
             "Shell" : 1987
@@ -2584,7 +2584,7 @@
         "collaborators" : 16,
         "stars"         : 53,
         "forks"         : 44,
-        "openIssues"    : 15,
+        "openIssues"    : 14,
         "languages"     : {
           "Java" : 718953,
           "Shell" : 4382
@@ -2935,7 +2935,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 1344,
+          "size"          : 1393,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
@@ -2981,7 +2981,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 71,
         "watchers"      : 0,
-        "size"          : 1495,
+        "size"          : 1544,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 3,
@@ -3988,7 +3988,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 259,
           "watchers"      : 27,
-          "size"          : 30882,
+          "size"          : 30889,
           "collaborators" : 10,
           "stars"         : 27,
           "forks"         : 33,
@@ -3997,7 +3997,7 @@
             "Shell" : 5900,
             "CSS" : 4428,
             "Batchfile" : 552,
-            "JavaScript" : 454394,
+            "JavaScript" : 451648,
             "HTML" : 14460,
             "Objective_C" : 6723
           }
@@ -4037,7 +4037,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 319,
         "watchers"      : 31,
-        "size"          : 30961,
+        "size"          : 30968,
         "collaborators" : 18,
         "stars"         : 31,
         "forks"         : 37,
@@ -4048,7 +4048,7 @@
           "Shell" : 5900,
           "CSS" : 4428,
           "Batchfile" : 552,
-          "JavaScript" : 454779,
+          "JavaScript" : 452033,
           "HTML" : 14460,
           "Objective_C" : 6723
         }
@@ -4105,35 +4105,35 @@
       "contributionDate"     : "2018-10-08",
       "gitHubRepos"          : [
         {
-          "name"          : "greenkey-asr-toolkit",
+          "name"          : "greenkey-asrtoolkit",
           "description"   : "A collection of useful tools for handling speech recognition data",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asr-toolkit",
-          "heat"          : 19,
+          "heat"          : 28,
           "watchers"      : 1,
-          "size"          : 44,
-          "collaborators" : 3,
+          "size"          : 55,
+          "collaborators" : 4,
           "stars"         : 1,
-          "forks"         : 1,
-          "openIssues"    : 3,
+          "forks"         : 2,
+          "openIssues"    : 5,
           "languages"     : {
             "Dockerfile" : 344,
             "Shell" : 37,
-            "Python" : 26375
+            "Python" : 26377
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 19,
+        "heat"          : 28,
         "watchers"      : 1,
-        "size"          : 44,
-        "collaborators" : 3,
+        "size"          : 55,
+        "collaborators" : 4,
         "stars"         : 1,
-        "forks"         : 1,
-        "openIssues"    : 3,
+        "forks"         : 2,
+        "openIssues"    : 5,
         "languages"     : {
           "Dockerfile" : 344,
           "Shell" : 37,
-          "Python" : 26375
+          "Python" : 26377
         }
       }
     },
@@ -4155,26 +4155,26 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 24,
           "watchers"      : 2,
-          "size"          : 99,
+          "size"          : 80,
           "collaborators" : 5,
           "stars"         : 2,
           "forks"         : 0,
-          "openIssues"    : 6,
+          "openIssues"    : 4,
           "languages"     : {
-            "Python" : 54800
+            "Python" : 56591
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 24,
         "watchers"      : 2,
-        "size"          : 99,
+        "size"          : 80,
         "collaborators" : 5,
         "stars"         : 2,
         "forks"         : 0,
-        "openIssues"    : 6,
+        "openIssues"    : 4,
         "languages"     : {
-          "Python" : 54800
+          "Python" : 56591
         }
       }
     },
