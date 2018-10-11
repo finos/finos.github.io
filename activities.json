@@ -694,9 +694,9 @@
           "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 18,
-          "openIssues"    : 6,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 340997,
+            "TypeScript" : 338619,
             "HTML" : 2364,
             "JavaScript" : 11148
           }
@@ -727,9 +727,9 @@
         "collaborators" : 109,
         "stars"         : 83,
         "forks"         : 62,
-        "openIssues"    : 26,
+        "openIssues"    : 21,
         "languages"     : {
-          "TypeScript" : 852146,
+          "TypeScript" : 849768,
           "HTML" : 15997,
           "CSS" : 48222,
           "JavaScript" : 338849
@@ -4110,7 +4110,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asr-toolkit",
           "heat"          : 36,
           "watchers"      : 1,
-          "size"          : 190,
+          "size"          : 199,
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 2,
@@ -4125,7 +4125,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 36,
         "watchers"      : 1,
-        "size"          : 190,
+        "size"          : 199,
         "collaborators" : 6,
         "stars"         : 1,
         "forks"         : 2,
