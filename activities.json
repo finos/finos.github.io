@@ -151,15 +151,15 @@
           "gitHubURL"     : "https://github.com/FDC3/appd-poc",
           "heat"          : 177,
           "watchers"      : 0,
-          "size"          : 62,
+          "size"          : 82,
           "collaborators" : 43,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 82889,
+            "Java" : 90084,
             "Dockerfile" : 763,
-            "Shell" : 641
+            "Shell" : 1104
           }
         },
         {
@@ -190,15 +190,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 738,
         "watchers"      : 3,
-        "size"          : 103,
+        "size"          : 123,
         "collaborators" : 173,
         "stars"         : 3,
         "forks"         : 8,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 82889,
+          "Java" : 90084,
           "Dockerfile" : 763,
-          "Shell" : 641
+          "Shell" : 1104
         }
       },
       "mailingLists"       : [
@@ -673,15 +673,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 505,
           "watchers"      : 73,
-          "size"          : 2093,
+          "size"          : 2098,
           "collaborators" : 36,
           "stars"         : 73,
           "forks"         : 43,
-          "openIssues"    : 20,
+          "openIssues"    : 19,
           "languages"     : {
             "TypeScript" : 406102,
             "HTML" : 11245,
-            "JavaScript" : 322287
+            "JavaScript" : 322189
           }
         },
         {
@@ -690,7 +690,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 256,
           "watchers"      : 9,
-          "size"          : 1614,
+          "size"          : 1599,
           "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 18,
@@ -723,16 +723,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 912,
         "watchers"      : 83,
-        "size"          : 3864,
+        "size"          : 3854,
         "collaborators" : 109,
         "stars"         : 83,
         "forks"         : 62,
-        "openIssues"    : 21,
+        "openIssues"    : 20,
         "languages"     : {
           "TypeScript" : 849768,
           "HTML" : 15997,
           "CSS" : 48222,
-          "JavaScript" : 338849
+          "JavaScript" : 338751
         }
       }
     },
@@ -859,13 +859,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 163,
           "watchers"      : 7,
-          "size"          : 5862,
+          "size"          : 5867,
           "collaborators" : 36,
           "stars"         : 7,
           "forks"         : 1,
           "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 116893,
+            "TypeScript" : 116970,
             "CSS" : 28538,
             "HTML" : 7124,
             "Gherkin" : 120,
@@ -876,13 +876,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 163,
         "watchers"      : 7,
-        "size"          : 5862,
+        "size"          : 5867,
         "collaborators" : 36,
         "stars"         : 7,
         "forks"         : 1,
         "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 116893,
+          "TypeScript" : 116970,
           "CSS" : 28538,
           "HTML" : 7124,
           "Gherkin" : 120,
@@ -942,23 +942,23 @@
           "name"          : "reference-foss-policy",
           "description"   : "Reference FOSS Policy for Financial Services Institutions",
           "gitHubURL"     : "https://github.com/finos-osr/reference-foss-policy",
-          "heat"          : 12,
+          "heat"          : 17,
           "watchers"      : 0,
           "size"          : 78,
           "collaborators" : 3,
           "stars"         : 0,
-          "forks"         : 0,
-          "openIssues"    : 0
+          "forks"         : 1,
+          "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 12,
+        "heat"          : 17,
         "watchers"      : 0,
         "size"          : 78,
         "collaborators" : 3,
         "stars"         : 0,
-        "forks"         : 0,
-        "openIssues"    : 0
+        "forks"         : 1,
+        "openIssues"    : 1
       }
     },
     {
@@ -2061,28 +2061,30 @@
           "gitHubURL"     : "https://github.com/symphonyoss/bot-unfurl",
           "heat"          : 35,
           "watchers"      : 4,
-          "size"          : 726,
+          "size"          : 729,
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 3,
-          "openIssues"    : 4,
+          "openIssues"    : 2,
           "languages"     : {
-            "Shell" : 993,
-            "Clojure" : 39986
+            "Dockerfile" : 401,
+            "Shell" : 1007,
+            "Clojure" : 39675
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 35,
         "watchers"      : 4,
-        "size"          : 726,
+        "size"          : 729,
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 3,
-        "openIssues"    : 4,
+        "openIssues"    : 2,
         "languages"     : {
-          "Shell" : 993,
-          "Clojure" : 39986
+          "Dockerfile" : 401,
+          "Shell" : 1007,
+          "Clojure" : 39675
         }
       }
     },
@@ -2291,21 +2293,29 @@
           "gitHubURL"     : "https://github.com/symphonyoss/click-to-call-integration",
           "heat"          : 34,
           "watchers"      : 2,
-          "size"          : 5,
+          "size"          : 23,
           "collaborators" : 5,
           "stars"         : 2,
           "forks"         : 2,
-          "openIssues"    : 1
+          "openIssues"    : 0,
+          "languages"     : {
+            "HTML" : 1812,
+            "JavaScript" : 4608
+          }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 34,
         "watchers"      : 2,
-        "size"          : 5,
+        "size"          : 23,
         "collaborators" : 5,
         "stars"         : 2,
         "forks"         : 2,
-        "openIssues"    : 1
+        "openIssues"    : 0,
+        "languages"     : {
+          "HTML" : 1812,
+          "JavaScript" : 4608
+        }
       }
     },
     {
@@ -2539,7 +2549,7 @@
           "collaborators" : 7,
           "stars"         : 31,
           "forks"         : 27,
-          "openIssues"    : 10,
+          "openIssues"    : 11,
           "languages"     : {
             "Java" : 695383,
             "Shell" : 1987
@@ -2564,11 +2574,11 @@
           "name"          : "symphony-java-sample-bots",
           "description"   : "A set of simple Bots for Symphony, implemented in Java.",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-sample-bots",
-          "heat"          : 111,
-          "watchers"      : 20,
+          "heat"          : 113,
+          "watchers"      : 21,
           "size"          : 932,
           "collaborators" : 4,
-          "stars"         : 20,
+          "stars"         : 21,
           "forks"         : 11,
           "openIssues"    : 4,
           "languages"     : {
@@ -2578,13 +2588,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 390,
-        "watchers"      : 53,
+        "heat"          : 392,
+        "watchers"      : 54,
         "size"          : 3503,
         "collaborators" : 16,
-        "stars"         : 53,
+        "stars"         : 54,
         "forks"         : 44,
-        "openIssues"    : 14,
+        "openIssues"    : 15,
         "languages"     : {
           "Java" : 718953,
           "Shell" : 4382
@@ -2649,12 +2659,12 @@
           "name"          : "python-symphony",
           "description"   : "An importable class that provides methods and objects for interacting with the Symphony Agent API from python",
           "gitHubURL"     : "https://github.com/symphonyoss/python-symphony",
-          "heat"          : 70,
+          "heat"          : 75,
           "watchers"      : 12,
           "size"          : 181,
           "collaborators" : 4,
           "stars"         : 12,
-          "forks"         : 6,
+          "forks"         : 7,
           "openIssues"    : 6,
           "languages"     : {
             "Shell" : 11,
@@ -2681,12 +2691,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 96,
+        "heat"          : 101,
         "watchers"      : 12,
         "size"          : 226,
         "collaborators" : 8,
         "stars"         : 12,
-        "forks"         : 8,
+        "forks"         : 9,
         "openIssues"    : 6,
         "languages"     : {
           "Shell" : 22,
@@ -2935,7 +2945,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 1393,
+          "size"          : 1452,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
@@ -2968,7 +2978,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 99,
+          "size"          : 148,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -2981,7 +2991,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 71,
         "watchers"      : 0,
-        "size"          : 1544,
+        "size"          : 1652,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 3,
@@ -4110,30 +4120,30 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asr-toolkit",
           "heat"          : 36,
           "watchers"      : 1,
-          "size"          : 199,
+          "size"          : 179,
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 2,
-          "openIssues"    : 8,
+          "openIssues"    : 0,
           "languages"     : {
-            "Dockerfile" : 344,
+            "Dockerfile" : 371,
             "Shell" : 37,
-            "Python" : 26377
+            "Python" : 45437
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 36,
         "watchers"      : 1,
-        "size"          : 199,
+        "size"          : 179,
         "collaborators" : 6,
         "stars"         : 1,
         "forks"         : 2,
-        "openIssues"    : 8,
+        "openIssues"    : 0,
         "languages"     : {
-          "Dockerfile" : 344,
+          "Dockerfile" : 371,
           "Shell" : 37,
-          "Python" : 26377
+          "Python" : 45437
         }
       }
     },
@@ -4232,21 +4242,21 @@
           "name"          : "voice-metadata-standard",
           "description"   : "",
           "gitHubURL"     : "https://github.com/finos-voice/voice-metadata-standard",
-          "heat"          : 16,
-          "watchers"      : 0,
+          "heat"          : 18,
+          "watchers"      : 1,
           "size"          : 9,
           "collaborators" : 4,
-          "stars"         : 0,
+          "stars"         : 1,
           "forks"         : 0,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 16,
-        "watchers"      : 0,
+        "heat"          : 18,
+        "watchers"      : 1,
         "size"          : 9,
         "collaborators" : 4,
-        "stars"         : 0,
+        "stars"         : 1,
         "forks"         : 0,
         "openIssues"    : 0
       },
