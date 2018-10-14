@@ -151,7 +151,7 @@
           "gitHubURL"     : "https://github.com/FDC3/appd-poc",
           "heat"          : 177,
           "watchers"      : 0,
-          "size"          : 82,
+          "size"          : 86,
           "collaborators" : 43,
           "stars"         : 0,
           "forks"         : 1,
@@ -159,7 +159,7 @@
           "languages"     : {
             "Java" : 90084,
             "Dockerfile" : 763,
-            "Shell" : 1104
+            "Shell" : 1205
           }
         },
         {
@@ -190,7 +190,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 738,
         "watchers"      : 3,
-        "size"          : 123,
+        "size"          : 127,
         "collaborators" : 173,
         "stars"         : 3,
         "forks"         : 8,
@@ -198,7 +198,7 @@
         "languages"     : {
           "Java" : 90084,
           "Dockerfile" : 763,
-          "Shell" : 1104
+          "Shell" : 1205
         }
       },
       "mailingLists"       : [
@@ -2978,7 +2978,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 148,
+          "size"          : 183,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -2991,7 +2991,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 71,
         "watchers"      : 0,
-        "size"          : 1652,
+        "size"          : 1687,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 3,
