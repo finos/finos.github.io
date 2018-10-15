@@ -93,26 +93,26 @@
           "name"          : "API",
           "description"   : "API Working Group repository",
           "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 220,
+          "heat"          : 225,
           "watchers"      : 4,
           "size"          : 270,
           "collaborators" : 43,
           "stars"         : 4,
-          "forks"         : 8,
-          "openIssues"    : 3,
+          "forks"         : 9,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 4748
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 220,
+        "heat"          : 225,
         "watchers"      : 4,
         "size"          : 270,
         "collaborators" : 43,
         "stars"         : 4,
-        "forks"         : 8,
-        "openIssues"    : 3,
+        "forks"         : 9,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 4748
         }
@@ -303,23 +303,23 @@
           "name"          : "Intents",
           "description"   : "FDC3 Intents specifications, schemas, and examples",
           "gitHubURL"     : "https://github.com/FDC3/Intents",
-          "heat"          : 200,
+          "heat"          : 205,
           "watchers"      : 4,
           "size"          : 13,
           "collaborators" : 43,
           "stars"         : 4,
-          "forks"         : 4,
-          "openIssues"    : 1
+          "forks"         : 5,
+          "openIssues"    : 5
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 200,
+        "heat"          : 205,
         "watchers"      : 4,
         "size"          : 13,
         "collaborators" : 43,
         "stars"         : 4,
-        "forks"         : 4,
-        "openIssues"    : 1
+        "forks"         : 5,
+        "openIssues"    : 5
       },
       "mailingLists"       : [
         {
@@ -673,11 +673,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 505,
           "watchers"      : 73,
-          "size"          : 2098,
+          "size"          : 2097,
           "collaborators" : 36,
           "stars"         : 73,
           "forks"         : 43,
-          "openIssues"    : 19,
+          "openIssues"    : 20,
           "languages"     : {
             "TypeScript" : 406102,
             "HTML" : 11245,
@@ -723,11 +723,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 912,
         "watchers"      : 83,
-        "size"          : 3854,
+        "size"          : 3853,
         "collaborators" : 109,
         "stars"         : 83,
         "forks"         : 62,
-        "openIssues"    : 20,
+        "openIssues"    : 21,
         "languages"     : {
           "TypeScript" : 849768,
           "HTML" : 15997,
@@ -797,13 +797,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 225,
           "watchers"      : 8,
-          "size"          : 1501,
+          "size"          : 1508,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 13,
           "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 389795,
+            "TypeScript" : 393126,
             "CSS" : 16466,
             "HTML" : 13795,
             "JavaScript" : 9797
@@ -831,13 +831,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 379,
         "watchers"      : 8,
-        "size"          : 1565,
+        "size"          : 1572,
         "collaborators" : 72,
         "stars"         : 8,
         "forks"         : 15,
         "openIssues"    : 4,
         "languages"     : {
-          "TypeScript" : 405999,
+          "TypeScript" : 409330,
           "CSS" : 21055,
           "HTML" : 15088,
           "JavaScript" : 11323
@@ -942,21 +942,21 @@
           "name"          : "reference-foss-policy",
           "description"   : "Reference FOSS Policy for Financial Services Institutions",
           "gitHubURL"     : "https://github.com/finos-osr/reference-foss-policy",
-          "heat"          : 17,
-          "watchers"      : 0,
+          "heat"          : 19,
+          "watchers"      : 1,
           "size"          : 78,
           "collaborators" : 3,
-          "stars"         : 0,
+          "stars"         : 1,
           "forks"         : 1,
           "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 17,
-        "watchers"      : 0,
+        "heat"          : 19,
+        "watchers"      : 1,
         "size"          : 78,
         "collaborators" : 3,
-        "stars"         : 0,
+        "stars"         : 1,
         "forks"         : 1,
         "openIssues"    : 1
       }
@@ -2549,7 +2549,7 @@
           "collaborators" : 7,
           "stars"         : 31,
           "forks"         : 27,
-          "openIssues"    : 11,
+          "openIssues"    : 10,
           "languages"     : {
             "Java" : 695383,
             "Shell" : 1987
@@ -2594,7 +2594,7 @@
         "collaborators" : 16,
         "stars"         : 54,
         "forks"         : 44,
-        "openIssues"    : 15,
+        "openIssues"    : 14,
         "languages"     : {
           "Java" : 718953,
           "Shell" : 4382
@@ -2945,7 +2945,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 1452,
+          "size"          : 1456,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
@@ -2978,7 +2978,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 183,
+          "size"          : 126,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -2991,7 +2991,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 71,
         "watchers"      : 0,
-        "size"          : 1687,
+        "size"          : 1634,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 3,
@@ -3138,13 +3138,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Core",
           "heat"          : 91,
           "watchers"      : 4,
-          "size"          : 12117,
+          "size"          : 12118,
           "collaborators" : 12,
           "stars"         : 4,
           "forks"         : 7,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "Java" : 1138230,
+            "Java" : 1138331,
             "Shell" : 1870,
             "JavaScript" : 820
           }
@@ -3184,13 +3184,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 275,
         "watchers"      : 8,
-        "size"          : 55533,
+        "size"          : 55534,
         "collaborators" : 41,
         "stars"         : 8,
         "forks"         : 19,
-        "openIssues"    : 5,
+        "openIssues"    : 4,
         "languages"     : {
-          "Java" : 1867948,
+          "Java" : 1868049,
           "Shell" : 1870,
           "CSS" : 13989,
           "HTML" : 651,
@@ -4118,32 +4118,32 @@
           "name"          : "greenkey-asrtoolkit",
           "description"   : "A collection of useful tools for handling speech recognition data",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asr-toolkit",
-          "heat"          : 36,
+          "heat"          : 40,
           "watchers"      : 1,
           "size"          : 179,
-          "collaborators" : 6,
+          "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 2,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Dockerfile" : 371,
             "Shell" : 37,
-            "Python" : 45437
+            "Python" : 45665
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 36,
+        "heat"          : 40,
         "watchers"      : 1,
         "size"          : 179,
-        "collaborators" : 6,
+        "collaborators" : 7,
         "stars"         : 1,
         "forks"         : 2,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "Dockerfile" : 371,
           "Shell" : 37,
-          "Python" : 45437
+          "Python" : 45665
         }
       }
     },
