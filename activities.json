@@ -93,26 +93,26 @@
           "name"          : "API",
           "description"   : "API Working Group repository",
           "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 225,
+          "heat"          : 230,
           "watchers"      : 4,
           "size"          : 270,
           "collaborators" : 43,
           "stars"         : 4,
-          "forks"         : 9,
-          "openIssues"    : 4,
+          "forks"         : 10,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 4748
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 225,
+        "heat"          : 230,
         "watchers"      : 4,
         "size"          : 270,
         "collaborators" : 43,
         "stars"         : 4,
-        "forks"         : 9,
-        "openIssues"    : 4,
+        "forks"         : 10,
+        "openIssues"    : 6,
         "languages"     : {
           "TypeScript" : 4748
         }
@@ -673,15 +673,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 505,
           "watchers"      : 73,
-          "size"          : 2097,
+          "size"          : 2111,
           "collaborators" : 36,
           "stars"         : 73,
           "forks"         : 43,
-          "openIssues"    : 20,
+          "openIssues"    : 16,
           "languages"     : {
-            "TypeScript" : 406102,
+            "TypeScript" : 407698,
             "HTML" : 11245,
-            "JavaScript" : 322189
+            "JavaScript" : 323186
           }
         },
         {
@@ -694,7 +694,7 @@
           "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 18,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 338619,
             "HTML" : 2364,
@@ -723,16 +723,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 912,
         "watchers"      : 83,
-        "size"          : 3853,
+        "size"          : 3867,
         "collaborators" : 109,
         "stars"         : 83,
         "forks"         : 62,
-        "openIssues"    : 21,
+        "openIssues"    : 18,
         "languages"     : {
-          "TypeScript" : 849768,
+          "TypeScript" : 851364,
           "HTML" : 15997,
           "CSS" : 48222,
-          "JavaScript" : 338751
+          "JavaScript" : 339748
         }
       }
     },
@@ -797,15 +797,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 225,
           "watchers"      : 8,
-          "size"          : 1508,
+          "size"          : 1533,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 13,
           "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 393126,
+            "TypeScript" : 384183,
             "CSS" : 16466,
-            "HTML" : 13795,
+            "HTML" : 13349,
             "JavaScript" : 9797
           }
         },
@@ -831,15 +831,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 379,
         "watchers"      : 8,
-        "size"          : 1572,
+        "size"          : 1597,
         "collaborators" : 72,
         "stars"         : 8,
         "forks"         : 15,
         "openIssues"    : 4,
         "languages"     : {
-          "TypeScript" : 409330,
+          "TypeScript" : 400387,
           "CSS" : 21055,
-          "HTML" : 15088,
+          "HTML" : 14642,
           "JavaScript" : 11323
         }
       }
@@ -942,22 +942,22 @@
           "name"          : "reference-foss-policy",
           "description"   : "Reference FOSS Policy for Financial Services Institutions",
           "gitHubURL"     : "https://github.com/finos-osr/reference-foss-policy",
-          "heat"          : 19,
+          "heat"          : 24,
           "watchers"      : 1,
-          "size"          : 78,
+          "size"          : 85,
           "collaborators" : 3,
           "stars"         : 1,
-          "forks"         : 1,
+          "forks"         : 2,
           "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 19,
+        "heat"          : 24,
         "watchers"      : 1,
-        "size"          : 78,
+        "size"          : 85,
         "collaborators" : 3,
         "stars"         : 1,
-        "forks"         : 1,
+        "forks"         : 2,
         "openIssues"    : 1
       }
     },
@@ -989,20 +989,20 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 728,
           "watchers"      : 238,
-          "size"          : 6086,
+          "size"          : 6177,
           "collaborators" : 8,
           "stars"         : 238,
           "forks"         : 44,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 1066177,
+            "TypeScript" : 1143451,
             "C#" : 1558256,
-            "Xtend" : 218490,
-            "Java" : 74698,
+            "Xtend" : 218575,
+            "Java" : 75301,
             "Shell" : 550,
             "CSS" : 555,
             "Batchfile" : 11083,
-            "JavaScript" : 1025341,
+            "JavaScript" : 1032161,
             "HTML" : 13671
           }
         },
@@ -1025,20 +1025,20 @@
       "cumulativeGitHubStats" : {
         "heat"          : 759,
         "watchers"      : 239,
-        "size"          : 6248,
+        "size"          : 6339,
         "collaborators" : 14,
         "stars"         : 239,
         "forks"         : 45,
         "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 1087769,
+          "TypeScript" : 1165043,
           "C#" : 1558256,
-          "Xtend" : 218490,
-          "Java" : 74698,
+          "Xtend" : 218575,
+          "Java" : 75301,
           "Shell" : 550,
           "CSS" : 555,
           "Batchfile" : 11083,
-          "JavaScript" : 1025341,
+          "JavaScript" : 1032161,
           "HTML" : 13671
         }
       }
@@ -2543,13 +2543,13 @@
           "name"          : "symphony-java-client",
           "description"   : "Java client library for Symphony",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-client",
-          "heat"          : 225,
-          "watchers"      : 31,
-          "size"          : 2447,
+          "heat"          : 227,
+          "watchers"      : 32,
+          "size"          : 2452,
           "collaborators" : 7,
-          "stars"         : 31,
+          "stars"         : 32,
           "forks"         : 27,
-          "openIssues"    : 10,
+          "openIssues"    : 9,
           "languages"     : {
             "Java" : 695383,
             "Shell" : 1987
@@ -2574,12 +2574,12 @@
           "name"          : "symphony-java-sample-bots",
           "description"   : "A set of simple Bots for Symphony, implemented in Java.",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-sample-bots",
-          "heat"          : 113,
-          "watchers"      : 21,
+          "heat"          : 120,
+          "watchers"      : 22,
           "size"          : 932,
           "collaborators" : 4,
-          "stars"         : 21,
-          "forks"         : 11,
+          "stars"         : 22,
+          "forks"         : 12,
           "openIssues"    : 4,
           "languages"     : {
             "Java" : 23570,
@@ -2588,13 +2588,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 392,
-        "watchers"      : 54,
-        "size"          : 3503,
+        "heat"          : 401,
+        "watchers"      : 56,
+        "size"          : 3508,
         "collaborators" : 16,
-        "stars"         : 54,
-        "forks"         : 44,
-        "openIssues"    : 14,
+        "stars"         : 56,
+        "forks"         : 45,
+        "openIssues"    : 13,
         "languages"     : {
           "Java" : 718953,
           "Shell" : 4382
@@ -2943,15 +2943,15 @@
           "name"          : "fugue",
           "description"   : "Kubenetes Base Cloud Platform Abstraction",
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
-          "heat"          : 25,
+          "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1456,
+          "size"          : 1205,
           "collaborators" : 5,
           "stars"         : 0,
-          "forks"         : 1,
+          "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 578236,
+            "Java" : 602367,
             "CSS" : 29377,
             "Shell" : 26563,
             "HTML" : 16297
@@ -2978,30 +2978,30 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 126,
+          "size"          : 112,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Groovy" : 89437
+            "Groovy" : 179896
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 71,
+        "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1634,
+        "size"          : 1369,
         "collaborators" : 14,
         "stars"         : 0,
-        "forks"         : 3,
+        "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 601062,
+          "Java" : 625193,
           "CSS" : 29377,
           "Shell" : 26563,
           "HTML" : 16297,
-          "Groovy" : 89437
+          "Groovy" : 179896
         }
       }
     },
@@ -3599,12 +3599,12 @@
           "name"          : "JCurl",
           "description"   : "JSON-aware curl (1) in Java",
           "gitHubURL"     : "https://github.com/symphonyoss/JCurl",
-          "heat"          : 108,
+          "heat"          : 113,
           "watchers"      : 11,
           "size"          : 66,
           "collaborators" : 4,
           "stars"         : 11,
-          "forks"         : 14,
+          "forks"         : 15,
           "openIssues"    : 9,
           "languages"     : {
             "Java" : 60780,
@@ -3613,12 +3613,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 108,
+        "heat"          : 113,
         "watchers"      : 11,
         "size"          : 66,
         "collaborators" : 4,
         "stars"         : 11,
-        "forks"         : 14,
+        "forks"         : 15,
         "openIssues"    : 9,
         "languages"     : {
           "Java" : 60780,
@@ -3998,7 +3998,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 259,
           "watchers"      : 27,
-          "size"          : 30889,
+          "size"          : 30893,
           "collaborators" : 10,
           "stars"         : 27,
           "forks"         : 33,
@@ -4047,7 +4047,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 319,
         "watchers"      : 31,
-        "size"          : 30968,
+        "size"          : 30972,
         "collaborators" : 18,
         "stars"         : 31,
         "forks"         : 37,
@@ -4120,11 +4120,11 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asr-toolkit",
           "heat"          : 40,
           "watchers"      : 1,
-          "size"          : 179,
+          "size"          : 182,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 2,
-          "openIssues"    : 1,
+          "openIssues"    : 3,
           "languages"     : {
             "Dockerfile" : 371,
             "Shell" : 37,
@@ -4135,11 +4135,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 40,
         "watchers"      : 1,
-        "size"          : 179,
+        "size"          : 182,
         "collaborators" : 7,
         "stars"         : 1,
         "forks"         : 2,
-        "openIssues"    : 1,
+        "openIssues"    : 3,
         "languages"     : {
           "Dockerfile" : 371,
           "Shell" : 37,
