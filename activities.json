@@ -93,12 +93,12 @@
           "name"          : "API",
           "description"   : "API Working Group repository",
           "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 230,
+          "heat"          : 235,
           "watchers"      : 4,
           "size"          : 270,
           "collaborators" : 43,
           "stars"         : 4,
-          "forks"         : 10,
+          "forks"         : 11,
           "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 4748
@@ -106,12 +106,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 230,
+        "heat"          : 235,
         "watchers"      : 4,
         "size"          : 270,
         "collaborators" : 43,
         "stars"         : 4,
-        "forks"         : 10,
+        "forks"         : 11,
         "openIssues"    : 6,
         "languages"     : {
           "TypeScript" : 4748
@@ -677,7 +677,7 @@
           "collaborators" : 36,
           "stars"         : 73,
           "forks"         : 43,
-          "openIssues"    : 16,
+          "openIssues"    : 18,
           "languages"     : {
             "TypeScript" : 407698,
             "HTML" : 11245,
@@ -694,7 +694,7 @@
           "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 18,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 338619,
             "HTML" : 2364,
@@ -727,7 +727,7 @@
         "collaborators" : 109,
         "stars"         : 83,
         "forks"         : 62,
-        "openIssues"    : 18,
+        "openIssues"    : 21,
         "languages"     : {
           "TypeScript" : 851364,
           "HTML" : 15997,
@@ -755,7 +755,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
           "heat"          : 281,
           "watchers"      : 23,
-          "size"          : 14599,
+          "size"          : 14610,
           "collaborators" : 40,
           "stars"         : 23,
           "forks"         : 15,
@@ -770,7 +770,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 281,
         "watchers"      : 23,
-        "size"          : 14599,
+        "size"          : 14610,
         "collaborators" : 40,
         "stars"         : 23,
         "forks"         : 15,
@@ -797,16 +797,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 225,
           "watchers"      : 8,
-          "size"          : 1533,
+          "size"          : 1552,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 13,
           "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 384183,
+            "TypeScript" : 397403,
             "CSS" : 16466,
             "HTML" : 13349,
-            "JavaScript" : 9797
+            "JavaScript" : 10017
           }
         },
         {
@@ -831,16 +831,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 379,
         "watchers"      : 8,
-        "size"          : 1597,
+        "size"          : 1616,
         "collaborators" : 72,
         "stars"         : 8,
         "forks"         : 15,
         "openIssues"    : 4,
         "languages"     : {
-          "TypeScript" : 400387,
+          "TypeScript" : 413607,
           "CSS" : 21055,
           "HTML" : 14642,
-          "JavaScript" : 11323
+          "JavaScript" : 11543
         }
       }
     },
@@ -944,7 +944,7 @@
           "gitHubURL"     : "https://github.com/finos-osr/reference-foss-policy",
           "heat"          : 24,
           "watchers"      : 1,
-          "size"          : 85,
+          "size"          : 88,
           "collaborators" : 3,
           "stars"         : 1,
           "forks"         : 2,
@@ -954,7 +954,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 24,
         "watchers"      : 1,
-        "size"          : 85,
+        "size"          : 88,
         "collaborators" : 3,
         "stars"         : 1,
         "forks"         : 2,
@@ -2293,7 +2293,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/click-to-call-integration",
           "heat"          : 34,
           "watchers"      : 2,
-          "size"          : 23,
+          "size"          : 25,
           "collaborators" : 5,
           "stars"         : 2,
           "forks"         : 2,
@@ -2307,7 +2307,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 34,
         "watchers"      : 2,
-        "size"          : 23,
+        "size"          : 25,
         "collaborators" : 5,
         "stars"         : 2,
         "forks"         : 2,
@@ -2549,7 +2549,7 @@
           "collaborators" : 7,
           "stars"         : 32,
           "forks"         : 27,
-          "openIssues"    : 9,
+          "openIssues"    : 11,
           "languages"     : {
             "Java" : 695383,
             "Shell" : 1987
@@ -2594,7 +2594,7 @@
         "collaborators" : 16,
         "stars"         : 56,
         "forks"         : 45,
-        "openIssues"    : 13,
+        "openIssues"    : 15,
         "languages"     : {
           "Java" : 718953,
           "Shell" : 4382
@@ -2842,12 +2842,12 @@
           "name"          : "extension-api-examples",
           "description"   : "Examples on how to use the extension API",
           "gitHubURL"     : "https://github.com/symphonyoss/extension-api-examples",
-          "heat"          : 149,
+          "heat"          : 154,
           "watchers"      : 12,
           "size"          : 1056,
           "collaborators" : 5,
           "stars"         : 12,
-          "forks"         : 21,
+          "forks"         : 22,
           "openIssues"    : 11,
           "languages"     : {
             "HTML" : 6781,
@@ -2869,12 +2869,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 298,
+        "heat"          : 303,
         "watchers"      : 23,
         "size"          : 3816,
         "collaborators" : 23,
         "stars"         : 23,
-        "forks"         : 32,
+        "forks"         : 33,
         "openIssues"    : 24,
         "languages"     : {
           "Java" : 114904,
@@ -3918,7 +3918,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-super-pom",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 34,
+          "size"          : 44,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
@@ -3928,7 +3928,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 64,
         "watchers"      : 0,
-        "size"          : 420,
+        "size"          : 430,
         "collaborators" : 11,
         "stars"         : 0,
         "forks"         : 4,
@@ -4120,30 +4120,30 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asr-toolkit",
           "heat"          : 40,
           "watchers"      : 1,
-          "size"          : 182,
+          "size"          : 188,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 2,
-          "openIssues"    : 3,
+          "openIssues"    : 0,
           "languages"     : {
             "Dockerfile" : 371,
             "Shell" : 37,
-            "Python" : 45665
+            "Python" : 54002
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 40,
         "watchers"      : 1,
-        "size"          : 182,
+        "size"          : 188,
         "collaborators" : 7,
         "stars"         : 1,
         "forks"         : 2,
-        "openIssues"    : 3,
+        "openIssues"    : 0,
         "languages"     : {
           "Dockerfile" : 371,
           "Shell" : 37,
-          "Python" : 45665
+          "Python" : 54002
         }
       }
     },
