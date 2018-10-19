@@ -797,13 +797,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 225,
           "watchers"      : 8,
-          "size"          : 1552,
+          "size"          : 1580,
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 397447,
+            "TypeScript" : 401889,
             "CSS" : 16466,
             "HTML" : 13349,
             "JavaScript" : 10017
@@ -831,13 +831,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 379,
         "watchers"      : 8,
-        "size"          : 1616,
+        "size"          : 1644,
         "collaborators" : 72,
         "stars"         : 8,
         "forks"         : 15,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 413651,
+          "TypeScript" : 418093,
           "CSS" : 21055,
           "HTML" : 14642,
           "JavaScript" : 11543
