@@ -95,26 +95,26 @@
           "gitHubURL"     : "https://github.com/FDC3/api",
           "heat"          : 235,
           "watchers"      : 4,
-          "size"          : 270,
+          "size"          : 260,
           "collaborators" : 43,
           "stars"         : 4,
           "forks"         : 11,
-          "openIssues"    : 6,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 4748
+            "TypeScript" : 4758
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 235,
         "watchers"      : 4,
-        "size"          : 270,
+        "size"          : 260,
         "collaborators" : 43,
         "stars"         : 4,
         "forks"         : 11,
-        "openIssues"    : 6,
+        "openIssues"    : 4,
         "languages"     : {
-          "TypeScript" : 4748
+          "TypeScript" : 4758
         }
       },
       "mailingLists"       : [
@@ -801,9 +801,9 @@
           "collaborators" : 36,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 397403,
+            "TypeScript" : 397447,
             "CSS" : 16466,
             "HTML" : 13349,
             "JavaScript" : 10017
@@ -835,9 +835,9 @@
         "collaborators" : 72,
         "stars"         : 8,
         "forks"         : 15,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 413607,
+          "TypeScript" : 413651,
           "CSS" : 21055,
           "HTML" : 14642,
           "JavaScript" : 11543
@@ -4120,30 +4120,30 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asr-toolkit",
           "heat"          : 40,
           "watchers"      : 1,
-          "size"          : 188,
+          "size"          : 254,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "Dockerfile" : 371,
+            "Dockerfile" : 520,
             "Shell" : 37,
-            "Python" : 54002
+            "Python" : 54086
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 40,
         "watchers"      : 1,
-        "size"          : 188,
+        "size"          : 254,
         "collaborators" : 7,
         "stars"         : 1,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Dockerfile" : 371,
+          "Dockerfile" : 520,
           "Shell" : 37,
-          "Python" : 54002
+          "Python" : 54086
         }
       }
     },
