@@ -16,21 +16,21 @@
           "name"          : "coding-standards",
           "description"   : "Coding standards used within the Data Technologies program",
           "gitHubURL"     : "https://github.com/finos-data-tech/coding-standards",
-          "heat"          : 0,
-          "watchers"      : 0,
+          "heat"          : 6,
+          "watchers"      : 1,
           "size"          : 5,
-          "collaborators" : 0,
-          "stars"         : 0,
+          "collaborators" : 1,
+          "stars"         : 1,
           "forks"         : 0,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 0,
-        "watchers"      : 0,
+        "heat"          : 6,
+        "watchers"      : 1,
         "size"          : 5,
-        "collaborators" : 0,
-        "stars"         : 0,
+        "collaborators" : 1,
+        "stars"         : 1,
         "forks"         : 0,
         "openIssues"    : 0
       }
@@ -227,7 +227,7 @@
           "collaborators" : 43,
           "stars"         : 4,
           "forks"         : 5,
-          "openIssues"    : 0
+          "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
@@ -237,7 +237,7 @@
         "collaborators" : 43,
         "stars"         : 4,
         "forks"         : 5,
-        "openIssues"    : 0
+        "openIssues"    : 2
       },
       "mailingLists"       : [
         {
@@ -673,7 +673,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 505,
           "watchers"      : 73,
-          "size"          : 2142,
+          "size"          : 2151,
           "collaborators" : 36,
           "stars"         : 73,
           "forks"         : 43,
@@ -723,7 +723,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 912,
         "watchers"      : 83,
-        "size"          : 3898,
+        "size"          : 3907,
         "collaborators" : 109,
         "stars"         : 83,
         "forks"         : 62,
@@ -2945,13 +2945,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1213,
+          "size"          : 1222,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 602733,
+            "Java" : 603597,
             "CSS" : 29377,
             "Shell" : 26563,
             "HTML" : 16297
@@ -2978,7 +2978,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 249,
+          "size"          : 254,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -2991,13 +2991,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1514,
+        "size"          : 1528,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 625559,
+          "Java" : 626423,
           "CSS" : 29377,
           "Shell" : 26563,
           "HTML" : 16297,
@@ -3644,7 +3644,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
           "heat"          : 89,
           "watchers"      : 3,
-          "size"          : 359,
+          "size"          : 361,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 11,
@@ -3657,7 +3657,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 89,
         "watchers"      : 3,
-        "size"          : 359,
+        "size"          : 361,
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 11,
@@ -3998,7 +3998,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 259,
           "watchers"      : 27,
-          "size"          : 30893,
+          "size"          : 30895,
           "collaborators" : 10,
           "stars"         : 27,
           "forks"         : 33,
@@ -4047,7 +4047,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 319,
         "watchers"      : 31,
-        "size"          : 30972,
+        "size"          : 30974,
         "collaborators" : 18,
         "stars"         : 31,
         "forks"         : 37,
