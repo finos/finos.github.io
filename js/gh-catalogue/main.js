@@ -28,6 +28,8 @@ function renderScreen() {
     $("#navbar").hide();
     $("#sidebar").hide();
     $("#activity-recap").hide();
+    $("#activity-container").addClass("col-sm-12");
+    $("#activity-container").removeClass("col-sm-9");
   }
 }
 
