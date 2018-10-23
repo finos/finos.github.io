@@ -13,24 +13,24 @@
       ],
       "gitHubRepos"          : [
         {
-          "name"          : "coding-standards",
-          "description"   : "Coding standards used within the Data Technologies program",
+          "name"          : "kdb",
+          "description"   : "kdb+ Working Group from FINOS Data Technologies program",
           "gitHubURL"     : "https://github.com/finos-data-tech/coding-standards",
-          "heat"          : 6,
-          "watchers"      : 1,
+          "heat"          : 12,
+          "watchers"      : 2,
           "size"          : 5,
-          "collaborators" : 1,
-          "stars"         : 1,
+          "collaborators" : 2,
+          "stars"         : 2,
           "forks"         : 0,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 6,
-        "watchers"      : 1,
+        "heat"          : 12,
+        "watchers"      : 2,
         "size"          : 5,
-        "collaborators" : 1,
-        "stars"         : 1,
+        "collaborators" : 2,
+        "stars"         : 2,
         "forks"         : 0,
         "openIssues"    : 0
       }
@@ -221,21 +221,21 @@
           "name"          : "ContextData",
           "description"   : "Context data object specifications, schemas, and examples",
           "gitHubURL"     : "https://github.com/FDC3/ContextData",
-          "heat"          : 205,
-          "watchers"      : 4,
+          "heat"          : 207,
+          "watchers"      : 5,
           "size"          : 111,
           "collaborators" : 43,
-          "stars"         : 4,
+          "stars"         : 5,
           "forks"         : 5,
           "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 205,
-        "watchers"      : 4,
+        "heat"          : 207,
+        "watchers"      : 5,
         "size"          : 111,
         "collaborators" : 43,
-        "stars"         : 4,
+        "stars"         : 5,
         "forks"         : 5,
         "openIssues"    : 2
       },
@@ -586,10 +586,10 @@
           "name"          : "app-template",
           "description"   : "A simple unopinionated Hadouken application template.",
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
-          "heat"          : 197,
+          "heat"          : 201,
           "watchers"      : 9,
           "size"          : 166,
-          "collaborators" : 36,
+          "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 7,
           "openIssues"    : 2,
@@ -600,10 +600,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 197,
+        "heat"          : 201,
         "watchers"      : 9,
         "size"          : 166,
-        "collaborators" : 36,
+        "collaborators" : 37,
         "stars"         : 9,
         "forks"         : 7,
         "openIssues"    : 2,
@@ -630,10 +630,10 @@
           "name"          : "service-utils",
           "description"   : "all things common across desktop services - build/deploy utils, etc.",
           "gitHubURL"     : "https://github.com/HadoukenIO/service-utils",
-          "heat"          : 146,
+          "heat"          : 150,
           "watchers"      : 1,
           "size"          : 2,
-          "collaborators" : 36,
+          "collaborators" : 37,
           "stars"         : 1,
           "forks"         : 0,
           "openIssues"    : 0,
@@ -643,10 +643,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 146,
+        "heat"          : 150,
         "watchers"      : 1,
         "size"          : 2,
-        "collaborators" : 36,
+        "collaborators" : 37,
         "stars"         : 1,
         "forks"         : 0,
         "openIssues"    : 0,
@@ -671,27 +671,27 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 505,
+          "heat"          : 509,
           "watchers"      : 73,
-          "size"          : 2151,
-          "collaborators" : 36,
+          "size"          : 2169,
+          "collaborators" : 37,
           "stars"         : 73,
           "forks"         : 43,
           "openIssues"    : 18,
           "languages"     : {
             "TypeScript" : 407698,
             "HTML" : 11245,
-            "JavaScript" : 323186
+            "JavaScript" : 324540
           }
         },
         {
           "name"          : "js-adapter",
           "description"   : "Hadouken Node Adapter",
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
-          "heat"          : 256,
+          "heat"          : 260,
           "watchers"      : 9,
           "size"          : 1599,
-          "collaborators" : 37,
+          "collaborators" : 38,
           "stars"         : 9,
           "forks"         : 18,
           "openIssues"    : 3,
@@ -705,10 +705,10 @@
           "name"          : "fdc3-service",
           "description"   : "FDC3 Service for OpenFin",
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
-          "heat"          : 151,
+          "heat"          : 155,
           "watchers"      : 1,
           "size"          : 157,
-          "collaborators" : 36,
+          "collaborators" : 37,
           "stars"         : 1,
           "forks"         : 1,
           "openIssues"    : 0,
@@ -721,10 +721,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 912,
+        "heat"          : 924,
         "watchers"      : 83,
-        "size"          : 3907,
-        "collaborators" : 109,
+        "size"          : 3925,
+        "collaborators" : 112,
         "stars"         : 83,
         "forks"         : 62,
         "openIssues"    : 21,
@@ -732,7 +732,7 @@
           "TypeScript" : 851364,
           "HTML" : 15997,
           "CSS" : 48222,
-          "JavaScript" : 339748
+          "JavaScript" : 341102
         }
       }
     },
@@ -753,12 +753,12 @@
           "name"          : "symphony-of",
           "description"   : "OpenFin Sym Integration",
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
-          "heat"          : 281,
+          "heat"          : 290,
           "watchers"      : 23,
           "size"          : 14610,
-          "collaborators" : 40,
+          "collaborators" : 41,
           "stars"         : 23,
-          "forks"         : 15,
+          "forks"         : 16,
           "openIssues"    : 3,
           "languages"     : {
             "HTML" : 34974,
@@ -768,12 +768,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 281,
+        "heat"          : 290,
         "watchers"      : 23,
         "size"          : 14610,
-        "collaborators" : 40,
+        "collaborators" : 41,
         "stars"         : 23,
-        "forks"         : 15,
+        "forks"         : 16,
         "openIssues"    : 3,
         "languages"     : {
           "HTML" : 34974,
@@ -795,10 +795,10 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 225,
+          "heat"          : 229,
           "watchers"      : 8,
           "size"          : 1621,
-          "collaborators" : 36,
+          "collaborators" : 37,
           "stars"         : 8,
           "forks"         : 13,
           "openIssues"    : 1,
@@ -813,10 +813,10 @@
           "name"          : "layouts-tabstrip",
           "description"   : "Repository for the tabstrip used by default in the OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-tabstrip",
-          "heat"          : 154,
+          "heat"          : 158,
           "watchers"      : 0,
           "size"          : 64,
-          "collaborators" : 36,
+          "collaborators" : 37,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
@@ -829,10 +829,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 379,
+        "heat"          : 387,
         "watchers"      : 8,
         "size"          : 1685,
-        "collaborators" : 72,
+        "collaborators" : 74,
         "stars"         : 8,
         "forks"         : 15,
         "openIssues"    : 1,
@@ -857,10 +857,10 @@
           "name"          : "notifications-service",
           "description"   : "Notifications Desktop Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
-          "heat"          : 163,
+          "heat"          : 167,
           "watchers"      : 7,
           "size"          : 5867,
-          "collaborators" : 36,
+          "collaborators" : 37,
           "stars"         : 7,
           "forks"         : 1,
           "openIssues"    : 1,
@@ -874,10 +874,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 163,
+        "heat"          : 167,
         "watchers"      : 7,
         "size"          : 5867,
-        "collaborators" : 36,
+        "collaborators" : 37,
         "stars"         : 7,
         "forks"         : 1,
         "openIssues"    : 1,
@@ -906,20 +906,20 @@
           "name"          : "zero-downtime-trading-web-ux",
           "description"   : "Showcases how the OpenFin API, in conjunction with the ODP OpenShift Infrastructure and APIs, can create a powerful experience to live-reload an app and swap its environment from production to UAT",
           "gitHubURL"     : "https://github.com/HadoukenIO/zero-downtime-trading-web-ux",
-          "heat"          : 162,
+          "heat"          : 166,
           "watchers"      : 0,
           "size"          : 17,
-          "collaborators" : 38,
+          "collaborators" : 39,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 162,
+        "heat"          : 166,
         "watchers"      : 0,
         "size"          : 17,
-        "collaborators" : 38,
+        "collaborators" : 39,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 1
@@ -1587,11 +1587,11 @@
           "name"          : "helpdesk-bot",
           "description"   : "Symphony HelpDesk BOT ",
           "gitHubURL"     : "https://github.com/symphonyoss/helpdesk-bot",
-          "heat"          : 39,
-          "watchers"      : 5,
+          "heat"          : 41,
+          "watchers"      : 6,
           "size"          : 191060,
           "collaborators" : 6,
-          "stars"         : 5,
+          "stars"         : 6,
           "forks"         : 1,
           "openIssues"    : 7,
           "languages"     : {
@@ -1601,11 +1601,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 39,
-        "watchers"      : 5,
+        "heat"          : 41,
+        "watchers"      : 6,
         "size"          : 191060,
         "collaborators" : 6,
-        "stars"         : 5,
+        "stars"         : 6,
         "forks"         : 1,
         "openIssues"    : 7,
         "languages"     : {
@@ -2417,26 +2417,26 @@
           "gitHubURL"     : "https://github.com/symphonyoss/clj-symphony",
           "heat"          : 45,
           "watchers"      : 4,
-          "size"          : 233,
+          "size"          : 249,
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 5,
           "openIssues"    : 1,
           "languages"     : {
-            "Clojure" : 61486
+            "Clojure" : 61554
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 45,
         "watchers"      : 4,
-        "size"          : 233,
+        "size"          : 249,
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 5,
         "openIssues"    : 1,
         "languages"     : {
-          "Clojure" : 61486
+          "Clojure" : 61554
         }
       }
     },
@@ -2945,7 +2945,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1222,
+          "size"          : 1228,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
@@ -2978,20 +2978,20 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 254,
+          "size"          : 128,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Groovy" : 179896
+            "Groovy" : 188439
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1528,
+        "size"          : 1408,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
@@ -3001,7 +3001,7 @@
           "CSS" : 29377,
           "Shell" : 26563,
           "HTML" : 16297,
-          "Groovy" : 179896
+          "Groovy" : 188439
         }
       }
     },
@@ -3998,7 +3998,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 259,
           "watchers"      : 27,
-          "size"          : 30895,
+          "size"          : 30896,
           "collaborators" : 10,
           "stars"         : 27,
           "forks"         : 33,
@@ -4007,7 +4007,7 @@
             "Shell" : 5900,
             "CSS" : 4428,
             "Batchfile" : 552,
-            "JavaScript" : 451648,
+            "JavaScript" : 450976,
             "HTML" : 14460,
             "Objective_C" : 6723
           }
@@ -4047,7 +4047,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 319,
         "watchers"      : 31,
-        "size"          : 30974,
+        "size"          : 30975,
         "collaborators" : 18,
         "stars"         : 31,
         "forks"         : 37,
@@ -4058,7 +4058,7 @@
           "Shell" : 5900,
           "CSS" : 4428,
           "Batchfile" : 552,
-          "JavaScript" : 452033,
+          "JavaScript" : 451361,
           "HTML" : 14460,
           "Objective_C" : 6723
         }
@@ -4120,11 +4120,11 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asr-toolkit",
           "heat"          : 40,
           "watchers"      : 1,
-          "size"          : 263,
+          "size"          : 264,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 2,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Dockerfile" : 520,
             "Shell" : 37,
@@ -4135,11 +4135,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 40,
         "watchers"      : 1,
-        "size"          : 263,
+        "size"          : 264,
         "collaborators" : 7,
         "stars"         : 1,
         "forks"         : 2,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "Dockerfile" : 520,
           "Shell" : 37,
@@ -4244,7 +4244,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/voice-metadata-standard",
           "heat"          : 18,
           "watchers"      : 1,
-          "size"          : 9,
+          "size"          : 10,
           "collaborators" : 4,
           "stars"         : 1,
           "forks"         : 0,
@@ -4254,7 +4254,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 18,
         "watchers"      : 1,
-        "size"          : 9,
+        "size"          : 10,
         "collaborators" : 4,
         "stars"         : 1,
         "forks"         : 0,
