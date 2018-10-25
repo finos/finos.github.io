@@ -95,26 +95,26 @@
           "gitHubURL"     : "https://github.com/FDC3/api",
           "heat"          : 235,
           "watchers"      : 4,
-          "size"          : 265,
+          "size"          : 264,
           "collaborators" : 43,
           "stars"         : 4,
           "forks"         : 11,
-          "openIssues"    : 5,
+          "openIssues"    : 10,
           "languages"     : {
-            "TypeScript" : 4758
+            "TypeScript" : 4782
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 235,
         "watchers"      : 4,
-        "size"          : 265,
+        "size"          : 264,
         "collaborators" : 43,
         "stars"         : 4,
         "forks"         : 11,
-        "openIssues"    : 5,
+        "openIssues"    : 10,
         "languages"     : {
-          "TypeScript" : 4758
+          "TypeScript" : 4782
         }
       },
       "mailingLists"       : [
@@ -137,12 +137,12 @@
           "name"          : "App-Directory",
           "description"   : "The FDC3 App Directory - specifications and implementations.",
           "gitHubURL"     : "https://github.com/FDC3/App-Directory",
-          "heat"          : 193,
+          "heat"          : 198,
           "watchers"      : 3,
           "size"          : 19,
           "collaborators" : 43,
           "stars"         : 3,
-          "forks"         : 3,
+          "forks"         : 4,
           "openIssues"    : 0
         },
         {
@@ -164,11 +164,11 @@
         },
         {
           "name"          : "appd-api",
-          "description"   : "Application Directory API - THIS IS NOT A RATIFIED FDC3 API or SPECIFICATION, but rather work in-progress",
+          "description"   : "Application Directory Specification and API - THIS IS NOT A RATIFIED FDC3 API or SPECIFICATION, but rather work in-progress",
           "gitHubURL"     : "https://github.com/FDC3/appd-api",
           "heat"          : 197,
           "watchers"      : 0,
-          "size"          : 22,
+          "size"          : 285,
           "collaborators" : 43,
           "stars"         : 0,
           "forks"         : 5,
@@ -188,12 +188,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 743,
+        "heat"          : 748,
         "watchers"      : 3,
-        "size"          : 127,
+        "size"          : 390,
         "collaborators" : 173,
         "stars"         : 3,
-        "forks"         : 9,
+        "forks"         : 10,
         "openIssues"    : 0,
         "languages"     : {
           "Java" : 90084,
@@ -673,15 +673,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 509,
           "watchers"      : 73,
-          "size"          : 2169,
+          "size"          : 2185,
           "collaborators" : 37,
           "stars"         : 73,
           "forks"         : 43,
-          "openIssues"    : 19,
+          "openIssues"    : 12,
           "languages"     : {
-            "TypeScript" : 407698,
+            "TypeScript" : 410037,
             "HTML" : 11245,
-            "JavaScript" : 324540
+            "JavaScript" : 324734
           }
         },
         {
@@ -690,13 +690,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 260,
           "watchers"      : 9,
-          "size"          : 1599,
+          "size"          : 1598,
           "collaborators" : 38,
           "stars"         : 9,
           "forks"         : 18,
-          "openIssues"    : 3,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 338619,
+            "TypeScript" : 339562,
             "HTML" : 2364,
             "JavaScript" : 11148
           }
@@ -739,16 +739,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1072,
         "watchers"      : 83,
-        "size"          : 3972,
+        "size"          : 3987,
         "collaborators" : 149,
         "stars"         : 83,
         "forks"         : 62,
-        "openIssues"    : 22,
+        "openIssues"    : 12,
         "languages"     : {
-          "TypeScript" : 851364,
+          "TypeScript" : 854646,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 345417
+          "JavaScript" : 345611
         }
       }
     },
@@ -831,7 +831,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-tabstrip",
           "heat"          : 158,
           "watchers"      : 0,
-          "size"          : 64,
+          "size"          : 65,
           "collaborators" : 37,
           "stars"         : 0,
           "forks"         : 2,
@@ -847,7 +847,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 387,
         "watchers"      : 8,
-        "size"          : 1685,
+        "size"          : 1686,
         "collaborators" : 74,
         "stars"         : 8,
         "forks"         : 15,
@@ -2675,12 +2675,12 @@
           "name"          : "python-symphony",
           "description"   : "An importable class that provides methods and objects for interacting with the Symphony Agent API from python",
           "gitHubURL"     : "https://github.com/symphonyoss/python-symphony",
-          "heat"          : 75,
+          "heat"          : 85,
           "watchers"      : 12,
           "size"          : 181,
           "collaborators" : 4,
           "stars"         : 12,
-          "forks"         : 7,
+          "forks"         : 9,
           "openIssues"    : 6,
           "languages"     : {
             "Shell" : 11,
@@ -2707,12 +2707,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 101,
+        "heat"          : 111,
         "watchers"      : 12,
         "size"          : 226,
         "collaborators" : 8,
         "stars"         : 12,
-        "forks"         : 9,
+        "forks"         : 11,
         "openIssues"    : 6,
         "languages"     : {
           "Shell" : 22,
@@ -2961,7 +2961,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1228,
+          "size"          : 1256,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
@@ -2994,7 +2994,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 128,
+          "size"          : 153,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -3007,7 +3007,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1408,
+        "size"          : 1461,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
@@ -4014,7 +4014,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 264,
           "watchers"      : 27,
-          "size"          : 30891,
+          "size"          : 30914,
           "collaborators" : 10,
           "stars"         : 27,
           "forks"         : 34,
@@ -4023,7 +4023,7 @@
             "Shell" : 5900,
             "CSS" : 4428,
             "Batchfile" : 552,
-            "JavaScript" : 450976,
+            "JavaScript" : 449164,
             "HTML" : 14460,
             "Objective_C" : 6723
           }
@@ -4063,7 +4063,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 324,
         "watchers"      : 31,
-        "size"          : 30970,
+        "size"          : 30993,
         "collaborators" : 18,
         "stars"         : 31,
         "forks"         : 38,
@@ -4074,7 +4074,7 @@
           "Shell" : 5900,
           "CSS" : 4428,
           "Batchfile" : 552,
-          "JavaScript" : 451361,
+          "JavaScript" : 449549,
           "HTML" : 14460,
           "Objective_C" : 6723
         }
@@ -4136,7 +4136,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
           "heat"          : 40,
           "watchers"      : 1,
-          "size"          : 264,
+          "size"          : 265,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 2,
@@ -4144,14 +4144,14 @@
           "languages"     : {
             "Dockerfile" : 520,
             "Shell" : 37,
-            "Python" : 56645
+            "Python" : 56688
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 40,
         "watchers"      : 1,
-        "size"          : 264,
+        "size"          : 265,
         "collaborators" : 7,
         "stars"         : 1,
         "forks"         : 2,
@@ -4159,7 +4159,7 @@
         "languages"     : {
           "Dockerfile" : 520,
           "Shell" : 37,
-          "Python" : 56645
+          "Python" : 56688
         }
       }
     },
