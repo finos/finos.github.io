@@ -95,11 +95,11 @@
           "gitHubURL"     : "https://github.com/FDC3/api",
           "heat"          : 235,
           "watchers"      : 4,
-          "size"          : 264,
+          "size"          : 327,
           "collaborators" : 43,
           "stars"         : 4,
           "forks"         : 11,
-          "openIssues"    : 10,
+          "openIssues"    : 9,
           "languages"     : {
             "TypeScript" : 4782
           }
@@ -108,11 +108,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 235,
         "watchers"      : 4,
-        "size"          : 264,
+        "size"          : 327,
         "collaborators" : 43,
         "stars"         : 4,
         "forks"         : 11,
-        "openIssues"    : 10,
+        "openIssues"    : 9,
         "languages"     : {
           "TypeScript" : 4782
         }
@@ -416,7 +416,7 @@
           "gitHubURL"     : "https://github.com/finos-fdx/finos-parent-pom",
           "heat"          : 18,
           "watchers"      : 1,
-          "size"          : 76,
+          "size"          : 81,
           "collaborators" : 4,
           "stars"         : 1,
           "forks"         : 0,
@@ -443,7 +443,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 34,
         "watchers"      : 1,
-        "size"          : 245,
+        "size"          : 250,
         "collaborators" : 8,
         "stars"         : 1,
         "forks"         : 0,
@@ -673,27 +673,27 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 509,
           "watchers"      : 73,
-          "size"          : 2185,
+          "size"          : 2196,
           "collaborators" : 37,
           "stars"         : 73,
           "forks"         : 43,
-          "openIssues"    : 12,
+          "openIssues"    : 10,
           "languages"     : {
-            "TypeScript" : 410037,
+            "TypeScript" : 410944,
             "HTML" : 11245,
-            "JavaScript" : 324734
+            "JavaScript" : 325610
           }
         },
         {
           "name"          : "js-adapter",
           "description"   : "Hadouken Node Adapter",
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
-          "heat"          : 260,
+          "heat"          : 265,
           "watchers"      : 9,
           "size"          : 1598,
           "collaborators" : 38,
           "stars"         : 9,
-          "forks"         : 18,
+          "forks"         : 19,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 339562,
@@ -737,18 +737,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1072,
+        "heat"          : 1077,
         "watchers"      : 83,
-        "size"          : 3987,
+        "size"          : 3998,
         "collaborators" : 149,
         "stars"         : 83,
-        "forks"         : 62,
-        "openIssues"    : 12,
+        "forks"         : 63,
+        "openIssues"    : 10,
         "languages"     : {
-          "TypeScript" : 854646,
+          "TypeScript" : 855553,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 345611
+          "JavaScript" : 346487
         }
       }
     },
@@ -813,13 +813,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 229,
           "watchers"      : 8,
-          "size"          : 1621,
+          "size"          : 1661,
           "collaborators" : 37,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 3,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 397851,
+            "TypeScript" : 412683,
             "CSS" : 16466,
             "HTML" : 13349,
             "JavaScript" : 10033
@@ -847,13 +847,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 387,
         "watchers"      : 8,
-        "size"          : 1686,
+        "size"          : 1726,
         "collaborators" : 74,
         "stars"         : 8,
         "forks"         : 15,
-        "openIssues"    : 3,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 414055,
+          "TypeScript" : 428887,
           "CSS" : 21055,
           "HTML" : 14642,
           "JavaScript" : 11559
@@ -2252,7 +2252,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 506,
+          "size"          : 470,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -2282,7 +2282,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 42,
         "watchers"      : 0,
-        "size"          : 771,
+        "size"          : 735,
         "collaborators" : 8,
         "stars"         : 0,
         "forks"         : 2,
@@ -2961,15 +2961,15 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1256,
+          "size"          : 1291,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 603597,
+            "Java" : 609756,
             "CSS" : 29377,
-            "Shell" : 26563,
+            "Shell" : 26581,
             "HTML" : 16297
           }
         },
@@ -2994,30 +2994,30 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 153,
+          "size"          : 109,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Groovy" : 188439
+            "Groovy" : 188934
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1461,
+        "size"          : 1452,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 626423,
+          "Java" : 632582,
           "CSS" : 29377,
-          "Shell" : 26563,
+          "Shell" : 26581,
           "HTML" : 16297,
-          "Groovy" : 188439
+          "Groovy" : 188934
         }
       }
     },
@@ -3934,7 +3934,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-super-pom",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 44,
+          "size"          : 53,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
@@ -3944,7 +3944,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 64,
         "watchers"      : 0,
-        "size"          : 430,
+        "size"          : 439,
         "collaborators" : 11,
         "stars"         : 0,
         "forks"         : 4,
@@ -4014,7 +4014,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 264,
           "watchers"      : 27,
-          "size"          : 30914,
+          "size"          : 31011,
           "collaborators" : 10,
           "stars"         : 27,
           "forks"         : 34,
@@ -4023,7 +4023,7 @@
             "Shell" : 5900,
             "CSS" : 4428,
             "Batchfile" : 552,
-            "JavaScript" : 449164,
+            "JavaScript" : 449491,
             "HTML" : 14460,
             "Objective_C" : 6723
           }
@@ -4063,7 +4063,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 324,
         "watchers"      : 31,
-        "size"          : 30993,
+        "size"          : 31090,
         "collaborators" : 18,
         "stars"         : 31,
         "forks"         : 38,
@@ -4074,7 +4074,7 @@
           "Shell" : 5900,
           "CSS" : 4428,
           "Batchfile" : 552,
-          "JavaScript" : 449549,
+          "JavaScript" : 449876,
           "HTML" : 14460,
           "Objective_C" : 6723
         }
@@ -4136,7 +4136,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
           "heat"          : 40,
           "watchers"      : 1,
-          "size"          : 265,
+          "size"          : 276,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 2,
@@ -4144,14 +4144,14 @@
           "languages"     : {
             "Dockerfile" : 520,
             "Shell" : 37,
-            "Python" : 56688
+            "Python" : 56673
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 40,
         "watchers"      : 1,
-        "size"          : 265,
+        "size"          : 276,
         "collaborators" : 7,
         "stars"         : 1,
         "forks"         : 2,
@@ -4159,7 +4159,7 @@
         "languages"     : {
           "Dockerfile" : 520,
           "Shell" : 37,
-          "Python" : 56688
+          "Python" : 56673
         }
       }
     },
