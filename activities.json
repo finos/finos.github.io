@@ -16,22 +16,22 @@
           "name"          : "kdb",
           "description"   : "kdb+ Working Group from FINOS Data Technologies program",
           "gitHubURL"     : "https://github.com/finos-data-tech/coding-standards",
-          "heat"          : 12,
+          "heat"          : 17,
           "watchers"      : 2,
           "size"          : 5,
           "collaborators" : 2,
           "stars"         : 2,
-          "forks"         : 0,
+          "forks"         : 1,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 12,
+        "heat"          : 17,
         "watchers"      : 2,
         "size"          : 5,
         "collaborators" : 2,
         "stars"         : 2,
-        "forks"         : 0,
+        "forks"         : 1,
         "openIssues"    : 0
       }
     },
@@ -95,7 +95,7 @@
           "gitHubURL"     : "https://github.com/FDC3/api",
           "heat"          : 235,
           "watchers"      : 4,
-          "size"          : 327,
+          "size"          : 336,
           "collaborators" : 43,
           "stars"         : 4,
           "forks"         : 11,
@@ -108,7 +108,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 235,
         "watchers"      : 4,
-        "size"          : 327,
+        "size"          : 336,
         "collaborators" : 43,
         "stars"         : 4,
         "forks"         : 11,
@@ -271,21 +271,21 @@
           "name"          : "FDC3-Archive",
           "description"   : "",
           "gitHubURL"     : "https://github.com/FDC3/FDC3-Archive",
-          "heat"          : 176,
-          "watchers"      : 2,
+          "heat"          : 178,
+          "watchers"      : 3,
           "size"          : 2214,
           "collaborators" : 43,
-          "stars"         : 2,
+          "stars"         : 3,
           "forks"         : 0,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 374,
-        "watchers"      : 10,
+        "heat"          : 376,
+        "watchers"      : 11,
         "size"          : 2220,
         "collaborators" : 86,
-        "stars"         : 10,
+        "stars"         : 11,
         "forks"         : 2,
         "openIssues"    : 1
       }
@@ -677,7 +677,7 @@
           "collaborators" : 37,
           "stars"         : 73,
           "forks"         : 43,
-          "openIssues"    : 10,
+          "openIssues"    : 11,
           "languages"     : {
             "TypeScript" : 410944,
             "HTML" : 11245,
@@ -743,7 +743,7 @@
         "collaborators" : 149,
         "stars"         : 83,
         "forks"         : 63,
-        "openIssues"    : 10,
+        "openIssues"    : 11,
         "languages"     : {
           "TypeScript" : 855553,
           "HTML" : 16486,
@@ -2825,16 +2825,17 @@
           "gitHubURL"     : "https://github.com/symphonyoss/app-auth-example",
           "heat"          : 32,
           "watchers"      : 3,
-          "size"          : 278,
+          "size"          : 352,
           "collaborators" : 4,
           "stars"         : 3,
           "forks"         : 2,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 114904,
-            "HTML" : 3635,
-            "CSS" : 167,
-            "JavaScript" : 69313
+            "Java" : 227469,
+            "HTML" : 7270,
+            "Shell" : 737,
+            "CSS" : 320,
+            "JavaScript" : 138607
           }
         },
         {
@@ -2887,17 +2888,17 @@
       "cumulativeGitHubStats" : {
         "heat"          : 303,
         "watchers"      : 23,
-        "size"          : 3816,
+        "size"          : 3890,
         "collaborators" : 23,
         "stars"         : 23,
         "forks"         : 33,
         "openIssues"    : 24,
         "languages"     : {
-          "Java" : 114904,
-          "Shell" : 21334,
-          "CSS" : 1908,
-          "JavaScript" : 100893,
-          "HTML" : 13533,
+          "Java" : 227469,
+          "Shell" : 22071,
+          "CSS" : 2061,
+          "JavaScript" : 170187,
+          "HTML" : 17168,
           "Python" : 7381
         }
       }
@@ -4136,7 +4137,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
           "heat"          : 40,
           "watchers"      : 1,
-          "size"          : 276,
+          "size"          : 281,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 2,
@@ -4144,14 +4145,14 @@
           "languages"     : {
             "Dockerfile" : 520,
             "Shell" : 37,
-            "Python" : 56673
+            "Python" : 57819
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 40,
         "watchers"      : 1,
-        "size"          : 276,
+        "size"          : 281,
         "collaborators" : 7,
         "stars"         : 1,
         "forks"         : 2,
@@ -4159,7 +4160,7 @@
         "languages"     : {
           "Dockerfile" : 520,
           "Shell" : 37,
-          "Python" : 56673
+          "Python" : 57819
         }
       }
     },
