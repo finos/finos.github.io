@@ -683,7 +683,7 @@
           "collaborators" : 37,
           "stars"         : 73,
           "forks"         : 43,
-          "openIssues"    : 10,
+          "openIssues"    : 11,
           "languages"     : {
             "TypeScript" : 410962,
             "HTML" : 11245,
@@ -749,7 +749,7 @@
         "collaborators" : 149,
         "stars"         : 83,
         "forks"         : 63,
-        "openIssues"    : 11,
+        "openIssues"    : 12,
         "languages"     : {
           "TypeScript" : 855543,
           "HTML" : 16486,
@@ -819,13 +819,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 229,
           "watchers"      : 8,
-          "size"          : 1665,
+          "size"          : 1714,
           "collaborators" : 37,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 413183,
+            "TypeScript" : 410574,
             "CSS" : 16466,
             "HTML" : 13349,
             "JavaScript" : 10033
@@ -853,13 +853,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 387,
         "watchers"      : 8,
-        "size"          : 1730,
+        "size"          : 1779,
         "collaborators" : 74,
         "stars"         : 8,
         "forks"         : 15,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 429387,
+          "TypeScript" : 426778,
           "CSS" : 21055,
           "HTML" : 14642,
           "JavaScript" : 11559
@@ -879,12 +879,12 @@
           "name"          : "notifications-service",
           "description"   : "Notifications Desktop Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
-          "heat"          : 167,
+          "heat"          : 172,
           "watchers"      : 7,
-          "size"          : 5867,
+          "size"          : 5876,
           "collaborators" : 37,
           "stars"         : 7,
-          "forks"         : 1,
+          "forks"         : 2,
           "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 116970,
@@ -896,12 +896,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 167,
+        "heat"          : 172,
         "watchers"      : 7,
-        "size"          : 5867,
+        "size"          : 5876,
         "collaborators" : 37,
         "stars"         : 7,
-        "forks"         : 1,
+        "forks"         : 2,
         "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 116970,
@@ -1011,14 +1011,14 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 728,
           "watchers"      : 238,
-          "size"          : 6266,
+          "size"          : 6286,
           "collaborators" : 8,
           "stars"         : 238,
           "forks"         : 44,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 1143866,
-            "C#" : 1566490,
+            "C#" : 1569504,
             "Xtend" : 218575,
             "Java" : 75301,
             "Shell" : 550,
@@ -1034,27 +1034,27 @@
           "gitHubURL"     : "https://github.com/finos-plexus/finos-plexus.github.io",
           "heat"          : 31,
           "watchers"      : 1,
-          "size"          : 162,
+          "size"          : 192,
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 21592
+            "TypeScript" : 21599
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 759,
         "watchers"      : 239,
-        "size"          : 6428,
+        "size"          : 6478,
         "collaborators" : 14,
         "stars"         : 239,
         "forks"         : 45,
         "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 1165458,
-          "C#" : 1566490,
+          "TypeScript" : 1165465,
+          "C#" : 1569504,
           "Xtend" : 218575,
           "Java" : 75301,
           "Shell" : 550,
@@ -2439,7 +2439,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/clj-symphony",
           "heat"          : 45,
           "watchers"      : 4,
-          "size"          : 248,
+          "size"          : 249,
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 5,
@@ -2452,7 +2452,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 45,
         "watchers"      : 4,
-        "size"          : 248,
+        "size"          : 249,
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 5,
@@ -4021,7 +4021,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 264,
           "watchers"      : 27,
-          "size"          : 31024,
+          "size"          : 31022,
           "collaborators" : 10,
           "stars"         : 27,
           "forks"         : 34,
@@ -4070,7 +4070,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 324,
         "watchers"      : 31,
-        "size"          : 31103,
+        "size"          : 31101,
         "collaborators" : 18,
         "stars"         : 31,
         "forks"         : 38,
@@ -4143,7 +4143,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
           "heat"          : 40,
           "watchers"      : 1,
-          "size"          : 281,
+          "size"          : 289,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 2,
@@ -4151,14 +4151,14 @@
           "languages"     : {
             "Dockerfile" : 520,
             "Shell" : 37,
-            "Python" : 57819
+            "Python" : 59276
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 40,
         "watchers"      : 1,
-        "size"          : 281,
+        "size"          : 289,
         "collaborators" : 7,
         "stars"         : 1,
         "forks"         : 2,
@@ -4166,7 +4166,7 @@
         "languages"     : {
           "Dockerfile" : 520,
           "Shell" : 37,
-          "Python" : 57819
+          "Python" : 59276
         }
       }
     },
