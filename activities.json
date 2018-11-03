@@ -151,7 +151,7 @@
           "gitHubURL"     : "https://github.com/FDC3/appd-poc",
           "heat"          : 177,
           "watchers"      : 0,
-          "size"          : 86,
+          "size"          : 89,
           "collaborators" : 43,
           "stars"         : 0,
           "forks"         : 1,
@@ -168,11 +168,11 @@
           "gitHubURL"     : "https://github.com/FDC3/appd-api",
           "heat"          : 197,
           "watchers"      : 0,
-          "size"          : 285,
+          "size"          : 569,
           "collaborators" : 43,
           "stars"         : 0,
           "forks"         : 5,
-          "openIssues"    : 1
+          "openIssues"    : 0
         },
         {
           "name"          : "appd-glue42-launcher-poc",
@@ -190,11 +190,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 748,
         "watchers"      : 3,
-        "size"          : 390,
+        "size"          : 677,
         "collaborators" : 173,
         "stars"         : 3,
         "forks"         : 10,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
           "Java" : 90084,
           "Dockerfile" : 763,
@@ -679,15 +679,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 509,
           "watchers"      : 73,
-          "size"          : 2200,
+          "size"          : 2196,
           "collaborators" : 37,
           "stars"         : 73,
           "forks"         : 43,
-          "openIssues"    : 10,
+          "openIssues"    : 8,
           "languages"     : {
-            "TypeScript" : 433683,
+            "TypeScript" : 434733,
             "HTML" : 11245,
-            "JavaScript" : 325720
+            "JavaScript" : 326504
           }
         },
         {
@@ -745,16 +745,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1077,
         "watchers"      : 83,
-        "size"          : 3999,
+        "size"          : 3995,
         "collaborators" : 149,
         "stars"         : 83,
         "forks"         : 63,
-        "openIssues"    : 13,
+        "openIssues"    : 11,
         "languages"     : {
-          "TypeScript" : 878264,
+          "TypeScript" : 879314,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 346597
+          "JavaScript" : 347381
         }
       }
     },
@@ -775,11 +775,11 @@
           "name"          : "symphony-of",
           "description"   : "OpenFin Sym Integration",
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
-          "heat"          : 290,
-          "watchers"      : 23,
+          "heat"          : 292,
+          "watchers"      : 24,
           "size"          : 14614,
           "collaborators" : 41,
-          "stars"         : 23,
+          "stars"         : 24,
           "forks"         : 16,
           "openIssues"    : 3,
           "languages"     : {
@@ -790,11 +790,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 290,
-        "watchers"      : 23,
+        "heat"          : 292,
+        "watchers"      : 24,
         "size"          : 14614,
         "collaborators" : 41,
-        "stars"         : 23,
+        "stars"         : 24,
         "forks"         : 16,
         "openIssues"    : 3,
         "languages"     : {
@@ -1009,11 +1009,11 @@
           "name"          : "plexus-interop",
           "description"   : "Plexus Interop open source project hosted by the Fintech Open Source Foundation",
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
-          "heat"          : 728,
-          "watchers"      : 238,
+          "heat"          : 730,
+          "watchers"      : 239,
           "size"          : 6286,
           "collaborators" : 8,
-          "stars"         : 238,
+          "stars"         : 239,
           "forks"         : 44,
           "openIssues"    : 0,
           "languages"     : {
@@ -1045,11 +1045,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 759,
-        "watchers"      : 239,
+        "heat"          : 761,
+        "watchers"      : 240,
         "size"          : 6478,
         "collaborators" : 14,
-        "stars"         : 239,
+        "stars"         : 240,
         "forks"         : 45,
         "openIssues"    : 0,
         "languages"     : {
@@ -2814,11 +2814,11 @@
           "name"          : "symphonyoss.github.io",
           "description"   : "Source code for https://symphonyoss.github.io/",
           "gitHubURL"     : "https://github.com/symphonyoss/symphonyoss.github.io",
-          "heat"          : 36,
-          "watchers"      : 2,
+          "heat"          : 38,
+          "watchers"      : 3,
           "size"          : 2257,
           "collaborators" : 3,
-          "stars"         : 2,
+          "stars"         : 3,
           "forks"         : 4,
           "openIssues"    : 9,
           "languages"     : {
@@ -2892,11 +2892,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 303,
-        "watchers"      : 23,
+        "heat"          : 305,
+        "watchers"      : 24,
         "size"          : 3890,
         "collaborators" : 23,
-        "stars"         : 23,
+        "stars"         : 24,
         "forks"         : 33,
         "openIssues"    : 25,
         "languages"     : {
@@ -2968,13 +2968,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1340,
+          "size"          : 1392,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 626988,
+            "Java" : 639755,
             "CSS" : 29377,
             "Shell" : 26581,
             "HTML" : 16297
@@ -3014,13 +3014,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1521,
+        "size"          : 1573,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 649814,
+          "Java" : 662581,
           "CSS" : 29377,
           "Shell" : 26581,
           "HTML" : 16297,
@@ -4019,11 +4019,11 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 264,
-          "watchers"      : 27,
+          "heat"          : 266,
+          "watchers"      : 28,
           "size"          : 31022,
           "collaborators" : 10,
-          "stars"         : 27,
+          "stars"         : 28,
           "forks"         : 34,
           "openIssues"    : 2,
           "languages"     : {
@@ -4068,11 +4068,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 324,
-        "watchers"      : 31,
+        "heat"          : 326,
+        "watchers"      : 32,
         "size"          : 31101,
         "collaborators" : 18,
-        "stars"         : 31,
+        "stars"         : 32,
         "forks"         : 38,
         "openIssues"    : 2,
         "languages"     : {
@@ -4143,30 +4143,30 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
           "heat"          : 45,
           "watchers"      : 1,
-          "size"          : 303,
+          "size"          : 314,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 3,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "Dockerfile" : 520,
             "Shell" : 37,
-            "Python" : 59461
+            "Python" : 60339
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 45,
         "watchers"      : 1,
-        "size"          : 303,
+        "size"          : 314,
         "collaborators" : 7,
         "stars"         : 1,
         "forks"         : 3,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
           "Dockerfile" : 520,
           "Shell" : 37,
-          "Python" : 59461
+          "Python" : 60339
         }
       }
     },
