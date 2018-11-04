@@ -16,21 +16,21 @@
           "name"          : "kdb",
           "description"   : "kdb+ Working Group from FINOS Data Technologies program",
           "gitHubURL"     : "https://github.com/finos-data-tech/coding-standards",
-          "heat"          : 17,
-          "watchers"      : 2,
+          "heat"          : 19,
+          "watchers"      : 3,
           "size"          : 5,
           "collaborators" : 2,
-          "stars"         : 2,
+          "stars"         : 3,
           "forks"         : 1,
           "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 17,
-        "watchers"      : 2,
+        "heat"          : 19,
+        "watchers"      : 3,
         "size"          : 5,
         "collaborators" : 2,
-        "stars"         : 2,
+        "stars"         : 3,
         "forks"         : 1,
         "openIssues"    : 1
       }
