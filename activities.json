@@ -823,7 +823,7 @@
           "collaborators" : 37,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 410574,
             "CSS" : 16466,
@@ -857,7 +857,7 @@
         "collaborators" : 74,
         "stars"         : 8,
         "forks"         : 15,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 426778,
           "CSS" : 21055,
@@ -4021,7 +4021,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 266,
           "watchers"      : 28,
-          "size"          : 31022,
+          "size"          : 31028,
           "collaborators" : 10,
           "stars"         : 28,
           "forks"         : 34,
@@ -4070,7 +4070,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 326,
         "watchers"      : 32,
-        "size"          : 31101,
+        "size"          : 31107,
         "collaborators" : 18,
         "stars"         : 32,
         "forks"         : 38,
@@ -4085,6 +4085,41 @@
           "HTML" : 14460,
           "Objective_C" : 6723
         }
+      }
+    },
+    {
+      "programName"          : "Symphony",
+      "programShortName"     : "Symphony",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
+      "activityName"         : "Symphony integration with Tableau",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-10-01",
+      "tags"                 : [
+        "tableau integration"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "tableau-integration",
+          "description"   : "Symphony integration with Tableau",
+          "gitHubURL"     : "https://github.com/symphonyoss/tableau-integration",
+          "heat"          : 16,
+          "watchers"      : 0,
+          "size"          : 12,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 16,
+        "watchers"      : 0,
+        "size"          : 12,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
       }
     },
     {
@@ -4265,22 +4300,22 @@
           "name"          : "voice-metadata-standard",
           "description"   : "",
           "gitHubURL"     : "https://github.com/finos-voice/voice-metadata-standard",
-          "heat"          : 18,
+          "heat"          : 23,
           "watchers"      : 1,
           "size"          : 10,
           "collaborators" : 4,
           "stars"         : 1,
-          "forks"         : 0,
+          "forks"         : 1,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 18,
+        "heat"          : 23,
         "watchers"      : 1,
         "size"          : 10,
         "collaborators" : 4,
         "stars"         : 1,
-        "forks"         : 0,
+        "forks"         : 1,
         "openIssues"    : 0
       },
       "mailingLists"       : [
@@ -4327,6 +4362,7 @@
     "salesforce",
     "sample",
     "symphony",
+    "tableau integration",
     "trello",
     "twilio",
     "unfurl",
