@@ -151,7 +151,7 @@
           "gitHubURL"     : "https://github.com/FDC3/appd-poc",
           "heat"          : 177,
           "watchers"      : 0,
-          "size"          : 89,
+          "size"          : 90,
           "collaborators" : 43,
           "stars"         : 0,
           "forks"         : 1,
@@ -168,7 +168,7 @@
           "gitHubURL"     : "https://github.com/FDC3/appd-api",
           "heat"          : 197,
           "watchers"      : 0,
-          "size"          : 569,
+          "size"          : 738,
           "collaborators" : 43,
           "stars"         : 0,
           "forks"         : 5,
@@ -190,7 +190,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 748,
         "watchers"      : 3,
-        "size"          : 677,
+        "size"          : 847,
         "collaborators" : 173,
         "stars"         : 3,
         "forks"         : 10,
@@ -223,21 +223,27 @@
           "gitHubURL"     : "https://github.com/FDC3/ContextData",
           "heat"          : 222,
           "watchers"      : 5,
-          "size"          : 107,
+          "size"          : 113,
           "collaborators" : 43,
           "stars"         : 5,
           "forks"         : 8,
-          "openIssues"    : 4
+          "openIssues"    : 1,
+          "languages"     : {
+            "TypeScript" : 1490
+          }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 222,
         "watchers"      : 5,
-        "size"          : 107,
+        "size"          : 113,
         "collaborators" : 43,
         "stars"         : 5,
         "forks"         : 8,
-        "openIssues"    : 4
+        "openIssues"    : 1,
+        "languages"     : {
+          "TypeScript" : 1490
+        }
       },
       "mailingLists"       : [
         {
@@ -683,7 +689,7 @@
           "collaborators" : 37,
           "stars"         : 73,
           "forks"         : 43,
-          "openIssues"    : 8,
+          "openIssues"    : 11,
           "languages"     : {
             "TypeScript" : 434733,
             "HTML" : 11245,
@@ -749,7 +755,7 @@
         "collaborators" : 149,
         "stars"         : 83,
         "forks"         : 63,
-        "openIssues"    : 11,
+        "openIssues"    : 14,
         "languages"     : {
           "TypeScript" : 879314,
           "HTML" : 16486,
@@ -819,15 +825,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 229,
           "watchers"      : 8,
-          "size"          : 1714,
+          "size"          : 1727,
           "collaborators" : 37,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 410574,
+            "TypeScript" : 419070,
             "CSS" : 16466,
-            "HTML" : 13349,
+            "HTML" : 14510,
             "JavaScript" : 10033
           }
         },
@@ -853,15 +859,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 387,
         "watchers"      : 8,
-        "size"          : 1779,
+        "size"          : 1792,
         "collaborators" : 74,
         "stars"         : 8,
         "forks"         : 15,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 426778,
+          "TypeScript" : 435274,
           "CSS" : 21055,
-          "HTML" : 14642,
+          "HTML" : 15803,
           "JavaScript" : 11559
         }
       }
@@ -881,7 +887,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 172,
           "watchers"      : 7,
-          "size"          : 5879,
+          "size"          : 6102,
           "collaborators" : 37,
           "stars"         : 7,
           "forks"         : 2,
@@ -898,7 +904,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 172,
         "watchers"      : 7,
-        "size"          : 5879,
+        "size"          : 6102,
         "collaborators" : 37,
         "stars"         : 7,
         "forks"         : 2,
@@ -1011,14 +1017,14 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 730,
           "watchers"      : 239,
-          "size"          : 6286,
+          "size"          : 6296,
           "collaborators" : 8,
           "stars"         : 239,
           "forks"         : 44,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 1143866,
-            "C#" : 1569504,
+            "TypeScript" : 1143805,
+            "C#" : 1569427,
             "Xtend" : 218575,
             "Java" : 75301,
             "Shell" : 550,
@@ -1047,14 +1053,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 761,
         "watchers"      : 240,
-        "size"          : 6478,
+        "size"          : 6488,
         "collaborators" : 14,
         "stars"         : 240,
         "forks"         : 45,
         "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 1165465,
-          "C#" : 1569504,
+          "TypeScript" : 1165404,
+          "C#" : 1569427,
           "Xtend" : 218575,
           "Java" : 75301,
           "Shell" : 550,
@@ -2565,11 +2571,11 @@
           "name"          : "symphony-java-client",
           "description"   : "Java client library for Symphony",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-client",
-          "heat"          : 227,
-          "watchers"      : 32,
+          "heat"          : 229,
+          "watchers"      : 33,
           "size"          : 2452,
           "collaborators" : 7,
-          "stars"         : 32,
+          "stars"         : 33,
           "forks"         : 27,
           "openIssues"    : 10,
           "languages"     : {
@@ -2610,11 +2616,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 401,
-        "watchers"      : 56,
+        "heat"          : 403,
+        "watchers"      : 57,
         "size"          : 3508,
         "collaborators" : 16,
-        "stars"         : 56,
+        "stars"         : 57,
         "forks"         : 45,
         "openIssues"    : 14,
         "languages"     : {
@@ -2687,7 +2693,7 @@
           "collaborators" : 4,
           "stars"         : 12,
           "forks"         : 9,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
             "Shell" : 11,
             "Makefile" : 2118,
@@ -2719,7 +2725,7 @@
         "collaborators" : 8,
         "stars"         : 12,
         "forks"         : 11,
-        "openIssues"    : 6,
+        "openIssues"    : 7,
         "languages"     : {
           "Shell" : 22,
           "Makefile" : 4236,
@@ -3474,10 +3480,10 @@
           "name"          : "App-Integrations-Trello",
           "description"   : "Trello Integration",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Trello",
-          "heat"          : 60,
+          "heat"          : 64,
           "watchers"      : 1,
-          "size"          : 1057,
-          "collaborators" : 12,
+          "size"          : 1065,
+          "collaborators" : 13,
           "stars"         : 1,
           "forks"         : 2,
           "openIssues"    : 1,
@@ -3490,10 +3496,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 60,
+        "heat"          : 64,
         "watchers"      : 1,
-        "size"          : 1057,
-        "collaborators" : 12,
+        "size"          : 1065,
+        "collaborators" : 13,
         "stars"         : 1,
         "forks"         : 2,
         "openIssues"    : 1,
@@ -4300,22 +4306,22 @@
           "name"          : "voice-metadata-standard",
           "description"   : "",
           "gitHubURL"     : "https://github.com/finos-voice/voice-metadata-standard",
-          "heat"          : 23,
+          "heat"          : 28,
           "watchers"      : 1,
           "size"          : 10,
           "collaborators" : 4,
           "stars"         : 1,
-          "forks"         : 1,
+          "forks"         : 2,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 23,
+        "heat"          : 28,
         "watchers"      : 1,
         "size"          : 10,
         "collaborators" : 4,
         "stars"         : 1,
-        "forks"         : 1,
+        "forks"         : 2,
         "openIssues"    : 0
       },
       "mailingLists"       : [
