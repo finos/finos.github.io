@@ -93,26 +93,26 @@
           "name"          : "API",
           "description"   : "API Working Group repository",
           "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 235,
+          "heat"          : 240,
           "watchers"      : 4,
-          "size"          : 336,
+          "size"          : 339,
           "collaborators" : 43,
           "stars"         : 4,
-          "forks"         : 11,
-          "openIssues"    : 9,
+          "forks"         : 12,
+          "openIssues"    : 8,
           "languages"     : {
             "TypeScript" : 4782
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 235,
+        "heat"          : 240,
         "watchers"      : 4,
-        "size"          : 336,
+        "size"          : 339,
         "collaborators" : 43,
         "stars"         : 4,
-        "forks"         : 11,
-        "openIssues"    : 9,
+        "forks"         : 12,
+        "openIssues"    : 8,
         "languages"     : {
           "TypeScript" : 4782
         }
@@ -227,7 +227,7 @@
           "collaborators" : 43,
           "stars"         : 5,
           "forks"         : 8,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 1490
           }
@@ -240,7 +240,7 @@
         "collaborators" : 43,
         "stars"         : 5,
         "forks"         : 8,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 1490
         }
@@ -386,7 +386,7 @@
           "gitHubURL"     : "https://github.com/finos-fdx/bot-github-chatops",
           "heat"          : 33,
           "watchers"      : 4,
-          "size"          : 374,
+          "size"          : 384,
           "collaborators" : 5,
           "stars"         : 4,
           "forks"         : 1,
@@ -401,7 +401,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 33,
         "watchers"      : 4,
-        "size"          : 374,
+        "size"          : 384,
         "collaborators" : 5,
         "stars"         : 4,
         "forks"         : 1,
@@ -685,11 +685,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 511,
           "watchers"      : 74,
-          "size"          : 2208,
+          "size"          : 2221,
           "collaborators" : 37,
           "stars"         : 74,
           "forks"         : 43,
-          "openIssues"    : 14,
+          "openIssues"    : 13,
           "languages"     : {
             "TypeScript" : 434733,
             "HTML" : 11245,
@@ -706,7 +706,7 @@
           "collaborators" : 38,
           "stars"         : 9,
           "forks"         : 20,
-          "openIssues"    : 5,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 339534,
             "HTML" : 2364,
@@ -751,7 +751,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1084,
         "watchers"      : 84,
-        "size"          : 4007,
+        "size"          : 4020,
         "collaborators" : 149,
         "stars"         : 84,
         "forks"         : 64,
@@ -825,15 +825,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 229,
           "watchers"      : 8,
-          "size"          : 1733,
+          "size"          : 1713,
           "collaborators" : 37,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 4,
+          "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 419070,
+            "TypeScript" : 423616,
             "CSS" : 16466,
-            "HTML" : 14510,
+            "HTML" : 14823,
             "JavaScript" : 10033
           }
         },
@@ -859,15 +859,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 387,
         "watchers"      : 8,
-        "size"          : 1798,
+        "size"          : 1778,
         "collaborators" : 74,
         "stars"         : 8,
         "forks"         : 15,
-        "openIssues"    : 4,
+        "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 435274,
+          "TypeScript" : 439820,
           "CSS" : 21055,
-          "HTML" : 15803,
+          "HTML" : 16116,
           "JavaScript" : 11559
         }
       }
@@ -887,13 +887,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 177,
           "watchers"      : 7,
-          "size"          : 6102,
+          "size"          : 6107,
           "collaborators" : 37,
           "stars"         : 7,
           "forks"         : 3,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 117394,
+            "TypeScript" : 117456,
             "CSS" : 28538,
             "HTML" : 7124,
             "Gherkin" : 120,
@@ -904,13 +904,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 177,
         "watchers"      : 7,
-        "size"          : 6102,
+        "size"          : 6107,
         "collaborators" : 37,
         "stars"         : 7,
         "forks"         : 3,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 117394,
+          "TypeScript" : 117456,
           "CSS" : 28538,
           "HTML" : 7124,
           "Gherkin" : 120,
@@ -3628,12 +3628,12 @@
           "name"          : "JCurl",
           "description"   : "JSON-aware curl (1) in Java",
           "gitHubURL"     : "https://github.com/symphonyoss/JCurl",
-          "heat"          : 113,
+          "heat"          : 118,
           "watchers"      : 11,
           "size"          : 66,
           "collaborators" : 4,
           "stars"         : 11,
-          "forks"         : 15,
+          "forks"         : 16,
           "openIssues"    : 9,
           "languages"     : {
             "Java" : 60780,
@@ -3642,12 +3642,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 113,
+        "heat"          : 118,
         "watchers"      : 11,
         "size"          : 66,
         "collaborators" : 4,
         "stars"         : 11,
-        "forks"         : 15,
+        "forks"         : 16,
         "openIssues"    : 9,
         "languages"     : {
           "Java" : 60780,
@@ -3671,26 +3671,26 @@
           "name"          : "messageml-utils",
           "description"   : "MessageML parser",
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
-          "heat"          : 89,
+          "heat"          : 94,
           "watchers"      : 3,
           "size"          : 361,
           "collaborators" : 7,
           "stars"         : 3,
-          "forks"         : 11,
-          "openIssues"    : 2,
+          "forks"         : 12,
+          "openIssues"    : 4,
           "languages"     : {
             "Java" : 600264
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 89,
+        "heat"          : 94,
         "watchers"      : 3,
         "size"          : 361,
         "collaborators" : 7,
         "stars"         : 3,
-        "forks"         : 11,
-        "openIssues"    : 2,
+        "forks"         : 12,
+        "openIssues"    : 4,
         "languages"     : {
           "Java" : 600264
         }
