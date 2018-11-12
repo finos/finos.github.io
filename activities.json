@@ -16,21 +16,21 @@
           "name"          : "kdb",
           "description"   : "kdb+ Working Group from FINOS Data Technologies program",
           "gitHubURL"     : "https://github.com/finos-data-tech/coding-standards",
-          "heat"          : 26,
-          "watchers"      : 4,
+          "heat"          : 28,
+          "watchers"      : 5,
           "size"          : 12,
           "collaborators" : 2,
-          "stars"         : 4,
+          "stars"         : 5,
           "forks"         : 2,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 26,
-        "watchers"      : 4,
+        "heat"          : 28,
+        "watchers"      : 5,
         "size"          : 12,
         "collaborators" : 2,
-        "stars"         : 4,
+        "stars"         : 5,
         "forks"         : 2,
         "openIssues"    : 0
       }
@@ -825,16 +825,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 229,
           "watchers"      : 8,
-          "size"          : 1721,
+          "size"          : 1766,
           "collaborators" : 37,
           "stars"         : 8,
           "forks"         : 13,
-          "openIssues"    : 2,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 428556,
-            "CSS" : 16466,
-            "HTML" : 14823,
-            "JavaScript" : 10278
+            "TypeScript" : 450632,
+            "CSS" : 16572,
+            "HTML" : 14680,
+            "JavaScript" : 19768
           }
         },
         {
@@ -859,16 +859,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 387,
         "watchers"      : 8,
-        "size"          : 1786,
+        "size"          : 1831,
         "collaborators" : 74,
         "stars"         : 8,
         "forks"         : 15,
-        "openIssues"    : 2,
+        "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 444760,
-          "CSS" : 21055,
-          "HTML" : 16116,
-          "JavaScript" : 11804
+          "TypeScript" : 466836,
+          "CSS" : 21161,
+          "HTML" : 15973,
+          "JavaScript" : 21294
         }
       }
     },
@@ -1017,13 +1017,13 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 728,
           "watchers"      : 238,
-          "size"          : 6306,
+          "size"          : 6307,
           "collaborators" : 8,
           "stars"         : 238,
           "forks"         : 44,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 1145298,
+            "TypeScript" : 1146067,
             "C#" : 1569427,
             "Xtend" : 218575,
             "Java" : 75301,
@@ -1040,7 +1040,7 @@
           "gitHubURL"     : "https://github.com/finos-plexus/finos-plexus.github.io",
           "heat"          : 31,
           "watchers"      : 1,
-          "size"          : 192,
+          "size"          : 220,
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 1,
@@ -1053,13 +1053,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 759,
         "watchers"      : 239,
-        "size"          : 6498,
+        "size"          : 6527,
         "collaborators" : 14,
         "stars"         : 239,
         "forks"         : 45,
         "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 1166897,
+          "TypeScript" : 1167666,
           "C#" : 1569427,
           "Xtend" : 218575,
           "Java" : 75301,
@@ -2974,13 +2974,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1446,
+          "size"          : 1296,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 672703,
+            "Java" : 673329,
             "CSS" : 29377,
             "Shell" : 26581,
             "HTML" : 16297
@@ -3020,13 +3020,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1625,
+        "size"          : 1475,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 695529,
+          "Java" : 696155,
           "CSS" : 29377,
           "Shell" : 26581,
           "HTML" : 16297,
