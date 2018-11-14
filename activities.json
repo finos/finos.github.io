@@ -93,11 +93,11 @@
           "name"          : "API",
           "description"   : "API Working Group repository",
           "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 240,
-          "watchers"      : 4,
+          "heat"          : 242,
+          "watchers"      : 5,
           "size"          : 339,
           "collaborators" : 43,
-          "stars"         : 4,
+          "stars"         : 5,
           "forks"         : 12,
           "openIssues"    : 8,
           "languages"     : {
@@ -106,11 +106,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 240,
-        "watchers"      : 4,
+        "heat"          : 242,
+        "watchers"      : 5,
         "size"          : 339,
         "collaborators" : 43,
-        "stars"         : 4,
+        "stars"         : 5,
         "forks"         : 12,
         "openIssues"    : 8,
         "languages"     : {
@@ -685,7 +685,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 511,
           "watchers"      : 74,
-          "size"          : 2218,
+          "size"          : 2223,
           "collaborators" : 37,
           "stars"         : 74,
           "forks"         : 43,
@@ -693,7 +693,7 @@
           "languages"     : {
             "TypeScript" : 434733,
             "HTML" : 11245,
-            "JavaScript" : 326504
+            "JavaScript" : 327080
           }
         },
         {
@@ -702,13 +702,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 270,
           "watchers"      : 9,
-          "size"          : 1595,
+          "size"          : 1617,
           "collaborators" : 38,
           "stars"         : 9,
           "forks"         : 20,
-          "openIssues"    : 7,
+          "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 339534,
+            "TypeScript" : 340100,
             "HTML" : 2364,
             "JavaScript" : 11148
           }
@@ -751,16 +751,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1089,
         "watchers"      : 84,
-        "size"          : 4017,
+        "size"          : 4044,
         "collaborators" : 149,
         "stars"         : 84,
         "forks"         : 65,
-        "openIssues"    : 20,
+        "openIssues"    : 18,
         "languages"     : {
-          "TypeScript" : 879314,
+          "TypeScript" : 879880,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 347381
+          "JavaScript" : 347957
         }
       }
     },
@@ -1017,7 +1017,7 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 728,
           "watchers"      : 238,
-          "size"          : 6307,
+          "size"          : 6310,
           "collaborators" : 8,
           "stars"         : 238,
           "forks"         : 44,
@@ -1053,7 +1053,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 759,
         "watchers"      : 239,
-        "size"          : 6527,
+        "size"          : 6530,
         "collaborators" : 14,
         "stars"         : 239,
         "forks"         : 45,
@@ -2571,12 +2571,12 @@
           "name"          : "symphony-java-client",
           "description"   : "Java client library for Symphony",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-client",
-          "heat"          : 234,
+          "heat"          : 239,
           "watchers"      : 33,
           "size"          : 2452,
           "collaborators" : 7,
           "stars"         : 33,
-          "forks"         : 28,
+          "forks"         : 29,
           "openIssues"    : 10,
           "languages"     : {
             "Java" : 695383,
@@ -2616,12 +2616,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 413,
+        "heat"          : 418,
         "watchers"      : 57,
         "size"          : 3508,
         "collaborators" : 16,
         "stars"         : 57,
-        "forks"         : 47,
+        "forks"         : 48,
         "openIssues"    : 14,
         "languages"     : {
           "Java" : 718953,
@@ -2974,15 +2974,15 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1307,
+          "size"          : 1325,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 673329,
+            "Java" : 675558,
             "CSS" : 29377,
-            "Shell" : 26581,
+            "Shell" : 26385,
             "HTML" : 16297
           }
         },
@@ -3007,30 +3007,30 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 129,
+          "size"          : 134,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Groovy" : 189504
+            "Groovy" : 190394
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1486,
+        "size"          : 1509,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 696155,
+          "Java" : 698384,
           "CSS" : 29377,
-          "Shell" : 26581,
+          "Shell" : 26385,
           "HTML" : 16297,
-          "Groovy" : 189504
+          "Groovy" : 190394
         }
       }
     },
