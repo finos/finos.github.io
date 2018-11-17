@@ -95,26 +95,26 @@
           "gitHubURL"     : "https://github.com/FDC3/api",
           "heat"          : 242,
           "watchers"      : 5,
-          "size"          : 339,
+          "size"          : 344,
           "collaborators" : 43,
           "stars"         : 5,
           "forks"         : 12,
-          "openIssues"    : 8,
+          "openIssues"    : 7,
           "languages"     : {
-            "TypeScript" : 4782
+            "TypeScript" : 5888
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 242,
         "watchers"      : 5,
-        "size"          : 339,
+        "size"          : 344,
         "collaborators" : 43,
         "stars"         : 5,
         "forks"         : 12,
-        "openIssues"    : 8,
+        "openIssues"    : 7,
         "languages"     : {
-          "TypeScript" : 4782
+          "TypeScript" : 5888
         }
       },
       "mailingLists"       : [
@@ -683,17 +683,17 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 511,
-          "watchers"      : 74,
-          "size"          : 2223,
+          "heat"          : 513,
+          "watchers"      : 75,
+          "size"          : 2335,
           "collaborators" : 37,
-          "stars"         : 74,
+          "stars"         : 75,
           "forks"         : 43,
-          "openIssues"    : 14,
+          "openIssues"    : 11,
           "languages"     : {
             "TypeScript" : 434733,
             "HTML" : 11245,
-            "JavaScript" : 327080
+            "JavaScript" : 327385
           }
         },
         {
@@ -749,18 +749,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1089,
-        "watchers"      : 84,
-        "size"          : 4044,
+        "heat"          : 1091,
+        "watchers"      : 85,
+        "size"          : 4156,
         "collaborators" : 149,
-        "stars"         : 84,
+        "stars"         : 85,
         "forks"         : 65,
-        "openIssues"    : 19,
+        "openIssues"    : 16,
         "languages"     : {
           "TypeScript" : 879880,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 347957
+          "JavaScript" : 348262
         }
       }
     },
@@ -2264,13 +2264,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 485,
+          "size"          : 495,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 463577,
+            "Java" : 465074,
             "FreeMarker" : 130167,
             "JavaScript" : 13681
           }
@@ -2294,13 +2294,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 42,
         "watchers"      : 0,
-        "size"          : 750,
+        "size"          : 760,
         "collaborators" : 8,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 508837,
+          "Java" : 510334,
           "FreeMarker" : 130167,
           "JavaScript" : 13681
         }
@@ -2837,13 +2837,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/app-auth-example",
           "heat"          : 32,
           "watchers"      : 3,
-          "size"          : 352,
+          "size"          : 353,
           "collaborators" : 4,
           "stars"         : 3,
           "forks"         : 2,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 227469,
+            "Java" : 227707,
             "HTML" : 7270,
             "Shell" : 737,
             "CSS" : 320,
@@ -2900,13 +2900,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 301,
         "watchers"      : 22,
-        "size"          : 3890,
+        "size"          : 3891,
         "collaborators" : 23,
         "stars"         : 22,
         "forks"         : 33,
         "openIssues"    : 25,
         "languages"     : {
-          "Java" : 227469,
+          "Java" : 227707,
           "Shell" : 22071,
           "CSS" : 2061,
           "JavaScript" : 170187,
@@ -2974,13 +2974,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1325,
+          "size"          : 1370,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 675558,
+            "Java" : 706584,
             "CSS" : 29377,
             "Shell" : 26385,
             "HTML" : 16297
@@ -3020,13 +3020,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1509,
+        "size"          : 1554,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 698384,
+          "Java" : 729410,
           "CSS" : 29377,
           "Shell" : 26385,
           "HTML" : 16297,
@@ -4027,11 +4027,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 268,
           "watchers"      : 29,
-          "size"          : 31032,
+          "size"          : 31038,
           "collaborators" : 10,
           "stars"         : 29,
           "forks"         : 34,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "Shell" : 5900,
             "CSS" : 4428,
@@ -4062,13 +4062,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 35,
           "watchers"      : 2,
-          "size"          : 59,
+          "size"          : 60,
           "collaborators" : 4,
           "stars"         : 2,
           "forks"         : 3,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 79181,
+            "TypeScript" : 79692,
             "JavaScript" : 385
           }
         }
@@ -4076,14 +4076,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 328,
         "watchers"      : 33,
-        "size"          : 31111,
+        "size"          : 31118,
         "collaborators" : 18,
         "stars"         : 33,
         "forks"         : 38,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "C#" : 7673,
-          "TypeScript" : 79181,
+          "TypeScript" : 79692,
           "Shell" : 5900,
           "CSS" : 4428,
           "Batchfile" : 552,
@@ -4188,7 +4188,7 @@
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 3,
-          "openIssues"    : 0,
+          "openIssues"    : 2,
           "languages"     : {
             "Dockerfile" : 520,
             "Shell" : 37,
@@ -4203,7 +4203,7 @@
         "collaborators" : 7,
         "stars"         : 1,
         "forks"         : 3,
-        "openIssues"    : 0,
+        "openIssues"    : 2,
         "languages"     : {
           "Dockerfile" : 520,
           "Shell" : 37,
