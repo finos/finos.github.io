@@ -4306,23 +4306,23 @@
           "name"          : "voice-metadata-standard",
           "description"   : "",
           "gitHubURL"     : "https://github.com/finos-voice/voice-metadata-standard",
-          "heat"          : 28,
+          "heat"          : 33,
           "watchers"      : 1,
-          "size"          : 10,
+          "size"          : 25,
           "collaborators" : 4,
           "stars"         : 1,
-          "forks"         : 2,
-          "openIssues"    : 1
+          "forks"         : 3,
+          "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 28,
+        "heat"          : 33,
         "watchers"      : 1,
-        "size"          : 10,
+        "size"          : 25,
         "collaborators" : 4,
         "stars"         : 1,
-        "forks"         : 2,
-        "openIssues"    : 1
+        "forks"         : 3,
+        "openIssues"    : 0
       },
       "mailingLists"       : [
         {
