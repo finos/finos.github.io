@@ -683,13 +683,13 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 513,
-          "watchers"      : 75,
-          "size"          : 2338,
+          "heat"          : 515,
+          "watchers"      : 76,
+          "size"          : 2360,
           "collaborators" : 37,
-          "stars"         : 75,
+          "stars"         : 76,
           "forks"         : 43,
-          "openIssues"    : 14,
+          "openIssues"    : 15,
           "languages"     : {
             "TypeScript" : 435206,
             "HTML" : 11245,
@@ -700,11 +700,11 @@
           "name"          : "js-adapter",
           "description"   : "Hadouken Node Adapter",
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
-          "heat"          : 270,
-          "watchers"      : 9,
+          "heat"          : 272,
+          "watchers"      : 10,
           "size"          : 1617,
           "collaborators" : 38,
-          "stars"         : 9,
+          "stars"         : 10,
           "forks"         : 20,
           "openIssues"    : 5,
           "languages"     : {
@@ -749,13 +749,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1091,
-        "watchers"      : 85,
-        "size"          : 4159,
+        "heat"          : 1095,
+        "watchers"      : 87,
+        "size"          : 4181,
         "collaborators" : 149,
-        "stars"         : 85,
+        "stars"         : 87,
         "forks"         : 65,
-        "openIssues"    : 19,
+        "openIssues"    : 20,
         "languages"     : {
           "TypeScript" : 880353,
           "HTML" : 16486,
@@ -823,11 +823,11 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 229,
-          "watchers"      : 8,
+          "heat"          : 231,
+          "watchers"      : 9,
           "size"          : 1767,
           "collaborators" : 37,
-          "stars"         : 8,
+          "stars"         : 9,
           "forks"         : 13,
           "openIssues"    : 0,
           "languages"     : {
@@ -857,11 +857,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 387,
-        "watchers"      : 8,
+        "heat"          : 389,
+        "watchers"      : 9,
         "size"          : 1832,
         "collaborators" : 74,
-        "stars"         : 8,
+        "stars"         : 9,
         "forks"         : 15,
         "openIssues"    : 0,
         "languages"     : {
@@ -2974,13 +2974,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1398,
+          "size"          : 1433,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 708503,
+            "Java" : 716969,
             "CSS" : 29377,
             "Shell" : 26385,
             "HTML" : 16297
@@ -3020,13 +3020,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1582,
+        "size"          : 1617,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 731329,
+          "Java" : 739795,
           "CSS" : 29377,
           "Shell" : 26385,
           "HTML" : 16297,
@@ -3932,13 +3932,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-common",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 386,
+          "size"          : 384,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 440965
+            "Java" : 441560
           }
         },
         {
@@ -3957,13 +3957,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 64,
         "watchers"      : 0,
-        "size"          : 439,
+        "size"          : 437,
         "collaborators" : 11,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 440965
+          "Java" : 441560
         }
       }
     },
@@ -4027,7 +4027,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 270,
           "watchers"      : 30,
-          "size"          : 31049,
+          "size"          : 31054,
           "collaborators" : 10,
           "stars"         : 30,
           "forks"         : 34,
@@ -4076,7 +4076,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 330,
         "watchers"      : 34,
-        "size"          : 31129,
+        "size"          : 31134,
         "collaborators" : 18,
         "stars"         : 34,
         "forks"         : 38,
