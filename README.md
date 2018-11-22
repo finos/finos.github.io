@@ -1,5 +1,5 @@
 # finos.github.io
-Welcome to the FINOS Foundation Catalogue!
+Welcome to the FINOS Foundation Catalog!
 
 This project powers the web page available at [finos.github.io](https://finos.github.io/), and provides a browsable gallery of the GitHub activities hosted by FINOS.
 
