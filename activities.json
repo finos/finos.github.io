@@ -683,11 +683,11 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 515,
-          "watchers"      : 76,
+          "heat"          : 517,
+          "watchers"      : 77,
           "size"          : 2360,
           "collaborators" : 37,
-          "stars"         : 76,
+          "stars"         : 77,
           "forks"         : 43,
           "openIssues"    : 15,
           "languages"     : {
@@ -749,11 +749,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1095,
-        "watchers"      : 87,
+        "heat"          : 1097,
+        "watchers"      : 88,
         "size"          : 4181,
         "collaborators" : 149,
-        "stars"         : 87,
+        "stars"         : 88,
         "forks"         : 65,
         "openIssues"    : 20,
         "languages"     : {
@@ -829,7 +829,7 @@
           "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 13,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 450632,
             "CSS" : 16572,
@@ -863,7 +863,7 @@
         "collaborators" : 74,
         "stars"         : 9,
         "forks"         : 15,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 466836,
           "CSS" : 21161,
