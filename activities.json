@@ -4312,7 +4312,7 @@
           "collaborators" : 4,
           "stars"         : 1,
           "forks"         : 3,
-          "openIssues"    : 0
+          "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
@@ -4322,7 +4322,7 @@
         "collaborators" : 4,
         "stars"         : 1,
         "forks"         : 3,
-        "openIssues"    : 0
+        "openIssues"    : 1
       },
       "mailingLists"       : [
         {
