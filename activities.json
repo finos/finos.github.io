@@ -227,7 +227,7 @@
           "collaborators" : 43,
           "stars"         : 5,
           "forks"         : 8,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 1632
           }
@@ -240,7 +240,7 @@
         "collaborators" : 43,
         "stars"         : 5,
         "forks"         : 8,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 1632
         }
@@ -685,11 +685,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 517,
           "watchers"      : 77,
-          "size"          : 2360,
+          "size"          : 2368,
           "collaborators" : 37,
           "stars"         : 77,
           "forks"         : 43,
-          "openIssues"    : 16,
+          "openIssues"    : 17,
           "languages"     : {
             "TypeScript" : 435206,
             "HTML" : 11245,
@@ -751,11 +751,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1097,
         "watchers"      : 88,
-        "size"          : 4181,
+        "size"          : 4189,
         "collaborators" : 149,
         "stars"         : 88,
         "forks"         : 65,
-        "openIssues"    : 21,
+        "openIssues"    : 22,
         "languages"     : {
           "TypeScript" : 880353,
           "HTML" : 16486,
@@ -887,7 +887,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 177,
           "watchers"      : 7,
-          "size"          : 6108,
+          "size"          : 6111,
           "collaborators" : 37,
           "stars"         : 7,
           "forks"         : 3,
@@ -904,7 +904,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 177,
         "watchers"      : 7,
-        "size"          : 6108,
+        "size"          : 6111,
         "collaborators" : 37,
         "stars"         : 7,
         "forks"         : 3,
@@ -4027,13 +4027,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 275,
           "watchers"      : 30,
-          "size"          : 31054,
+          "size"          : 31076,
           "collaborators" : 10,
           "stars"         : 30,
           "forks"         : 35,
           "openIssues"    : 2,
           "languages"     : {
-            "Shell" : 5900,
+            "Shell" : 5893,
             "CSS" : 4428,
             "Batchfile" : 552,
             "JavaScript" : 450118,
@@ -4076,7 +4076,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 335,
         "watchers"      : 34,
-        "size"          : 31134,
+        "size"          : 31156,
         "collaborators" : 18,
         "stars"         : 34,
         "forks"         : 39,
@@ -4084,7 +4084,7 @@
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 79692,
-          "Shell" : 5900,
+          "Shell" : 5893,
           "CSS" : 4428,
           "Batchfile" : 552,
           "JavaScript" : 450503,
@@ -4184,7 +4184,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
           "heat"          : 45,
           "watchers"      : 1,
-          "size"          : 317,
+          "size"          : 318,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 3,
@@ -4192,14 +4192,14 @@
           "languages"     : {
             "Dockerfile" : 520,
             "Shell" : 37,
-            "Python" : 60366
+            "Python" : 60681
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 45,
         "watchers"      : 1,
-        "size"          : 317,
+        "size"          : 318,
         "collaborators" : 7,
         "stars"         : 1,
         "forks"         : 3,
@@ -4207,7 +4207,7 @@
         "languages"     : {
           "Dockerfile" : 520,
           "Shell" : 37,
-          "Python" : 60366
+          "Python" : 60681
         }
       }
     },
