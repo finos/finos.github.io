@@ -221,26 +221,26 @@
           "name"          : "ContextData",
           "description"   : "Context data object specifications, schemas, and examples",
           "gitHubURL"     : "https://github.com/FDC3/ContextData",
-          "heat"          : 222,
+          "heat"          : 227,
           "watchers"      : 5,
           "size"          : 113,
           "collaborators" : 43,
           "stars"         : 5,
-          "forks"         : 8,
-          "openIssues"    : 4,
+          "forks"         : 9,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 1632
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 222,
+        "heat"          : 227,
         "watchers"      : 5,
         "size"          : 113,
         "collaborators" : 43,
         "stars"         : 5,
-        "forks"         : 8,
-        "openIssues"    : 4,
+        "forks"         : 9,
+        "openIssues"    : 6,
         "languages"     : {
           "TypeScript" : 1632
         }
@@ -265,12 +265,12 @@
           "name"          : "FDC3",
           "description"   : "Organizational Document for the FDC3",
           "gitHubURL"     : "https://github.com/FDC3/FDC3",
-          "heat"          : 203,
+          "heat"          : 208,
           "watchers"      : 8,
           "size"          : 6,
           "collaborators" : 43,
           "stars"         : 8,
-          "forks"         : 3,
+          "forks"         : 4,
           "openIssues"    : 1
         },
         {
@@ -287,12 +287,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 381,
+        "heat"          : 386,
         "watchers"      : 11,
         "size"          : 2220,
         "collaborators" : 86,
         "stars"         : 11,
-        "forks"         : 3,
+        "forks"         : 4,
         "openIssues"    : 1
       }
     },
@@ -685,15 +685,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 517,
           "watchers"      : 77,
-          "size"          : 2368,
+          "size"          : 2411,
           "collaborators" : 37,
           "stars"         : 77,
           "forks"         : 43,
-          "openIssues"    : 17,
+          "openIssues"    : 16,
           "languages"     : {
-            "TypeScript" : 435206,
+            "TypeScript" : 477561,
             "HTML" : 11245,
-            "JavaScript" : 327544
+            "JavaScript" : 327481
           }
         },
         {
@@ -702,13 +702,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 272,
           "watchers"      : 10,
-          "size"          : 1617,
+          "size"          : 1652,
           "collaborators" : 38,
           "stars"         : 10,
           "forks"         : 20,
-          "openIssues"    : 5,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 340100,
+            "TypeScript" : 356894,
             "HTML" : 2364,
             "JavaScript" : 11148
           }
@@ -751,16 +751,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1097,
         "watchers"      : 88,
-        "size"          : 4189,
+        "size"          : 4267,
         "collaborators" : 149,
         "stars"         : 88,
         "forks"         : 65,
-        "openIssues"    : 22,
+        "openIssues"    : 16,
         "languages"     : {
-          "TypeScript" : 880353,
+          "TypeScript" : 939502,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 348421
+          "JavaScript" : 348358
         }
       }
     },
@@ -825,13 +825,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 231,
           "watchers"      : 9,
-          "size"          : 1767,
+          "size"          : 1818,
           "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 13,
           "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 450632,
+            "TypeScript" : 453388,
             "CSS" : 16572,
             "HTML" : 14680,
             "JavaScript" : 20516
@@ -859,13 +859,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 389,
         "watchers"      : 9,
-        "size"          : 1832,
+        "size"          : 1883,
         "collaborators" : 74,
         "stars"         : 9,
         "forks"         : 15,
         "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 466836,
+          "TypeScript" : 469592,
           "CSS" : 21161,
           "HTML" : 15973,
           "JavaScript" : 22042
@@ -891,7 +891,7 @@
           "collaborators" : 37,
           "stars"         : 7,
           "forks"         : 3,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 117456,
             "CSS" : 28538,
@@ -908,7 +908,7 @@
         "collaborators" : 37,
         "stars"         : 7,
         "forks"         : 3,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 117456,
           "CSS" : 28538,
@@ -2974,7 +2974,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1433,
+          "size"          : 1492,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
@@ -3020,7 +3020,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1617,
+        "size"          : 1676,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
@@ -3630,13 +3630,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/JCurl",
           "heat"          : 118,
           "watchers"      : 11,
-          "size"          : 66,
+          "size"          : 77,
           "collaborators" : 4,
           "stars"         : 11,
           "forks"         : 16,
           "openIssues"    : 9,
           "languages"     : {
-            "Java" : 60780,
+            "Java" : 62971,
             "Ruby" : 467
           }
         }
@@ -3644,13 +3644,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 118,
         "watchers"      : 11,
-        "size"          : 66,
+        "size"          : 77,
         "collaborators" : 4,
         "stars"         : 11,
         "forks"         : 16,
         "openIssues"    : 9,
         "languages"     : {
-          "Java" : 60780,
+          "Java" : 62971,
           "Ruby" : 467
         }
       }
@@ -4027,17 +4027,17 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 275,
           "watchers"      : 30,
-          "size"          : 31076,
+          "size"          : 31110,
           "collaborators" : 10,
           "stars"         : 30,
           "forks"         : 35,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
-            "Shell" : 5893,
-            "CSS" : 4428,
+            "CSS" : 7216,
+            "Shell" : 5900,
             "Batchfile" : 552,
-            "JavaScript" : 450118,
-            "HTML" : 14460,
+            "JavaScript" : 464847,
+            "HTML" : 15538,
             "Objective_C" : 6723
           }
         },
@@ -4076,19 +4076,19 @@
       "cumulativeGitHubStats" : {
         "heat"          : 335,
         "watchers"      : 34,
-        "size"          : 31156,
+        "size"          : 31190,
         "collaborators" : 18,
         "stars"         : 34,
         "forks"         : 39,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 79692,
-          "Shell" : 5893,
-          "CSS" : 4428,
+          "CSS" : 7216,
+          "Shell" : 5900,
           "Batchfile" : 552,
-          "JavaScript" : 450503,
-          "HTML" : 14460,
+          "JavaScript" : 465232,
+          "HTML" : 15538,
           "Objective_C" : 6723
         }
       }
@@ -4182,11 +4182,11 @@
           "name"          : "greenkey-asrtoolkit",
           "description"   : "A collection of useful tools for handling speech recognition data",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
-          "heat"          : 45,
-          "watchers"      : 1,
+          "heat"          : 47,
+          "watchers"      : 2,
           "size"          : 318,
           "collaborators" : 7,
-          "stars"         : 1,
+          "stars"         : 2,
           "forks"         : 3,
           "openIssues"    : 2,
           "languages"     : {
@@ -4197,11 +4197,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 45,
-        "watchers"      : 1,
+        "heat"          : 47,
+        "watchers"      : 2,
         "size"          : 318,
         "collaborators" : 7,
-        "stars"         : 1,
+        "stars"         : 2,
         "forks"         : 3,
         "openIssues"    : 2,
         "languages"     : {
