@@ -15,7 +15,7 @@
         {
           "name"          : "kdb",
           "description"   : "kdb+ Working Group from FINOS Data Technologies program",
-          "gitHubURL"     : "https://github.com/finos-data-tech/coding-standards",
+          "gitHubURL"     : "https://github.com/finos-data-tech/kdb",
           "heat"          : 28,
           "watchers"      : 5,
           "size"          : 12,
@@ -34,6 +34,15 @@
         "forks"         : 2,
         "openIssues"    : 0
       }
+    },
+    {
+      "programName"          : "Data Technologies",
+      "programShortName"     : "Data Tech",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/DT/overview",
+      "activityName"         : "Security Reference Data",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2018-11-05"
     },
     {
       "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
@@ -223,26 +232,26 @@
           "gitHubURL"     : "https://github.com/FDC3/ContextData",
           "heat"          : 227,
           "watchers"      : 5,
-          "size"          : 113,
+          "size"          : 117,
           "collaborators" : 43,
           "stars"         : 5,
           "forks"         : 9,
-          "openIssues"    : 6,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 1632
+            "TypeScript" : 1886
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 227,
         "watchers"      : 5,
-        "size"          : 113,
+        "size"          : 117,
         "collaborators" : 43,
         "stars"         : 5,
         "forks"         : 9,
-        "openIssues"    : 6,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 1632
+          "TypeScript" : 1886
         }
       },
       "mailingLists"       : [
@@ -473,8 +482,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
       "activityName"         : "Foundation Catalogue WG",
       "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
-      "contributionDate"     : "2018-04-24"
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2018-04-24",
+      "archiveDate"          : "2018-10-23"
     },
     {
       "programName"          : "FinServ Developer Experience",
@@ -685,7 +695,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 517,
           "watchers"      : 77,
-          "size"          : 2411,
+          "size"          : 2364,
           "collaborators" : 37,
           "stars"         : 77,
           "forks"         : 43,
@@ -751,7 +761,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1097,
         "watchers"      : 88,
-        "size"          : 4267,
+        "size"          : 4220,
         "collaborators" : 149,
         "stars"         : 88,
         "forks"         : 65,
@@ -1086,8 +1096,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/PLX/overview",
       "activityName"         : "Interoperability Use Case Validation WG",
       "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
-      "contributionDate"     : "2018-04-24"
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2018-04-24",
+      "archiveDate"          : "2018-11-13"
     },
     {
       "programName"          : "Symphony",
@@ -1150,12 +1161,12 @@
           "name"          : "symphony-admin-bot",
           "description"   : "Symphony Admin Bot",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-admin-bot",
-          "heat"          : 21,
+          "heat"          : 26,
           "watchers"      : 0,
           "size"          : 37488,
           "collaborators" : 4,
           "stars"         : 0,
-          "forks"         : 1,
+          "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
             "Java" : 208921,
@@ -1164,12 +1175,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 21,
+        "heat"          : 26,
         "watchers"      : 0,
         "size"          : 37488,
         "collaborators" : 4,
         "stars"         : 0,
-        "forks"         : 1,
+        "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
           "Java" : 208921,
@@ -4027,7 +4038,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 275,
           "watchers"      : 30,
-          "size"          : 31110,
+          "size"          : 31112,
           "collaborators" : 10,
           "stars"         : 30,
           "forks"         : 35,
@@ -4076,7 +4087,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 335,
         "watchers"      : 34,
-        "size"          : 31190,
+        "size"          : 31192,
         "collaborators" : 18,
         "stars"         : 34,
         "forks"         : 39,
