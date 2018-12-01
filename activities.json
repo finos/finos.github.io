@@ -395,7 +395,7 @@
           "gitHubURL"     : "https://github.com/finos-fdx/bot-github-chatops",
           "heat"          : 33,
           "watchers"      : 4,
-          "size"          : 388,
+          "size"          : 389,
           "collaborators" : 5,
           "stars"         : 4,
           "forks"         : 1,
@@ -410,7 +410,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 33,
         "watchers"      : 4,
-        "size"          : 388,
+        "size"          : 389,
         "collaborators" : 5,
         "stars"         : 4,
         "forks"         : 1,
@@ -695,15 +695,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 517,
           "watchers"      : 77,
-          "size"          : 2364,
+          "size"          : 2375,
           "collaborators" : 37,
           "stars"         : 77,
           "forks"         : 43,
-          "openIssues"    : 16,
+          "openIssues"    : 13,
           "languages"     : {
-            "TypeScript" : 477561,
+            "TypeScript" : 479456,
             "HTML" : 11245,
-            "JavaScript" : 327481
+            "JavaScript" : 327604
           }
         },
         {
@@ -761,16 +761,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1097,
         "watchers"      : 88,
-        "size"          : 4220,
+        "size"          : 4231,
         "collaborators" : 149,
         "stars"         : 88,
         "forks"         : 65,
-        "openIssues"    : 16,
+        "openIssues"    : 13,
         "languages"     : {
-          "TypeScript" : 939502,
+          "TypeScript" : 941397,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 348358
+          "JavaScript" : 348481
         }
       }
     },
@@ -2104,7 +2104,7 @@
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 3,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "Dockerfile" : 401,
             "Shell" : 1007,
@@ -2119,7 +2119,7 @@
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 3,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "Dockerfile" : 401,
           "Shell" : 1007,
@@ -2456,7 +2456,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/clj-symphony",
           "heat"          : 45,
           "watchers"      : 4,
-          "size"          : 249,
+          "size"          : 257,
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 5,
@@ -2469,7 +2469,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 45,
         "watchers"      : 4,
-        "size"          : 249,
+        "size"          : 257,
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 5,
@@ -4038,14 +4038,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 275,
           "watchers"      : 30,
-          "size"          : 31112,
+          "size"          : 31149,
           "collaborators" : 10,
           "stars"         : 30,
           "forks"         : 35,
           "openIssues"    : 3,
           "languages"     : {
             "CSS" : 7216,
-            "Shell" : 5900,
+            "Shell" : 5899,
             "Batchfile" : 552,
             "JavaScript" : 464847,
             "HTML" : 15538,
@@ -4087,7 +4087,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 335,
         "watchers"      : 34,
-        "size"          : 31192,
+        "size"          : 31229,
         "collaborators" : 18,
         "stars"         : 34,
         "forks"         : 39,
@@ -4096,7 +4096,7 @@
           "C#" : 7673,
           "TypeScript" : 79692,
           "CSS" : 7216,
-          "Shell" : 5900,
+          "Shell" : 5899,
           "Batchfile" : 552,
           "JavaScript" : 465232,
           "HTML" : 15538,
