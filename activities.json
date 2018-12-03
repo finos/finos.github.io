@@ -230,12 +230,12 @@
           "name"          : "ContextData",
           "description"   : "Context data object specifications, schemas, and examples",
           "gitHubURL"     : "https://github.com/FDC3/ContextData",
-          "heat"          : 227,
+          "heat"          : 232,
           "watchers"      : 5,
           "size"          : 117,
           "collaborators" : 43,
           "stars"         : 5,
-          "forks"         : 9,
+          "forks"         : 10,
           "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 1886
@@ -243,12 +243,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 227,
+        "heat"          : 232,
         "watchers"      : 5,
         "size"          : 117,
         "collaborators" : 43,
         "stars"         : 5,
-        "forks"         : 9,
+        "forks"         : 10,
         "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 1886
@@ -395,7 +395,7 @@
           "gitHubURL"     : "https://github.com/finos-fdx/bot-github-chatops",
           "heat"          : 33,
           "watchers"      : 4,
-          "size"          : 389,
+          "size"          : 391,
           "collaborators" : 5,
           "stars"         : 4,
           "forks"         : 1,
@@ -410,7 +410,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 33,
         "watchers"      : 4,
-        "size"          : 389,
+        "size"          : 391,
         "collaborators" : 5,
         "stars"         : 4,
         "forks"         : 1,
@@ -695,11 +695,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 517,
           "watchers"      : 77,
-          "size"          : 2375,
+          "size"          : 2374,
           "collaborators" : 37,
           "stars"         : 77,
           "forks"         : 43,
-          "openIssues"    : 13,
+          "openIssues"    : 12,
           "languages"     : {
             "TypeScript" : 479456,
             "HTML" : 11245,
@@ -761,11 +761,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1097,
         "watchers"      : 88,
-        "size"          : 4231,
+        "size"          : 4230,
         "collaborators" : 149,
         "stars"         : 88,
         "forks"         : 65,
-        "openIssues"    : 13,
+        "openIssues"    : 12,
         "languages"     : {
           "TypeScript" : 941397,
           "HTML" : 16486,
@@ -839,7 +839,7 @@
           "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 13,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 453388,
             "CSS" : 16572,
@@ -873,7 +873,7 @@
         "collaborators" : 74,
         "stars"         : 9,
         "forks"         : 15,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 469592,
           "CSS" : 21161,
@@ -897,15 +897,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 177,
           "watchers"      : 7,
-          "size"          : 6111,
+          "size"          : 6013,
           "collaborators" : 37,
           "stars"         : 7,
           "forks"         : 3,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 117456,
+            "TypeScript" : 119494,
             "CSS" : 28538,
-            "HTML" : 7124,
+            "HTML" : 7121,
             "Gherkin" : 120,
             "JavaScript" : 7105
           }
@@ -914,15 +914,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 177,
         "watchers"      : 7,
-        "size"          : 6111,
+        "size"          : 6013,
         "collaborators" : 37,
         "stars"         : 7,
         "forks"         : 3,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 117456,
+          "TypeScript" : 119494,
           "CSS" : 28538,
-          "HTML" : 7124,
+          "HTML" : 7121,
           "Gherkin" : 120,
           "JavaScript" : 7105
         }
@@ -1048,12 +1048,12 @@
           "name"          : "finos-plexus.github.io",
           "description"   : "",
           "gitHubURL"     : "https://github.com/finos-plexus/finos-plexus.github.io",
-          "heat"          : 31,
+          "heat"          : 36,
           "watchers"      : 1,
           "size"          : 220,
           "collaborators" : 6,
           "stars"         : 1,
-          "forks"         : 1,
+          "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 21599
@@ -1061,12 +1061,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 768,
+        "heat"          : 773,
         "watchers"      : 241,
         "size"          : 6662,
         "collaborators" : 14,
         "stars"         : 241,
-        "forks"         : 46,
+        "forks"         : 47,
         "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 1167773,
@@ -2100,11 +2100,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/bot-unfurl",
           "heat"          : 35,
           "watchers"      : 4,
-          "size"          : 721,
+          "size"          : 720,
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 3,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "Dockerfile" : 401,
             "Shell" : 1007,
@@ -2115,11 +2115,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 35,
         "watchers"      : 4,
-        "size"          : 721,
+        "size"          : 720,
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 3,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "Dockerfile" : 401,
           "Shell" : 1007,
@@ -4038,7 +4038,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 275,
           "watchers"      : 30,
-          "size"          : 31149,
+          "size"          : 31157,
           "collaborators" : 10,
           "stars"         : 30,
           "forks"         : 35,
@@ -4087,7 +4087,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 335,
         "watchers"      : 34,
-        "size"          : 31229,
+        "size"          : 31237,
         "collaborators" : 18,
         "stars"         : 34,
         "forks"         : 39,
@@ -4195,11 +4195,11 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
           "heat"          : 47,
           "watchers"      : 2,
-          "size"          : 318,
+          "size"          : 321,
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 3,
-          "openIssues"    : 2,
+          "openIssues"    : 4,
           "languages"     : {
             "Dockerfile" : 520,
             "Shell" : 37,
@@ -4210,11 +4210,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 47,
         "watchers"      : 2,
-        "size"          : 318,
+        "size"          : 321,
         "collaborators" : 7,
         "stars"         : 2,
         "forks"         : 3,
-        "openIssues"    : 2,
+        "openIssues"    : 4,
         "languages"     : {
           "Dockerfile" : 520,
           "Shell" : 37,
