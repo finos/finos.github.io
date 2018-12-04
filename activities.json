@@ -177,7 +177,7 @@
           "gitHubURL"     : "https://github.com/FDC3/appd-api",
           "heat"          : 197,
           "watchers"      : 0,
-          "size"          : 740,
+          "size"          : 741,
           "collaborators" : 43,
           "stars"         : 0,
           "forks"         : 5,
@@ -199,7 +199,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 748,
         "watchers"      : 3,
-        "size"          : 849,
+        "size"          : 850,
         "collaborators" : 173,
         "stars"         : 3,
         "forks"         : 10,
@@ -395,7 +395,7 @@
           "gitHubURL"     : "https://github.com/finos-fdx/bot-github-chatops",
           "heat"          : 33,
           "watchers"      : 4,
-          "size"          : 391,
+          "size"          : 392,
           "collaborators" : 5,
           "stars"         : 4,
           "forks"         : 1,
@@ -410,7 +410,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 33,
         "watchers"      : 4,
-        "size"          : 391,
+        "size"          : 392,
         "collaborators" : 5,
         "stars"         : 4,
         "forks"         : 1,
@@ -699,7 +699,7 @@
           "collaborators" : 37,
           "stars"         : 77,
           "forks"         : 43,
-          "openIssues"    : 12,
+          "openIssues"    : 13,
           "languages"     : {
             "TypeScript" : 479456,
             "HTML" : 11245,
@@ -716,7 +716,7 @@
           "collaborators" : 38,
           "stars"         : 10,
           "forks"         : 20,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 356894,
             "HTML" : 2364,
@@ -765,7 +765,7 @@
         "collaborators" : 149,
         "stars"         : 88,
         "forks"         : 65,
-        "openIssues"    : 12,
+        "openIssues"    : 14,
         "languages"     : {
           "TypeScript" : 941397,
           "HTML" : 16486,
@@ -835,7 +835,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 231,
           "watchers"      : 9,
-          "size"          : 1818,
+          "size"          : 1840,
           "collaborators" : 37,
           "stars"         : 9,
           "forks"         : 13,
@@ -869,7 +869,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 389,
         "watchers"      : 9,
-        "size"          : 1883,
+        "size"          : 1905,
         "collaborators" : 74,
         "stars"         : 9,
         "forks"         : 15,
@@ -2985,7 +2985,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1492,
+          "size"          : 1567,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
@@ -3031,7 +3031,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1676,
+        "size"          : 1751,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
@@ -4038,7 +4038,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 275,
           "watchers"      : 30,
-          "size"          : 31157,
+          "size"          : 31164,
           "collaborators" : 10,
           "stars"         : 30,
           "forks"         : 35,
@@ -4047,7 +4047,7 @@
             "CSS" : 7216,
             "Shell" : 5899,
             "Batchfile" : 552,
-            "JavaScript" : 464847,
+            "JavaScript" : 466330,
             "HTML" : 15538,
             "Objective_C" : 6723
           }
@@ -4087,7 +4087,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 335,
         "watchers"      : 34,
-        "size"          : 31237,
+        "size"          : 31244,
         "collaborators" : 18,
         "stars"         : 34,
         "forks"         : 39,
@@ -4098,7 +4098,7 @@
           "CSS" : 7216,
           "Shell" : 5899,
           "Batchfile" : 552,
-          "JavaScript" : 465232,
+          "JavaScript" : 466715,
           "HTML" : 15538,
           "Objective_C" : 6723
         }
@@ -4195,30 +4195,30 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
           "heat"          : 47,
           "watchers"      : 2,
-          "size"          : 321,
+          "size"          : 325,
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 3,
-          "openIssues"    : 4,
+          "openIssues"    : 2,
           "languages"     : {
             "Dockerfile" : 520,
             "Shell" : 37,
-            "Python" : 60681
+            "Python" : 61114
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 47,
         "watchers"      : 2,
-        "size"          : 321,
+        "size"          : 325,
         "collaborators" : 7,
         "stars"         : 2,
         "forks"         : 3,
-        "openIssues"    : 4,
+        "openIssues"    : 2,
         "languages"     : {
           "Dockerfile" : 520,
           "Shell" : 37,
-          "Python" : 60681
+          "Python" : 61114
         }
       }
     },
