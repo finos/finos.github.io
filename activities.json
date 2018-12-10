@@ -399,7 +399,7 @@
           "collaborators" : 5,
           "stars"         : 4,
           "forks"         : 1,
-          "openIssues"    : 13,
+          "openIssues"    : 14,
           "languages"     : {
             "Shell" : 1326,
             "FreeMarker" : 7551,
@@ -414,7 +414,7 @@
         "collaborators" : 5,
         "stars"         : 4,
         "forks"         : 1,
-        "openIssues"    : 13,
+        "openIssues"    : 14,
         "languages"     : {
           "Shell" : 1326,
           "FreeMarker" : 7551,
@@ -447,12 +447,12 @@
           "name"          : "contrib-toolbox",
           "description"   : "A collection of utilities to support the FINOS contribution process",
           "gitHubURL"     : "https://github.com/finos-fdx/contrib-toolbox",
-          "heat"          : 16,
+          "heat"          : 21,
           "watchers"      : 0,
           "size"          : 176,
           "collaborators" : 4,
           "stars"         : 0,
-          "forks"         : 0,
+          "forks"         : 1,
           "openIssues"    : 1,
           "languages"     : {
             "Shell" : 21188,
@@ -462,12 +462,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 34,
+        "heat"          : 39,
         "watchers"      : 1,
         "size"          : 265,
         "collaborators" : 8,
         "stars"         : 1,
-        "forks"         : 0,
+        "forks"         : 1,
         "openIssues"    : 1,
         "languages"     : {
           "Shell" : 21188,
@@ -608,11 +608,11 @@
           "name"          : "app-template",
           "description"   : "A simple unopinionated Hadouken application template.",
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
-          "heat"          : 189,
-          "watchers"      : 9,
+          "heat"          : 191,
+          "watchers"      : 10,
           "size"          : 166,
           "collaborators" : 34,
-          "stars"         : 9,
+          "stars"         : 10,
           "forks"         : 7,
           "openIssues"    : 2,
           "languages"     : {
@@ -622,11 +622,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 189,
-        "watchers"      : 9,
+        "heat"          : 191,
+        "watchers"      : 10,
         "size"          : 166,
         "collaborators" : 34,
-        "stars"         : 9,
+        "stars"         : 10,
         "forks"         : 7,
         "openIssues"    : 2,
         "languages"     : {
@@ -693,34 +693,34 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 507,
-          "watchers"      : 78,
-          "size"          : 2391,
+          "heat"          : 509,
+          "watchers"      : 79,
+          "size"          : 2409,
           "collaborators" : 34,
-          "stars"         : 78,
+          "stars"         : 79,
           "forks"         : 43,
-          "openIssues"    : 13,
+          "openIssues"    : 11,
           "languages"     : {
             "TypeScript" : 480980,
             "HTML" : 11245,
-            "JavaScript" : 327604
+            "JavaScript" : 327704
           }
         },
         {
           "name"          : "js-adapter",
           "description"   : "Hadouken Node Adapter",
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
-          "heat"          : 262,
+          "heat"          : 267,
           "watchers"      : 11,
-          "size"          : 1633,
+          "size"          : 1654,
           "collaborators" : 35,
           "stars"         : 11,
-          "forks"         : 20,
-          "openIssues"    : 3,
+          "forks"         : 21,
+          "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 356894,
+            "TypeScript" : 371450,
             "HTML" : 2364,
-            "JavaScript" : 11148
+            "JavaScript" : 11314
           }
         },
         {
@@ -759,18 +759,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1053,
-        "watchers"      : 90,
-        "size"          : 4228,
+        "heat"          : 1060,
+        "watchers"      : 91,
+        "size"          : 4267,
         "collaborators" : 137,
-        "stars"         : 90,
-        "forks"         : 65,
-        "openIssues"    : 16,
+        "stars"         : 91,
+        "forks"         : 66,
+        "openIssues"    : 13,
         "languages"     : {
-          "TypeScript" : 942921,
+          "TypeScript" : 957477,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 348481
+          "JavaScript" : 348747
         }
       }
     },
@@ -839,7 +839,7 @@
           "collaborators" : 34,
           "stars"         : 9,
           "forks"         : 13,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 458253,
             "CSS" : 16572,
@@ -873,7 +873,7 @@
         "collaborators" : 68,
         "stars"         : 9,
         "forks"         : 15,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 474457,
           "CSS" : 21161,
@@ -2100,11 +2100,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/bot-unfurl",
           "heat"          : 35,
           "watchers"      : 4,
-          "size"          : 740,
+          "size"          : 743,
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 3,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "Dockerfile" : 401,
             "Shell" : 1007,
@@ -2115,11 +2115,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 35,
         "watchers"      : 4,
-        "size"          : 740,
+        "size"          : 743,
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 3,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "Dockerfile" : 401,
           "Shell" : 1007,
@@ -2456,7 +2456,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/clj-symphony",
           "heat"          : 45,
           "watchers"      : 4,
-          "size"          : 257,
+          "size"          : 260,
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 5,
@@ -2469,7 +2469,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 45,
         "watchers"      : 4,
-        "size"          : 257,
+        "size"          : 260,
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 5,
@@ -2814,12 +2814,12 @@
           "name"          : "contrib-toolbox",
           "description"   : "A collection of utilities to help with contribution validations",
           "gitHubURL"     : "https://github.com/symphonyoss/contrib-toolbox",
-          "heat"          : 24,
+          "heat"          : 29,
           "watchers"      : 1,
           "size"          : 68,
           "collaborators" : 3,
           "stars"         : 1,
-          "forks"         : 2,
+          "forks"         : 3,
           "openIssues"    : 3,
           "languages"     : {
             "Shell" : 21334,
@@ -2909,12 +2909,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 306,
+        "heat"          : 311,
         "watchers"      : 22,
         "size"          : 3892,
         "collaborators" : 23,
         "stars"         : 22,
-        "forks"         : 34,
+        "forks"         : 35,
         "openIssues"    : 26,
         "languages"     : {
           "Java" : 227715,
