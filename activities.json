@@ -2444,8 +2444,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "Symphony Clojure Client",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2016-08-11",
+      "releaseDate"          : "2018-12-11",
       "tags"                 : [
         "rest api client"
       ],
