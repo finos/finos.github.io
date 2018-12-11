@@ -571,20 +571,20 @@
           "name"          : "symphony-object",
           "description"   : " Structured Object Schemas",
           "gitHubURL"     : "https://github.com/finos-fo/symphony-object",
-          "heat"          : 16,
+          "heat"          : 20,
           "watchers"      : 1,
           "size"          : 21,
-          "collaborators" : 1,
+          "collaborators" : 2,
           "stars"         : 1,
           "forks"         : 2,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 16,
+        "heat"          : 20,
         "watchers"      : 1,
         "size"          : 21,
-        "collaborators" : 1,
+        "collaborators" : 2,
         "stars"         : 1,
         "forks"         : 2,
         "openIssues"    : 0
@@ -695,7 +695,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 509,
           "watchers"      : 79,
-          "size"          : 2409,
+          "size"          : 2419,
           "collaborators" : 34,
           "stars"         : 79,
           "forks"         : 43,
@@ -761,7 +761,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1060,
         "watchers"      : 91,
-        "size"          : 4267,
+        "size"          : 4277,
         "collaborators" : 137,
         "stars"         : 91,
         "forks"         : 66,
@@ -2100,14 +2100,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/bot-unfurl",
           "heat"          : 35,
           "watchers"      : 4,
-          "size"          : 743,
+          "size"          : 756,
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 3,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
             "Dockerfile" : 401,
-            "Shell" : 1007,
+            "Shell" : 1098,
             "Clojure" : 39677
           }
         }
@@ -2115,14 +2115,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 35,
         "watchers"      : 4,
-        "size"          : 743,
+        "size"          : 756,
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 3,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
           "Dockerfile" : 401,
-          "Shell" : 1007,
+          "Shell" : 1098,
           "Clojure" : 39677
         }
       }
@@ -2456,26 +2456,26 @@
           "gitHubURL"     : "https://github.com/symphonyoss/clj-symphony",
           "heat"          : 45,
           "watchers"      : 4,
-          "size"          : 260,
+          "size"          : 267,
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 5,
           "openIssues"    : 1,
           "languages"     : {
-            "Clojure" : 61554
+            "Clojure" : 61538
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 45,
         "watchers"      : 4,
-        "size"          : 260,
+        "size"          : 267,
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 5,
         "openIssues"    : 1,
         "languages"     : {
-          "Clojure" : 61554
+          "Clojure" : 61538
         }
       }
     },
@@ -4195,11 +4195,11 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
           "heat"          : 47,
           "watchers"      : 2,
-          "size"          : 325,
+          "size"          : 326,
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 3,
-          "openIssues"    : 2,
+          "openIssues"    : 0,
           "languages"     : {
             "Dockerfile" : 520,
             "Shell" : 37,
@@ -4210,11 +4210,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 47,
         "watchers"      : 2,
-        "size"          : 325,
+        "size"          : 326,
         "collaborators" : 7,
         "stars"         : 2,
         "forks"         : 3,
-        "openIssues"    : 2,
+        "openIssues"    : 0,
         "languages"     : {
           "Dockerfile" : 520,
           "Shell" : 37,
