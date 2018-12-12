@@ -695,15 +695,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 509,
           "watchers"      : 79,
-          "size"          : 2419,
+          "size"          : 2438,
           "collaborators" : 34,
           "stars"         : 79,
           "forks"         : 43,
-          "openIssues"    : 11,
+          "openIssues"    : 17,
           "languages"     : {
             "TypeScript" : 480980,
             "HTML" : 11245,
-            "JavaScript" : 327704
+            "JavaScript" : 328296
           }
         },
         {
@@ -712,13 +712,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 267,
           "watchers"      : 11,
-          "size"          : 1654,
+          "size"          : 1691,
           "collaborators" : 35,
           "stars"         : 11,
           "forks"         : 21,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 371450,
+            "TypeScript" : 372020,
             "HTML" : 2364,
             "JavaScript" : 11314
           }
@@ -761,16 +761,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1060,
         "watchers"      : 91,
-        "size"          : 4277,
+        "size"          : 4333,
         "collaborators" : 137,
         "stars"         : 91,
         "forks"         : 66,
-        "openIssues"    : 13,
+        "openIssues"    : 20,
         "languages"     : {
-          "TypeScript" : 957477,
+          "TypeScript" : 958047,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 348747
+          "JavaScript" : 349339
         }
       }
     },
@@ -835,16 +835,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 219,
           "watchers"      : 9,
-          "size"          : 1849,
+          "size"          : 1928,
           "collaborators" : 34,
           "stars"         : 9,
           "forks"         : 13,
-          "openIssues"    : 2,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 458253,
+            "TypeScript" : 478653,
             "CSS" : 16572,
-            "HTML" : 14680,
-            "JavaScript" : 21235
+            "HTML" : 15362,
+            "JavaScript" : 21306
           }
         },
         {
@@ -869,16 +869,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 365,
         "watchers"      : 9,
-        "size"          : 1914,
+        "size"          : 1993,
         "collaborators" : 68,
         "stars"         : 9,
         "forks"         : 15,
-        "openIssues"    : 2,
+        "openIssues"    : 4,
         "languages"     : {
-          "TypeScript" : 474457,
+          "TypeScript" : 494857,
           "CSS" : 21161,
-          "HTML" : 15973,
-          "JavaScript" : 22761
+          "HTML" : 16655,
+          "JavaScript" : 22832
         }
       }
     },
@@ -2986,13 +2986,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1607,
+          "size"          : 1543,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 716969,
+            "Java" : 779990,
             "CSS" : 29377,
             "Shell" : 26385,
             "HTML" : 16297
@@ -3019,7 +3019,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 134,
+          "size"          : 224,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -3032,13 +3032,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1791,
+        "size"          : 1817,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 739795,
+          "Java" : 802816,
           "CSS" : 29377,
           "Shell" : 26385,
           "HTML" : 16297,
@@ -3950,7 +3950,7 @@
           "forks"         : 3,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 441560
+            "Java" : 447089
           }
         },
         {
@@ -3975,7 +3975,7 @@
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 441560
+          "Java" : 447089
         }
       }
     },
@@ -4043,7 +4043,7 @@
           "collaborators" : 10,
           "stars"         : 31,
           "forks"         : 35,
-          "openIssues"    : 3,
+          "openIssues"    : 6,
           "languages"     : {
             "CSS" : 7216,
             "Shell" : 5899,
@@ -4074,7 +4074,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 35,
           "watchers"      : 2,
-          "size"          : 60,
+          "size"          : 62,
           "collaborators" : 4,
           "stars"         : 2,
           "forks"         : 3,
@@ -4088,11 +4088,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 337,
         "watchers"      : 35,
-        "size"          : 31258,
+        "size"          : 31260,
         "collaborators" : 18,
         "stars"         : 35,
         "forks"         : 39,
-        "openIssues"    : 3,
+        "openIssues"    : 6,
         "languages"     : {
           "C#" : 7673,
           "TypeScript" : 79692,
