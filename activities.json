@@ -610,7 +610,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
           "heat"          : 191,
           "watchers"      : 10,
-          "size"          : 166,
+          "size"          : 176,
           "collaborators" : 34,
           "stars"         : 10,
           "forks"         : 7,
@@ -624,7 +624,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 191,
         "watchers"      : 10,
-        "size"          : 166,
+        "size"          : 176,
         "collaborators" : 34,
         "stars"         : 10,
         "forks"         : 7,
@@ -695,15 +695,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 509,
           "watchers"      : 79,
-          "size"          : 2438,
+          "size"          : 2464,
           "collaborators" : 34,
           "stars"         : 79,
           "forks"         : 43,
-          "openIssues"    : 17,
+          "openIssues"    : 11,
           "languages"     : {
-            "TypeScript" : 480980,
+            "TypeScript" : 491285,
             "HTML" : 11245,
-            "JavaScript" : 328296
+            "JavaScript" : 319835
           }
         },
         {
@@ -712,13 +712,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 267,
           "watchers"      : 11,
-          "size"          : 1691,
+          "size"          : 1710,
           "collaborators" : 35,
           "stars"         : 11,
           "forks"         : 21,
           "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 372020,
+            "TypeScript" : 372794,
             "HTML" : 2364,
             "JavaScript" : 11314
           }
@@ -761,16 +761,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1060,
         "watchers"      : 91,
-        "size"          : 4333,
+        "size"          : 4378,
         "collaborators" : 137,
         "stars"         : 91,
         "forks"         : 66,
-        "openIssues"    : 20,
+        "openIssues"    : 14,
         "languages"     : {
-          "TypeScript" : 958047,
+          "TypeScript" : 969126,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 349339
+          "JavaScript" : 340878
         }
       }
     },
@@ -835,13 +835,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 219,
           "watchers"      : 9,
-          "size"          : 1928,
+          "size"          : 1862,
           "collaborators" : 34,
           "stars"         : 9,
           "forks"         : 13,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 478653,
+            "TypeScript" : 475716,
             "CSS" : 16572,
             "HTML" : 15362,
             "JavaScript" : 21306
@@ -869,13 +869,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 365,
         "watchers"      : 9,
-        "size"          : 1993,
+        "size"          : 1927,
         "collaborators" : 68,
         "stars"         : 9,
         "forks"         : 15,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 494857,
+          "TypeScript" : 491920,
           "CSS" : 21161,
           "HTML" : 16655,
           "JavaScript" : 22832
@@ -2100,11 +2100,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/bot-unfurl",
           "heat"          : 35,
           "watchers"      : 4,
-          "size"          : 756,
+          "size"          : 757,
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 3,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "Dockerfile" : 401,
             "Shell" : 1098,
@@ -2115,11 +2115,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 35,
         "watchers"      : 4,
-        "size"          : 756,
+        "size"          : 757,
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 3,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "Dockerfile" : 401,
           "Shell" : 1098,
@@ -2461,7 +2461,7 @@
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 5,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "Clojure" : 61538
           }
@@ -2474,7 +2474,7 @@
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 5,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "Clojure" : 61538
         }
@@ -2853,7 +2853,7 @@
           "collaborators" : 4,
           "stars"         : 3,
           "forks"         : 2,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "Java" : 227715,
             "HTML" : 7270,
@@ -2916,7 +2916,7 @@
         "collaborators" : 23,
         "stars"         : 22,
         "forks"         : 35,
-        "openIssues"    : 26,
+        "openIssues"    : 25,
         "languages"     : {
           "Java" : 227715,
           "Shell" : 22071,
@@ -3179,7 +3179,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Core",
           "heat"          : 101,
           "watchers"      : 4,
-          "size"          : 12120,
+          "size"          : 12121,
           "collaborators" : 12,
           "stars"         : 4,
           "forks"         : 9,
@@ -3225,7 +3225,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 290,
         "watchers"      : 8,
-        "size"          : 55536,
+        "size"          : 55537,
         "collaborators" : 41,
         "stars"         : 8,
         "forks"         : 22,
@@ -3818,10 +3818,10 @@
             "C" : 3421995,
             "Objective_C" : 155449,
             "Objective_C++" : 429372,
+            "MATLAB" : 35925,
             "Ruby" : 846,
             "Protocol Buffer" : 16878,
             "Assembly" : 22469,
-            "Matlab" : 35925,
             "Python" : 40621
           }
         }
@@ -3841,10 +3841,10 @@
           "C" : 3421995,
           "Objective_C" : 155449,
           "Objective_C++" : 429372,
+          "MATLAB" : 35925,
           "Ruby" : 846,
           "Protocol Buffer" : 16878,
           "Assembly" : 22469,
-          "Matlab" : 35925,
           "Python" : 40621
         }
       }
@@ -4037,18 +4037,18 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 277,
+          "heat"          : 282,
           "watchers"      : 31,
-          "size"          : 31178,
+          "size"          : 31175,
           "collaborators" : 10,
           "stars"         : 31,
-          "forks"         : 35,
+          "forks"         : 36,
           "openIssues"    : 6,
           "languages"     : {
             "CSS" : 7216,
             "Shell" : 5899,
             "Batchfile" : 552,
-            "JavaScript" : 466330,
+            "JavaScript" : 466390,
             "HTML" : 15538,
             "Objective_C" : 6723
           }
@@ -4120,12 +4120,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 385,
+        "heat"          : 390,
         "watchers"      : 35,
-        "size"          : 34935,
+        "size"          : 34932,
         "collaborators" : 30,
         "stars"         : 35,
-        "forks"         : 39,
+        "forks"         : 40,
         "openIssues"    : 7,
         "languages"     : {
           "TypeScript" : 79692,
@@ -4135,7 +4135,7 @@
           "CSS" : 7216,
           "C" : 1364,
           "Batchfile" : 552,
-          "JavaScript" : 587642,
+          "JavaScript" : 587702,
           "Objective_C" : 6723,
           "HTML" : 17180,
           "Python" : 921
@@ -4278,11 +4278,11 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 24,
           "watchers"      : 2,
-          "size"          : 81,
+          "size"          : 90,
           "collaborators" : 5,
           "stars"         : 2,
           "forks"         : 0,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "Python" : 56591
           }
@@ -4291,11 +4291,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 24,
         "watchers"      : 2,
-        "size"          : 81,
+        "size"          : 90,
         "collaborators" : 5,
         "stars"         : 2,
         "forks"         : 0,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "Python" : 56591
         }
