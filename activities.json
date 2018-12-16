@@ -515,7 +515,7 @@
       "gitHubRepos"          : [
         {
           "name"          : "odp-test",
-          "description"   : "Testing GitHub as a platform to host https://finosfoundation.atlassian.net/wiki/spaces/FDX/pages/243859459/Open+Developer+Platform+Working+Group",
+          "description"   : "Testing accessibility to FINOS Infrastructure",
           "gitHubURL"     : "https://github.com/finos-fdx/odp-test",
           "heat"          : 30,
           "watchers"      : 0,
