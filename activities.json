@@ -453,7 +453,7 @@
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "Shell" : 21188,
             "HTML" : 472,
@@ -468,7 +468,7 @@
         "collaborators" : 8,
         "stars"         : 1,
         "forks"         : 1,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "Shell" : 21188,
           "HTML" : 472,
@@ -695,15 +695,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 509,
           "watchers"      : 79,
-          "size"          : 2464,
+          "size"          : 2487,
           "collaborators" : 34,
           "stars"         : 79,
           "forks"         : 43,
-          "openIssues"    : 11,
+          "openIssues"    : 8,
           "languages"     : {
-            "TypeScript" : 491285,
+            "TypeScript" : 505135,
             "HTML" : 11245,
-            "JavaScript" : 319835
+            "JavaScript" : 321229
           }
         },
         {
@@ -720,7 +720,7 @@
           "languages"     : {
             "TypeScript" : 372794,
             "HTML" : 2364,
-            "JavaScript" : 11314
+            "JavaScript" : 11399
           }
         },
         {
@@ -761,16 +761,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1060,
         "watchers"      : 91,
-        "size"          : 4378,
+        "size"          : 4401,
         "collaborators" : 137,
         "stars"         : 91,
         "forks"         : 66,
-        "openIssues"    : 14,
+        "openIssues"    : 11,
         "languages"     : {
-          "TypeScript" : 969126,
+          "TypeScript" : 982976,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 340878
+          "JavaScript" : 342357
         }
       }
     },
@@ -839,7 +839,7 @@
           "collaborators" : 34,
           "stars"         : 9,
           "forks"         : 13,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 475716,
             "CSS" : 16572,
@@ -873,7 +873,7 @@
         "collaborators" : 68,
         "stars"         : 9,
         "forks"         : 15,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 491920,
           "CSS" : 21161,
@@ -2821,7 +2821,7 @@
           "collaborators" : 3,
           "stars"         : 1,
           "forks"         : 3,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "Shell" : 21334,
             "HTML" : 472,
@@ -2916,7 +2916,7 @@
         "collaborators" : 23,
         "stars"         : 22,
         "forks"         : 35,
-        "openIssues"    : 25,
+        "openIssues"    : 26,
         "languages"     : {
           "Java" : 227715,
           "Shell" : 22071,
@@ -2986,13 +2986,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1573,
+          "size"          : 1612,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 780766,
+            "Java" : 789098,
             "CSS" : 29377,
             "Shell" : 26385,
             "HTML" : 16297
@@ -3019,30 +3019,30 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 148,
+          "size"          : 158,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Groovy" : 193619
+            "Groovy" : 193603
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1771,
+        "size"          : 1820,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 803592,
+          "Java" : 811924,
           "CSS" : 29377,
           "Shell" : 26385,
           "HTML" : 16297,
-          "Groovy" : 193619
+          "Groovy" : 193603
         }
       }
     },
@@ -3179,7 +3179,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Core",
           "heat"          : 101,
           "watchers"      : 4,
-          "size"          : 12121,
+          "size"          : 12126,
           "collaborators" : 12,
           "stars"         : 4,
           "forks"         : 9,
@@ -3225,7 +3225,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 290,
         "watchers"      : 8,
-        "size"          : 55537,
+        "size"          : 55542,
         "collaborators" : 41,
         "stars"         : 8,
         "forks"         : 22,
