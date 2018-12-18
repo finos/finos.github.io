@@ -695,7 +695,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 509,
           "watchers"      : 79,
-          "size"          : 2487,
+          "size"          : 2493,
           "collaborators" : 34,
           "stars"         : 79,
           "forks"         : 43,
@@ -712,7 +712,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 267,
           "watchers"      : 11,
-          "size"          : 1710,
+          "size"          : 1720,
           "collaborators" : 35,
           "stars"         : 11,
           "forks"         : 21,
@@ -761,7 +761,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1060,
         "watchers"      : 91,
-        "size"          : 4401,
+        "size"          : 4417,
         "collaborators" : 137,
         "stars"         : 91,
         "forks"         : 66,
@@ -793,7 +793,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
           "heat"          : 280,
           "watchers"      : 24,
-          "size"          : 14637,
+          "size"          : 14647,
           "collaborators" : 38,
           "stars"         : 24,
           "forks"         : 16,
@@ -808,7 +808,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 280,
         "watchers"      : 24,
-        "size"          : 14637,
+        "size"          : 14647,
         "collaborators" : 38,
         "stars"         : 24,
         "forks"         : 16,
@@ -835,16 +835,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 219,
           "watchers"      : 9,
-          "size"          : 1862,
+          "size"          : 1898,
           "collaborators" : 34,
           "stars"         : 9,
           "forks"         : 13,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 475716,
+            "TypeScript" : 504911,
             "CSS" : 16572,
             "HTML" : 15362,
-            "JavaScript" : 21306
+            "JavaScript" : 21725
           }
         },
         {
@@ -869,16 +869,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 365,
         "watchers"      : 9,
-        "size"          : 1927,
+        "size"          : 1963,
         "collaborators" : 68,
         "stars"         : 9,
         "forks"         : 15,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
-          "TypeScript" : 491920,
+          "TypeScript" : 521115,
           "CSS" : 21161,
           "HTML" : 16655,
-          "JavaScript" : 22832
+          "JavaScript" : 23251
         }
       }
     },
@@ -897,7 +897,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 165,
           "watchers"      : 7,
-          "size"          : 6013,
+          "size"          : 5933,
           "collaborators" : 34,
           "stars"         : 7,
           "forks"         : 3,
@@ -914,7 +914,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 165,
         "watchers"      : 7,
-        "size"          : 6013,
+        "size"          : 5933,
         "collaborators" : 34,
         "stars"         : 7,
         "forks"         : 3,
@@ -2986,13 +2986,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1612,
+          "size"          : 1625,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 789098,
+            "Java" : 789610,
             "CSS" : 29377,
             "Shell" : 26385,
             "HTML" : 16297
@@ -3019,30 +3019,30 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 158,
+          "size"          : 186,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Groovy" : 193603
+            "Groovy" : 193509
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1820,
+        "size"          : 1861,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 811924,
+          "Java" : 812436,
           "CSS" : 29377,
           "Shell" : 26385,
           "HTML" : 16297,
-          "Groovy" : 193603
+          "Groovy" : 193509
         }
       }
     },
@@ -4231,11 +4231,11 @@
           "name"          : "greenkey-asrtoolkit",
           "description"   : "A collection of useful tools for handling speech recognition data",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
-          "heat"          : 47,
-          "watchers"      : 2,
-          "size"          : 326,
+          "heat"          : 49,
+          "watchers"      : 3,
+          "size"          : 281,
           "collaborators" : 7,
-          "stars"         : 2,
+          "stars"         : 3,
           "forks"         : 3,
           "openIssues"    : 0,
           "languages"     : {
@@ -4246,11 +4246,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 47,
-        "watchers"      : 2,
-        "size"          : 326,
+        "heat"          : 49,
+        "watchers"      : 3,
+        "size"          : 281,
         "collaborators" : 7,
-        "stars"         : 2,
+        "stars"         : 3,
         "forks"         : 3,
         "openIssues"    : 0,
         "languages"     : {
