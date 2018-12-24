@@ -695,11 +695,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 509,
           "watchers"      : 79,
-          "size"          : 2503,
+          "size"          : 2511,
           "collaborators" : 34,
           "stars"         : 79,
           "forks"         : 43,
-          "openIssues"    : 10,
+          "openIssues"    : 9,
           "languages"     : {
             "TypeScript" : 505135,
             "HTML" : 11245,
@@ -712,7 +712,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 267,
           "watchers"      : 11,
-          "size"          : 1723,
+          "size"          : 1853,
           "collaborators" : 35,
           "stars"         : 11,
           "forks"         : 21,
@@ -762,11 +762,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1060,
         "watchers"      : 91,
-        "size"          : 4430,
+        "size"          : 4568,
         "collaborators" : 137,
         "stars"         : 91,
         "forks"         : 66,
-        "openIssues"    : 15,
+        "openIssues"    : 14,
         "languages"     : {
           "TypeScript" : 983436,
           "HTML" : 16486,
@@ -4041,7 +4041,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 282,
           "watchers"      : 31,
-          "size"          : 31198,
+          "size"          : 31199,
           "collaborators" : 10,
           "stars"         : 31,
           "forks"         : 36,
@@ -4050,7 +4050,7 @@
             "CSS" : 7216,
             "Shell" : 5899,
             "Batchfile" : 552,
-            "JavaScript" : 468923,
+            "JavaScript" : 468917,
             "HTML" : 15538,
             "Objective_C" : 6723
           }
@@ -4124,7 +4124,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 390,
         "watchers"      : 35,
-        "size"          : 34962,
+        "size"          : 34963,
         "collaborators" : 30,
         "stars"         : 35,
         "forks"         : 40,
@@ -4137,7 +4137,7 @@
           "CSS" : 7216,
           "C" : 1364,
           "Batchfile" : 552,
-          "JavaScript" : 589452,
+          "JavaScript" : 589446,
           "Objective_C" : 6723,
           "HTML" : 16303,
           "Python" : 921
