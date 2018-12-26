@@ -695,7 +695,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 509,
           "watchers"      : 79,
-          "size"          : 2511,
+          "size"          : 2504,
           "collaborators" : 34,
           "stars"         : 79,
           "forks"         : 43,
@@ -762,7 +762,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1060,
         "watchers"      : 91,
-        "size"          : 4568,
+        "size"          : 4561,
         "collaborators" : 137,
         "stars"         : 91,
         "forks"         : 66,
@@ -1027,12 +1027,12 @@
           "name"          : "plexus-interop",
           "description"   : "Plexus Interop open source project hosted by the Fintech Open Source Foundation",
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
-          "heat"          : 739,
+          "heat"          : 734,
           "watchers"      : 241,
           "size"          : 6442,
           "collaborators" : 8,
           "stars"         : 241,
-          "forks"         : 45,
+          "forks"         : 44,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 1146174,
@@ -1063,12 +1063,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 775,
+        "heat"          : 770,
         "watchers"      : 242,
         "size"          : 6662,
         "collaborators" : 14,
         "stars"         : 242,
-        "forks"         : 47,
+        "forks"         : 46,
         "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 1167773,
@@ -1373,12 +1373,12 @@
           "name"          : "bot-butler",
           "description"   : "These are a collection of scripts for hubot",
           "gitHubURL"     : "https://github.com/symphonyoss/bot-butler",
-          "heat"          : 71,
+          "heat"          : 66,
           "watchers"      : 3,
           "size"          : 97,
           "collaborators" : 5,
           "stars"         : 3,
-          "forks"         : 9,
+          "forks"         : 8,
           "openIssues"    : 3,
           "languages"     : {
             "CoffeeScript" : 25010,
@@ -1388,12 +1388,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 71,
+        "heat"          : 66,
         "watchers"      : 3,
         "size"          : 97,
         "collaborators" : 5,
         "stars"         : 3,
-        "forks"         : 9,
+        "forks"         : 8,
         "openIssues"    : 3,
         "languages"     : {
           "CoffeeScript" : 25010,
@@ -2100,12 +2100,12 @@
           "name"          : "bot-unfurl",
           "description"   : "A small Symphony bot that attempts to unfurl URLs posted to any chat or room the bot is invited to.",
           "gitHubURL"     : "https://github.com/symphonyoss/bot-unfurl",
-          "heat"          : 35,
+          "heat"          : 30,
           "watchers"      : 4,
           "size"          : 757,
           "collaborators" : 3,
           "stars"         : 4,
-          "forks"         : 3,
+          "forks"         : 2,
           "openIssues"    : 3,
           "languages"     : {
             "Dockerfile" : 401,
@@ -2115,12 +2115,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 35,
+        "heat"          : 30,
         "watchers"      : 4,
         "size"          : 757,
         "collaborators" : 3,
         "stars"         : 4,
-        "forks"         : 3,
+        "forks"         : 2,
         "openIssues"    : 3,
         "languages"     : {
           "Dockerfile" : 401,
@@ -2190,12 +2190,12 @@
           "name"          : "vote-bot",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/vote-bot",
-          "heat"          : 42,
+          "heat"          : 37,
           "watchers"      : 3,
           "size"          : 141,
           "collaborators" : 4,
           "stars"         : 3,
-          "forks"         : 4,
+          "forks"         : 3,
           "openIssues"    : 10,
           "languages"     : {
             "Java" : 268867,
@@ -2204,12 +2204,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 42,
+        "heat"          : 37,
         "watchers"      : 3,
         "size"          : 141,
         "collaborators" : 4,
         "stars"         : 3,
-        "forks"         : 4,
+        "forks"         : 3,
         "openIssues"    : 10,
         "languages"     : {
           "Java" : 268867,
@@ -2457,12 +2457,12 @@
           "name"          : "clj-symphony",
           "description"   : "An idiomatic Clojure wrapper for the symphony-java-client",
           "gitHubURL"     : "https://github.com/symphonyoss/clj-symphony",
-          "heat"          : 45,
+          "heat"          : 40,
           "watchers"      : 4,
           "size"          : 270,
           "collaborators" : 3,
           "stars"         : 4,
-          "forks"         : 5,
+          "forks"         : 4,
           "openIssues"    : 2,
           "languages"     : {
             "Clojure" : 61538
@@ -2470,12 +2470,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 45,
+        "heat"          : 40,
         "watchers"      : 4,
         "size"          : 270,
         "collaborators" : 3,
         "stars"         : 4,
-        "forks"         : 5,
+        "forks"         : 4,
         "openIssues"    : 2,
         "languages"     : {
           "Clojure" : 61538
@@ -2543,12 +2543,12 @@
           "name"          : "hubot-symphony",
           "description"   : "Hubot adapter for Symphony",
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
-          "heat"          : 94,
+          "heat"          : 89,
           "watchers"      : 9,
           "size"          : 273,
           "collaborators" : 4,
           "stars"         : 9,
-          "forks"         : 12,
+          "forks"         : 11,
           "openIssues"    : 12,
           "languages"     : {
             "JavaScript" : 81960
@@ -2556,12 +2556,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 94,
+        "heat"          : 89,
         "watchers"      : 9,
         "size"          : 273,
         "collaborators" : 4,
         "stars"         : 9,
-        "forks"         : 12,
+        "forks"         : 11,
         "openIssues"    : 12,
         "languages"     : {
           "JavaScript" : 81960
@@ -2585,12 +2585,12 @@
           "name"          : "symphony-java-client",
           "description"   : "Java client library for Symphony",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-client",
-          "heat"          : 244,
+          "heat"          : 239,
           "watchers"      : 33,
           "size"          : 2452,
           "collaborators" : 7,
           "stars"         : 33,
-          "forks"         : 30,
+          "forks"         : 29,
           "openIssues"    : 10,
           "languages"     : {
             "Java" : 695383,
@@ -2601,12 +2601,12 @@
           "name"          : "symphony-java-api",
           "description"   : "Java client language bindings for the Symphony REST API.  ",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-api",
-          "heat"          : 54,
+          "heat"          : 49,
           "watchers"      : 2,
           "size"          : 124,
           "collaborators" : 5,
           "stars"         : 2,
-          "forks"         : 6,
+          "forks"         : 5,
           "openIssues"    : 0,
           "languages"     : {
             "Shell" : 1938
@@ -2630,12 +2630,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 423,
+        "heat"          : 413,
         "watchers"      : 57,
         "size"          : 3508,
         "collaborators" : 16,
         "stars"         : 57,
-        "forks"         : 49,
+        "forks"         : 47,
         "openIssues"    : 14,
         "languages"     : {
           "Java" : 718953,
@@ -2660,12 +2660,12 @@
           "name"          : "symphony-node-binding",
           "description"   : "A node.js symphony api implementation",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-node-binding",
-          "heat"          : 84,
+          "heat"          : 79,
           "watchers"      : 2,
           "size"          : 22,
           "collaborators" : 5,
           "stars"         : 2,
-          "forks"         : 12,
+          "forks"         : 11,
           "openIssues"    : 4,
           "languages"     : {
             "JavaScript" : 28233
@@ -2673,12 +2673,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 84,
+        "heat"          : 79,
         "watchers"      : 2,
         "size"          : 22,
         "collaborators" : 5,
         "stars"         : 2,
-        "forks"         : 12,
+        "forks"         : 11,
         "openIssues"    : 4,
         "languages"     : {
           "JavaScript" : 28233
@@ -3117,12 +3117,12 @@
           "name"          : "app-integrations-bitbucket",
           "description"   : "The BitBucket Symphony Integration allows to receive BitBucket notifications in a Symphony 1:1 or group chat.",
           "gitHubURL"     : "https://github.com/symphonyoss/app-integrations-bitbucket",
-          "heat"          : 31,
+          "heat"          : 26,
           "watchers"      : 0,
           "size"          : 47,
           "collaborators" : 4,
           "stars"         : 0,
-          "forks"         : 3,
+          "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
             "Java" : 61134,
@@ -3132,12 +3132,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 31,
+        "heat"          : 26,
         "watchers"      : 0,
         "size"          : 47,
         "collaborators" : 4,
         "stars"         : 0,
-        "forks"         : 3,
+        "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
           "Java" : 61134,
@@ -3164,12 +3164,12 @@
           "name"          : "App-Integrations-Commons",
           "description"   : "Common components for Symphony App Integrations.",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Commons",
-          "heat"          : 104,
+          "heat"          : 99,
           "watchers"      : 3,
           "size"          : 20187,
           "collaborators" : 12,
           "stars"         : 3,
-          "forks"         : 10,
+          "forks"         : 9,
           "openIssues"    : 3,
           "languages"     : {
             "Java" : 729718
@@ -3179,12 +3179,12 @@
           "name"          : "App-Integrations-Core",
           "description"   : "Core components for Symphony App Integrations.",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Core",
-          "heat"          : 101,
+          "heat"          : 96,
           "watchers"      : 4,
-          "size"          : 12127,
+          "size"          : 12128,
           "collaborators" : 12,
           "stars"         : 4,
-          "forks"         : 9,
+          "forks"         : 8,
           "openIssues"    : 0,
           "languages"     : {
             "Java" : 1138331,
@@ -3196,12 +3196,12 @@
           "name"          : "App-Integrations-FE-Commons",
           "description"   : "Common components for Front-End development of Symphony Integrations.",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-FE-Commons",
-          "heat"          : 56,
+          "heat"          : 51,
           "watchers"      : 1,
           "size"          : 22595,
           "collaborators" : 11,
           "stars"         : 1,
-          "forks"         : 2,
+          "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
             "CSS" : 13989,
@@ -3212,12 +3212,12 @@
           "name"          : "Integrations-Docs",
           "description"   : "Symphony Integrations documentation",
           "gitHubURL"     : "https://github.com/symphonyoss/Integrations-Docs",
-          "heat"          : 29,
+          "heat"          : 24,
           "watchers"      : 0,
           "size"          : 634,
           "collaborators" : 6,
           "stars"         : 0,
-          "forks"         : 1,
+          "forks"         : 0,
           "openIssues"    : 1,
           "languages"     : {
             "HTML" : 651
@@ -3225,12 +3225,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 290,
+        "heat"          : 270,
         "watchers"      : 8,
-        "size"          : 55543,
+        "size"          : 55544,
         "collaborators" : 41,
         "stars"         : 8,
-        "forks"         : 22,
+        "forks"         : 18,
         "openIssues"    : 4,
         "languages"     : {
           "Java" : 1868049,
@@ -3396,12 +3396,12 @@
           "name"          : "App-Integrations-Jira",
           "description"   : "Jira Integration",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Jira",
-          "heat"          : 98,
+          "heat"          : 93,
           "watchers"      : 3,
           "size"          : 1867,
           "collaborators" : 13,
           "stars"         : 3,
-          "forks"         : 8,
+          "forks"         : 7,
           "openIssues"    : 1,
           "languages"     : {
             "Java" : 258468,
@@ -3412,12 +3412,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 98,
+        "heat"          : 93,
         "watchers"      : 3,
         "size"          : 1867,
         "collaborators" : 13,
         "stars"         : 3,
-        "forks"         : 8,
+        "forks"         : 7,
         "openIssues"    : 1,
         "languages"     : {
           "Java" : 258468,
@@ -3594,12 +3594,12 @@
           "name"          : "App-Integrations-Zapier",
           "description"   : "Zapier Integration",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Zapier",
-          "heat"          : 67,
+          "heat"          : 62,
           "watchers"      : 2,
           "size"          : 1137,
           "collaborators" : 12,
           "stars"         : 2,
-          "forks"         : 3,
+          "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
             "Java" : 37847,
@@ -3610,12 +3610,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 67,
+        "heat"          : 62,
         "watchers"      : 2,
         "size"          : 1137,
         "collaborators" : 12,
         "stars"         : 2,
-        "forks"         : 3,
+        "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
           "Java" : 37847,
@@ -3642,11 +3642,11 @@
           "name"          : "JCurl",
           "description"   : "JSON-aware curl (1) in Java",
           "gitHubURL"     : "https://github.com/symphonyoss/JCurl",
-          "heat"          : 118,
-          "watchers"      : 11,
+          "heat"          : 120,
+          "watchers"      : 12,
           "size"          : 77,
           "collaborators" : 4,
-          "stars"         : 11,
+          "stars"         : 12,
           "forks"         : 16,
           "openIssues"    : 9,
           "languages"     : {
@@ -3656,11 +3656,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 118,
-        "watchers"      : 11,
+        "heat"          : 120,
+        "watchers"      : 12,
         "size"          : 77,
         "collaborators" : 4,
-        "stars"         : 11,
+        "stars"         : 12,
         "forks"         : 16,
         "openIssues"    : 9,
         "languages"     : {
@@ -4041,14 +4041,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 282,
           "watchers"      : 31,
-          "size"          : 31199,
+          "size"          : 31214,
           "collaborators" : 10,
           "stars"         : 31,
           "forks"         : 36,
-          "openIssues"    : 5,
+          "openIssues"    : 6,
           "languages"     : {
             "CSS" : 7216,
-            "Shell" : 5899,
+            "Shell" : 5892,
             "Batchfile" : 552,
             "JavaScript" : 468917,
             "HTML" : 15538,
@@ -4076,11 +4076,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/electron-spellchecker",
           "heat"          : 24,
           "watchers"      : 0,
-          "size"          : 575,
+          "size"          : 633,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 0,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "HTML" : 765,
             "JavaScript" : 54833
@@ -4124,7 +4124,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 390,
         "watchers"      : 35,
-        "size"          : 34963,
+        "size"          : 35036,
         "collaborators" : 30,
         "stars"         : 35,
         "forks"         : 40,
@@ -4132,7 +4132,7 @@
         "languages"     : {
           "TypeScript" : 79692,
           "C#" : 7673,
-          "Shell" : 5899,
+          "Shell" : 5892,
           "C++" : 35850,
           "CSS" : 7216,
           "C" : 1364,
@@ -4233,13 +4233,13 @@
           "name"          : "greenkey-asrtoolkit",
           "description"   : "A collection of useful tools for handling speech recognition data",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
-          "heat"          : 49,
+          "heat"          : 44,
           "watchers"      : 3,
-          "size"          : 281,
+          "size"          : 285,
           "collaborators" : 7,
           "stars"         : 3,
-          "forks"         : 3,
-          "openIssues"    : 0,
+          "forks"         : 2,
+          "openIssues"    : 1,
           "languages"     : {
             "Dockerfile" : 520,
             "Shell" : 37,
@@ -4248,13 +4248,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 49,
+        "heat"          : 44,
         "watchers"      : 3,
-        "size"          : 281,
+        "size"          : 285,
         "collaborators" : 7,
         "stars"         : 3,
-        "forks"         : 3,
-        "openIssues"    : 0,
+        "forks"         : 2,
+        "openIssues"    : 1,
         "languages"     : {
           "Dockerfile" : 520,
           "Shell" : 37,
