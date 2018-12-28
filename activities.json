@@ -699,7 +699,7 @@
           "collaborators" : 34,
           "stars"         : 79,
           "forks"         : 43,
-          "openIssues"    : 9,
+          "openIssues"    : 10,
           "languages"     : {
             "TypeScript" : 505135,
             "HTML" : 11245,
@@ -766,7 +766,7 @@
         "collaborators" : 137,
         "stars"         : 91,
         "forks"         : 66,
-        "openIssues"    : 14,
+        "openIssues"    : 15,
         "languages"     : {
           "TypeScript" : 983436,
           "HTML" : 16486,
@@ -835,11 +835,11 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 219,
-          "watchers"      : 9,
+          "heat"          : 221,
+          "watchers"      : 10,
           "size"          : 1953,
           "collaborators" : 34,
-          "stars"         : 9,
+          "stars"         : 10,
           "forks"         : 13,
           "openIssues"    : 3,
           "languages"     : {
@@ -869,11 +869,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 365,
-        "watchers"      : 9,
+        "heat"          : 367,
+        "watchers"      : 10,
         "size"          : 2018,
         "collaborators" : 68,
-        "stars"         : 9,
+        "stars"         : 10,
         "forks"         : 15,
         "openIssues"    : 3,
         "languages"     : {
@@ -3181,13 +3181,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Core",
           "heat"          : 96,
           "watchers"      : 4,
-          "size"          : 12128,
+          "size"          : 12137,
           "collaborators" : 12,
           "stars"         : 4,
           "forks"         : 8,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 1138331,
+            "Java" : 1139634,
             "Shell" : 1870,
             "JavaScript" : 820
           }
@@ -3227,13 +3227,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 270,
         "watchers"      : 8,
-        "size"          : 55544,
+        "size"          : 55553,
         "collaborators" : 41,
         "stars"         : 8,
         "forks"         : 18,
         "openIssues"    : 4,
         "languages"     : {
-          "Java" : 1868049,
+          "Java" : 1869352,
           "Shell" : 1870,
           "CSS" : 13989,
           "HTML" : 651,
@@ -4041,11 +4041,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 282,
           "watchers"      : 31,
-          "size"          : 31214,
+          "size"          : 31251,
           "collaborators" : 10,
           "stars"         : 31,
           "forks"         : 36,
-          "openIssues"    : 6,
+          "openIssues"    : 5,
           "languages"     : {
             "CSS" : 7216,
             "Shell" : 5892,
@@ -4076,7 +4076,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/electron-spellchecker",
           "heat"          : 24,
           "watchers"      : 0,
-          "size"          : 633,
+          "size"          : 634,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 0,
@@ -4124,11 +4124,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 390,
         "watchers"      : 35,
-        "size"          : 35036,
+        "size"          : 35074,
         "collaborators" : 30,
         "stars"         : 35,
         "forks"         : 40,
-        "openIssues"    : 6,
+        "openIssues"    : 5,
         "languages"     : {
           "TypeScript" : 79692,
           "C#" : 7673,
