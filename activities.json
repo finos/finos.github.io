@@ -608,11 +608,11 @@
           "name"          : "app-template",
           "description"   : "A simple unopinionated Hadouken application template.",
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
-          "heat"          : 191,
-          "watchers"      : 10,
+          "heat"          : 193,
+          "watchers"      : 11,
           "size"          : 176,
           "collaborators" : 34,
-          "stars"         : 10,
+          "stars"         : 11,
           "forks"         : 7,
           "openIssues"    : 2,
           "languages"     : {
@@ -622,11 +622,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 191,
-        "watchers"      : 10,
+        "heat"          : 193,
+        "watchers"      : 11,
         "size"          : 176,
         "collaborators" : 34,
-        "stars"         : 10,
+        "stars"         : 11,
         "forks"         : 7,
         "openIssues"    : 2,
         "languages"     : {
