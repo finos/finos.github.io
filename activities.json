@@ -395,30 +395,30 @@
           "gitHubURL"     : "https://github.com/finos-fdx/bot-github-chatops",
           "heat"          : 33,
           "watchers"      : 4,
-          "size"          : 407,
+          "size"          : 408,
           "collaborators" : 5,
           "stars"         : 4,
           "forks"         : 1,
           "openIssues"    : 14,
           "languages"     : {
-            "Shell" : 1326,
+            "Shell" : 1435,
             "FreeMarker" : 7551,
-            "Clojure" : 52366
+            "Clojure" : 52462
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 33,
         "watchers"      : 4,
-        "size"          : 407,
+        "size"          : 408,
         "collaborators" : 5,
         "stars"         : 4,
         "forks"         : 1,
         "openIssues"    : 14,
         "languages"     : {
-          "Shell" : 1326,
+          "Shell" : 1435,
           "FreeMarker" : 7551,
-          "Clojure" : 52366
+          "Clojure" : 52462
         }
       }
     },
@@ -841,7 +841,7 @@
           "collaborators" : 34,
           "stars"         : 10,
           "forks"         : 13,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 504911,
             "CSS" : 16572,
@@ -875,7 +875,7 @@
         "collaborators" : 68,
         "stars"         : 10,
         "forks"         : 15,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 521115,
           "CSS" : 21161,
@@ -2988,7 +2988,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1439,
+          "size"          : 1460,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
@@ -3034,7 +3034,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1675,
+        "size"          : 1696,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
@@ -4041,7 +4041,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 282,
           "watchers"      : 31,
-          "size"          : 31251,
+          "size"          : 31270,
           "collaborators" : 10,
           "stars"         : 31,
           "forks"         : 36,
@@ -4124,7 +4124,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 390,
         "watchers"      : 35,
-        "size"          : 35074,
+        "size"          : 35093,
         "collaborators" : 30,
         "stars"         : 35,
         "forks"         : 40,
@@ -4284,7 +4284,7 @@
           "collaborators" : 5,
           "stars"         : 2,
           "forks"         : 0,
-          "openIssues"    : 5,
+          "openIssues"    : 3,
           "languages"     : {
             "Python" : 56591
           }
@@ -4297,7 +4297,7 @@
         "collaborators" : 5,
         "stars"         : 2,
         "forks"         : 0,
-        "openIssues"    : 5,
+        "openIssues"    : 3,
         "languages"     : {
           "Python" : 56591
         }
@@ -4325,7 +4325,7 @@
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 1,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
             "JavaScript" : 7824
           }
@@ -4338,7 +4338,7 @@
         "collaborators" : 6,
         "stars"         : 1,
         "forks"         : 1,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
           "JavaScript" : 7824
         }
