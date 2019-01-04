@@ -399,7 +399,7 @@
           "collaborators" : 5,
           "stars"         : 4,
           "forks"         : 1,
-          "openIssues"    : 14,
+          "openIssues"    : 15,
           "languages"     : {
             "Shell" : 1435,
             "FreeMarker" : 7551,
@@ -414,7 +414,7 @@
         "collaborators" : 5,
         "stars"         : 4,
         "forks"         : 1,
-        "openIssues"    : 14,
+        "openIssues"    : 15,
         "languages"     : {
           "Shell" : 1435,
           "FreeMarker" : 7551,
@@ -695,11 +695,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 509,
           "watchers"      : 79,
-          "size"          : 2504,
+          "size"          : 2505,
           "collaborators" : 34,
           "stars"         : 79,
           "forks"         : 43,
-          "openIssues"    : 10,
+          "openIssues"    : 11,
           "languages"     : {
             "TypeScript" : 505135,
             "HTML" : 11245,
@@ -762,11 +762,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1060,
         "watchers"      : 91,
-        "size"          : 4561,
+        "size"          : 4562,
         "collaborators" : 137,
         "stars"         : 91,
         "forks"         : 66,
-        "openIssues"    : 15,
+        "openIssues"    : 16,
         "languages"     : {
           "TypeScript" : 983436,
           "HTML" : 16486,
@@ -837,7 +837,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 221,
           "watchers"      : 10,
-          "size"          : 1953,
+          "size"          : 1958,
           "collaborators" : 34,
           "stars"         : 10,
           "forks"         : 13,
@@ -846,7 +846,7 @@
             "TypeScript" : 504911,
             "CSS" : 16572,
             "HTML" : 15362,
-            "JavaScript" : 21725
+            "JavaScript" : 21896
           }
         },
         {
@@ -871,7 +871,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 367,
         "watchers"      : 10,
-        "size"          : 2018,
+        "size"          : 2023,
         "collaborators" : 68,
         "stars"         : 10,
         "forks"         : 15,
@@ -880,7 +880,7 @@
           "TypeScript" : 521115,
           "CSS" : 21161,
           "HTML" : 16655,
-          "JavaScript" : 23251
+          "JavaScript" : 23422
         }
       }
     },
@@ -3021,7 +3021,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 186,
+          "size"          : 215,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -3034,7 +3034,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1696,
+        "size"          : 1725,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
@@ -3170,7 +3170,7 @@
           "collaborators" : 12,
           "stars"         : 3,
           "forks"         : 9,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "Java" : 729718
           }
@@ -3231,7 +3231,7 @@
         "collaborators" : 41,
         "stars"         : 8,
         "forks"         : 18,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "Java" : 1869352,
           "Shell" : 1870,
@@ -3398,11 +3398,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Jira",
           "heat"          : 93,
           "watchers"      : 3,
-          "size"          : 1867,
+          "size"          : 1872,
           "collaborators" : 13,
           "stars"         : 3,
           "forks"         : 7,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "Java" : 258468,
             "HTML" : 5932,
@@ -3414,11 +3414,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 93,
         "watchers"      : 3,
-        "size"          : 1867,
+        "size"          : 1872,
         "collaborators" : 13,
         "stars"         : 3,
         "forks"         : 7,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "Java" : 258468,
           "HTML" : 5932,
@@ -4041,7 +4041,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 282,
           "watchers"      : 31,
-          "size"          : 31270,
+          "size"          : 31255,
           "collaborators" : 10,
           "stars"         : 31,
           "forks"         : 36,
@@ -4050,8 +4050,8 @@
             "CSS" : 7216,
             "Shell" : 5892,
             "Batchfile" : 552,
-            "JavaScript" : 468917,
-            "HTML" : 15538,
+            "JavaScript" : 476759,
+            "HTML" : 18183,
             "Objective_C" : 6723
           }
         },
@@ -4124,7 +4124,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 390,
         "watchers"      : 35,
-        "size"          : 35093,
+        "size"          : 35078,
         "collaborators" : 30,
         "stars"         : 35,
         "forks"         : 40,
@@ -4137,9 +4137,9 @@
           "CSS" : 7216,
           "C" : 1364,
           "Batchfile" : 552,
-          "JavaScript" : 589446,
+          "JavaScript" : 597288,
           "Objective_C" : 6723,
-          "HTML" : 16303,
+          "HTML" : 18948,
           "Python" : 921
         }
       }
@@ -4235,30 +4235,30 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
           "heat"          : 44,
           "watchers"      : 3,
-          "size"          : 285,
+          "size"          : 289,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 2,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "Dockerfile" : 520,
             "Shell" : 37,
-            "Python" : 61114
+            "Python" : 63801
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 44,
         "watchers"      : 3,
-        "size"          : 285,
+        "size"          : 289,
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 2,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
           "Dockerfile" : 520,
           "Shell" : 37,
-          "Python" : 61114
+          "Python" : 63801
         }
       }
     },
