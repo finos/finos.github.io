@@ -393,12 +393,12 @@
           "name"          : "bot-github-chatops",
           "description"   : "A Symphony bot that uses ChatOps techniques to allow a firm employee to interact in a compliant manner with GitHub issues and PRs",
           "gitHubURL"     : "https://github.com/finos-fdx/bot-github-chatops",
-          "heat"          : 33,
+          "heat"          : 38,
           "watchers"      : 4,
-          "size"          : 411,
+          "size"          : 413,
           "collaborators" : 5,
           "stars"         : 4,
-          "forks"         : 1,
+          "forks"         : 2,
           "openIssues"    : 13,
           "languages"     : {
             "Shell" : 1435,
@@ -408,12 +408,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 33,
+        "heat"          : 38,
         "watchers"      : 4,
-        "size"          : 411,
+        "size"          : 413,
         "collaborators" : 5,
         "stars"         : 4,
-        "forks"         : 1,
+        "forks"         : 2,
         "openIssues"    : 13,
         "languages"     : {
           "Shell" : 1435,
@@ -699,9 +699,9 @@
           "collaborators" : 34,
           "stars"         : 79,
           "forks"         : 43,
-          "openIssues"    : 11,
+          "openIssues"    : 9,
           "languages"     : {
-            "TypeScript" : 505135,
+            "TypeScript" : 505143,
             "HTML" : 11245,
             "JavaScript" : 321367
           }
@@ -716,9 +716,9 @@
           "collaborators" : 35,
           "stars"         : 11,
           "forks"         : 21,
-          "openIssues"    : 5,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 373254,
+            "TypeScript" : 373260,
             "HTML" : 2364,
             "JavaScript" : 11399,
             "Python" : 2150
@@ -766,9 +766,9 @@
         "collaborators" : 137,
         "stars"         : 91,
         "forks"         : 66,
-        "openIssues"    : 16,
+        "openIssues"    : 13,
         "languages"     : {
-          "TypeScript" : 983436,
+          "TypeScript" : 983450,
           "HTML" : 16486,
           "CSS" : 48222,
           "JavaScript" : 342495,
@@ -2988,7 +2988,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1460,
+          "size"          : 1468,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
@@ -3021,20 +3021,20 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 225,
+          "size"          : 197,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Groovy" : 193509
+            "Groovy" : 193799
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1735,
+        "size"          : 1715,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
@@ -3044,7 +3044,7 @@
           "CSS" : 29377,
           "Shell" : 26385,
           "HTML" : 16297,
-          "Groovy" : 193509
+          "Groovy" : 193799
         }
       }
     },
@@ -3166,13 +3166,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Commons",
           "heat"          : 99,
           "watchers"      : 3,
-          "size"          : 20187,
+          "size"          : 20191,
           "collaborators" : 12,
           "stars"         : 3,
           "forks"         : 9,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
-            "Java" : 729718
+            "Java" : 729729
           }
         },
         {
@@ -3227,13 +3227,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 270,
         "watchers"      : 8,
-        "size"          : 55553,
+        "size"          : 55557,
         "collaborators" : 41,
         "stars"         : 8,
         "forks"         : 18,
-        "openIssues"    : 5,
+        "openIssues"    : 4,
         "languages"     : {
-          "Java" : 1869352,
+          "Java" : 1869363,
           "Shell" : 1870,
           "CSS" : 13989,
           "HTML" : 651,
@@ -3402,9 +3402,9 @@
           "collaborators" : 13,
           "stars"         : 3,
           "forks"         : 7,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
-            "Java" : 258468,
+            "Java" : 258772,
             "HTML" : 5932,
             "Shell" : 1440,
             "JavaScript" : 30527
@@ -3418,9 +3418,9 @@
         "collaborators" : 13,
         "stars"         : 3,
         "forks"         : 7,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
-          "Java" : 258468,
+          "Java" : 258772,
           "HTML" : 5932,
           "Shell" : 1440,
           "JavaScript" : 30527
@@ -3961,7 +3961,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-super-pom",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 53,
+          "size"          : 33,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
@@ -3971,7 +3971,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 64,
         "watchers"      : 0,
-        "size"          : 445,
+        "size"          : 425,
         "collaborators" : 11,
         "stars"         : 0,
         "forks"         : 4,
@@ -4041,7 +4041,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 282,
           "watchers"      : 31,
-          "size"          : 31256,
+          "size"          : 31267,
           "collaborators" : 10,
           "stars"         : 31,
           "forks"         : 36,
@@ -4124,7 +4124,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 390,
         "watchers"      : 35,
-        "size"          : 35079,
+        "size"          : 35090,
         "collaborators" : 30,
         "stars"         : 35,
         "forks"         : 40,
@@ -4319,10 +4319,10 @@
           "name"          : "greenkey-voice-sdk",
           "description"   : "Voice-enable your front-end apps with instant intercoms",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-voice-sdk",
-          "heat"          : 31,
+          "heat"          : 27,
           "watchers"      : 1,
           "size"          : 227,
-          "collaborators" : 6,
+          "collaborators" : 5,
           "stars"         : 1,
           "forks"         : 1,
           "openIssues"    : 1,
@@ -4332,10 +4332,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 31,
+        "heat"          : 27,
         "watchers"      : 1,
         "size"          : 227,
-        "collaborators" : 6,
+        "collaborators" : 5,
         "stars"         : 1,
         "forks"         : 1,
         "openIssues"    : 1,
