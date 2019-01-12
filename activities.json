@@ -608,10 +608,10 @@
           "name"          : "app-template",
           "description"   : "A simple unopinionated Hadouken application template.",
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
-          "heat"          : 193,
+          "heat"          : 189,
           "watchers"      : 11,
           "size"          : 176,
-          "collaborators" : 34,
+          "collaborators" : 33,
           "stars"         : 11,
           "forks"         : 7,
           "openIssues"    : 2,
@@ -622,10 +622,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 193,
+        "heat"          : 189,
         "watchers"      : 11,
         "size"          : 176,
-        "collaborators" : 34,
+        "collaborators" : 33,
         "stars"         : 11,
         "forks"         : 7,
         "openIssues"    : 2,
@@ -652,10 +652,10 @@
           "name"          : "service-utils",
           "description"   : "all things common across desktop services - build/deploy utils, etc.",
           "gitHubURL"     : "https://github.com/HadoukenIO/service-utils",
-          "heat"          : 138,
+          "heat"          : 134,
           "watchers"      : 1,
           "size"          : 2,
-          "collaborators" : 34,
+          "collaborators" : 33,
           "stars"         : 1,
           "forks"         : 0,
           "openIssues"    : 0,
@@ -665,10 +665,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 138,
+        "heat"          : 134,
         "watchers"      : 1,
         "size"          : 2,
-        "collaborators" : 34,
+        "collaborators" : 33,
         "stars"         : 1,
         "forks"         : 0,
         "openIssues"    : 0,
@@ -693,27 +693,27 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 509,
+          "heat"          : 505,
           "watchers"      : 79,
-          "size"          : 2508,
-          "collaborators" : 34,
+          "size"          : 2513,
+          "collaborators" : 33,
           "stars"         : 79,
           "forks"         : 43,
-          "openIssues"    : 9,
+          "openIssues"    : 10,
           "languages"     : {
-            "TypeScript" : 505143,
+            "TypeScript" : 506398,
             "HTML" : 11245,
-            "JavaScript" : 321367
+            "JavaScript" : 322198
           }
         },
         {
           "name"          : "js-adapter",
           "description"   : "Hadouken Node Adapter",
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
-          "heat"          : 267,
+          "heat"          : 263,
           "watchers"      : 11,
-          "size"          : 1868,
-          "collaborators" : 35,
+          "size"          : 1869,
+          "collaborators" : 34,
           "stars"         : 11,
           "forks"         : 21,
           "openIssues"    : 3,
@@ -746,10 +746,10 @@
           "name"          : "fdc3-sender",
           "description"   : "",
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-sender",
-          "heat"          : 136,
+          "heat"          : 132,
           "watchers"      : 0,
           "size"          : 47,
-          "collaborators" : 34,
+          "collaborators" : 33,
           "stars"         : 0,
           "forks"         : 0,
           "openIssues"    : 0,
@@ -760,18 +760,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1060,
+        "heat"          : 1048,
         "watchers"      : 91,
-        "size"          : 4580,
-        "collaborators" : 137,
+        "size"          : 4586,
+        "collaborators" : 134,
         "stars"         : 91,
         "forks"         : 66,
-        "openIssues"    : 12,
+        "openIssues"    : 13,
         "languages"     : {
-          "TypeScript" : 983450,
+          "TypeScript" : 984705,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 342495,
+          "JavaScript" : 343326,
           "Python" : 2150
         }
       }
@@ -793,10 +793,10 @@
           "name"          : "symphony-of",
           "description"   : "OpenFin Sym Integration",
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
-          "heat"          : 280,
+          "heat"          : 276,
           "watchers"      : 24,
           "size"          : 14647,
-          "collaborators" : 38,
+          "collaborators" : 37,
           "stars"         : 24,
           "forks"         : 16,
           "openIssues"    : 3,
@@ -808,10 +808,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 280,
+        "heat"          : 276,
         "watchers"      : 24,
         "size"          : 14647,
-        "collaborators" : 38,
+        "collaborators" : 37,
         "stars"         : 24,
         "forks"         : 16,
         "openIssues"    : 3,
@@ -946,20 +946,20 @@
           "name"          : "zero-downtime-trading-web-ux",
           "description"   : "Showcases how the OpenFin API, in conjunction with the ODP OpenShift Infrastructure and APIs, can create a powerful experience to live-reload an app and swap its environment from production to UAT",
           "gitHubURL"     : "https://github.com/HadoukenIO/zero-downtime-trading-web-ux",
-          "heat"          : 154,
+          "heat"          : 150,
           "watchers"      : 0,
           "size"          : 17,
-          "collaborators" : 36,
+          "collaborators" : 35,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 154,
+        "heat"          : 150,
         "watchers"      : 0,
         "size"          : 17,
-        "collaborators" : 36,
+        "collaborators" : 35,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 1
@@ -1027,11 +1027,11 @@
           "name"          : "plexus-interop",
           "description"   : "Plexus Interop open source project hosted by the Fintech Open Source Foundation",
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
-          "heat"          : 734,
-          "watchers"      : 241,
+          "heat"          : 736,
+          "watchers"      : 242,
           "size"          : 6442,
           "collaborators" : 8,
-          "stars"         : 241,
+          "stars"         : 242,
           "forks"         : 44,
           "openIssues"    : 0,
           "languages"     : {
@@ -1063,11 +1063,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 770,
-        "watchers"      : 242,
+        "heat"          : 772,
+        "watchers"      : 243,
         "size"          : 6662,
         "collaborators" : 14,
-        "stars"         : 242,
+        "stars"         : 243,
         "forks"         : 46,
         "openIssues"    : 0,
         "languages"     : {
@@ -2988,13 +2988,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1494,
+          "size"          : 1515,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 804392,
+            "Java" : 806988,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3034,13 +3034,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1747,
+        "size"          : 1768,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 827218,
+          "Java" : 829814,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -3181,7 +3181,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Core",
           "heat"          : 96,
           "watchers"      : 4,
-          "size"          : 12137,
+          "size"          : 12139,
           "collaborators" : 12,
           "stars"         : 4,
           "forks"         : 8,
@@ -3227,7 +3227,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 270,
         "watchers"      : 8,
-        "size"          : 55557,
+        "size"          : 55559,
         "collaborators" : 41,
         "stars"         : 8,
         "forks"         : 18,
@@ -4041,18 +4041,18 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 282,
           "watchers"      : 31,
-          "size"          : 31282,
+          "size"          : 31314,
           "collaborators" : 10,
           "stars"         : 31,
           "forks"         : 36,
-          "openIssues"    : 6,
+          "openIssues"    : 4,
           "languages"     : {
             "CSS" : 7216,
             "Shell" : 5892,
             "Batchfile" : 552,
-            "JavaScript" : 477002,
+            "JavaScript" : 478060,
             "HTML" : 18183,
-            "Objective_C" : 6723
+            "Objective_C" : 6886
           }
         },
         {
@@ -4124,11 +4124,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 390,
         "watchers"      : 35,
-        "size"          : 35105,
+        "size"          : 35137,
         "collaborators" : 30,
         "stars"         : 35,
         "forks"         : 40,
-        "openIssues"    : 6,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 79692,
           "C#" : 7673,
@@ -4137,8 +4137,8 @@
           "CSS" : 7216,
           "C" : 1364,
           "Batchfile" : 552,
-          "JavaScript" : 597531,
-          "Objective_C" : 6723,
+          "JavaScript" : 598589,
+          "Objective_C" : 6886,
           "HTML" : 18948,
           "Python" : 921
         }
@@ -4235,7 +4235,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
           "heat"          : 44,
           "watchers"      : 3,
-          "size"          : 289,
+          "size"          : 295,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 2,
@@ -4243,14 +4243,14 @@
           "languages"     : {
             "Dockerfile" : 520,
             "Shell" : 37,
-            "Python" : 63801
+            "Python" : 64094
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 44,
         "watchers"      : 3,
-        "size"          : 289,
+        "size"          : 295,
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 2,
@@ -4258,7 +4258,7 @@
         "languages"     : {
           "Dockerfile" : 520,
           "Shell" : 37,
-          "Python" : 63801
+          "Python" : 64094
         }
       }
     },
