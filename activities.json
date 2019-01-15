@@ -366,6 +366,29 @@
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
       "contributionDate"     : "2018-05-18",
+      "gitHubRepos"          : [
+        {
+          "name"          : "use-cases",
+          "description"   : "FDC3 Use Cases",
+          "gitHubURL"     : "https://github.com/FDC3/use-cases",
+          "heat"          : 180,
+          "watchers"      : 1,
+          "size"          : 64,
+          "collaborators" : 42,
+          "stars"         : 1,
+          "forks"         : 2,
+          "openIssues"    : 1
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 180,
+        "watchers"      : 1,
+        "size"          : 64,
+        "collaborators" : 42,
+        "stars"         : 1,
+        "forks"         : 2,
+        "openIssues"    : 1
+      },
       "mailingLists"       : [
         {
           "emailAddress"  : "fdc3-use-case@finos.org",
@@ -550,10 +573,33 @@
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
       "contributionDate"     : "2018-04-24",
+      "gitHubRepos"          : [
+        {
+          "name"          : "fo-financial-objects",
+          "description"   : "Financial Objects standards",
+          "gitHubURL"     : "https://github.com/finos-fo/fo-financial-objects",
+          "heat"          : 9,
+          "watchers"      : 0,
+          "size"          : 4,
+          "collaborators" : 1,
+          "stars"         : 0,
+          "forks"         : 1,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 9,
+        "watchers"      : 0,
+        "size"          : 4,
+        "collaborators" : 1,
+        "stars"         : 0,
+        "forks"         : 1,
+        "openIssues"    : 0
+      },
       "mailingLists"       : [
         {
-          "emailAddress"  : "fo-trade-object@finos.org",
-          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fo-trade-object"
+          "emailAddress"  : "fo-financial-objects@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fo-financial-objects"
         }
       ]
     },
@@ -695,7 +741,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 507,
           "watchers"      : 80,
-          "size"          : 2513,
+          "size"          : 2515,
           "collaborators" : 33,
           "stars"         : 80,
           "forks"         : 43,
@@ -762,7 +808,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1050,
         "watchers"      : 92,
-        "size"          : 4586,
+        "size"          : 4588,
         "collaborators" : 134,
         "stars"         : 92,
         "forks"         : 66,
@@ -1029,7 +1075,7 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 736,
           "watchers"      : 242,
-          "size"          : 6442,
+          "size"          : 6336,
           "collaborators" : 8,
           "stars"         : 242,
           "forks"         : 44,
@@ -1065,7 +1111,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 772,
         "watchers"      : 243,
-        "size"          : 6662,
+        "size"          : 6556,
         "collaborators" : 14,
         "stars"         : 243,
         "forks"         : 46,
@@ -4359,7 +4405,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/voice-metadata-standard",
           "heat"          : 38,
           "watchers"      : 1,
-          "size"          : 25,
+          "size"          : 26,
           "collaborators" : 4,
           "stars"         : 1,
           "forks"         : 4,
@@ -4369,7 +4415,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 38,
         "watchers"      : 1,
-        "size"          : 25,
+        "size"          : 26,
         "collaborators" : 4,
         "stars"         : 1,
         "forks"         : 4,
