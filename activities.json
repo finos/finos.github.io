@@ -699,7 +699,7 @@
           "collaborators" : 33,
           "stars"         : 80,
           "forks"         : 43,
-          "openIssues"    : 12,
+          "openIssues"    : 13,
           "languages"     : {
             "TypeScript" : 506398,
             "HTML" : 11245,
@@ -716,7 +716,7 @@
           "collaborators" : 34,
           "stars"         : 11,
           "forks"         : 21,
-          "openIssues"    : 3,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 373260,
             "HTML" : 2364,
@@ -766,7 +766,7 @@
         "collaborators" : 134,
         "stars"         : 92,
         "forks"         : 66,
-        "openIssues"    : 15,
+        "openIssues"    : 18,
         "languages"     : {
           "TypeScript" : 984705,
           "HTML" : 16486,
@@ -3181,7 +3181,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Core",
           "heat"          : 96,
           "watchers"      : 4,
-          "size"          : 12139,
+          "size"          : 12165,
           "collaborators" : 12,
           "stars"         : 4,
           "forks"         : 8,
@@ -3227,7 +3227,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 270,
         "watchers"      : 8,
-        "size"          : 55559,
+        "size"          : 55585,
         "collaborators" : 41,
         "stars"         : 8,
         "forks"         : 18,
@@ -4041,16 +4041,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 282,
           "watchers"      : 31,
-          "size"          : 31306,
+          "size"          : 31325,
           "collaborators" : 10,
           "stars"         : 31,
           "forks"         : 36,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
             "CSS" : 7216,
             "Shell" : 5892,
             "Batchfile" : 552,
-            "JavaScript" : 479673,
+            "JavaScript" : 480167,
             "HTML" : 18183,
             "Objective_C" : 6886
           }
@@ -4110,13 +4110,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 35,
           "watchers"      : 2,
-          "size"          : 62,
+          "size"          : 71,
           "collaborators" : 4,
           "stars"         : 2,
           "forks"         : 3,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 79692,
+            "TypeScript" : 79783,
             "JavaScript" : 385
           }
         }
@@ -4124,20 +4124,20 @@
       "cumulativeGitHubStats" : {
         "heat"          : 390,
         "watchers"      : 35,
-        "size"          : 35129,
+        "size"          : 35157,
         "collaborators" : 30,
         "stars"         : 35,
         "forks"         : 40,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 79692,
+          "TypeScript" : 79783,
           "C#" : 7673,
           "Shell" : 5892,
           "C++" : 35850,
           "CSS" : 7216,
           "C" : 1364,
           "Batchfile" : 552,
-          "JavaScript" : 600202,
+          "JavaScript" : 600696,
           "Objective_C" : 6886,
           "HTML" : 18948,
           "Python" : 921
@@ -4357,22 +4357,22 @@
           "name"          : "voice-metadata-standard",
           "description"   : "",
           "gitHubURL"     : "https://github.com/finos-voice/voice-metadata-standard",
-          "heat"          : 33,
+          "heat"          : 38,
           "watchers"      : 1,
           "size"          : 25,
           "collaborators" : 4,
           "stars"         : 1,
-          "forks"         : 3,
+          "forks"         : 4,
           "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 33,
+        "heat"          : 38,
         "watchers"      : 1,
         "size"          : 25,
         "collaborators" : 4,
         "stars"         : 1,
-        "forks"         : 3,
+        "forks"         : 4,
         "openIssues"    : 1
       },
       "mailingLists"       : [
