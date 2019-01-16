@@ -739,13 +739,13 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 507,
+          "heat"          : 512,
           "watchers"      : 80,
-          "size"          : 2515,
+          "size"          : 2517,
           "collaborators" : 33,
           "stars"         : 80,
-          "forks"         : 43,
-          "openIssues"    : 13,
+          "forks"         : 44,
+          "openIssues"    : 15,
           "languages"     : {
             "TypeScript" : 506398,
             "HTML" : 11245,
@@ -758,11 +758,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 263,
           "watchers"      : 11,
-          "size"          : 1869,
+          "size"          : 1867,
           "collaborators" : 34,
           "stars"         : 11,
           "forks"         : 21,
-          "openIssues"    : 5,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 373260,
             "HTML" : 2364,
@@ -806,13 +806,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1050,
+        "heat"          : 1055,
         "watchers"      : 92,
         "size"          : 4588,
         "collaborators" : 134,
         "stars"         : 92,
-        "forks"         : 66,
-        "openIssues"    : 18,
+        "forks"         : 67,
+        "openIssues"    : 22,
         "languages"     : {
           "TypeScript" : 984705,
           "HTML" : 16486,
@@ -883,13 +883,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 221,
           "watchers"      : 10,
-          "size"          : 1958,
+          "size"          : 1963,
           "collaborators" : 34,
           "stars"         : 10,
           "forks"         : 13,
           "openIssues"    : 7,
           "languages"     : {
-            "TypeScript" : 504911,
+            "TypeScript" : 504950,
             "CSS" : 16572,
             "HTML" : 15362,
             "JavaScript" : 21896
@@ -917,13 +917,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 367,
         "watchers"      : 10,
-        "size"          : 2023,
+        "size"          : 2028,
         "collaborators" : 68,
         "stars"         : 10,
         "forks"         : 15,
         "openIssues"    : 7,
         "languages"     : {
-          "TypeScript" : 521115,
+          "TypeScript" : 521154,
           "CSS" : 21161,
           "HTML" : 16655,
           "JavaScript" : 23422
@@ -2467,22 +2467,22 @@
           "name"          : "symphony-api-spec",
           "description"   : "Swagger definitions for Symphony LLC public REST API ",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
-          "heat"          : 89,
+          "heat"          : 94,
           "watchers"      : 4,
           "size"          : 201,
           "collaborators" : 4,
           "stars"         : 4,
-          "forks"         : 13,
+          "forks"         : 14,
           "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 89,
+        "heat"          : 94,
         "watchers"      : 4,
         "size"          : 201,
         "collaborators" : 4,
         "stars"         : 4,
-        "forks"         : 13,
+        "forks"         : 14,
         "openIssues"    : 1
       }
     },
@@ -3067,20 +3067,20 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 201,
+          "size"          : 202,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Groovy" : 193799
+            "Groovy" : 193803
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1805,
+        "size"          : 1806,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
@@ -3090,7 +3090,7 @@
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
-          "Groovy" : 193799
+          "Groovy" : 193803
         }
       }
     },
@@ -3688,11 +3688,11 @@
           "name"          : "JCurl",
           "description"   : "JSON-aware curl (1) in Java",
           "gitHubURL"     : "https://github.com/symphonyoss/JCurl",
-          "heat"          : 120,
-          "watchers"      : 12,
+          "heat"          : 122,
+          "watchers"      : 13,
           "size"          : 77,
           "collaborators" : 4,
-          "stars"         : 12,
+          "stars"         : 13,
           "forks"         : 16,
           "openIssues"    : 9,
           "languages"     : {
@@ -3702,11 +3702,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 120,
-        "watchers"      : 12,
+        "heat"          : 122,
+        "watchers"      : 13,
         "size"          : 77,
         "collaborators" : 4,
-        "stars"         : 12,
+        "stars"         : 13,
         "forks"         : 16,
         "openIssues"    : 9,
         "languages"     : {
@@ -4087,7 +4087,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 282,
           "watchers"      : 31,
-          "size"          : 31325,
+          "size"          : 31357,
           "collaborators" : 10,
           "stars"         : 31,
           "forks"         : 36,
@@ -4170,7 +4170,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 390,
         "watchers"      : 35,
-        "size"          : 35157,
+        "size"          : 35189,
         "collaborators" : 30,
         "stars"         : 35,
         "forks"         : 40,
@@ -4330,7 +4330,7 @@
           "collaborators" : 5,
           "stars"         : 2,
           "forks"         : 0,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
             "Python" : 56591
           }
@@ -4343,7 +4343,7 @@
         "collaborators" : 5,
         "stars"         : 2,
         "forks"         : 0,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
           "Python" : 56591
         }
@@ -4371,7 +4371,7 @@
           "collaborators" : 5,
           "stars"         : 1,
           "forks"         : 1,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "JavaScript" : 7824
           }
@@ -4384,7 +4384,7 @@
         "collaborators" : 5,
         "stars"         : 1,
         "forks"         : 1,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
           "JavaScript" : 7824
         }
@@ -4409,7 +4409,7 @@
           "collaborators" : 4,
           "stars"         : 1,
           "forks"         : 4,
-          "openIssues"    : 1
+          "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
@@ -4419,7 +4419,7 @@
         "collaborators" : 4,
         "stars"         : 1,
         "forks"         : 4,
-        "openIssues"    : 1
+        "openIssues"    : 0
       },
       "mailingLists"       : [
         {
