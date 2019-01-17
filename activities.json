@@ -108,7 +108,7 @@
           "collaborators" : 42,
           "stars"         : 5,
           "forks"         : 12,
-          "openIssues"    : 7,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 5888
           }
@@ -121,7 +121,7 @@
         "collaborators" : 42,
         "stars"         : 5,
         "forks"         : 12,
-        "openIssues"    : 7,
+        "openIssues"    : 6,
         "languages"     : {
           "TypeScript" : 5888
         }
@@ -741,15 +741,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 512,
           "watchers"      : 80,
-          "size"          : 2517,
+          "size"          : 2536,
           "collaborators" : 33,
           "stars"         : 80,
           "forks"         : 44,
-          "openIssues"    : 15,
+          "openIssues"    : 13,
           "languages"     : {
-            "TypeScript" : 506398,
+            "TypeScript" : 510677,
             "HTML" : 11245,
-            "JavaScript" : 322198
+            "JavaScript" : 318222
           }
         },
         {
@@ -758,13 +758,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 263,
           "watchers"      : 11,
-          "size"          : 1867,
+          "size"          : 1895,
           "collaborators" : 34,
           "stars"         : 11,
           "forks"         : 21,
-          "openIssues"    : 7,
+          "openIssues"    : 6,
           "languages"     : {
-            "TypeScript" : 373260,
+            "TypeScript" : 388449,
             "HTML" : 2364,
             "JavaScript" : 11399,
             "Python" : 2150
@@ -808,16 +808,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1055,
         "watchers"      : 92,
-        "size"          : 4588,
+        "size"          : 4635,
         "collaborators" : 134,
         "stars"         : 92,
         "forks"         : 67,
-        "openIssues"    : 22,
+        "openIssues"    : 19,
         "languages"     : {
-          "TypeScript" : 984705,
+          "TypeScript" : 1004173,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 343326,
+          "JavaScript" : 339350,
           "Python" : 2150
         }
       }
@@ -883,7 +883,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 221,
           "watchers"      : 10,
-          "size"          : 1963,
+          "size"          : 2058,
           "collaborators" : 34,
           "stars"         : 10,
           "forks"         : 13,
@@ -917,7 +917,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 367,
         "watchers"      : 10,
-        "size"          : 2028,
+        "size"          : 2123,
         "collaborators" : 68,
         "stars"         : 10,
         "forks"         : 15,
@@ -3227,7 +3227,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Core",
           "heat"          : 96,
           "watchers"      : 4,
-          "size"          : 12165,
+          "size"          : 12184,
           "collaborators" : 12,
           "stars"         : 4,
           "forks"         : 8,
@@ -3273,7 +3273,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 270,
         "watchers"      : 8,
-        "size"          : 55585,
+        "size"          : 55604,
         "collaborators" : 41,
         "stars"         : 8,
         "forks"         : 18,
@@ -3949,7 +3949,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-rest-tools-examples",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 4,
+          "size"          : 9,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -3962,7 +3962,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 89,
         "watchers"      : 1,
-        "size"          : 7327,
+        "size"          : 7332,
         "collaborators" : 13,
         "stars"         : 1,
         "forks"         : 7,
