@@ -62,11 +62,11 @@
           "name"          : "open-api-demo",
           "description"   : "Demonstration/Prototype of the FDC3 proposed Open API",
           "gitHubURL"     : "https://github.com/FDC3/open-api-demo",
-          "heat"          : 184,
-          "watchers"      : 3,
+          "heat"          : 186,
+          "watchers"      : 4,
           "size"          : 20,
           "collaborators" : 42,
-          "stars"         : 3,
+          "stars"         : 4,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
@@ -76,11 +76,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 184,
-        "watchers"      : 3,
+        "heat"          : 186,
+        "watchers"      : 4,
         "size"          : 20,
         "collaborators" : 42,
-        "stars"         : 3,
+        "stars"         : 4,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
@@ -102,26 +102,26 @@
           "name"          : "API",
           "description"   : "API Working Group repository",
           "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 238,
-          "watchers"      : 5,
+          "heat"          : 240,
+          "watchers"      : 6,
           "size"          : 344,
           "collaborators" : 42,
-          "stars"         : 5,
+          "stars"         : 6,
           "forks"         : 12,
-          "openIssues"    : 6,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 5888
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 238,
-        "watchers"      : 5,
+        "heat"          : 240,
+        "watchers"      : 6,
         "size"          : 344,
         "collaborators" : 42,
-        "stars"         : 5,
+        "stars"         : 6,
         "forks"         : 12,
-        "openIssues"    : 6,
+        "openIssues"    : 5,
         "languages"     : {
           "TypeScript" : 5888
         }
@@ -274,12 +274,12 @@
           "name"          : "FDC3",
           "description"   : "Organizational Document for the FDC3",
           "gitHubURL"     : "https://github.com/FDC3/FDC3",
-          "heat"          : 204,
+          "heat"          : 209,
           "watchers"      : 8,
           "size"          : 6,
           "collaborators" : 42,
           "stars"         : 8,
-          "forks"         : 4,
+          "forks"         : 5,
           "openIssues"    : 1
         },
         {
@@ -296,12 +296,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 378,
+        "heat"          : 383,
         "watchers"      : 11,
         "size"          : 2220,
         "collaborators" : 84,
         "stars"         : 11,
-        "forks"         : 4,
+        "forks"         : 5,
         "openIssues"    : 1
       }
     },
@@ -373,7 +373,7 @@
           "gitHubURL"     : "https://github.com/FDC3/use-cases",
           "heat"          : 180,
           "watchers"      : 1,
-          "size"          : 64,
+          "size"          : 76,
           "collaborators" : 42,
           "stars"         : 1,
           "forks"         : 2,
@@ -383,7 +383,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 180,
         "watchers"      : 1,
-        "size"          : 64,
+        "size"          : 76,
         "collaborators" : 42,
         "stars"         : 1,
         "forks"         : 2,
@@ -741,7 +741,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 512,
           "watchers"      : 80,
-          "size"          : 2536,
+          "size"          : 2540,
           "collaborators" : 33,
           "stars"         : 80,
           "forks"         : 44,
@@ -749,7 +749,7 @@
           "languages"     : {
             "TypeScript" : 510677,
             "HTML" : 11245,
-            "JavaScript" : 318222
+            "JavaScript" : 318001
           }
         },
         {
@@ -758,13 +758,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 263,
           "watchers"      : 11,
-          "size"          : 1895,
+          "size"          : 1901,
           "collaborators" : 34,
           "stars"         : 11,
           "forks"         : 21,
-          "openIssues"    : 6,
+          "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 388449,
+            "TypeScript" : 388884,
             "HTML" : 2364,
             "JavaScript" : 11399,
             "Python" : 2150
@@ -808,16 +808,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1055,
         "watchers"      : 92,
-        "size"          : 4635,
+        "size"          : 4645,
         "collaborators" : 134,
         "stars"         : 92,
         "forks"         : 67,
-        "openIssues"    : 19,
+        "openIssues"    : 18,
         "languages"     : {
-          "TypeScript" : 1004173,
+          "TypeScript" : 1004608,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 339350,
+          "JavaScript" : 339129,
           "Python" : 2150
         }
       }
@@ -883,15 +883,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 221,
           "watchers"      : 10,
-          "size"          : 2058,
+          "size"          : 2064,
           "collaborators" : 34,
           "stars"         : 10,
           "forks"         : 13,
-          "openIssues"    : 7,
+          "openIssues"    : 6,
           "languages"     : {
-            "TypeScript" : 504950,
+            "TypeScript" : 509733,
             "CSS" : 16572,
-            "HTML" : 15362,
+            "HTML" : 14965,
             "JavaScript" : 21896
           }
         },
@@ -917,15 +917,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 367,
         "watchers"      : 10,
-        "size"          : 2123,
+        "size"          : 2129,
         "collaborators" : 68,
         "stars"         : 10,
         "forks"         : 15,
-        "openIssues"    : 7,
+        "openIssues"    : 6,
         "languages"     : {
-          "TypeScript" : 521154,
+          "TypeScript" : 525937,
           "CSS" : 21161,
-          "HTML" : 16655,
+          "HTML" : 16258,
           "JavaScript" : 23422
         }
       }
@@ -3227,7 +3227,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Core",
           "heat"          : 96,
           "watchers"      : 4,
-          "size"          : 12184,
+          "size"          : 12191,
           "collaborators" : 12,
           "stars"         : 4,
           "forks"         : 8,
@@ -3273,7 +3273,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 270,
         "watchers"      : 8,
-        "size"          : 55604,
+        "size"          : 55611,
         "collaborators" : 41,
         "stars"         : 8,
         "forks"         : 18,
@@ -4087,11 +4087,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 282,
           "watchers"      : 31,
-          "size"          : 31357,
+          "size"          : 31364,
           "collaborators" : 10,
           "stars"         : 31,
           "forks"         : 36,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "CSS" : 7216,
             "Shell" : 5892,
@@ -4160,7 +4160,7 @@
           "collaborators" : 4,
           "stars"         : 2,
           "forks"         : 3,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 79783,
             "JavaScript" : 385
@@ -4170,11 +4170,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 390,
         "watchers"      : 35,
-        "size"          : 35189,
+        "size"          : 35196,
         "collaborators" : 30,
         "stars"         : 35,
         "forks"         : 40,
-        "openIssues"    : 2,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 79783,
           "C#" : 7673,
