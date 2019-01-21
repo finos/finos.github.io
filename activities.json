@@ -839,11 +839,11 @@
           "name"          : "symphony-of",
           "description"   : "OpenFin Sym Integration",
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
-          "heat"          : 276,
-          "watchers"      : 24,
+          "heat"          : 274,
+          "watchers"      : 23,
           "size"          : 14647,
           "collaborators" : 37,
-          "stars"         : 24,
+          "stars"         : 23,
           "forks"         : 16,
           "openIssues"    : 3,
           "languages"     : {
@@ -854,11 +854,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 276,
-        "watchers"      : 24,
+        "heat"          : 274,
+        "watchers"      : 23,
         "size"          : 14647,
         "collaborators" : 37,
-        "stars"         : 24,
+        "stars"         : 23,
         "forks"         : 16,
         "openIssues"    : 3,
         "languages"     : {
@@ -883,13 +883,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 221,
           "watchers"      : 10,
-          "size"          : 2064,
+          "size"          : 2068,
           "collaborators" : 34,
           "stars"         : 10,
           "forks"         : 13,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
-            "TypeScript" : 509733,
+            "TypeScript" : 512951,
             "CSS" : 16572,
             "HTML" : 14965,
             "JavaScript" : 21896
@@ -917,13 +917,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 367,
         "watchers"      : 10,
-        "size"          : 2129,
+        "size"          : 2133,
         "collaborators" : 68,
         "stars"         : 10,
         "forks"         : 15,
-        "openIssues"    : 6,
+        "openIssues"    : 7,
         "languages"     : {
-          "TypeScript" : 525937,
+          "TypeScript" : 529155,
           "CSS" : 21161,
           "HTML" : 16258,
           "JavaScript" : 23422
@@ -2631,11 +2631,11 @@
           "name"          : "symphony-java-client",
           "description"   : "Java client library for Symphony",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-client",
-          "heat"          : 239,
-          "watchers"      : 33,
+          "heat"          : 241,
+          "watchers"      : 34,
           "size"          : 2452,
           "collaborators" : 7,
-          "stars"         : 33,
+          "stars"         : 34,
           "forks"         : 29,
           "openIssues"    : 10,
           "languages"     : {
@@ -2662,12 +2662,12 @@
           "name"          : "symphony-java-sample-bots",
           "description"   : "A set of simple Bots for Symphony, implemented in Java.",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-sample-bots",
-          "heat"          : 125,
+          "heat"          : 130,
           "watchers"      : 22,
           "size"          : 932,
           "collaborators" : 4,
           "stars"         : 22,
-          "forks"         : 13,
+          "forks"         : 14,
           "openIssues"    : 4,
           "languages"     : {
             "Java" : 23570,
@@ -2676,12 +2676,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 413,
-        "watchers"      : 57,
+        "heat"          : 420,
+        "watchers"      : 58,
         "size"          : 3508,
         "collaborators" : 16,
-        "stars"         : 57,
-        "forks"         : 47,
+        "stars"         : 58,
+        "forks"         : 48,
         "openIssues"    : 14,
         "languages"     : {
           "Java" : 718953,
@@ -4087,7 +4087,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 282,
           "watchers"      : 31,
-          "size"          : 31364,
+          "size"          : 31369,
           "collaborators" : 10,
           "stars"         : 31,
           "forks"         : 36,
@@ -4156,13 +4156,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 35,
           "watchers"      : 2,
-          "size"          : 71,
+          "size"          : 73,
           "collaborators" : 4,
           "stars"         : 2,
           "forks"         : 3,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 79783,
+            "TypeScript" : 79838,
             "JavaScript" : 385
           }
         }
@@ -4170,13 +4170,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 390,
         "watchers"      : 35,
-        "size"          : 35196,
+        "size"          : 35203,
         "collaborators" : 30,
         "stars"         : 35,
         "forks"         : 40,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 79783,
+          "TypeScript" : 79838,
           "C#" : 7673,
           "Shell" : 5892,
           "C++" : 35850,
@@ -4409,7 +4409,7 @@
           "collaborators" : 4,
           "stars"         : 1,
           "forks"         : 4,
-          "openIssues"    : 0
+          "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
@@ -4419,7 +4419,7 @@
         "collaborators" : 4,
         "stars"         : 1,
         "forks"         : 4,
-        "openIssues"    : 0
+        "openIssues"    : 1
       },
       "mailingLists"       : [
         {
