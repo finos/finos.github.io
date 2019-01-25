@@ -377,7 +377,7 @@
           "collaborators" : 42,
           "stars"         : 1,
           "forks"         : 2,
-          "openIssues"    : 1
+          "openIssues"    : 3
         }
       ],
       "cumulativeGitHubStats" : {
@@ -387,7 +387,7 @@
         "collaborators" : 42,
         "stars"         : 1,
         "forks"         : 2,
-        "openIssues"    : 1
+        "openIssues"    : 3
       },
       "mailingLists"       : [
         {
@@ -741,15 +741,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 512,
           "watchers"      : 80,
-          "size"          : 2541,
+          "size"          : 2553,
           "collaborators" : 33,
           "stars"         : 80,
           "forks"         : 44,
-          "openIssues"    : 12,
+          "openIssues"    : 10,
           "languages"     : {
-            "TypeScript" : 511037,
+            "TypeScript" : 509354,
             "HTML" : 11245,
-            "JavaScript" : 317419
+            "JavaScript" : 317640
           }
         },
         {
@@ -758,13 +758,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 263,
           "watchers"      : 11,
-          "size"          : 1905,
+          "size"          : 1908,
           "collaborators" : 34,
           "stars"         : 11,
           "forks"         : 21,
           "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 388884,
+            "TypeScript" : 390518,
             "HTML" : 2364,
             "JavaScript" : 11399,
             "Python" : 2150
@@ -808,16 +808,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1060,
         "watchers"      : 92,
-        "size"          : 4651,
+        "size"          : 4666,
         "collaborators" : 134,
         "stars"         : 92,
         "forks"         : 68,
-        "openIssues"    : 17,
+        "openIssues"    : 15,
         "languages"     : {
-          "TypeScript" : 1004968,
+          "TypeScript" : 1004919,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 338547,
+          "JavaScript" : 338768,
           "Python" : 2150
         }
       }
@@ -883,11 +883,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 221,
           "watchers"      : 10,
-          "size"          : 2092,
+          "size"          : 2193,
           "collaborators" : 34,
           "stars"         : 10,
           "forks"         : 13,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 518596,
             "CSS" : 16572,
@@ -917,11 +917,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 367,
         "watchers"      : 10,
-        "size"          : 2157,
+        "size"          : 2258,
         "collaborators" : 68,
         "stars"         : 10,
         "forks"         : 15,
-        "openIssues"    : 6,
+        "openIssues"    : 7,
         "languages"     : {
           "TypeScript" : 534800,
           "CSS" : 21161,
@@ -3212,13 +3212,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Commons",
           "heat"          : 99,
           "watchers"      : 3,
-          "size"          : 20194,
+          "size"          : 20198,
           "collaborators" : 12,
           "stars"         : 3,
           "forks"         : 9,
           "openIssues"    : 3,
           "languages"     : {
-            "Java" : 730212
+            "Java" : 730159
           }
         },
         {
@@ -3227,13 +3227,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Core",
           "heat"          : 96,
           "watchers"      : 4,
-          "size"          : 12214,
+          "size"          : 12219,
           "collaborators" : 12,
           "stars"         : 4,
           "forks"         : 8,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 1171096,
+            "Java" : 1171089,
             "Shell" : 1870,
             "JavaScript" : 820
           }
@@ -3273,13 +3273,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 270,
         "watchers"      : 8,
-        "size"          : 55637,
+        "size"          : 55646,
         "collaborators" : 41,
         "stars"         : 8,
         "forks"         : 18,
         "openIssues"    : 4,
         "languages"     : {
-          "Java" : 1901308,
+          "Java" : 1901248,
           "Shell" : 1870,
           "CSS" : 13989,
           "HTML" : 651,
@@ -4085,18 +4085,18 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 282,
+          "heat"          : 287,
           "watchers"      : 31,
-          "size"          : 31376,
+          "size"          : 31383,
           "collaborators" : 10,
           "stars"         : 31,
-          "forks"         : 36,
-          "openIssues"    : 4,
+          "forks"         : 37,
+          "openIssues"    : 1,
           "languages"     : {
             "CSS" : 7216,
             "Shell" : 5892,
             "Batchfile" : 552,
-            "JavaScript" : 481817,
+            "JavaScript" : 482024,
             "HTML" : 18183,
             "Objective_C" : 6886
           }
@@ -4168,13 +4168,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 390,
+        "heat"          : 395,
         "watchers"      : 35,
-        "size"          : 35210,
+        "size"          : 35217,
         "collaborators" : 30,
         "stars"         : 35,
-        "forks"         : 40,
-        "openIssues"    : 4,
+        "forks"         : 41,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 79838,
           "C#" : 7673,
@@ -4183,7 +4183,7 @@
           "CSS" : 7216,
           "C" : 1364,
           "Batchfile" : 552,
-          "JavaScript" : 602346,
+          "JavaScript" : 602553,
           "Objective_C" : 6886,
           "HTML" : 18948,
           "Python" : 921
