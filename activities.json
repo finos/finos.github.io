@@ -758,7 +758,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 263,
           "watchers"      : 11,
-          "size"          : 1908,
+          "size"          : 1909,
           "collaborators" : 34,
           "stars"         : 11,
           "forks"         : 21,
@@ -808,7 +808,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1060,
         "watchers"      : 92,
-        "size"          : 4666,
+        "size"          : 4667,
         "collaborators" : 134,
         "stars"         : 92,
         "forks"         : 68,
@@ -883,16 +883,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 221,
           "watchers"      : 10,
-          "size"          : 2193,
+          "size"          : 2203,
           "collaborators" : 34,
           "stars"         : 10,
           "forks"         : 13,
-          "openIssues"    : 7,
+          "openIssues"    : 6,
           "languages"     : {
-            "TypeScript" : 518596,
+            "TypeScript" : 526442,
             "CSS" : 16572,
             "HTML" : 14965,
-            "JavaScript" : 23042
+            "JavaScript" : 22959
           }
         },
         {
@@ -917,16 +917,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 367,
         "watchers"      : 10,
-        "size"          : 2258,
+        "size"          : 2268,
         "collaborators" : 68,
         "stars"         : 10,
         "forks"         : 15,
-        "openIssues"    : 7,
+        "openIssues"    : 6,
         "languages"     : {
-          "TypeScript" : 534800,
+          "TypeScript" : 542646,
           "CSS" : 21161,
           "HTML" : 16258,
-          "JavaScript" : 24568
+          "JavaScript" : 24485
         }
       }
     },
@@ -2662,12 +2662,12 @@
           "name"          : "symphony-java-sample-bots",
           "description"   : "A set of simple Bots for Symphony, implemented in Java.",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-sample-bots",
-          "heat"          : 130,
+          "heat"          : 125,
           "watchers"      : 22,
           "size"          : 932,
           "collaborators" : 4,
           "stars"         : 22,
-          "forks"         : 14,
+          "forks"         : 13,
           "openIssues"    : 4,
           "languages"     : {
             "Java" : 23570,
@@ -2676,12 +2676,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 427,
+        "heat"          : 422,
         "watchers"      : 59,
         "size"          : 3508,
         "collaborators" : 16,
         "stars"         : 59,
-        "forks"         : 49,
+        "forks"         : 48,
         "openIssues"    : 14,
         "languages"     : {
           "Java" : 718953,
