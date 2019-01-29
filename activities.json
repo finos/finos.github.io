@@ -700,7 +700,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-utils",
           "heat"          : 134,
           "watchers"      : 1,
-          "size"          : 2,
+          "size"          : 10,
           "collaborators" : 33,
           "stars"         : 1,
           "forks"         : 0,
@@ -713,7 +713,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 134,
         "watchers"      : 1,
-        "size"          : 2,
+        "size"          : 10,
         "collaborators" : 33,
         "stars"         : 1,
         "forks"         : 0,
@@ -741,7 +741,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 512,
           "watchers"      : 80,
-          "size"          : 2553,
+          "size"          : 2556,
           "collaborators" : 33,
           "stars"         : 80,
           "forks"         : 44,
@@ -758,13 +758,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 263,
           "watchers"      : 11,
-          "size"          : 1909,
+          "size"          : 1918,
           "collaborators" : 34,
           "stars"         : 11,
           "forks"         : 21,
-          "openIssues"    : 5,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 390518,
+            "TypeScript" : 390502,
             "HTML" : 2364,
             "JavaScript" : 11399,
             "Python" : 2150
@@ -794,7 +794,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-sender",
           "heat"          : 132,
           "watchers"      : 0,
-          "size"          : 47,
+          "size"          : 48,
           "collaborators" : 33,
           "stars"         : 0,
           "forks"         : 0,
@@ -808,13 +808,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1060,
         "watchers"      : 92,
-        "size"          : 4667,
+        "size"          : 4680,
         "collaborators" : 134,
         "stars"         : 92,
         "forks"         : 68,
-        "openIssues"    : 15,
+        "openIssues"    : 14,
         "languages"     : {
-          "TypeScript" : 1004919,
+          "TypeScript" : 1004903,
           "HTML" : 16486,
           "CSS" : 48222,
           "JavaScript" : 338768,
@@ -841,7 +841,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
           "heat"          : 274,
           "watchers"      : 23,
-          "size"          : 14647,
+          "size"          : 14606,
           "collaborators" : 37,
           "stars"         : 23,
           "forks"         : 16,
@@ -856,7 +856,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 274,
         "watchers"      : 23,
-        "size"          : 14647,
+        "size"          : 14606,
         "collaborators" : 37,
         "stars"         : 23,
         "forks"         : 16,
@@ -883,16 +883,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 221,
           "watchers"      : 10,
-          "size"          : 2203,
+          "size"          : 2209,
           "collaborators" : 34,
           "stars"         : 10,
           "forks"         : 13,
-          "openIssues"    : 6,
+          "openIssues"    : 8,
           "languages"     : {
-            "TypeScript" : 526442,
+            "TypeScript" : 526323,
             "CSS" : 16572,
-            "HTML" : 14965,
-            "JavaScript" : 22959
+            "HTML" : 15712,
+            "JavaScript" : 23305
           }
         },
         {
@@ -901,7 +901,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-tabstrip",
           "heat"          : 146,
           "watchers"      : 0,
-          "size"          : 65,
+          "size"          : 71,
           "collaborators" : 34,
           "stars"         : 0,
           "forks"         : 2,
@@ -917,16 +917,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 367,
         "watchers"      : 10,
-        "size"          : 2268,
+        "size"          : 2280,
         "collaborators" : 68,
         "stars"         : 10,
         "forks"         : 15,
-        "openIssues"    : 6,
+        "openIssues"    : 8,
         "languages"     : {
-          "TypeScript" : 542646,
+          "TypeScript" : 542527,
           "CSS" : 21161,
-          "HTML" : 16258,
-          "JavaScript" : 24485
+          "HTML" : 17005,
+          "JavaScript" : 24831
         }
       }
     },
@@ -2323,7 +2323,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 485,
+          "size"          : 488,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -2353,7 +2353,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 42,
         "watchers"      : 0,
-        "size"          : 748,
+        "size"          : 751,
         "collaborators" : 8,
         "stars"         : 0,
         "forks"         : 2,
@@ -2810,11 +2810,11 @@
           "name"          : "ContainerJS",
           "description"   : "ContainerJS provides an abstraction layer over multiple HTML5 containers (OpenFin, Electron, Browser), that follows the Symphony Desktop APIs",
           "gitHubURL"     : "https://github.com/symphonyoss/ContainerJS",
-          "heat"          : 142,
-          "watchers"      : 26,
+          "heat"          : 144,
+          "watchers"      : 27,
           "size"          : 650,
           "collaborators" : 10,
-          "stars"         : 26,
+          "stars"         : 27,
           "forks"         : 10,
           "openIssues"    : 26,
           "languages"     : {
@@ -2828,11 +2828,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 142,
-        "watchers"      : 26,
+        "heat"          : 144,
+        "watchers"      : 27,
         "size"          : 650,
         "collaborators" : 10,
-        "stars"         : 26,
+        "stars"         : 27,
         "forks"         : 10,
         "openIssues"    : 26,
         "languages"     : {
@@ -3444,13 +3444,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Jira",
           "heat"          : 93,
           "watchers"      : 3,
-          "size"          : 1873,
+          "size"          : 1876,
           "collaborators" : 13,
           "stars"         : 3,
           "forks"         : 7,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 258772,
+            "Java" : 258877,
             "HTML" : 5932,
             "Shell" : 1440,
             "JavaScript" : 30527
@@ -3460,13 +3460,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 93,
         "watchers"      : 3,
-        "size"          : 1873,
+        "size"          : 1876,
         "collaborators" : 13,
         "stars"         : 3,
         "forks"         : 7,
         "openIssues"    : 1,
         "languages"     : {
-          "Java" : 258772,
+          "Java" : 258877,
           "HTML" : 5932,
           "Shell" : 1440,
           "JavaScript" : 30527
@@ -4044,26 +4044,26 @@
           "name"          : "ScreenSnippet",
           "description"   : "Screen snippet utility for Windows.",
           "gitHubURL"     : "https://github.com/symphonyoss/ScreenSnippet",
-          "heat"          : 50,
+          "heat"          : 55,
           "watchers"      : 0,
           "size"          : 79,
           "collaborators" : 5,
           "stars"         : 0,
-          "forks"         : 6,
-          "openIssues"    : 0,
+          "forks"         : 7,
+          "openIssues"    : 1,
           "languages"     : {
             "C#" : 18015
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 50,
+        "heat"          : 55,
         "watchers"      : 0,
         "size"          : 79,
         "collaborators" : 5,
         "stars"         : 0,
-        "forks"         : 6,
-        "openIssues"    : 0,
+        "forks"         : 7,
+        "openIssues"    : 1,
         "languages"     : {
           "C#" : 18015
         }
@@ -4085,18 +4085,18 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 287,
-          "watchers"      : 31,
-          "size"          : 31383,
+          "heat"          : 289,
+          "watchers"      : 32,
+          "size"          : 31390,
           "collaborators" : 10,
-          "stars"         : 31,
+          "stars"         : 32,
           "forks"         : 37,
           "openIssues"    : 1,
           "languages"     : {
             "CSS" : 7216,
             "Shell" : 5892,
             "Batchfile" : 552,
-            "JavaScript" : 482024,
+            "JavaScript" : 481070,
             "HTML" : 18183,
             "Objective_C" : 6886
           }
@@ -4168,11 +4168,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 395,
-        "watchers"      : 35,
-        "size"          : 35217,
+        "heat"          : 397,
+        "watchers"      : 36,
+        "size"          : 35224,
         "collaborators" : 30,
-        "stars"         : 35,
+        "stars"         : 36,
         "forks"         : 41,
         "openIssues"    : 1,
         "languages"     : {
@@ -4183,7 +4183,7 @@
           "CSS" : 7216,
           "C" : 1364,
           "Batchfile" : 552,
-          "JavaScript" : 602553,
+          "JavaScript" : 601599,
           "Objective_C" : 6886,
           "HTML" : 18948,
           "Python" : 921
@@ -4324,11 +4324,11 @@
           "name"          : "greenkey-discovery-sdk",
           "description"   : "Speed up business workflows through creating custom 'voice skills' and text interpreters",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
-          "heat"          : 24,
-          "watchers"      : 2,
+          "heat"          : 26,
+          "watchers"      : 3,
           "size"          : 85,
           "collaborators" : 5,
-          "stars"         : 2,
+          "stars"         : 3,
           "forks"         : 0,
           "openIssues"    : 1,
           "languages"     : {
@@ -4337,11 +4337,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 24,
-        "watchers"      : 2,
+        "heat"          : 26,
+        "watchers"      : 3,
         "size"          : 85,
         "collaborators" : 5,
-        "stars"         : 2,
+        "stars"         : 3,
         "forks"         : 0,
         "openIssues"    : 1,
         "languages"     : {
