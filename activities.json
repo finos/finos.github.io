@@ -741,11 +741,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 512,
           "watchers"      : 80,
-          "size"          : 2555,
+          "size"          : 2615,
           "collaborators" : 33,
           "stars"         : 80,
           "forks"         : 44,
-          "openIssues"    : 10,
+          "openIssues"    : 11,
           "languages"     : {
             "TypeScript" : 509354,
             "HTML" : 11245,
@@ -758,7 +758,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 263,
           "watchers"      : 11,
-          "size"          : 1913,
+          "size"          : 1930,
           "collaborators" : 34,
           "stars"         : 11,
           "forks"         : 21,
@@ -808,11 +808,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1060,
         "watchers"      : 92,
-        "size"          : 4674,
+        "size"          : 4751,
         "collaborators" : 134,
         "stars"         : 92,
         "forks"         : 68,
-        "openIssues"    : 15,
+        "openIssues"    : 16,
         "languages"     : {
           "TypeScript" : 1004903,
           "HTML" : 16486,
@@ -887,11 +887,11 @@
           "collaborators" : 34,
           "stars"         : 10,
           "forks"         : 13,
-          "openIssues"    : 9,
+          "openIssues"    : 8,
           "languages"     : {
             "TypeScript" : 526323,
-            "CSS" : 16572,
-            "HTML" : 15712,
+            "CSS" : 17068,
+            "HTML" : 15543,
             "JavaScript" : 23305
           }
         },
@@ -921,11 +921,11 @@
         "collaborators" : 68,
         "stars"         : 10,
         "forks"         : 15,
-        "openIssues"    : 9,
+        "openIssues"    : 8,
         "languages"     : {
           "TypeScript" : 542527,
-          "CSS" : 21161,
-          "HTML" : 17005,
+          "CSS" : 21657,
+          "HTML" : 16836,
           "JavaScript" : 24831
         }
       }
@@ -2323,7 +2323,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 488,
+          "size"          : 494,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -2353,7 +2353,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 42,
         "watchers"      : 0,
-        "size"          : 751,
+        "size"          : 757,
         "collaborators" : 8,
         "stars"         : 0,
         "forks"         : 2,
@@ -3034,13 +3034,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1575,
+          "size"          : 1597,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 810782,
+            "Java" : 810805,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3052,7 +3052,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-example",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 52,
+          "size"          : 51,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
@@ -3080,13 +3080,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1829,
+        "size"          : 1850,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 833608,
+          "Java" : 833631,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -3992,13 +3992,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-common",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 410,
+          "size"          : 429,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 451105
+            "Java" : 455678
           }
         },
         {
@@ -4017,13 +4017,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 64,
         "watchers"      : 0,
-        "size"          : 452,
+        "size"          : 471,
         "collaborators" : 11,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 451105
+          "Java" : 455678
         }
       }
     },
@@ -4046,26 +4046,26 @@
           "gitHubURL"     : "https://github.com/symphonyoss/ScreenSnippet",
           "heat"          : 60,
           "watchers"      : 0,
-          "size"          : 79,
+          "size"          : 82,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 8,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "C#" : 18015
+            "C#" : 18217
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 60,
         "watchers"      : 0,
-        "size"          : 79,
+        "size"          : 82,
         "collaborators" : 5,
         "stars"         : 0,
         "forks"         : 8,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
-          "C#" : 18015
+          "C#" : 18217
         }
       }
     },
@@ -4087,7 +4087,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 294,
           "watchers"      : 32,
-          "size"          : 31395,
+          "size"          : 31398,
           "collaborators" : 10,
           "stars"         : 32,
           "forks"         : 38,
@@ -4170,7 +4170,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 402,
         "watchers"      : 36,
-        "size"          : 35229,
+        "size"          : 35232,
         "collaborators" : 30,
         "stars"         : 36,
         "forks"         : 42,
@@ -4281,7 +4281,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
           "heat"          : 44,
           "watchers"      : 3,
-          "size"          : 295,
+          "size"          : 296,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 2,
@@ -4296,7 +4296,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 44,
         "watchers"      : 3,
-        "size"          : 295,
+        "size"          : 296,
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 2,
@@ -4324,28 +4324,28 @@
           "name"          : "greenkey-discovery-sdk",
           "description"   : "Speed up business workflows through creating custom 'voice skills' and text interpreters",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
-          "heat"          : 26,
+          "heat"          : 31,
           "watchers"      : 3,
-          "size"          : 85,
+          "size"          : 98,
           "collaborators" : 5,
           "stars"         : 3,
-          "forks"         : 0,
-          "openIssues"    : 1,
+          "forks"         : 1,
+          "openIssues"    : 2,
           "languages"     : {
-            "Python" : 56780
+            "Python" : 58234
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 26,
+        "heat"          : 31,
         "watchers"      : 3,
-        "size"          : 85,
+        "size"          : 98,
         "collaborators" : 5,
         "stars"         : 3,
-        "forks"         : 0,
-        "openIssues"    : 1,
+        "forks"         : 1,
+        "openIssues"    : 2,
         "languages"     : {
-          "Python" : 56780
+          "Python" : 58234
         }
       }
     },
