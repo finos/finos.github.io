@@ -762,7 +762,7 @@
           "collaborators" : 34,
           "stars"         : 11,
           "forks"         : 21,
-          "openIssues"    : 5,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 390502,
             "HTML" : 2364,
@@ -812,7 +812,7 @@
         "collaborators" : 134,
         "stars"         : 92,
         "forks"         : 68,
-        "openIssues"    : 16,
+        "openIssues"    : 17,
         "languages"     : {
           "TypeScript" : 1004903,
           "HTML" : 16486,
@@ -3067,7 +3067,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 202,
+          "size"          : 211,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -3080,7 +3080,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1850,
+        "size"          : 1859,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
@@ -3305,11 +3305,11 @@
           "name"          : "App-Integrations-Github",
           "description"   : "GitHub Integration",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Github",
-          "heat"          : 72,
-          "watchers"      : 2,
+          "heat"          : 74,
+          "watchers"      : 3,
           "size"          : 1589,
           "collaborators" : 12,
-          "stars"         : 2,
+          "stars"         : 3,
           "forks"         : 4,
           "openIssues"    : 2,
           "languages"     : {
@@ -3321,11 +3321,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 72,
-        "watchers"      : 2,
+        "heat"          : 74,
+        "watchers"      : 3,
         "size"          : 1589,
         "collaborators" : 12,
-        "stars"         : 2,
+        "stars"         : 3,
         "forks"         : 4,
         "openIssues"    : 2,
         "languages"     : {
@@ -4281,7 +4281,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
           "heat"          : 44,
           "watchers"      : 3,
-          "size"          : 296,
+          "size"          : 300,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 2,
@@ -4296,7 +4296,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 44,
         "watchers"      : 3,
-        "size"          : 296,
+        "size"          : 300,
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 2,
