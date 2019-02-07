@@ -21,13 +21,13 @@ function filterActivities(activities) {
   currentHref = decodeURI(window.location.href.split(window.location.host)[1]);
 
   if (currentHref != newHref) {
-    history.pushState(null, "FINOS Catalogue", newHref);
+    history.pushState(null, "FINOS Project & Working Group Catalogue", newHref);
   }
 
   if (activities.length == filteredActivities.length) {
-    $("#activity-recap").text(`${activities.length} (all) activities shown`);
+    $("#activity-recap").text(`${activities.length} (all) projects and working groups shown`);
   } else {
-    $("#activity-recap").text(`${filteredActivities.length}/${activities.length} activities shown`);
+    $("#activity-recap").text(`${filteredActivities.length}/${activities.length} projects and working groups shown`);
   }
   return filteredActivities;
 }
