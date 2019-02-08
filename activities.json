@@ -280,7 +280,7 @@
           "collaborators" : 42,
           "stars"         : 8,
           "forks"         : 6,
-          "openIssues"    : 1
+          "openIssues"    : 5
         },
         {
           "name"          : "FDC3-Archive",
@@ -302,7 +302,7 @@
         "collaborators" : 84,
         "stars"         : 11,
         "forks"         : 6,
-        "openIssues"    : 1
+        "openIssues"    : 5
       }
     },
     {
@@ -371,23 +371,23 @@
           "name"          : "use-cases",
           "description"   : "FDC3 Use Cases",
           "gitHubURL"     : "https://github.com/FDC3/use-cases",
-          "heat"          : 184,
+          "heat"          : 189,
           "watchers"      : 1,
-          "size"          : 76,
+          "size"          : 83,
           "collaborators" : 43,
           "stars"         : 1,
-          "forks"         : 2,
-          "openIssues"    : 4
+          "forks"         : 3,
+          "openIssues"    : 10
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 184,
+        "heat"          : 189,
         "watchers"      : 1,
-        "size"          : 76,
+        "size"          : 83,
         "collaborators" : 43,
         "stars"         : 1,
-        "forks"         : 2,
-        "openIssues"    : 4
+        "forks"         : 3,
+        "openIssues"    : 10
       },
       "mailingLists"       : [
         {
@@ -745,7 +745,7 @@
           "collaborators" : 34,
           "stars"         : 80,
           "forks"         : 44,
-          "openIssues"    : 12,
+          "openIssues"    : 13,
           "languages"     : {
             "TypeScript" : 509354,
             "HTML" : 11245,
@@ -812,7 +812,7 @@
         "collaborators" : 138,
         "stars"         : 92,
         "forks"         : 68,
-        "openIssues"    : 17,
+        "openIssues"    : 18,
         "languages"     : {
           "TypeScript" : 1005559,
           "HTML" : 16486,
@@ -883,13 +883,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 240,
           "watchers"      : 10,
-          "size"          : 2394,
+          "size"          : 2455,
           "collaborators" : 35,
           "stars"         : 10,
           "forks"         : 16,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
-            "TypeScript" : 659511,
+            "TypeScript" : 663519,
             "CSS" : 17068,
             "HTML" : 15543,
             "JavaScript" : 35948
@@ -917,13 +917,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 390,
         "watchers"      : 10,
-        "size"          : 2468,
+        "size"          : 2529,
         "collaborators" : 70,
         "stars"         : 10,
         "forks"         : 18,
-        "openIssues"    : 6,
+        "openIssues"    : 7,
         "languages"     : {
-          "TypeScript" : 675715,
+          "TypeScript" : 679723,
           "CSS" : 21657,
           "HTML" : 16836,
           "JavaScript" : 37474
@@ -3798,7 +3798,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SFE-DesktopClient-pgx",
           "heat"          : 53,
           "watchers"      : 0,
-          "size"          : 2259,
+          "size"          : 2264,
           "collaborators" : 7,
           "stars"         : 0,
           "forks"         : 5,
@@ -3814,7 +3814,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 139,
         "watchers"      : 4,
-        "size"          : 475301,
+        "size"          : 475306,
         "collaborators" : 14,
         "stars"         : 4,
         "forks"         : 15,
@@ -3992,7 +3992,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-common",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 431,
+          "size"          : 434,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
@@ -4017,7 +4017,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 64,
         "watchers"      : 0,
-        "size"          : 473,
+        "size"          : 476,
         "collaborators" : 11,
         "stars"         : 0,
         "forks"         : 4,
@@ -4326,26 +4326,26 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 35,
           "watchers"      : 3,
-          "size"          : 122,
+          "size"          : 135,
           "collaborators" : 6,
           "stars"         : 3,
           "forks"         : 1,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
-            "Python" : 58234
+            "Python" : 58447
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 35,
         "watchers"      : 3,
-        "size"          : 122,
+        "size"          : 135,
         "collaborators" : 6,
         "stars"         : 3,
         "forks"         : 1,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
-          "Python" : 58234
+          "Python" : 58447
         }
       }
     },
