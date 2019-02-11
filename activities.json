@@ -604,32 +604,32 @@
           "gitHubURL"     : "https://github.com/finos-fo/finos-fo",
           "heat"          : 15,
           "watchers"      : 1,
-          "size"          : 713,
+          "size"          : 772,
           "collaborators" : 2,
           "stars"         : 1,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 7761,
+            "TypeScript" : 7751,
             "Shell" : 2410,
             "CSS" : 414,
-            "JavaScript" : 17857
+            "JavaScript" : 17870
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 24,
         "watchers"      : 1,
-        "size"          : 717,
+        "size"          : 776,
         "collaborators" : 3,
         "stars"         : 1,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 7761,
+          "TypeScript" : 7751,
           "Shell" : 2410,
           "CSS" : 414,
-          "JavaScript" : 17857
+          "JavaScript" : 17870
         }
       },
       "mailingLists"       : [
@@ -781,7 +781,7 @@
           "collaborators" : 34,
           "stars"         : 80,
           "forks"         : 44,
-          "openIssues"    : 13,
+          "openIssues"    : 12,
           "languages"     : {
             "TypeScript" : 509354,
             "HTML" : 11245,
@@ -848,7 +848,7 @@
         "collaborators" : 138,
         "stars"         : 92,
         "forks"         : 68,
-        "openIssues"    : 18,
+        "openIssues"    : 17,
         "languages"     : {
           "TypeScript" : 1005559,
           "HTML" : 16486,
@@ -919,13 +919,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 245,
           "watchers"      : 10,
-          "size"          : 2456,
+          "size"          : 2460,
           "collaborators" : 35,
           "stars"         : 10,
           "forks"         : 17,
-          "openIssues"    : 9,
+          "openIssues"    : 8,
           "languages"     : {
-            "TypeScript" : 665063,
+            "TypeScript" : 665188,
             "CSS" : 17068,
             "HTML" : 15543,
             "JavaScript" : 35948
@@ -953,13 +953,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 395,
         "watchers"      : 10,
-        "size"          : 2530,
+        "size"          : 2534,
         "collaborators" : 70,
         "stars"         : 10,
         "forks"         : 19,
-        "openIssues"    : 9,
+        "openIssues"    : 8,
         "languages"     : {
-          "TypeScript" : 681267,
+          "TypeScript" : 681392,
           "CSS" : 21657,
           "HTML" : 16836,
           "JavaScript" : 37474
@@ -2783,11 +2783,11 @@
           "name"          : "python-symphony",
           "description"   : "An importable class that provides methods and objects for interacting with the Symphony Agent API from python",
           "gitHubURL"     : "https://github.com/symphonyoss/python-symphony",
-          "heat"          : 88,
-          "watchers"      : 11,
+          "heat"          : 90,
+          "watchers"      : 12,
           "size"          : 181,
           "collaborators" : 4,
-          "stars"         : 11,
+          "stars"         : 12,
           "forks"         : 10,
           "openIssues"    : 7,
           "languages"     : {
@@ -2815,11 +2815,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 114,
-        "watchers"      : 11,
+        "heat"          : 116,
+        "watchers"      : 12,
         "size"          : 226,
         "collaborators" : 8,
-        "stars"         : 11,
+        "stars"         : 12,
         "forks"         : 12,
         "openIssues"    : 7,
         "languages"     : {
