@@ -602,11 +602,11 @@
           "name"          : "finos-fo",
           "description"   : "FINOS Financial Objects Program Documentation",
           "gitHubURL"     : "https://github.com/finos-fo/finos-fo",
-          "heat"          : 15,
-          "watchers"      : 1,
+          "heat"          : 17,
+          "watchers"      : 2,
           "size"          : 807,
           "collaborators" : 2,
-          "stars"         : 1,
+          "stars"         : 2,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
@@ -618,11 +618,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 24,
-        "watchers"      : 1,
+        "heat"          : 26,
+        "watchers"      : 2,
         "size"          : 811,
         "collaborators" : 3,
-        "stars"         : 1,
+        "stars"         : 2,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
@@ -777,11 +777,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 516,
           "watchers"      : 80,
-          "size"          : 2605,
+          "size"          : 2606,
           "collaborators" : 34,
           "stars"         : 80,
           "forks"         : 44,
-          "openIssues"    : 12,
+          "openIssues"    : 11,
           "languages"     : {
             "TypeScript" : 509354,
             "HTML" : 11245,
@@ -794,7 +794,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 267,
           "watchers"      : 11,
-          "size"          : 1979,
+          "size"          : 1980,
           "collaborators" : 35,
           "stars"         : 11,
           "forks"         : 21,
@@ -844,11 +844,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1076,
         "watchers"      : 92,
-        "size"          : 4795,
+        "size"          : 4797,
         "collaborators" : 138,
         "stars"         : 92,
         "forks"         : 68,
-        "openIssues"    : 17,
+        "openIssues"    : 16,
         "languages"     : {
           "TypeScript" : 1005559,
           "HTML" : 16486,
@@ -919,16 +919,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 245,
           "watchers"      : 10,
-          "size"          : 2470,
+          "size"          : 2501,
           "collaborators" : 35,
           "stars"         : 10,
           "forks"         : 17,
-          "openIssues"    : 7,
+          "openIssues"    : 8,
           "languages"     : {
-            "TypeScript" : 669167,
+            "TypeScript" : 676170,
             "CSS" : 17068,
             "HTML" : 15543,
-            "JavaScript" : 35948
+            "JavaScript" : 35970
           }
         },
         {
@@ -953,16 +953,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 395,
         "watchers"      : 10,
-        "size"          : 2544,
+        "size"          : 2575,
         "collaborators" : 70,
         "stars"         : 10,
         "forks"         : 19,
-        "openIssues"    : 7,
+        "openIssues"    : 8,
         "languages"     : {
-          "TypeScript" : 685371,
+          "TypeScript" : 692374,
           "CSS" : 21657,
           "HTML" : 16836,
-          "JavaScript" : 37474
+          "JavaScript" : 37496
         }
       }
     },
@@ -4123,7 +4123,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 294,
           "watchers"      : 32,
-          "size"          : 31398,
+          "size"          : 31431,
           "collaborators" : 10,
           "stars"         : 32,
           "forks"         : 38,
@@ -4132,9 +4132,9 @@
             "CSS" : 7216,
             "Shell" : 5890,
             "Batchfile" : 552,
-            "JavaScript" : 481157,
+            "JavaScript" : 481061,
             "HTML" : 18183,
-            "Objective_C" : 6886
+            "Objective_C" : 7338
           }
         },
         {
@@ -4206,7 +4206,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 402,
         "watchers"      : 36,
-        "size"          : 35232,
+        "size"          : 35265,
         "collaborators" : 30,
         "stars"         : 36,
         "forks"         : 42,
@@ -4219,8 +4219,8 @@
           "CSS" : 7216,
           "C" : 1364,
           "Batchfile" : 552,
-          "JavaScript" : 601686,
-          "Objective_C" : 6886,
+          "JavaScript" : 601590,
+          "Objective_C" : 7338,
           "HTML" : 18948,
           "Python" : 921
         }
@@ -4362,26 +4362,26 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 35,
           "watchers"      : 3,
-          "size"          : 140,
+          "size"          : 121,
           "collaborators" : 6,
           "stars"         : 3,
           "forks"         : 1,
           "openIssues"    : 4,
           "languages"     : {
-            "Python" : 58447
+            "Python" : 58754
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 35,
         "watchers"      : 3,
-        "size"          : 140,
+        "size"          : 121,
         "collaborators" : 6,
         "stars"         : 3,
         "forks"         : 1,
         "openIssues"    : 4,
         "languages"     : {
-          "Python" : 58447
+          "Python" : 58754
         }
       }
     },
