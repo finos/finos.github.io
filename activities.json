@@ -604,7 +604,7 @@
           "gitHubURL"     : "https://github.com/finos-fo/finos-fo",
           "heat"          : 17,
           "watchers"      : 2,
-          "size"          : 807,
+          "size"          : 691,
           "collaborators" : 2,
           "stars"         : 2,
           "forks"         : 1,
@@ -620,7 +620,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 26,
         "watchers"      : 2,
-        "size"          : 811,
+        "size"          : 695,
         "collaborators" : 3,
         "stars"         : 2,
         "forks"         : 2,
@@ -923,7 +923,7 @@
           "collaborators" : 35,
           "stars"         : 10,
           "forks"         : 17,
-          "openIssues"    : 7,
+          "openIssues"    : 8,
           "languages"     : {
             "TypeScript" : 677152,
             "CSS" : 17068,
@@ -957,7 +957,7 @@
         "collaborators" : 70,
         "stars"         : 10,
         "forks"         : 19,
-        "openIssues"    : 7,
+        "openIssues"    : 8,
         "languages"     : {
           "TypeScript" : 693356,
           "CSS" : 21657,
