@@ -613,7 +613,7 @@
             "TypeScript" : 7131,
             "Shell" : 2410,
             "CSS" : 414,
-            "JavaScript" : 17870
+            "JavaScript" : 17860
           }
         }
       ],
@@ -629,7 +629,7 @@
           "TypeScript" : 7131,
           "Shell" : 2410,
           "CSS" : 414,
-          "JavaScript" : 17870
+          "JavaScript" : 17860
         }
       },
       "mailingLists"       : [
@@ -919,13 +919,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 245,
           "watchers"      : 10,
-          "size"          : 2501,
+          "size"          : 2512,
           "collaborators" : 35,
           "stars"         : 10,
           "forks"         : 17,
-          "openIssues"    : 8,
+          "openIssues"    : 7,
           "languages"     : {
-            "TypeScript" : 676170,
+            "TypeScript" : 677152,
             "CSS" : 17068,
             "HTML" : 15543,
             "JavaScript" : 35970
@@ -953,13 +953,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 395,
         "watchers"      : 10,
-        "size"          : 2575,
+        "size"          : 2586,
         "collaborators" : 70,
         "stars"         : 10,
         "forks"         : 19,
-        "openIssues"    : 8,
+        "openIssues"    : 7,
         "languages"     : {
-          "TypeScript" : 692374,
+          "TypeScript" : 693356,
           "CSS" : 21657,
           "HTML" : 16836,
           "JavaScript" : 37496
@@ -2359,14 +2359,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 601,
+          "size"          : 616,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 480729,
-            "FreeMarker" : 132468,
+            "Java" : 481418,
+            "FreeMarker" : 133527,
             "JavaScript" : 13681
           }
         },
@@ -2389,14 +2389,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 42,
         "watchers"      : 0,
-        "size"          : 871,
+        "size"          : 886,
         "collaborators" : 8,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 529972,
-          "FreeMarker" : 132468,
+          "Java" : 530661,
+          "FreeMarker" : 133527,
           "JavaScript" : 13681
         }
       }
