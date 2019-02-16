@@ -500,7 +500,7 @@
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "Shell" : 21188,
             "HTML" : 472,
@@ -515,7 +515,7 @@
         "collaborators" : 8,
         "stars"         : 1,
         "forks"         : 1,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "Shell" : 21188,
           "HTML" : 472,
@@ -935,7 +935,7 @@
           "collaborators" : 35,
           "stars"         : 10,
           "forks"         : 17,
-          "openIssues"    : 8,
+          "openIssues"    : 9,
           "languages"     : {
             "TypeScript" : 677152,
             "CSS" : 17068,
@@ -969,7 +969,7 @@
         "collaborators" : 70,
         "stars"         : 10,
         "forks"         : 19,
-        "openIssues"    : 8,
+        "openIssues"    : 9,
         "languages"     : {
           "TypeScript" : 693356,
           "CSS" : 21657,
@@ -4374,7 +4374,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 39,
           "watchers"      : 3,
-          "size"          : 145,
+          "size"          : 151,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 1,
@@ -4387,7 +4387,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 39,
         "watchers"      : 3,
-        "size"          : 145,
+        "size"          : 151,
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 1,
