@@ -789,15 +789,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 516,
           "watchers"      : 80,
-          "size"          : 2680,
+          "size"          : 2683,
           "collaborators" : 34,
           "stars"         : 80,
           "forks"         : 44,
           "openIssues"    : 15,
           "languages"     : {
-            "TypeScript" : 509298,
+            "TypeScript" : 509089,
             "HTML" : 11245,
-            "JavaScript" : 319332
+            "JavaScript" : 319333
           }
         },
         {
@@ -806,11 +806,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 267,
           "watchers"      : 11,
-          "size"          : 3144,
+          "size"          : 3143,
           "collaborators" : 35,
           "stars"         : 11,
           "forks"         : 21,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 389834,
             "HTML" : 2364,
@@ -856,16 +856,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1076,
         "watchers"      : 92,
-        "size"          : 6035,
+        "size"          : 6037,
         "collaborators" : 138,
         "stars"         : 92,
         "forks"         : 68,
-        "openIssues"    : 19,
+        "openIssues"    : 20,
         "languages"     : {
-          "TypeScript" : 1004179,
+          "TypeScript" : 1003970,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 340439,
+          "JavaScript" : 340440,
           "Python" : 2150
         }
       }
@@ -931,16 +931,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 245,
           "watchers"      : 10,
-          "size"          : 2512,
+          "size"          : 2591,
           "collaborators" : 35,
           "stars"         : 10,
           "forks"         : 17,
-          "openIssues"    : 11,
+          "openIssues"    : 8,
           "languages"     : {
-            "TypeScript" : 677152,
-            "CSS" : 17068,
-            "HTML" : 15543,
-            "JavaScript" : 35970
+            "TypeScript" : 747254,
+            "HTML" : 39238,
+            "CSS" : 21168,
+            "JavaScript" : 38363
           }
         },
         {
@@ -965,16 +965,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 395,
         "watchers"      : 10,
-        "size"          : 2586,
+        "size"          : 2665,
         "collaborators" : 70,
         "stars"         : 10,
         "forks"         : 19,
-        "openIssues"    : 11,
+        "openIssues"    : 8,
         "languages"     : {
-          "TypeScript" : 693356,
-          "CSS" : 21657,
-          "HTML" : 16836,
-          "JavaScript" : 37496
+          "TypeScript" : 763458,
+          "HTML" : 40531,
+          "CSS" : 25757,
+          "JavaScript" : 39889
         }
       }
     },
@@ -2371,14 +2371,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 623,
+          "size"          : 638,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 485711,
-            "FreeMarker" : 133527,
+            "Java" : 485544,
+            "FreeMarker" : 133529,
             "JavaScript" : 13681
           }
         },
@@ -2401,14 +2401,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 42,
         "watchers"      : 0,
-        "size"          : 893,
+        "size"          : 908,
         "collaborators" : 8,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 534954,
-          "FreeMarker" : 133527,
+          "Java" : 534787,
+          "FreeMarker" : 133529,
           "JavaScript" : 13681
         }
       }
@@ -4040,7 +4040,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-common",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 462,
+          "size"          : 467,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
@@ -4065,7 +4065,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 64,
         "watchers"      : 0,
-        "size"          : 504,
+        "size"          : 509,
         "collaborators" : 11,
         "stars"         : 0,
         "forks"         : 4,
@@ -4135,7 +4135,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 294,
           "watchers"      : 32,
-          "size"          : 31431,
+          "size"          : 31433,
           "collaborators" : 10,
           "stars"         : 32,
           "forks"         : 38,
@@ -4144,7 +4144,7 @@
             "CSS" : 7216,
             "Shell" : 5890,
             "Batchfile" : 552,
-            "JavaScript" : 481061,
+            "JavaScript" : 480823,
             "HTML" : 18183,
             "Objective_C" : 7338
           }
@@ -4204,13 +4204,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 35,
           "watchers"      : 2,
-          "size"          : 73,
+          "size"          : 72,
           "collaborators" : 4,
           "stars"         : 2,
           "forks"         : 3,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 79838,
+            "TypeScript" : 84029,
             "JavaScript" : 385
           }
         }
@@ -4218,20 +4218,20 @@
       "cumulativeGitHubStats" : {
         "heat"          : 402,
         "watchers"      : 36,
-        "size"          : 35265,
+        "size"          : 35266,
         "collaborators" : 30,
         "stars"         : 36,
         "forks"         : 42,
         "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 79838,
+          "TypeScript" : 84029,
           "C#" : 7673,
           "Shell" : 5890,
           "C++" : 35850,
           "CSS" : 7216,
           "C" : 1364,
           "Batchfile" : 552,
-          "JavaScript" : 601590,
+          "JavaScript" : 601352,
           "Objective_C" : 7338,
           "HTML" : 18948,
           "Python" : 921
@@ -4374,26 +4374,26 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 39,
           "watchers"      : 3,
-          "size"          : 151,
+          "size"          : 145,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 1,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
-            "Python" : 58754
+            "Python" : 60979
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 39,
         "watchers"      : 3,
-        "size"          : 151,
+        "size"          : 145,
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 1,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
-          "Python" : 58754
+          "Python" : 60979
         }
       }
     },
