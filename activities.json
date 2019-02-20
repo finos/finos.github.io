@@ -114,26 +114,26 @@
           "name"          : "API",
           "description"   : "API Working Group repository",
           "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 240,
+          "heat"          : 245,
           "watchers"      : 6,
           "size"          : 344,
           "collaborators" : 42,
           "stars"         : 6,
-          "forks"         : 12,
-          "openIssues"    : 5,
+          "forks"         : 13,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 5888
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 240,
+        "heat"          : 245,
         "watchers"      : 6,
         "size"          : 344,
         "collaborators" : 42,
         "stars"         : 6,
-        "forks"         : 12,
-        "openIssues"    : 5,
+        "forks"         : 13,
+        "openIssues"    : 6,
         "languages"     : {
           "TypeScript" : 5888
         }
@@ -401,7 +401,7 @@
           "collaborators" : 43,
           "stars"         : 1,
           "forks"         : 3,
-          "openIssues"    : 10
+          "openIssues"    : 11
         }
       ],
       "cumulativeGitHubStats" : {
@@ -411,7 +411,7 @@
         "collaborators" : 43,
         "stars"         : 1,
         "forks"         : 3,
-        "openIssues"    : 10
+        "openIssues"    : 11
       },
       "mailingLists"       : [
         {
@@ -789,15 +789,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 516,
           "watchers"      : 80,
-          "size"          : 2683,
+          "size"          : 2686,
           "collaborators" : 34,
           "stars"         : 80,
           "forks"         : 44,
-          "openIssues"    : 15,
+          "openIssues"    : 12,
           "languages"     : {
-            "TypeScript" : 509089,
+            "TypeScript" : 516885,
             "HTML" : 11245,
-            "JavaScript" : 319333
+            "JavaScript" : 315311
           }
         },
         {
@@ -856,16 +856,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1076,
         "watchers"      : 92,
-        "size"          : 6037,
+        "size"          : 6040,
         "collaborators" : 138,
         "stars"         : 92,
         "forks"         : 68,
-        "openIssues"    : 20,
+        "openIssues"    : 17,
         "languages"     : {
-          "TypeScript" : 1003970,
+          "TypeScript" : 1011766,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 340440,
+          "JavaScript" : 336418,
           "Python" : 2150
         }
       }
@@ -931,16 +931,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 245,
           "watchers"      : 10,
-          "size"          : 2591,
+          "size"          : 2619,
           "collaborators" : 35,
           "stars"         : 10,
           "forks"         : 17,
           "openIssues"    : 8,
           "languages"     : {
-            "TypeScript" : 747254,
+            "TypeScript" : 744511,
             "HTML" : 39238,
             "CSS" : 21168,
-            "JavaScript" : 38363
+            "JavaScript" : 39959
           }
         },
         {
@@ -965,16 +965,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 395,
         "watchers"      : 10,
-        "size"          : 2665,
+        "size"          : 2693,
         "collaborators" : 70,
         "stars"         : 10,
         "forks"         : 19,
         "openIssues"    : 8,
         "languages"     : {
-          "TypeScript" : 763458,
+          "TypeScript" : 760715,
           "HTML" : 40531,
           "CSS" : 25757,
-          "JavaScript" : 39889
+          "JavaScript" : 41485
         }
       }
     },
@@ -3258,13 +3258,13 @@
           "name"          : "App-Integrations-Commons",
           "description"   : "Common components for Symphony App Integrations.",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Commons",
-          "heat"          : 99,
+          "heat"          : 112,
           "watchers"      : 3,
           "size"          : 20200,
-          "collaborators" : 12,
+          "collaborators" : 14,
           "stars"         : 3,
-          "forks"         : 9,
-          "openIssues"    : 3,
+          "forks"         : 10,
+          "openIssues"    : 4,
           "languages"     : {
             "Java" : 730159
           }
@@ -3319,13 +3319,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 270,
+        "heat"          : 283,
         "watchers"      : 8,
         "size"          : 55652,
-        "collaborators" : 41,
+        "collaborators" : 43,
         "stars"         : 8,
-        "forks"         : 18,
-        "openIssues"    : 4,
+        "forks"         : 19,
+        "openIssues"    : 5,
         "languages"     : {
           "Java" : 1901248,
           "Shell" : 1870,
@@ -4374,7 +4374,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 39,
           "watchers"      : 3,
-          "size"          : 145,
+          "size"          : 146,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 1,
@@ -4387,7 +4387,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 39,
         "watchers"      : 3,
-        "size"          : 145,
+        "size"          : 146,
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 1,
