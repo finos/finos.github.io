@@ -120,7 +120,7 @@
           "collaborators" : 43,
           "stars"         : 6,
           "forks"         : 13,
-          "openIssues"    : 6,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 5888
           }
@@ -133,7 +133,7 @@
         "collaborators" : 43,
         "stars"         : 6,
         "forks"         : 13,
-        "openIssues"    : 6,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 5888
         }
@@ -248,7 +248,7 @@
           "collaborators" : 43,
           "stars"         : 5,
           "forks"         : 10,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 1886
           }
@@ -261,7 +261,7 @@
         "collaborators" : 43,
         "stars"         : 5,
         "forks"         : 10,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 1886
         }
@@ -286,13 +286,13 @@
           "name"          : "FDC3",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/FDC3",
-          "heat"          : 220,
+          "heat"          : 225,
           "watchers"      : 9,
           "size"          : 1000,
           "collaborators" : 43,
           "stars"         : 9,
-          "forks"         : 6,
-          "openIssues"    : 2,
+          "forks"         : 7,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 7458,
             "HTML" : 892397,
@@ -314,13 +314,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 398,
+        "heat"          : 403,
         "watchers"      : 12,
         "size"          : 3214,
         "collaborators" : 86,
         "stars"         : 12,
-        "forks"         : 6,
-        "openIssues"    : 2,
+        "forks"         : 7,
+        "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 7458,
           "HTML" : 892397,
@@ -348,7 +348,7 @@
           "collaborators" : 43,
           "stars"         : 4,
           "forks"         : 6,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 892
           }
@@ -361,7 +361,7 @@
         "collaborators" : 43,
         "stars"         : 4,
         "forks"         : 6,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 892
         }
@@ -789,7 +789,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 516,
           "watchers"      : 80,
-          "size"          : 2713,
+          "size"          : 2711,
           "collaborators" : 34,
           "stars"         : 80,
           "forks"         : 44,
@@ -856,7 +856,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1076,
         "watchers"      : 92,
-        "size"          : 6069,
+        "size"          : 6067,
         "collaborators" : 138,
         "stars"         : 92,
         "forks"         : 68,
@@ -935,7 +935,7 @@
           "collaborators" : 35,
           "stars"         : 10,
           "forks"         : 17,
-          "openIssues"    : 1,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 776816,
             "HTML" : 42691,
@@ -969,7 +969,7 @@
         "collaborators" : 70,
         "stars"         : 10,
         "forks"         : 19,
-        "openIssues"    : 1,
+        "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 793020,
           "HTML" : 43984,
