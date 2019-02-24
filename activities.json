@@ -284,7 +284,7 @@
       "gitHubRepos"          : [
         {
           "name"          : "FDC3",
-          "description"   : "Open standards for the financial desktop.",
+          "description"   : "Open standards for the financial desktop",
           "gitHubURL"     : "https://github.com/FDC3/FDC3",
           "heat"          : 225,
           "watchers"      : 9,
@@ -935,7 +935,7 @@
           "collaborators" : 35,
           "stars"         : 10,
           "forks"         : 17,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 776816,
             "HTML" : 42691,
@@ -969,7 +969,7 @@
         "collaborators" : 70,
         "stars"         : 10,
         "forks"         : 19,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 793020,
           "HTML" : 43984,
