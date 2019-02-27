@@ -22,7 +22,7 @@
           "collaborators" : 2,
           "stars"         : 5,
           "forks"         : 2,
-          "openIssues"    : 0
+          "openIssues"    : 2
         },
         {
           "name"          : "finos-data-tech.github.io",
@@ -44,7 +44,7 @@
         "collaborators" : 5,
         "stars"         : 6,
         "forks"         : 2,
-        "openIssues"    : 0
+        "openIssues"    : 2
       }
     },
     {
@@ -187,12 +187,12 @@
           "name"          : "appd-api",
           "description"   : "Application Directory Specification and API - THIS IS NOT A RATIFIED FDC3 API or SPECIFICATION, but rather work in-progress",
           "gitHubURL"     : "https://github.com/FDC3/appd-api",
-          "heat"          : 197,
+          "heat"          : 202,
           "watchers"      : 0,
           "size"          : 741,
           "collaborators" : 43,
           "stars"         : 0,
-          "forks"         : 5,
+          "forks"         : 6,
           "openIssues"    : 0
         },
         {
@@ -209,12 +209,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 748,
+        "heat"          : 753,
         "watchers"      : 3,
         "size"          : 850,
         "collaborators" : 173,
         "stars"         : 3,
-        "forks"         : 10,
+        "forks"         : 11,
         "openIssues"    : 0,
         "languages"     : {
           "Java" : 90084,
@@ -401,7 +401,7 @@
           "collaborators" : 44,
           "stars"         : 1,
           "forks"         : 4,
-          "openIssues"    : 4
+          "openIssues"    : 5
         }
       ],
       "cumulativeGitHubStats" : {
@@ -411,7 +411,7 @@
         "collaborators" : 44,
         "stars"         : 1,
         "forks"         : 4,
-        "openIssues"    : 4
+        "openIssues"    : 5
       },
       "mailingLists"       : [
         {
@@ -789,15 +789,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 522,
           "watchers"      : 81,
-          "size"          : 2716,
+          "size"          : 2725,
           "collaborators" : 35,
           "stars"         : 81,
           "forks"         : 44,
-          "openIssues"    : 13,
+          "openIssues"    : 11,
           "languages"     : {
-            "TypeScript" : 517467,
+            "TypeScript" : 521280,
             "HTML" : 11245,
-            "JavaScript" : 315914
+            "JavaScript" : 317733
           }
         },
         {
@@ -856,16 +856,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1094,
         "watchers"      : 93,
-        "size"          : 6072,
+        "size"          : 6081,
         "collaborators" : 142,
         "stars"         : 93,
         "forks"         : 68,
-        "openIssues"    : 18,
+        "openIssues"    : 16,
         "languages"     : {
-          "TypeScript" : 1012348,
+          "TypeScript" : 1016161,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 337021,
+          "JavaScript" : 338840,
           "Python" : 2150
         }
       }
@@ -4457,7 +4457,7 @@
           "collaborators" : 4,
           "stars"         : 1,
           "forks"         : 4,
-          "openIssues"    : 7
+          "openIssues"    : 8
         }
       ],
       "cumulativeGitHubStats" : {
@@ -4467,7 +4467,7 @@
         "collaborators" : 4,
         "stars"         : 1,
         "forks"         : 4,
-        "openIssues"    : 7
+        "openIssues"    : 8
       },
       "mailingLists"       : [
         {
