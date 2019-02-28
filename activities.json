@@ -397,21 +397,21 @@
           "gitHubURL"     : "https://github.com/FDC3/use-cases",
           "heat"          : 198,
           "watchers"      : 1,
-          "size"          : 185,
+          "size"          : 192,
           "collaborators" : 44,
           "stars"         : 1,
           "forks"         : 4,
-          "openIssues"    : 5
+          "openIssues"    : 4
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 198,
         "watchers"      : 1,
-        "size"          : 185,
+        "size"          : 192,
         "collaborators" : 44,
         "stars"         : 1,
         "forks"         : 4,
-        "openIssues"    : 5
+        "openIssues"    : 4
       },
       "mailingLists"       : [
         {
@@ -421,7 +421,7 @@
       ]
     },
     {
-      "programName"          : "FinServ Developer Experience",
+      "programName"          : "Financial Delivery Accelerator",
       "programShortName"     : "FDX",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
       "activityName"         : "GitHub Chatops Bot",
@@ -470,7 +470,7 @@
       }
     },
     {
-      "programName"          : "FinServ Developer Experience",
+      "programName"          : "Financial Delivery Accelerator",
       "programShortName"     : "FDX",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
       "activityName"         : "FINOS Dev Toolchain",
@@ -524,7 +524,7 @@
       }
     },
     {
-      "programName"          : "FinServ Developer Experience",
+      "programName"          : "Financial Delivery Accelerator",
       "programShortName"     : "FDX",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
       "activityName"         : "Foundation Catalogue WG",
@@ -534,7 +534,7 @@
       "archiveDate"          : "2018-10-23"
     },
     {
-      "programName"          : "FinServ Developer Experience",
+      "programName"          : "Financial Delivery Accelerator",
       "programShortName"     : "FDX",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
       "activityName"         : "Cloud Native WG",
@@ -543,7 +543,7 @@
       "contributionDate"     : "2018-04-24"
     },
     {
-      "programName"          : "FinServ Developer Experience",
+      "programName"          : "Financial Delivery Accelerator",
       "programShortName"     : "FDX",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
       "activityName"         : "Developer Experience WG",
@@ -552,7 +552,7 @@
       "contributionDate"     : "2018-04-24"
     },
     {
-      "programName"          : "FinServ Developer Experience",
+      "programName"          : "Financial Delivery Accelerator",
       "programShortName"     : "FDX",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
       "activityName"         : "ODP WG",
@@ -797,20 +797,20 @@
           "languages"     : {
             "TypeScript" : 521280,
             "HTML" : 11245,
-            "JavaScript" : 317733
+            "JavaScript" : 317928
           }
         },
         {
           "name"          : "js-adapter",
           "description"   : "Hadouken Node Adapter",
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
-          "heat"          : 271,
+          "heat"          : 276,
           "watchers"      : 11,
           "size"          : 3145,
           "collaborators" : 36,
           "stars"         : 11,
-          "forks"         : 21,
-          "openIssues"    : 5,
+          "forks"         : 22,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 389834,
             "HTML" : 2364,
@@ -854,18 +854,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1094,
+        "heat"          : 1099,
         "watchers"      : 93,
         "size"          : 6081,
         "collaborators" : 142,
         "stars"         : 93,
-        "forks"         : 68,
-        "openIssues"    : 16,
+        "forks"         : 69,
+        "openIssues"    : 17,
         "languages"     : {
           "TypeScript" : 1016161,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 338840,
+          "JavaScript" : 339035,
           "Python" : 2150
         }
       }
@@ -931,13 +931,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 249,
           "watchers"      : 10,
-          "size"          : 2728,
+          "size"          : 2754,
           "collaborators" : 36,
           "stars"         : 10,
           "forks"         : 17,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 802220,
+            "TypeScript" : 810949,
             "HTML" : 42691,
             "CSS" : 21168,
             "JavaScript" : 41468
@@ -965,13 +965,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 403,
         "watchers"      : 10,
-        "size"          : 2802,
+        "size"          : 2828,
         "collaborators" : 72,
         "stars"         : 10,
         "forks"         : 19,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 818424,
+          "TypeScript" : 827153,
           "HTML" : 43984,
           "CSS" : 25757,
           "JavaScript" : 42994
@@ -3688,11 +3688,11 @@
           "name"          : "App-Integrations-Zapier",
           "description"   : "Zapier Integration",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Zapier",
-          "heat"          : 62,
-          "watchers"      : 2,
+          "heat"          : 64,
+          "watchers"      : 3,
           "size"          : 1138,
           "collaborators" : 12,
-          "stars"         : 2,
+          "stars"         : 3,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
@@ -3704,11 +3704,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 62,
-        "watchers"      : 2,
+        "heat"          : 64,
+        "watchers"      : 3,
         "size"          : 1138,
         "collaborators" : 12,
-        "stars"         : 2,
+        "stars"         : 3,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
@@ -4133,11 +4133,11 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 294,
-          "watchers"      : 32,
-          "size"          : 31443,
+          "heat"          : 296,
+          "watchers"      : 33,
+          "size"          : 31451,
           "collaborators" : 10,
-          "stars"         : 32,
+          "stars"         : 33,
           "forks"         : 38,
           "openIssues"    : 1,
           "languages"     : {
@@ -4216,11 +4216,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 402,
-        "watchers"      : 36,
-        "size"          : 35276,
+        "heat"          : 404,
+        "watchers"      : 37,
+        "size"          : 35284,
         "collaborators" : 30,
-        "stars"         : 36,
+        "stars"         : 37,
         "forks"         : 42,
         "openIssues"    : 1,
         "languages"     : {
@@ -4374,7 +4374,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 39,
           "watchers"      : 3,
-          "size"          : 153,
+          "size"          : 155,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 1,
@@ -4387,7 +4387,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 39,
         "watchers"      : 3,
-        "size"          : 153,
+        "size"          : 155,
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 1,
