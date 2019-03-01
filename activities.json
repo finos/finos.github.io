@@ -120,7 +120,7 @@
           "collaborators" : 43,
           "stars"         : 6,
           "forks"         : 13,
-          "openIssues"    : 4,
+          "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 5888
           }
@@ -133,7 +133,7 @@
         "collaborators" : 43,
         "stars"         : 6,
         "forks"         : 13,
-        "openIssues"    : 4,
+        "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 5888
         }
@@ -248,7 +248,7 @@
           "collaborators" : 43,
           "stars"         : 5,
           "forks"         : 10,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 1886
           }
@@ -261,7 +261,7 @@
         "collaborators" : 43,
         "stars"         : 5,
         "forks"         : 10,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 1886
         }
@@ -286,18 +286,18 @@
           "name"          : "FDC3",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/FDC3",
-          "heat"          : 225,
+          "heat"          : 230,
           "watchers"      : 9,
-          "size"          : 1000,
+          "size"          : 1638,
           "collaborators" : 43,
           "stars"         : 9,
-          "forks"         : 7,
-          "openIssues"    : 4,
+          "forks"         : 8,
+          "openIssues"    : 9,
           "languages"     : {
             "TypeScript" : 7458,
             "HTML" : 892397,
             "CSS" : 414,
-            "JavaScript" : 16041
+            "JavaScript" : 16145
           }
         },
         {
@@ -314,18 +314,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 403,
+        "heat"          : 408,
         "watchers"      : 12,
-        "size"          : 3214,
+        "size"          : 3852,
         "collaborators" : 86,
         "stars"         : 12,
-        "forks"         : 7,
-        "openIssues"    : 4,
+        "forks"         : 8,
+        "openIssues"    : 9,
         "languages"     : {
           "TypeScript" : 7458,
           "HTML" : 892397,
           "CSS" : 414,
-          "JavaScript" : 16041
+          "JavaScript" : 16145
         }
       }
     },
@@ -793,7 +793,7 @@
           "collaborators" : 35,
           "stars"         : 81,
           "forks"         : 44,
-          "openIssues"    : 11,
+          "openIssues"    : 13,
           "languages"     : {
             "TypeScript" : 521280,
             "HTML" : 11245,
@@ -806,13 +806,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 276,
           "watchers"      : 11,
-          "size"          : 3145,
+          "size"          : 3146,
           "collaborators" : 36,
           "stars"         : 11,
           "forks"         : 22,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
-            "TypeScript" : 389834,
+            "TypeScript" : 390313,
             "HTML" : 2364,
             "JavaScript" : 11378,
             "Python" : 2150
@@ -856,13 +856,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1099,
         "watchers"      : 93,
-        "size"          : 6081,
+        "size"          : 6082,
         "collaborators" : 142,
         "stars"         : 93,
         "forks"         : 69,
-        "openIssues"    : 17,
+        "openIssues"    : 20,
         "languages"     : {
-          "TypeScript" : 1016161,
+          "TypeScript" : 1016640,
           "HTML" : 16486,
           "CSS" : 48222,
           "JavaScript" : 339035,
@@ -931,13 +931,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 249,
           "watchers"      : 10,
-          "size"          : 2754,
+          "size"          : 2782,
           "collaborators" : 36,
           "stars"         : 10,
           "forks"         : 17,
           "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 810949,
+            "TypeScript" : 811514,
             "HTML" : 42691,
             "CSS" : 21168,
             "JavaScript" : 41468
@@ -949,13 +949,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-tabstrip",
           "heat"          : 154,
           "watchers"      : 0,
-          "size"          : 74,
+          "size"          : 91,
           "collaborators" : 36,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 16204,
+            "TypeScript" : 15887,
             "CSS" : 4589,
             "HTML" : 1293,
             "JavaScript" : 1526
@@ -965,13 +965,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 403,
         "watchers"      : 10,
-        "size"          : 2828,
+        "size"          : 2873,
         "collaborators" : 72,
         "stars"         : 10,
         "forks"         : 19,
         "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 827153,
+          "TypeScript" : 827401,
           "HTML" : 43984,
           "CSS" : 25757,
           "JavaScript" : 42994
@@ -4139,7 +4139,7 @@
           "collaborators" : 10,
           "stars"         : 33,
           "forks"         : 38,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "CSS" : 7216,
             "Shell" : 5890,
@@ -4222,7 +4222,7 @@
         "collaborators" : 30,
         "stars"         : 37,
         "forks"         : 42,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 84029,
           "C#" : 7673,
@@ -4329,7 +4329,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
           "heat"          : 44,
           "watchers"      : 3,
-          "size"          : 324,
+          "size"          : 326,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 2,
@@ -4344,7 +4344,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 44,
         "watchers"      : 3,
-        "size"          : 324,
+        "size"          : 326,
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 2,
