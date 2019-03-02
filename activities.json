@@ -286,18 +286,18 @@
           "name"          : "FDC3",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/FDC3",
-          "heat"          : 230,
+          "heat"          : 239,
           "watchers"      : 9,
-          "size"          : 1638,
-          "collaborators" : 43,
+          "size"          : 1134,
+          "collaborators" : 44,
           "stars"         : 9,
-          "forks"         : 8,
+          "forks"         : 9,
           "openIssues"    : 9,
           "languages"     : {
             "TypeScript" : 7458,
             "HTML" : 892397,
             "CSS" : 414,
-            "JavaScript" : 16145
+            "JavaScript" : 17491
           }
         },
         {
@@ -314,18 +314,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 408,
+        "heat"          : 417,
         "watchers"      : 12,
-        "size"          : 3852,
-        "collaborators" : 86,
+        "size"          : 3348,
+        "collaborators" : 87,
         "stars"         : 12,
-        "forks"         : 8,
+        "forks"         : 9,
         "openIssues"    : 9,
         "languages"     : {
           "TypeScript" : 7458,
           "HTML" : 892397,
           "CSS" : 414,
-          "JavaScript" : 16145
+          "JavaScript" : 17491
         }
       }
     },
@@ -789,15 +789,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 522,
           "watchers"      : 81,
-          "size"          : 2725,
+          "size"          : 2738,
           "collaborators" : 35,
           "stars"         : 81,
           "forks"         : 44,
-          "openIssues"    : 13,
+          "openIssues"    : 10,
           "languages"     : {
             "TypeScript" : 521280,
             "HTML" : 11245,
-            "JavaScript" : 317928
+            "JavaScript" : 318767
           }
         },
         {
@@ -806,13 +806,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 276,
           "watchers"      : 11,
-          "size"          : 3146,
+          "size"          : 3168,
           "collaborators" : 36,
           "stars"         : 11,
           "forks"         : 22,
-          "openIssues"    : 7,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 390313,
+            "TypeScript" : 391551,
             "HTML" : 2364,
             "JavaScript" : 11378,
             "Python" : 2150
@@ -856,16 +856,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1099,
         "watchers"      : 93,
-        "size"          : 6082,
+        "size"          : 6117,
         "collaborators" : 142,
         "stars"         : 93,
         "forks"         : 69,
-        "openIssues"    : 20,
+        "openIssues"    : 14,
         "languages"     : {
-          "TypeScript" : 1016640,
+          "TypeScript" : 1017878,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 339035,
+          "JavaScript" : 339874,
           "Python" : 2150
         }
       }
@@ -3779,12 +3779,12 @@
           "name"          : "messageml-utils",
           "description"   : "MessageML parser",
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
-          "heat"          : 94,
+          "heat"          : 99,
           "watchers"      : 3,
           "size"          : 371,
           "collaborators" : 7,
           "stars"         : 3,
-          "forks"         : 12,
+          "forks"         : 13,
           "openIssues"    : 2,
           "languages"     : {
             "Java" : 603678
@@ -3792,12 +3792,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 94,
+        "heat"          : 99,
         "watchers"      : 3,
         "size"          : 371,
         "collaborators" : 7,
         "stars"         : 3,
-        "forks"         : 12,
+        "forks"         : 13,
         "openIssues"    : 2,
         "languages"     : {
           "Java" : 603678
@@ -4135,16 +4135,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 296,
           "watchers"      : 33,
-          "size"          : 31451,
+          "size"          : 31455,
           "collaborators" : 10,
           "stars"         : 33,
           "forks"         : 38,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
             "CSS" : 7216,
             "Shell" : 5890,
             "Batchfile" : 552,
-            "JavaScript" : 480823,
+            "JavaScript" : 480632,
             "HTML" : 18183,
             "Objective_C" : 7338
           }
@@ -4218,11 +4218,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 404,
         "watchers"      : 37,
-        "size"          : 35284,
+        "size"          : 35288,
         "collaborators" : 30,
         "stars"         : 37,
         "forks"         : 42,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 84029,
           "C#" : 7673,
@@ -4231,7 +4231,7 @@
           "CSS" : 7216,
           "C" : 1364,
           "Batchfile" : 552,
-          "JavaScript" : 601352,
+          "JavaScript" : 601161,
           "Objective_C" : 7338,
           "HTML" : 18948,
           "Python" : 921
@@ -4453,21 +4453,21 @@
           "gitHubURL"     : "https://github.com/finos-voice/voice-metadata-standard",
           "heat"          : 38,
           "watchers"      : 1,
-          "size"          : 36,
+          "size"          : 38,
           "collaborators" : 4,
           "stars"         : 1,
           "forks"         : 4,
-          "openIssues"    : 8
+          "openIssues"    : 7
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 38,
         "watchers"      : 1,
-        "size"          : 36,
+        "size"          : 38,
         "collaborators" : 4,
         "stars"         : 1,
         "forks"         : 4,
-        "openIssues"    : 8
+        "openIssues"    : 7
       },
       "mailingLists"       : [
         {
