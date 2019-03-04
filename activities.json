@@ -114,12 +114,12 @@
           "name"          : "API",
           "description"   : "API Working Group repository",
           "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 249,
+          "heat"          : 244,
           "watchers"      : 6,
           "size"          : 344,
           "collaborators" : 43,
           "stars"         : 6,
-          "forks"         : 13,
+          "forks"         : 12,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 5888
@@ -127,12 +127,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 249,
+        "heat"          : 244,
         "watchers"      : 6,
         "size"          : 344,
         "collaborators" : 43,
         "stars"         : 6,
-        "forks"         : 13,
+        "forks"         : 12,
         "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 5888
@@ -286,13 +286,13 @@
           "name"          : "FDC3",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/FDC3",
-          "heat"          : 239,
-          "watchers"      : 9,
-          "size"          : 1134,
+          "heat"          : 241,
+          "watchers"      : 10,
+          "size"          : 1152,
           "collaborators" : 44,
-          "stars"         : 9,
+          "stars"         : 10,
           "forks"         : 9,
-          "openIssues"    : 9,
+          "openIssues"    : 8,
           "languages"     : {
             "TypeScript" : 7458,
             "HTML" : 892397,
@@ -314,13 +314,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 417,
-        "watchers"      : 12,
-        "size"          : 3348,
+        "heat"          : 419,
+        "watchers"      : 13,
+        "size"          : 3366,
         "collaborators" : 87,
-        "stars"         : 12,
+        "stars"         : 13,
         "forks"         : 9,
-        "openIssues"    : 9,
+        "openIssues"    : 8,
         "languages"     : {
           "TypeScript" : 7458,
           "HTML" : 892397,
@@ -541,6 +541,44 @@
       "type"                 : "WORKING_GROUP",
       "state"                : "PAUSED",
       "contributionDate"     : "2018-04-24"
+    },
+    {
+      "programName"          : "Financial Delivery Accelerator",
+      "programShortName"     : "FDX",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
+      "activityName"         : "Cloud Service Certification WG",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2019-02-26",
+      "gitHubRepos"          : [
+        {
+          "name"          : "cloud-service-certification",
+          "description"   : "Cloud Service Certification Working Group",
+          "gitHubURL"     : "https://github.com/finos-fdx/cloud-service-certification",
+          "heat"          : 16,
+          "watchers"      : 0,
+          "size"          : 7,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 16,
+        "watchers"      : 0,
+        "size"          : 7,
+        "collaborators" : 4,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      },
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "fdx-cloud-service-certification@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdx-cloud-service-certification"
+        }
+      ]
     },
     {
       "programName"          : "Financial Delivery Accelerator",
@@ -787,11 +825,11 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 522,
-          "watchers"      : 81,
+          "heat"          : 524,
+          "watchers"      : 82,
           "size"          : 2738,
           "collaborators" : 35,
-          "stars"         : 81,
+          "stars"         : 82,
           "forks"         : 44,
           "openIssues"    : 10,
           "languages"     : {
@@ -854,11 +892,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1099,
-        "watchers"      : 93,
+        "heat"          : 1101,
+        "watchers"      : 94,
         "size"          : 6117,
         "collaborators" : 142,
-        "stars"         : 93,
+        "stars"         : 94,
         "forks"         : 69,
         "openIssues"    : 14,
         "languages"     : {
@@ -991,34 +1029,34 @@
           "name"          : "notifications-service",
           "description"   : "Notifications Desktop Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
-          "heat"          : 178,
+          "heat"          : 188,
           "watchers"      : 7,
-          "size"          : 5940,
+          "size"          : 5942,
           "collaborators" : 36,
           "stars"         : 7,
-          "forks"         : 4,
-          "openIssues"    : 0,
+          "forks"         : 6,
+          "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 119494,
+            "TypeScript" : 123961,
             "CSS" : 28538,
-            "HTML" : 7121,
+            "HTML" : 7064,
             "Gherkin" : 120,
             "JavaScript" : 7105
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 178,
+        "heat"          : 188,
         "watchers"      : 7,
-        "size"          : 5940,
+        "size"          : 5942,
         "collaborators" : 36,
         "stars"         : 7,
-        "forks"         : 4,
-        "openIssues"    : 0,
+        "forks"         : 6,
+        "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 119494,
+          "TypeScript" : 123961,
           "CSS" : 28538,
-          "HTML" : 7121,
+          "HTML" : 7064,
           "Gherkin" : 120,
           "JavaScript" : 7105
         }
@@ -1121,11 +1159,11 @@
           "name"          : "plexus-interop",
           "description"   : "Plexus Interop open source project hosted by the Fintech Open Source Foundation",
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
-          "heat"          : 731,
-          "watchers"      : 242,
+          "heat"          : 729,
+          "watchers"      : 241,
           "size"          : 6349,
           "collaborators" : 8,
-          "stars"         : 242,
+          "stars"         : 241,
           "forks"         : 43,
           "openIssues"    : 0,
           "languages"     : {
@@ -1157,11 +1195,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 777,
-        "watchers"      : 243,
+        "heat"          : 775,
+        "watchers"      : 242,
         "size"          : 6569,
         "collaborators" : 14,
-        "stars"         : 243,
+        "stars"         : 242,
         "forks"         : 47,
         "openIssues"    : 0,
         "languages"     : {
@@ -2284,11 +2322,11 @@
           "name"          : "vote-bot",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/vote-bot",
-          "heat"          : 37,
-          "watchers"      : 3,
+          "heat"          : 39,
+          "watchers"      : 4,
           "size"          : 141,
           "collaborators" : 4,
-          "stars"         : 3,
+          "stars"         : 4,
           "forks"         : 3,
           "openIssues"    : 10,
           "languages"     : {
@@ -2298,11 +2336,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 37,
-        "watchers"      : 3,
+        "heat"          : 39,
+        "watchers"      : 4,
         "size"          : 141,
         "collaborators" : 4,
-        "stars"         : 3,
+        "stars"         : 4,
         "forks"         : 3,
         "openIssues"    : 10,
         "languages"     : {
@@ -2371,14 +2409,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 660,
+          "size"          : 702,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 487674,
-            "FreeMarker" : 133551,
+            "Java" : 494861,
+            "FreeMarker" : 136857,
             "JavaScript" : 13681
           }
         },
@@ -2388,27 +2426,27 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon-example",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 270,
+          "size"          : 280,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 49243
+            "Java" : 48097
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 42,
         "watchers"      : 0,
-        "size"          : 930,
+        "size"          : 982,
         "collaborators" : 8,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 536917,
-          "FreeMarker" : 133551,
+          "Java" : 542958,
+          "FreeMarker" : 136857,
           "JavaScript" : 13681
         }
       }
@@ -4135,7 +4173,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 296,
           "watchers"      : 33,
-          "size"          : 31455,
+          "size"          : 31458,
           "collaborators" : 10,
           "stars"         : 33,
           "forks"         : 38,
@@ -4144,7 +4182,7 @@
             "CSS" : 7216,
             "Shell" : 5890,
             "Batchfile" : 552,
-            "JavaScript" : 480632,
+            "JavaScript" : 481065,
             "HTML" : 18183,
             "Objective_C" : 7338
           }
@@ -4155,7 +4193,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/electron-utils",
           "heat"          : 25,
           "watchers"      : 2,
-          "size"          : 20,
+          "size"          : 17,
           "collaborators" : 4,
           "stars"         : 2,
           "forks"         : 1,
@@ -4170,7 +4208,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/electron-spellchecker",
           "heat"          : 24,
           "watchers"      : 0,
-          "size"          : 634,
+          "size"          : 633,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 0,
@@ -4186,7 +4224,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/node-ffi",
           "heat"          : 24,
           "watchers"      : 0,
-          "size"          : 3107,
+          "size"          : 3109,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 0,
@@ -4204,7 +4242,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 35,
           "watchers"      : 2,
-          "size"          : 72,
+          "size"          : 74,
           "collaborators" : 4,
           "stars"         : 2,
           "forks"         : 3,
@@ -4218,7 +4256,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 404,
         "watchers"      : 37,
-        "size"          : 35288,
+        "size"          : 35291,
         "collaborators" : 30,
         "stars"         : 37,
         "forks"         : 42,
@@ -4231,7 +4269,7 @@
           "CSS" : 7216,
           "C" : 1364,
           "Batchfile" : 552,
-          "JavaScript" : 601161,
+          "JavaScript" : 601594,
           "Objective_C" : 7338,
           "HTML" : 18948,
           "Python" : 921
