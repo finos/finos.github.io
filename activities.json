@@ -286,13 +286,13 @@
           "name"          : "FDC3",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/FDC3",
-          "heat"          : 248,
+          "heat"          : 258,
           "watchers"      : 11,
-          "size"          : 1189,
+          "size"          : 1190,
           "collaborators" : 44,
           "stars"         : 11,
-          "forks"         : 10,
-          "openIssues"    : 10,
+          "forks"         : 12,
+          "openIssues"    : 17,
           "languages"     : {
             "TypeScript" : 7458,
             "HTML" : 892397,
@@ -314,13 +314,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 426,
+        "heat"          : 436,
         "watchers"      : 14,
-        "size"          : 3403,
+        "size"          : 3404,
         "collaborators" : 87,
         "stars"         : 14,
-        "forks"         : 10,
-        "openIssues"    : 10,
+        "forks"         : 12,
+        "openIssues"    : 17,
         "languages"     : {
           "TypeScript" : 7458,
           "HTML" : 892397,
@@ -825,17 +825,17 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 526,
-          "watchers"      : 83,
-          "size"          : 2748,
+          "heat"          : 528,
+          "watchers"      : 84,
+          "size"          : 2751,
           "collaborators" : 35,
-          "stars"         : 83,
+          "stars"         : 84,
           "forks"         : 44,
           "openIssues"    : 11,
           "languages"     : {
-            "TypeScript" : 521751,
+            "TypeScript" : 521888,
             "HTML" : 11245,
-            "JavaScript" : 318767
+            "JavaScript" : 320040
           }
         },
         {
@@ -844,7 +844,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 283,
           "watchers"      : 12,
-          "size"          : 3156,
+          "size"          : 3150,
           "collaborators" : 36,
           "stars"         : 12,
           "forks"         : 23,
@@ -860,15 +860,15 @@
           "name"          : "fdc3-service",
           "description"   : "FDC3 Service for OpenFin",
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
-          "heat"          : 161,
+          "heat"          : 181,
           "watchers"      : 1,
-          "size"          : 177,
+          "size"          : 248,
           "collaborators" : 36,
           "stars"         : 1,
-          "forks"         : 3,
+          "forks"         : 7,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 104371,
+            "TypeScript" : 104513,
             "CSS" : 48222,
             "HTML" : 2388,
             "JavaScript" : 5052
@@ -892,18 +892,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1110,
-        "watchers"      : 96,
-        "size"          : 6131,
+        "heat"          : 1132,
+        "watchers"      : 97,
+        "size"          : 6199,
         "collaborators" : 142,
-        "stars"         : 96,
-        "forks"         : 70,
+        "stars"         : 97,
+        "forks"         : 74,
         "openIssues"    : 15,
         "languages"     : {
-          "TypeScript" : 1017673,
+          "TypeScript" : 1017952,
           "HTML" : 16486,
           "CSS" : 48222,
-          "JavaScript" : 339512,
+          "JavaScript" : 340785,
           "Python" : 2150
         }
       }
@@ -925,11 +925,11 @@
           "name"          : "symphony-of",
           "description"   : "OpenFin Sym Integration",
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
-          "heat"          : 282,
-          "watchers"      : 23,
+          "heat"          : 280,
+          "watchers"      : 22,
           "size"          : 14610,
           "collaborators" : 39,
-          "stars"         : 23,
+          "stars"         : 22,
           "forks"         : 16,
           "openIssues"    : 3,
           "languages"     : {
@@ -940,11 +940,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 282,
-        "watchers"      : 23,
+        "heat"          : 280,
+        "watchers"      : 22,
         "size"          : 14610,
         "collaborators" : 39,
-        "stars"         : 23,
+        "stars"         : 22,
         "forks"         : 16,
         "openIssues"    : 3,
         "languages"     : {
@@ -967,15 +967,15 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 249,
+          "heat"          : 254,
           "watchers"      : 10,
-          "size"          : 2784,
+          "size"          : 2847,
           "collaborators" : 36,
           "stars"         : 10,
-          "forks"         : 17,
-          "openIssues"    : 5,
+          "forks"         : 18,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 811514,
+            "TypeScript" : 813239,
             "HTML" : 42691,
             "CSS" : 21168,
             "JavaScript" : 41468
@@ -1001,15 +1001,15 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 403,
+        "heat"          : 408,
         "watchers"      : 10,
-        "size"          : 2875,
+        "size"          : 2938,
         "collaborators" : 72,
         "stars"         : 10,
-        "forks"         : 19,
-        "openIssues"    : 5,
+        "forks"         : 20,
+        "openIssues"    : 4,
         "languages"     : {
-          "TypeScript" : 827401,
+          "TypeScript" : 829126,
           "HTML" : 43984,
           "CSS" : 25757,
           "JavaScript" : 42994
@@ -1029,34 +1029,34 @@
           "name"          : "notifications-service",
           "description"   : "Notifications Desktop Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
-          "heat"          : 188,
+          "heat"          : 193,
           "watchers"      : 7,
-          "size"          : 5959,
+          "size"          : 6000,
           "collaborators" : 36,
           "stars"         : 7,
-          "forks"         : 6,
-          "openIssues"    : 1,
+          "forks"         : 7,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 125591,
+            "TypeScript" : 120400,
             "CSS" : 28538,
-            "HTML" : 7494,
-            "JavaScript" : 22492
+            "HTML" : 7192,
+            "JavaScript" : 21548
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 188,
+        "heat"          : 193,
         "watchers"      : 7,
-        "size"          : 5959,
+        "size"          : 6000,
         "collaborators" : 36,
         "stars"         : 7,
-        "forks"         : 6,
-        "openIssues"    : 1,
+        "forks"         : 7,
+        "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 125591,
+          "TypeScript" : 120400,
           "CSS" : 28538,
-          "HTML" : 7494,
-          "JavaScript" : 22492
+          "HTML" : 7192,
+          "JavaScript" : 21548
         }
       }
     },
@@ -1159,7 +1159,7 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 727,
           "watchers"      : 240,
-          "size"          : 6379,
+          "size"          : 6380,
           "collaborators" : 8,
           "stars"         : 240,
           "forks"         : 43,
@@ -1171,7 +1171,7 @@
             "Java" : 76361,
             "Shell" : 550,
             "CSS" : 555,
-            "Batchfile" : 11086,
+            "Batchfile" : 11091,
             "JavaScript" : 1032161,
             "HTML" : 13671
           }
@@ -1186,7 +1186,7 @@
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 4,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 21599
           }
@@ -1195,11 +1195,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 773,
         "watchers"      : 241,
-        "size"          : 6599,
+        "size"          : 6600,
         "collaborators" : 14,
         "stars"         : 241,
         "forks"         : 47,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 1172877,
           "C#" : 1575522,
@@ -1207,7 +1207,7 @@
           "Java" : 76361,
           "Shell" : 550,
           "CSS" : 555,
-          "Batchfile" : 11086,
+          "Batchfile" : 11091,
           "JavaScript" : 1032161,
           "HTML" : 13671
         }
@@ -2557,7 +2557,7 @@
           "collaborators" : 4,
           "stars"         : 4,
           "forks"         : 15,
-          "openIssues"    : 0
+          "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
@@ -2567,7 +2567,7 @@
         "collaborators" : 4,
         "stars"         : 4,
         "forks"         : 15,
-        "openIssues"    : 0
+        "openIssues"    : 1
       }
     },
     {
@@ -4175,7 +4175,7 @@
           "collaborators" : 10,
           "stars"         : 33,
           "forks"         : 38,
-          "openIssues"    : 1,
+          "openIssues"    : 4,
           "languages"     : {
             "CSS" : 7216,
             "Shell" : 5890,
@@ -4258,7 +4258,7 @@
         "collaborators" : 30,
         "stars"         : 37,
         "forks"         : 42,
-        "openIssues"    : 1,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 84029,
           "C#" : 7673,
@@ -4410,7 +4410,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 39,
           "watchers"      : 3,
-          "size"          : 159,
+          "size"          : 148,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 1,
@@ -4423,7 +4423,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 39,
         "watchers"      : 3,
-        "size"          : 159,
+        "size"          : 148,
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 1,
