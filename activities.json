@@ -292,7 +292,7 @@
           "collaborators" : 44,
           "stars"         : 11,
           "forks"         : 12,
-          "openIssues"    : 17,
+          "openIssues"    : 9,
           "languages"     : {
             "TypeScript" : 7458,
             "HTML" : 892397,
@@ -320,7 +320,7 @@
         "collaborators" : 87,
         "stars"         : 14,
         "forks"         : 12,
-        "openIssues"    : 17,
+        "openIssues"    : 9,
         "languages"     : {
           "TypeScript" : 7458,
           "HTML" : 892397,
@@ -401,7 +401,7 @@
           "collaborators" : 44,
           "stars"         : 1,
           "forks"         : 4,
-          "openIssues"    : 4
+          "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
@@ -411,7 +411,7 @@
         "collaborators" : 44,
         "stars"         : 1,
         "forks"         : 4,
-        "openIssues"    : 4
+        "openIssues"    : 0
       },
       "mailingLists"       : [
         {
@@ -825,13 +825,13 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 528,
+          "heat"          : 533,
           "watchers"      : 84,
-          "size"          : 2751,
+          "size"          : 2755,
           "collaborators" : 35,
           "stars"         : 84,
-          "forks"         : 44,
-          "openIssues"    : 11,
+          "forks"         : 45,
+          "openIssues"    : 12,
           "languages"     : {
             "TypeScript" : 521888,
             "HTML" : 11245,
@@ -844,7 +844,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 283,
           "watchers"      : 12,
-          "size"          : 3150,
+          "size"          : 3153,
           "collaborators" : 36,
           "stars"         : 12,
           "forks"         : 23,
@@ -860,13 +860,13 @@
           "name"          : "fdc3-service",
           "description"   : "FDC3 Service for OpenFin",
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
-          "heat"          : 181,
+          "heat"          : 185,
           "watchers"      : 1,
           "size"          : 248,
-          "collaborators" : 36,
+          "collaborators" : 37,
           "stars"         : 1,
           "forks"         : 7,
-          "openIssues"    : 0,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 104513,
             "CSS" : 48222,
@@ -892,13 +892,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1132,
+        "heat"          : 1141,
         "watchers"      : 97,
-        "size"          : 6199,
-        "collaborators" : 142,
+        "size"          : 6206,
+        "collaborators" : 143,
         "stars"         : 97,
-        "forks"         : 74,
-        "openIssues"    : 15,
+        "forks"         : 75,
+        "openIssues"    : 19,
         "languages"     : {
           "TypeScript" : 1017952,
           "HTML" : 16486,
@@ -925,10 +925,10 @@
           "name"          : "symphony-of",
           "description"   : "OpenFin Sym Integration",
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
-          "heat"          : 280,
+          "heat"          : 284,
           "watchers"      : 22,
           "size"          : 14610,
-          "collaborators" : 39,
+          "collaborators" : 40,
           "stars"         : 22,
           "forks"         : 16,
           "openIssues"    : 3,
@@ -940,10 +940,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 280,
+        "heat"          : 284,
         "watchers"      : 22,
         "size"          : 14610,
-        "collaborators" : 39,
+        "collaborators" : 40,
         "stars"         : 22,
         "forks"         : 16,
         "openIssues"    : 3,
@@ -967,28 +967,28 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 254,
+          "heat"          : 258,
           "watchers"      : 10,
-          "size"          : 2847,
-          "collaborators" : 36,
+          "size"          : 2816,
+          "collaborators" : 37,
           "stars"         : 10,
           "forks"         : 18,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 813239,
-            "HTML" : 42691,
+            "TypeScript" : 813845,
+            "HTML" : 43288,
             "CSS" : 21168,
-            "JavaScript" : 41468
+            "JavaScript" : 41498
           }
         },
         {
           "name"          : "layouts-tabstrip",
           "description"   : "Repository for the tabstrip used by default in the OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-tabstrip",
-          "heat"          : 154,
+          "heat"          : 158,
           "watchers"      : 0,
           "size"          : 91,
-          "collaborators" : 36,
+          "collaborators" : 37,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
@@ -1001,18 +1001,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 408,
+        "heat"          : 416,
         "watchers"      : 10,
-        "size"          : 2938,
-        "collaborators" : 72,
+        "size"          : 2907,
+        "collaborators" : 74,
         "stars"         : 10,
         "forks"         : 20,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
-          "TypeScript" : 829126,
-          "HTML" : 43984,
+          "TypeScript" : 829732,
+          "HTML" : 44581,
           "CSS" : 25757,
-          "JavaScript" : 42994
+          "JavaScript" : 43024
         }
       }
     },
@@ -1029,10 +1029,10 @@
           "name"          : "notifications-service",
           "description"   : "Notifications Desktop Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
-          "heat"          : 193,
+          "heat"          : 197,
           "watchers"      : 7,
           "size"          : 6000,
-          "collaborators" : 36,
+          "collaborators" : 37,
           "stars"         : 7,
           "forks"         : 7,
           "openIssues"    : 0,
@@ -1045,10 +1045,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 193,
+        "heat"          : 197,
         "watchers"      : 7,
         "size"          : 6000,
-        "collaborators" : 36,
+        "collaborators" : 37,
         "stars"         : 7,
         "forks"         : 7,
         "openIssues"    : 0,
@@ -2407,7 +2407,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 715,
+          "size"          : 732,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -2424,26 +2424,26 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon-example",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 280,
+          "size"          : 291,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 48097
+            "Java" : 48041
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 42,
         "watchers"      : 0,
-        "size"          : 995,
+        "size"          : 1023,
         "collaborators" : 8,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 543145,
+          "Java" : 543089,
           "FreeMarker" : 136920,
           "JavaScript" : 13681
         }
