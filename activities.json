@@ -866,7 +866,7 @@
           "collaborators" : 37,
           "stars"         : 1,
           "forks"         : 7,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 104513,
             "CSS" : 48222,
@@ -898,7 +898,7 @@
         "collaborators" : 143,
         "stars"         : 97,
         "forks"         : 75,
-        "openIssues"    : 19,
+        "openIssues"    : 18,
         "languages"     : {
           "TypeScript" : 1017952,
           "HTML" : 16486,
@@ -2894,11 +2894,11 @@
           "name"          : "ContainerJS",
           "description"   : "ContainerJS provides an abstraction layer over multiple HTML5 containers (OpenFin, Electron, Browser), that follows the Symphony Desktop APIs",
           "gitHubURL"     : "https://github.com/symphonyoss/ContainerJS",
-          "heat"          : 144,
-          "watchers"      : 27,
+          "heat"          : 146,
+          "watchers"      : 28,
           "size"          : 650,
           "collaborators" : 10,
-          "stars"         : 27,
+          "stars"         : 28,
           "forks"         : 10,
           "openIssues"    : 26,
           "languages"     : {
@@ -2912,11 +2912,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 144,
-        "watchers"      : 27,
+        "heat"          : 146,
+        "watchers"      : 28,
         "size"          : 650,
         "collaborators" : 10,
-        "stars"         : 27,
+        "stars"         : 28,
         "forks"         : 10,
         "openIssues"    : 26,
         "languages"     : {
@@ -4169,11 +4169,11 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 296,
-          "watchers"      : 33,
+          "heat"          : 298,
+          "watchers"      : 34,
           "size"          : 31465,
           "collaborators" : 10,
-          "stars"         : 33,
+          "stars"         : 34,
           "forks"         : 38,
           "openIssues"    : 4,
           "languages"     : {
@@ -4252,11 +4252,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 404,
-        "watchers"      : 37,
+        "heat"          : 406,
+        "watchers"      : 38,
         "size"          : 35298,
         "collaborators" : 30,
-        "stars"         : 37,
+        "stars"         : 38,
         "forks"         : 42,
         "openIssues"    : 4,
         "languages"     : {
