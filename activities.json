@@ -18,11 +18,11 @@
           "gitHubURL"     : "https://github.com/finos-data-tech/kdb",
           "heat"          : 28,
           "watchers"      : 5,
-          "size"          : 12,
+          "size"          : 17,
           "collaborators" : 2,
           "stars"         : 5,
           "forks"         : 2,
-          "openIssues"    : 2
+          "openIssues"    : 0
         },
         {
           "name"          : "finos-data-tech.github.io",
@@ -40,11 +40,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 42,
         "watchers"      : 6,
-        "size"          : 20,
+        "size"          : 25,
         "collaborators" : 5,
         "stars"         : 6,
         "forks"         : 2,
-        "openIssues"    : 2
+        "openIssues"    : 0
       }
     },
     {
@@ -286,18 +286,18 @@
           "name"          : "FDC3",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/FDC3",
-          "heat"          : 258,
+          "heat"          : 263,
           "watchers"      : 11,
-          "size"          : 1185,
+          "size"          : 1643,
           "collaborators" : 44,
           "stars"         : 11,
-          "forks"         : 12,
-          "openIssues"    : 12,
+          "forks"         : 13,
+          "openIssues"    : 13,
           "languages"     : {
             "TypeScript" : 7458,
             "HTML" : 892397,
             "CSS" : 414,
-            "JavaScript" : 17484
+            "JavaScript" : 20482
           }
         },
         {
@@ -314,18 +314,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 436,
+        "heat"          : 441,
         "watchers"      : 14,
-        "size"          : 3399,
+        "size"          : 3857,
         "collaborators" : 87,
         "stars"         : 14,
-        "forks"         : 12,
-        "openIssues"    : 12,
+        "forks"         : 13,
+        "openIssues"    : 13,
         "languages"     : {
           "TypeScript" : 7458,
           "HTML" : 892397,
           "CSS" : 414,
-          "JavaScript" : 17484
+          "JavaScript" : 20482
         }
       }
     },
@@ -442,7 +442,7 @@
           "gitHubURL"     : "https://github.com/finos-fdx/bot-github-chatops",
           "heat"          : 38,
           "watchers"      : 4,
-          "size"          : 413,
+          "size"          : 386,
           "collaborators" : 5,
           "stars"         : 4,
           "forks"         : 2,
@@ -457,7 +457,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 38,
         "watchers"      : 4,
-        "size"          : 413,
+        "size"          : 386,
         "collaborators" : 5,
         "stars"         : 4,
         "forks"         : 2,
@@ -827,7 +827,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 533,
           "watchers"      : 84,
-          "size"          : 2755,
+          "size"          : 2772,
           "collaborators" : 35,
           "stars"         : 84,
           "forks"         : 45,
@@ -844,11 +844,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 283,
           "watchers"      : 12,
-          "size"          : 3168,
+          "size"          : 3177,
           "collaborators" : 36,
           "stars"         : 12,
           "forks"         : 23,
-          "openIssues"    : 4,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 391551,
             "HTML" : 2364,
@@ -862,16 +862,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 185,
           "watchers"      : 1,
-          "size"          : 248,
+          "size"          : 256,
           "collaborators" : 37,
           "stars"         : 1,
           "forks"         : 7,
-          "openIssues"    : 2,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 104513,
+            "TypeScript" : 105898,
             "CSS" : 48222,
-            "HTML" : 2388,
-            "JavaScript" : 5052
+            "HTML" : 2656,
+            "JavaScript" : 20788
           }
         },
         {
@@ -894,16 +894,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1141,
         "watchers"      : 97,
-        "size"          : 6221,
+        "size"          : 6255,
         "collaborators" : 143,
         "stars"         : 97,
         "forks"         : 75,
         "openIssues"    : 18,
         "languages"     : {
-          "TypeScript" : 1017952,
-          "HTML" : 16486,
+          "TypeScript" : 1019337,
+          "HTML" : 16754,
           "CSS" : 48222,
-          "JavaScript" : 340785,
+          "JavaScript" : 356521,
           "Python" : 2150
         }
       }
@@ -1029,12 +1029,12 @@
           "name"          : "notifications-service",
           "description"   : "Notifications Desktop Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
-          "heat"          : 197,
+          "heat"          : 202,
           "watchers"      : 7,
           "size"          : 6000,
           "collaborators" : 37,
           "stars"         : 7,
-          "forks"         : 7,
+          "forks"         : 8,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 120400,
@@ -1045,12 +1045,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 197,
+        "heat"          : 202,
         "watchers"      : 7,
         "size"          : 6000,
         "collaborators" : 37,
         "stars"         : 7,
-        "forks"         : 7,
+        "forks"         : 8,
         "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 120400,
@@ -2407,13 +2407,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 732,
+          "size"          : 737,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 495048,
+            "Java" : 496296,
             "FreeMarker" : 136920,
             "JavaScript" : 13681
           }
@@ -2437,13 +2437,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 42,
         "watchers"      : 0,
-        "size"          : 1023,
+        "size"          : 1028,
         "collaborators" : 8,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 543089,
+          "Java" : 544337,
           "FreeMarker" : 136920,
           "JavaScript" : 13681
         }
@@ -2589,7 +2589,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/clj-symphony",
           "heat"          : 40,
           "watchers"      : 4,
-          "size"          : 236,
+          "size"          : 238,
           "collaborators" : 3,
           "stars"         : 4,
           "forks"         : 4,
@@ -2602,7 +2602,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 40,
         "watchers"      : 4,
-        "size"          : 236,
+        "size"          : 238,
         "collaborators" : 3,
         "stars"         : 4,
         "forks"         : 4,
@@ -4171,16 +4171,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 298,
           "watchers"      : 34,
-          "size"          : 31465,
+          "size"          : 31467,
           "collaborators" : 10,
           "stars"         : 34,
           "forks"         : 38,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "CSS" : 7216,
             "Shell" : 5890,
             "Batchfile" : 552,
-            "JavaScript" : 481065,
+            "JavaScript" : 481675,
             "HTML" : 18183,
             "Objective_C" : 7338
           }
@@ -4254,11 +4254,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 406,
         "watchers"      : 38,
-        "size"          : 35298,
+        "size"          : 35300,
         "collaborators" : 30,
         "stars"         : 38,
         "forks"         : 42,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "TypeScript" : 84029,
           "C#" : 7673,
@@ -4267,7 +4267,7 @@
           "CSS" : 7216,
           "C" : 1364,
           "Batchfile" : 552,
-          "JavaScript" : 601594,
+          "JavaScript" : 602204,
           "Objective_C" : 7338,
           "HTML" : 18948,
           "Python" : 921
@@ -4410,11 +4410,11 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 39,
           "watchers"      : 3,
-          "size"          : 148,
+          "size"          : 164,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 1,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "Python" : 61236
           }
@@ -4423,11 +4423,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 39,
         "watchers"      : 3,
-        "size"          : 148,
+        "size"          : 164,
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 1,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "Python" : 61236
         }
