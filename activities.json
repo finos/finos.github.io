@@ -4,6 +4,41 @@
       "programName"          : "Data Technologies",
       "programShortName"     : "Data Tech",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/DT/overview",
+      "activityName"         : "Digital Rights Management Working Group",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2019-03-12",
+      "tags"                 : [
+        "digital-rights-management"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "digital-rights-management",
+          "description"   : "digital-rights-management",
+          "gitHubURL"     : "https://github.com/finos-data-tech/digital-rights-management",
+          "heat"          : 8,
+          "watchers"      : 0,
+          "size"          : 0,
+          "collaborators" : 2,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 8,
+        "watchers"      : 0,
+        "size"          : 0,
+        "collaborators" : 2,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0
+      }
+    },
+    {
+      "programName"          : "Data Technologies",
+      "programShortName"     : "Data Tech",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/DT/overview",
       "activityName"         : "kdb+ Working Group",
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
@@ -55,6 +90,62 @@
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
       "contributionDate"     : "2018-11-05"
+    },
+    {
+      "programName"          : "Data Analytics Visualization",
+      "programShortName"     : "DAV",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/DAV/overview",
+      "activityName"         : "Perspective",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2019-03-12",
+      "gitHubRepos"          : [
+        {
+          "name"          : "perspective",
+          "description"   : "Streaming pivot visualization via WebAssembly",
+          "gitHubURL"     : "https://github.com/finos-data-vis/perspective",
+          "heat"          : 4,
+          "watchers"      : 0,
+          "size"          : 11565,
+          "collaborators" : 1,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "TypeScript" : 17537,
+            "Dockerfile" : 4869,
+            "C++" : 969677,
+            "CSS" : 54409,
+            "C" : 3505,
+            "CMake" : 25834,
+            "JavaScript" : 494824,
+            "HTML" : 19224,
+            "Jupyter Notebook" : 4054,
+            "Python" : 13265
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 4,
+        "watchers"      : 0,
+        "size"          : 11565,
+        "collaborators" : 1,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 0,
+        "languages"     : {
+          "TypeScript" : 17537,
+          "Dockerfile" : 4869,
+          "C++" : 969677,
+          "CSS" : 54409,
+          "C" : 3505,
+          "CMake" : 25834,
+          "JavaScript" : 494824,
+          "HTML" : 19224,
+          "Jupyter Notebook" : 4054,
+          "Python" : 13265
+        }
+      }
     },
     {
       "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
@@ -288,16 +379,16 @@
           "gitHubURL"     : "https://github.com/FDC3/FDC3",
           "heat"          : 263,
           "watchers"      : 11,
-          "size"          : 1643,
+          "size"          : 1983,
           "collaborators" : 44,
           "stars"         : 11,
           "forks"         : 13,
-          "openIssues"    : 13,
+          "openIssues"    : 10,
           "languages"     : {
             "TypeScript" : 7458,
             "HTML" : 892397,
-            "CSS" : 414,
-            "JavaScript" : 20482
+            "CSS" : 460,
+            "JavaScript" : 21145
           }
         },
         {
@@ -316,16 +407,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 441,
         "watchers"      : 14,
-        "size"          : 3857,
+        "size"          : 4197,
         "collaborators" : 87,
         "stars"         : 14,
         "forks"         : 13,
-        "openIssues"    : 13,
+        "openIssues"    : 10,
         "languages"     : {
           "TypeScript" : 7458,
           "HTML" : 892397,
-          "CSS" : 414,
-          "JavaScript" : 20482
+          "CSS" : 460,
+          "JavaScript" : 21145
         }
       }
     },
@@ -473,6 +564,46 @@
       "programName"          : "Financial Delivery Accelerator",
       "programShortName"     : "FDX",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
+      "activityName"         : "CLA Bot",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2019-02-22",
+      "gitHubRepos"          : [
+        {
+          "name"          : "cla-bot",
+          "description"   : "cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).",
+          "gitHubURL"     : "https://github.com/finos-fdx/cla-bot",
+          "heat"          : 108,
+          "watchers"      : 24,
+          "size"          : 925,
+          "collaborators" : 5,
+          "stars"         : 24,
+          "forks"         : 8,
+          "openIssues"    : 15,
+          "languages"     : {
+            "Shell" : 145,
+            "JavaScript" : 46244
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 108,
+        "watchers"      : 24,
+        "size"          : 925,
+        "collaborators" : 5,
+        "stars"         : 24,
+        "forks"         : 8,
+        "openIssues"    : 15,
+        "languages"     : {
+          "Shell" : 145,
+          "JavaScript" : 46244
+        }
+      }
+    },
+    {
+      "programName"          : "Financial Delivery Accelerator",
+      "programShortName"     : "FDX",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
       "activityName"         : "FINOS Dev Toolchain",
       "type"                 : "PROJECT",
       "state"                : "INCUBATING",
@@ -555,21 +686,21 @@
           "name"          : "cloud-service-certification",
           "description"   : "Cloud Service Certification Working Group",
           "gitHubURL"     : "https://github.com/finos-fdx/cloud-service-certification",
-          "heat"          : 16,
-          "watchers"      : 0,
+          "heat"          : 18,
+          "watchers"      : 1,
           "size"          : 7,
           "collaborators" : 4,
-          "stars"         : 0,
+          "stars"         : 1,
           "forks"         : 0,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 16,
-        "watchers"      : 0,
+        "heat"          : 18,
+        "watchers"      : 1,
         "size"          : 7,
         "collaborators" : 4,
-        "stars"         : 0,
+        "stars"         : 1,
         "forks"         : 0,
         "openIssues"    : 0
       },
@@ -652,13 +783,13 @@
           "name"          : "finos-fo",
           "description"   : "FINOS Financial Objects Program Documentation",
           "gitHubURL"     : "https://github.com/finos-fo/finos-fo",
-          "heat"          : 17,
+          "heat"          : 22,
           "watchers"      : 2,
           "size"          : 691,
           "collaborators" : 2,
           "stars"         : 2,
-          "forks"         : 1,
-          "openIssues"    : 0,
+          "forks"         : 2,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 7131,
             "Shell" : 2410,
@@ -668,13 +799,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 26,
+        "heat"          : 31,
         "watchers"      : 2,
         "size"          : 695,
         "collaborators" : 3,
         "stars"         : 2,
-        "forks"         : 2,
-        "openIssues"    : 0,
+        "forks"         : 3,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 7131,
           "Shell" : 2410,
@@ -825,13 +956,13 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 533,
-          "watchers"      : 84,
-          "size"          : 2772,
+          "heat"          : 540,
+          "watchers"      : 85,
+          "size"          : 2781,
           "collaborators" : 35,
-          "stars"         : 84,
-          "forks"         : 45,
-          "openIssues"    : 12,
+          "stars"         : 85,
+          "forks"         : 46,
+          "openIssues"    : 13,
           "languages"     : {
             "TypeScript" : 521888,
             "HTML" : 11245,
@@ -848,7 +979,7 @@
           "collaborators" : 36,
           "stars"         : 12,
           "forks"         : 23,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 391551,
             "HTML" : 2364,
@@ -866,7 +997,7 @@
           "collaborators" : 37,
           "stars"         : 1,
           "forks"         : 7,
-          "openIssues"    : 0,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 105898,
             "CSS" : 48222,
@@ -892,13 +1023,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1141,
-        "watchers"      : 97,
-        "size"          : 6255,
+        "heat"          : 1148,
+        "watchers"      : 98,
+        "size"          : 6264,
         "collaborators" : 143,
-        "stars"         : 97,
-        "forks"         : 75,
-        "openIssues"    : 18,
+        "stars"         : 98,
+        "forks"         : 76,
+        "openIssues"    : 22,
         "languages"     : {
           "TypeScript" : 1019337,
           "HTML" : 16754,
@@ -969,13 +1100,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 258,
           "watchers"      : 10,
-          "size"          : 2816,
+          "size"          : 2817,
           "collaborators" : 37,
           "stars"         : 10,
           "forks"         : 18,
           "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 813845,
+            "TypeScript" : 813844,
             "HTML" : 43288,
             "CSS" : 21168,
             "JavaScript" : 41498
@@ -1003,13 +1134,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 416,
         "watchers"      : 10,
-        "size"          : 2907,
+        "size"          : 2908,
         "collaborators" : 74,
         "stars"         : 10,
         "forks"         : 20,
         "openIssues"    : 5,
         "languages"     : {
-          "TypeScript" : 829732,
+          "TypeScript" : 829731,
           "HTML" : 44581,
           "CSS" : 25757,
           "JavaScript" : 43024
@@ -1163,7 +1294,7 @@
           "collaborators" : 8,
           "stars"         : 240,
           "forks"         : 43,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 1151278,
             "C#" : 1575522,
@@ -1199,7 +1330,7 @@
         "collaborators" : 14,
         "stars"         : 241,
         "forks"         : 47,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 1172877,
           "C#" : 1575522,
@@ -3309,13 +3440,13 @@
           "name"          : "App-Integrations-Core",
           "description"   : "Core components for Symphony App Integrations.",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Core",
-          "heat"          : 96,
+          "heat"          : 105,
           "watchers"      : 4,
           "size"          : 12223,
-          "collaborators" : 12,
+          "collaborators" : 13,
           "stars"         : 4,
-          "forks"         : 8,
-          "openIssues"    : 0,
+          "forks"         : 9,
+          "openIssues"    : 1,
           "languages"     : {
             "Java" : 1171089,
             "Shell" : 1870,
@@ -3355,13 +3486,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 288,
+        "heat"          : 297,
         "watchers"      : 8,
         "size"          : 55652,
-        "collaborators" : 43,
+        "collaborators" : 44,
         "stars"         : 8,
-        "forks"         : 20,
-        "openIssues"    : 5,
+        "forks"         : 21,
+        "openIssues"    : 6,
         "languages"     : {
           "Java" : 1901248,
           "Shell" : 1870,
@@ -4169,18 +4300,18 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 298,
-          "watchers"      : 34,
-          "size"          : 31467,
+          "heat"          : 302,
+          "watchers"      : 36,
+          "size"          : 31485,
           "collaborators" : 10,
-          "stars"         : 34,
+          "stars"         : 36,
           "forks"         : 38,
-          "openIssues"    : 5,
+          "openIssues"    : 3,
           "languages"     : {
             "CSS" : 7216,
             "Shell" : 5890,
             "Batchfile" : 552,
-            "JavaScript" : 481675,
+            "JavaScript" : 481173,
             "HTML" : 18183,
             "Objective_C" : 7338
           }
@@ -4222,7 +4353,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/node-ffi",
           "heat"          : 24,
           "watchers"      : 0,
-          "size"          : 3109,
+          "size"          : 3116,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 0,
@@ -4252,13 +4383,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 406,
-        "watchers"      : 38,
-        "size"          : 35300,
+        "heat"          : 410,
+        "watchers"      : 40,
+        "size"          : 35325,
         "collaborators" : 30,
-        "stars"         : 38,
+        "stars"         : 40,
         "forks"         : 42,
-        "openIssues"    : 5,
+        "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 84029,
           "C#" : 7673,
@@ -4267,7 +4398,7 @@
           "CSS" : 7216,
           "C" : 1364,
           "Batchfile" : 552,
-          "JavaScript" : 602204,
+          "JavaScript" : 601702,
           "Objective_C" : 7338,
           "HTML" : 18948,
           "Python" : 921
@@ -4408,26 +4539,26 @@
           "name"          : "greenkey-discovery-sdk",
           "description"   : "Speed up business workflows through creating custom 'voice skills' and text interpreters",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
-          "heat"          : 39,
-          "watchers"      : 3,
-          "size"          : 164,
+          "heat"          : 37,
+          "watchers"      : 2,
+          "size"          : 161,
           "collaborators" : 7,
-          "stars"         : 3,
+          "stars"         : 2,
           "forks"         : 1,
-          "openIssues"    : 5,
+          "openIssues"    : 4,
           "languages"     : {
             "Python" : 61236
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 39,
-        "watchers"      : 3,
-        "size"          : 164,
+        "heat"          : 37,
+        "watchers"      : 2,
+        "size"          : 161,
         "collaborators" : 7,
-        "stars"         : 3,
+        "stars"         : 2,
         "forks"         : 1,
-        "openIssues"    : 5,
+        "openIssues"    : 4,
         "languages"     : {
           "Python" : 61236
         }
@@ -4493,7 +4624,7 @@
           "collaborators" : 4,
           "stars"         : 2,
           "forks"         : 4,
-          "openIssues"    : 7
+          "openIssues"    : 9
         }
       ],
       "cumulativeGitHubStats" : {
@@ -4503,7 +4634,7 @@
         "collaborators" : 4,
         "stars"         : 2,
         "forks"         : 4,
-        "openIssues"    : 7
+        "openIssues"    : 9
       },
       "mailingLists"       : [
         {
@@ -4526,6 +4657,7 @@
     "desktop",
     "desktop technology",
     "developer productivity",
+    "digital-rights-management",
     "documentation",
     "esco",
     "example",
