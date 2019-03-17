@@ -579,7 +579,7 @@
           "collaborators" : 5,
           "stars"         : 24,
           "forks"         : 8,
-          "openIssues"    : 14,
+          "openIssues"    : 15,
           "languages"     : {
             "Shell" : 145,
             "JavaScript" : 46244
@@ -593,7 +593,7 @@
         "collaborators" : 5,
         "stars"         : 24,
         "forks"         : 8,
-        "openIssues"    : 14,
+        "openIssues"    : 15,
         "languages"     : {
           "Shell" : 145,
           "JavaScript" : 46244
@@ -1104,7 +1104,7 @@
           "collaborators" : 37,
           "stars"         : 10,
           "forks"         : 18,
-          "openIssues"    : 5,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 815219,
             "HTML" : 43366,
@@ -1138,7 +1138,7 @@
         "collaborators" : 74,
         "stars"         : 10,
         "forks"         : 20,
-        "openIssues"    : 5,
+        "openIssues"    : 6,
         "languages"     : {
           "TypeScript" : 831106,
           "HTML" : 44659,
@@ -2684,7 +2684,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
           "heat"          : 103,
           "watchers"      : 4,
-          "size"          : 254,
+          "size"          : 256,
           "collaborators" : 5,
           "stars"         : 4,
           "forks"         : 15,
@@ -2694,7 +2694,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 103,
         "watchers"      : 4,
-        "size"          : 254,
+        "size"          : 256,
         "collaborators" : 5,
         "stars"         : 4,
         "forks"         : 15,
@@ -4306,7 +4306,7 @@
           "collaborators" : 10,
           "stars"         : 36,
           "forks"         : 38,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "CSS" : 7216,
             "Shell" : 5890,
@@ -4389,7 +4389,7 @@
         "collaborators" : 30,
         "stars"         : 40,
         "forks"         : 42,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 84029,
           "C#" : 7673,
