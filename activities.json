@@ -917,15 +917,15 @@
           "name"          : "js-adapter",
           "description"   : "Hadouken Node Adapter",
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
-          "heat"          : 285,
-          "watchers"      : 13,
-          "size"          : 3179,
+          "heat"          : 283,
+          "watchers"      : 12,
+          "size"          : 3180,
           "collaborators" : 36,
-          "stars"         : 13,
+          "stars"         : 12,
           "forks"         : 23,
-          "openIssues"    : 5,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 391545,
+            "TypeScript" : 391553,
             "HTML" : 2364,
             "JavaScript" : 11378,
             "Python" : 2150
@@ -941,7 +941,7 @@
           "collaborators" : 37,
           "stars"         : 1,
           "forks"         : 7,
-          "openIssues"    : 5,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 105898,
             "CSS" : 48222,
@@ -967,15 +967,15 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1150,
-        "watchers"      : 99,
-        "size"          : 6265,
+        "heat"          : 1148,
+        "watchers"      : 98,
+        "size"          : 6266,
         "collaborators" : 143,
-        "stars"         : 99,
+        "stars"         : 98,
         "forks"         : 76,
         "openIssues"    : 23,
         "languages"     : {
-          "TypeScript" : 1020201,
+          "TypeScript" : 1020209,
           "HTML" : 16754,
           "CSS" : 48222,
           "JavaScript" : 356732,
@@ -1048,7 +1048,7 @@
           "collaborators" : 37,
           "stars"         : 10,
           "forks"         : 18,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 815219,
             "HTML" : 43366,
@@ -1082,7 +1082,7 @@
         "collaborators" : 74,
         "stars"         : 10,
         "forks"         : 20,
-        "openIssues"    : 6,
+        "openIssues"    : 7,
         "languages"     : {
           "TypeScript" : 831106,
           "HTML" : 44659,
@@ -1110,7 +1110,7 @@
           "collaborators" : 37,
           "stars"         : 7,
           "forks"         : 8,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 120400,
             "CSS" : 28538,
@@ -1126,7 +1126,7 @@
         "collaborators" : 37,
         "stars"         : 7,
         "forks"         : 8,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 120400,
           "CSS" : 28538,
@@ -2628,21 +2628,21 @@
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
           "heat"          : 103,
           "watchers"      : 4,
-          "size"          : 256,
+          "size"          : 257,
           "collaborators" : 5,
           "stars"         : 4,
           "forks"         : 15,
-          "openIssues"    : 1
+          "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 103,
         "watchers"      : 4,
-        "size"          : 256,
+        "size"          : 257,
         "collaborators" : 5,
         "stars"         : 4,
         "forks"         : 15,
-        "openIssues"    : 1
+        "openIssues"    : 0
       }
     },
     {
