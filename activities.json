@@ -92,62 +92,6 @@
       "contributionDate"     : "2018-11-05"
     },
     {
-      "programName"          : "Data Analytics Visualization",
-      "programShortName"     : "DAV",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/DAV/overview",
-      "activityName"         : "Perspective",
-      "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
-      "contributionDate"     : "2019-03-12",
-      "gitHubRepos"          : [
-        {
-          "name"          : "perspective",
-          "description"   : "Streaming pivot visualization via WebAssembly",
-          "gitHubURL"     : "https://github.com/finos-data-vis/perspective",
-          "heat"          : 4,
-          "watchers"      : 0,
-          "size"          : 11565,
-          "collaborators" : 1,
-          "stars"         : 0,
-          "forks"         : 0,
-          "openIssues"    : 0,
-          "languages"     : {
-            "TypeScript" : 17537,
-            "Dockerfile" : 4869,
-            "C++" : 969677,
-            "CSS" : 54409,
-            "C" : 3505,
-            "CMake" : 25834,
-            "JavaScript" : 494824,
-            "HTML" : 19224,
-            "Jupyter Notebook" : 4054,
-            "Python" : 13265
-          }
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 4,
-        "watchers"      : 0,
-        "size"          : 11565,
-        "collaborators" : 1,
-        "stars"         : 0,
-        "forks"         : 0,
-        "openIssues"    : 0,
-        "languages"     : {
-          "TypeScript" : 17537,
-          "Dockerfile" : 4869,
-          "C++" : 969677,
-          "CSS" : 54409,
-          "C" : 3505,
-          "CMake" : 25834,
-          "JavaScript" : 494824,
-          "HTML" : 19224,
-          "Jupyter Notebook" : 4054,
-          "Python" : 13265
-        }
-      }
-    },
-    {
       "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
       "programShortName"     : "FDC3",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
@@ -958,15 +902,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 540,
           "watchers"      : 85,
-          "size"          : 2769,
+          "size"          : 2780,
           "collaborators" : 35,
           "stars"         : 85,
           "forks"         : 46,
-          "openIssues"    : 14,
+          "openIssues"    : 13,
           "languages"     : {
-            "TypeScript" : 521888,
+            "TypeScript" : 522758,
             "HTML" : 11245,
-            "JavaScript" : 320040
+            "JavaScript" : 320251
           }
         },
         {
@@ -1025,16 +969,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1150,
         "watchers"      : 99,
-        "size"          : 6254,
+        "size"          : 6265,
         "collaborators" : 143,
         "stars"         : 99,
         "forks"         : 76,
-        "openIssues"    : 23,
+        "openIssues"    : 22,
         "languages"     : {
-          "TypeScript" : 1019331,
+          "TypeScript" : 1020201,
           "HTML" : 16754,
           "CSS" : 48222,
-          "JavaScript" : 356521,
+          "JavaScript" : 356732,
           "Python" : 2150
         }
       }
@@ -4246,48 +4190,6 @@
       "programName"          : "Symphony",
       "programShortName"     : "Symphony",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
-      "activityName"         : "Screen Snippet Library",
-      "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
-      "contributionDate"     : "2017-04-20",
-      "tags"                 : [
-        "desktop technology",
-        "library"
-      ],
-      "gitHubRepos"          : [
-        {
-          "name"          : "ScreenSnippet",
-          "description"   : "Screen snippet utility for Windows.",
-          "gitHubURL"     : "https://github.com/symphonyoss/ScreenSnippet",
-          "heat"          : 60,
-          "watchers"      : 0,
-          "size"          : 85,
-          "collaborators" : 5,
-          "stars"         : 0,
-          "forks"         : 8,
-          "openIssues"    : 0,
-          "languages"     : {
-            "C#" : 18229
-          }
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 60,
-        "watchers"      : 0,
-        "size"          : 85,
-        "collaborators" : 5,
-        "stars"         : 0,
-        "forks"         : 8,
-        "openIssues"    : 0,
-        "languages"     : {
-          "C#" : 18229
-        }
-      }
-    },
-    {
-      "programName"          : "Symphony",
-      "programShortName"     : "Symphony",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "Symphony Electron",
       "type"                 : "PROJECT",
       "state"                : "INCUBATING",
@@ -4300,12 +4202,12 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 302,
+          "heat"          : 307,
           "watchers"      : 36,
           "size"          : 31500,
           "collaborators" : 10,
           "stars"         : 36,
-          "forks"         : 38,
+          "forks"         : 39,
           "openIssues"    : 3,
           "languages"     : {
             "CSS" : 7216,
@@ -4366,6 +4268,21 @@
           }
         },
         {
+          "name"          : "ScreenSnippet",
+          "description"   : "Screen snippet utility for Windows.",
+          "gitHubURL"     : "https://github.com/symphonyoss/ScreenSnippet",
+          "heat"          : 60,
+          "watchers"      : 0,
+          "size"          : 85,
+          "collaborators" : 5,
+          "stars"         : 0,
+          "forks"         : 8,
+          "openIssues"    : 0,
+          "languages"     : {
+            "C#" : 18229
+          }
+        },
+        {
           "name"          : "SwiftSearch",
           "description"   : "SwiftSearch is a plugin for SymphonyElectron",
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
@@ -4375,7 +4292,7 @@
           "collaborators" : 4,
           "stars"         : 2,
           "forks"         : 3,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 84029,
             "JavaScript" : 385
@@ -4383,16 +4300,16 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 410,
+        "heat"          : 475,
         "watchers"      : 40,
-        "size"          : 35340,
-        "collaborators" : 30,
+        "size"          : 35425,
+        "collaborators" : 35,
         "stars"         : 40,
-        "forks"         : 42,
-        "openIssues"    : 3,
+        "forks"         : 51,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 84029,
-          "C#" : 7673,
+          "C#" : 25902,
           "Shell" : 5890,
           "C++" : 35850,
           "CSS" : 7216,
