@@ -16,20 +16,20 @@
           "name"          : "digital-rights-management",
           "description"   : "digital-rights-management",
           "gitHubURL"     : "https://github.com/finos-data-tech/digital-rights-management",
-          "heat"          : 8,
+          "heat"          : 12,
           "watchers"      : 0,
           "size"          : 0,
-          "collaborators" : 2,
+          "collaborators" : 3,
           "stars"         : 0,
           "forks"         : 0,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 8,
+        "heat"          : 12,
         "watchers"      : 0,
         "size"          : 0,
-        "collaborators" : 2,
+        "collaborators" : 3,
         "stars"         : 0,
         "forks"         : 0,
         "openIssues"    : 0
@@ -906,7 +906,7 @@
           "collaborators" : 35,
           "stars"         : 85,
           "forks"         : 46,
-          "openIssues"    : 13,
+          "openIssues"    : 14,
           "languages"     : {
             "TypeScript" : 522758,
             "HTML" : 11245,
@@ -937,16 +937,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 185,
           "watchers"      : 1,
-          "size"          : 256,
+          "size"          : 417,
           "collaborators" : 37,
           "stars"         : 1,
           "forks"         : 7,
           "openIssues"    : 6,
           "languages"     : {
-            "TypeScript" : 105898,
+            "TypeScript" : 84744,
             "CSS" : 48222,
             "HTML" : 2656,
-            "JavaScript" : 20788
+            "JavaScript" : 20744
           }
         },
         {
@@ -969,16 +969,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1148,
         "watchers"      : 98,
-        "size"          : 6266,
+        "size"          : 6427,
         "collaborators" : 143,
         "stars"         : 98,
         "forks"         : 76,
-        "openIssues"    : 23,
+        "openIssues"    : 24,
         "languages"     : {
-          "TypeScript" : 1020209,
+          "TypeScript" : 999055,
           "HTML" : 16754,
           "CSS" : 48222,
-          "JavaScript" : 356732,
+          "JavaScript" : 356688,
           "Python" : 2150
         }
       }
@@ -1044,16 +1044,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 258,
           "watchers"      : 10,
-          "size"          : 2821,
+          "size"          : 2849,
           "collaborators" : 37,
           "stars"         : 10,
           "forks"         : 18,
-          "openIssues"    : 7,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 815219,
-            "HTML" : 43366,
-            "CSS" : 21331,
-            "JavaScript" : 41498
+            "TypeScript" : 838800,
+            "HTML" : 45407,
+            "CSS" : 22224,
+            "JavaScript" : 41857
           }
         },
         {
@@ -1078,16 +1078,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 416,
         "watchers"      : 10,
-        "size"          : 2912,
+        "size"          : 2940,
         "collaborators" : 74,
         "stars"         : 10,
         "forks"         : 20,
-        "openIssues"    : 7,
+        "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 831106,
-          "HTML" : 44659,
-          "CSS" : 25920,
-          "JavaScript" : 43024
+          "TypeScript" : 854687,
+          "HTML" : 46700,
+          "CSS" : 26813,
+          "JavaScript" : 43383
         }
       }
     },
@@ -1234,14 +1234,14 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 727,
           "watchers"      : 240,
-          "size"          : 6380,
+          "size"          : 6413,
           "collaborators" : 8,
           "stars"         : 240,
           "forks"         : 43,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 1151278,
-            "C#" : 1575522,
+            "TypeScript" : 1151542,
+            "C#" : 1579781,
             "Xtend" : 220468,
             "Java" : 76361,
             "Shell" : 550,
@@ -1270,14 +1270,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 773,
         "watchers"      : 241,
-        "size"          : 6600,
+        "size"          : 6633,
         "collaborators" : 14,
         "stars"         : 241,
         "forks"         : 47,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 1172877,
-          "C#" : 1575522,
+          "TypeScript" : 1173141,
+          "C#" : 1579781,
           "Xtend" : 220468,
           "Java" : 76361,
           "Shell" : 550,
@@ -4204,16 +4204,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 312,
           "watchers"      : 36,
-          "size"          : 31500,
+          "size"          : 31512,
           "collaborators" : 10,
           "stars"         : 36,
           "forks"         : 40,
           "openIssues"    : 4,
           "languages"     : {
-            "CSS" : 7216,
+            "CSS" : 8720,
             "Shell" : 5890,
             "Batchfile" : 552,
-            "JavaScript" : 481325,
+            "JavaScript" : 492123,
             "HTML" : 18183,
             "Objective_C" : 7338
           }
@@ -4222,10 +4222,10 @@
           "name"          : "electron-utils",
           "description"   : "Utils for SymphonyElectron",
           "gitHubURL"     : "https://github.com/symphonyoss/electron-utils",
-          "heat"          : 25,
+          "heat"          : 29,
           "watchers"      : 2,
           "size"          : 17,
-          "collaborators" : 4,
+          "collaborators" : 5,
           "stars"         : 2,
           "forks"         : 1,
           "openIssues"    : 0,
@@ -4286,13 +4286,13 @@
           "name"          : "SwiftSearch",
           "description"   : "SwiftSearch is a plugin for SymphonyElectron",
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
-          "heat"          : 35,
+          "heat"          : 39,
           "watchers"      : 2,
-          "size"          : 74,
-          "collaborators" : 4,
+          "size"          : 80,
+          "collaborators" : 5,
           "stars"         : 2,
           "forks"         : 3,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 84029,
             "JavaScript" : 385
@@ -4300,22 +4300,22 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 480,
+        "heat"          : 488,
         "watchers"      : 40,
-        "size"          : 35425,
-        "collaborators" : 35,
+        "size"          : 35443,
+        "collaborators" : 37,
         "stars"         : 40,
         "forks"         : 52,
-        "openIssues"    : 5,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 84029,
           "C#" : 25902,
           "Shell" : 5890,
           "C++" : 35850,
-          "CSS" : 7216,
+          "CSS" : 8720,
           "C" : 1364,
           "Batchfile" : 552,
-          "JavaScript" : 601854,
+          "JavaScript" : 612652,
           "Objective_C" : 7338,
           "HTML" : 18948,
           "Python" : 921
@@ -4537,21 +4537,21 @@
           "gitHubURL"     : "https://github.com/finos-voice/voice-metadata-standard",
           "heat"          : 42,
           "watchers"      : 3,
-          "size"          : 44,
+          "size"          : 45,
           "collaborators" : 4,
           "stars"         : 3,
           "forks"         : 4,
-          "openIssues"    : 8
+          "openIssues"    : 7
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 42,
         "watchers"      : 3,
-        "size"          : 44,
+        "size"          : 45,
         "collaborators" : 4,
         "stars"         : 3,
         "forks"         : 4,
-        "openIssues"    : 8
+        "openIssues"    : 7
       },
       "mailingLists"       : [
         {
