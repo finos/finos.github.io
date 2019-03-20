@@ -902,11 +902,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 540,
           "watchers"      : 85,
-          "size"          : 2780,
+          "size"          : 2789,
           "collaborators" : 35,
           "stars"         : 85,
           "forks"         : 46,
-          "openIssues"    : 14,
+          "openIssues"    : 15,
           "languages"     : {
             "TypeScript" : 522758,
             "HTML" : 11245,
@@ -919,7 +919,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 283,
           "watchers"      : 12,
-          "size"          : 3180,
+          "size"          : 3181,
           "collaborators" : 36,
           "stars"         : 12,
           "forks"         : 23,
@@ -937,16 +937,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 185,
           "watchers"      : 1,
-          "size"          : 417,
+          "size"          : 434,
           "collaborators" : 37,
           "stars"         : 1,
           "forks"         : 7,
-          "openIssues"    : 6,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 84744,
+            "TypeScript" : 98400,
             "CSS" : 48222,
             "HTML" : 2656,
-            "JavaScript" : 20744
+            "JavaScript" : 20826
           }
         },
         {
@@ -969,16 +969,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1148,
         "watchers"      : 98,
-        "size"          : 6427,
+        "size"          : 6454,
         "collaborators" : 143,
         "stars"         : 98,
         "forks"         : 76,
-        "openIssues"    : 24,
+        "openIssues"    : 23,
         "languages"     : {
-          "TypeScript" : 999055,
+          "TypeScript" : 1012711,
           "HTML" : 16754,
           "CSS" : 48222,
-          "JavaScript" : 356688,
+          "JavaScript" : 356770,
           "Python" : 2150
         }
       }
@@ -3193,7 +3193,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1640,
+          "size"          : 1645,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
@@ -3239,7 +3239,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1902,
+        "size"          : 1907,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
@@ -4166,7 +4166,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-super-pom",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 42,
+          "size"          : 46,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
@@ -4176,7 +4176,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 64,
         "watchers"      : 0,
-        "size"          : 515,
+        "size"          : 519,
         "collaborators" : 11,
         "stars"         : 0,
         "forks"         : 4,
@@ -4204,16 +4204,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 312,
           "watchers"      : 36,
-          "size"          : 31512,
+          "size"          : 31518,
           "collaborators" : 10,
           "stars"         : 36,
           "forks"         : 40,
-          "openIssues"    : 4,
+          "openIssues"    : 2,
           "languages"     : {
             "CSS" : 8720,
             "Shell" : 5890,
             "Batchfile" : 552,
-            "JavaScript" : 492123,
+            "JavaScript" : 491932,
             "HTML" : 18183,
             "Objective_C" : 7338
           }
@@ -4302,11 +4302,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 488,
         "watchers"      : 40,
-        "size"          : 35443,
+        "size"          : 35449,
         "collaborators" : 37,
         "stars"         : 40,
         "forks"         : 52,
-        "openIssues"    : 4,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 84029,
           "C#" : 25902,
@@ -4315,7 +4315,7 @@
           "CSS" : 8720,
           "C" : 1364,
           "Batchfile" : 552,
-          "JavaScript" : 612652,
+          "JavaScript" : 612461,
           "Objective_C" : 7338,
           "HTML" : 18948,
           "Python" : 921
@@ -4458,11 +4458,11 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 37,
           "watchers"      : 2,
-          "size"          : 149,
+          "size"          : 135,
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 1,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "Python" : 62915
           }
@@ -4471,11 +4471,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 37,
         "watchers"      : 2,
-        "size"          : 149,
+        "size"          : 135,
         "collaborators" : 7,
         "stars"         : 2,
         "forks"         : 1,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "Python" : 62915
         }
