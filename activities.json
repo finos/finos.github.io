@@ -919,13 +919,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 283,
           "watchers"      : 12,
-          "size"          : 3181,
+          "size"          : 3200,
           "collaborators" : 36,
           "stars"         : 12,
           "forks"         : 23,
-          "openIssues"    : 4,
+          "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 391553,
+            "TypeScript" : 391719,
             "HTML" : 2364,
             "JavaScript" : 11378,
             "Python" : 2150
@@ -969,13 +969,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1148,
         "watchers"      : 98,
-        "size"          : 6454,
+        "size"          : 6473,
         "collaborators" : 143,
         "stars"         : 98,
         "forks"         : 76,
-        "openIssues"    : 23,
+        "openIssues"    : 21,
         "languages"     : {
-          "TypeScript" : 1012711,
+          "TypeScript" : 1012877,
           "HTML" : 16754,
           "CSS" : 48222,
           "JavaScript" : 356770,
@@ -1042,15 +1042,15 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 258,
+          "heat"          : 263,
           "watchers"      : 10,
-          "size"          : 2849,
+          "size"          : 2911,
           "collaborators" : 37,
           "stars"         : 10,
-          "forks"         : 18,
-          "openIssues"    : 3,
+          "forks"         : 19,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 838800,
+            "TypeScript" : 838821,
             "HTML" : 45407,
             "CSS" : 22224,
             "JavaScript" : 41857
@@ -1076,15 +1076,15 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 416,
+        "heat"          : 421,
         "watchers"      : 10,
-        "size"          : 2940,
+        "size"          : 3002,
         "collaborators" : 74,
         "stars"         : 10,
-        "forks"         : 20,
-        "openIssues"    : 3,
+        "forks"         : 21,
+        "openIssues"    : 4,
         "languages"     : {
-          "TypeScript" : 854687,
+          "TypeScript" : 854708,
           "HTML" : 46700,
           "CSS" : 26813,
           "JavaScript" : 43383
@@ -1106,7 +1106,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 202,
           "watchers"      : 7,
-          "size"          : 6000,
+          "size"          : 6009,
           "collaborators" : 37,
           "stars"         : 7,
           "forks"         : 8,
@@ -1122,7 +1122,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 202,
         "watchers"      : 7,
-        "size"          : 6000,
+        "size"          : 6009,
         "collaborators" : 37,
         "stars"         : 7,
         "forks"         : 8,
@@ -1168,6 +1168,52 @@
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 1
+      }
+    },
+    {
+      "programName"          : "Open Source Readiness",
+      "programShortName"     : "OSR",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/OSR/overview",
+      "activityName"         : "OSLC Handbook",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2019-03-21",
+      "tags"                 : [
+        "handbook",
+        "oslc"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "OSLC-handbook",
+          "description"   : "A data store and handbook of practical information about complying with the most common open source licenses.",
+          "gitHubURL"     : "https://github.com/finos-osr/OSLC-handbook",
+          "heat"          : 95,
+          "watchers"      : 29,
+          "size"          : 488,
+          "collaborators" : 3,
+          "stars"         : 29,
+          "forks"         : 5,
+          "openIssues"    : 7,
+          "languages"     : {
+            "HTML" : 232059,
+            "CSS" : 80487,
+            "Python" : 7813
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 95,
+        "watchers"      : 29,
+        "size"          : 488,
+        "collaborators" : 3,
+        "stars"         : 29,
+        "forks"         : 5,
+        "openIssues"    : 7,
+        "languages"     : {
+          "HTML" : 232059,
+          "CSS" : 80487,
+          "Python" : 7813
+        }
       }
     },
     {
@@ -3890,26 +3936,26 @@
           "name"          : "messageml-utils",
           "description"   : "MessageML parser",
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
-          "heat"          : 99,
+          "heat"          : 104,
           "watchers"      : 3,
           "size"          : 371,
           "collaborators" : 7,
           "stars"         : 3,
-          "forks"         : 13,
-          "openIssues"    : 2,
+          "forks"         : 14,
+          "openIssues"    : 3,
           "languages"     : {
             "Java" : 603678
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 99,
+        "heat"          : 104,
         "watchers"      : 3,
         "size"          : 371,
         "collaborators" : 7,
         "stars"         : 3,
-        "forks"         : 13,
-        "openIssues"    : 2,
+        "forks"         : 14,
+        "openIssues"    : 3,
         "languages"     : {
           "Java" : 603678
         }
@@ -4204,7 +4250,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 312,
           "watchers"      : 36,
-          "size"          : 31518,
+          "size"          : 31524,
           "collaborators" : 10,
           "stars"         : 36,
           "forks"         : 40,
@@ -4302,7 +4348,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 488,
         "watchers"      : 40,
-        "size"          : 35449,
+        "size"          : 35455,
         "collaborators" : 37,
         "stars"         : 40,
         "forks"         : 52,
@@ -4581,6 +4627,7 @@
     "extension api",
     "github",
     "google",
+    "handbook",
     "hubot",
     "hubspot",
     "integration",
@@ -4591,6 +4638,7 @@
     "library",
     "nlp/ml",
     "node.js",
+    "oslc",
     "policy",
     "pull requests",
     "reference",
