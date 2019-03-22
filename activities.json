@@ -16,21 +16,21 @@
           "name"          : "digital-rights-management",
           "description"   : "digital-rights-management",
           "gitHubURL"     : "https://github.com/finos-data-tech/digital-rights-management",
-          "heat"          : 12,
-          "watchers"      : 0,
+          "heat"          : 14,
+          "watchers"      : 1,
           "size"          : 0,
           "collaborators" : 3,
-          "stars"         : 0,
+          "stars"         : 1,
           "forks"         : 0,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 12,
-        "watchers"      : 0,
+        "heat"          : 14,
+        "watchers"      : 1,
         "size"          : 0,
         "collaborators" : 3,
-        "stars"         : 0,
+        "stars"         : 1,
         "forks"         : 0,
         "openIssues"    : 0
       }
@@ -57,7 +57,7 @@
           "collaborators" : 2,
           "stars"         : 5,
           "forks"         : 2,
-          "openIssues"    : 0
+          "openIssues"    : 1
         },
         {
           "name"          : "finos-data-tech.github.io",
@@ -79,7 +79,7 @@
         "collaborators" : 5,
         "stars"         : 6,
         "forks"         : 2,
-        "openIssues"    : 0
+        "openIssues"    : 1
       }
     },
     {
@@ -147,15 +147,15 @@
       "gitHubRepos"          : [
         {
           "name"          : "API",
-          "description"   : "API Working Group repository",
+          "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/api",
           "heat"          : 244,
           "watchers"      : 6,
-          "size"          : 344,
+          "size"          : 339,
           "collaborators" : 43,
           "stars"         : 6,
           "forks"         : 12,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 5888
           }
@@ -164,11 +164,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 244,
         "watchers"      : 6,
-        "size"          : 344,
+        "size"          : 339,
         "collaborators" : 43,
         "stars"         : 6,
         "forks"         : 12,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 5888
         }
@@ -275,11 +275,11 @@
       "gitHubRepos"          : [
         {
           "name"          : "ContextData",
-          "description"   : "Context data object specifications, schemas, and examples",
+          "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/ContextData",
           "heat"          : 232,
           "watchers"      : 5,
-          "size"          : 117,
+          "size"          : 119,
           "collaborators" : 43,
           "stars"         : 5,
           "forks"         : 10,
@@ -292,7 +292,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 232,
         "watchers"      : 5,
-        "size"          : 117,
+        "size"          : 119,
         "collaborators" : 43,
         "stars"         : 5,
         "forks"         : 10,
@@ -323,11 +323,11 @@
           "gitHubURL"     : "https://github.com/FDC3/FDC3",
           "heat"          : 268,
           "watchers"      : 11,
-          "size"          : 2001,
+          "size"          : 1340,
           "collaborators" : 44,
           "stars"         : 11,
           "forks"         : 14,
-          "openIssues"    : 13,
+          "openIssues"    : 12,
           "languages"     : {
             "TypeScript" : 7458,
             "HTML" : 892397,
@@ -351,11 +351,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 446,
         "watchers"      : 14,
-        "size"          : 4215,
+        "size"          : 3554,
         "collaborators" : 87,
         "stars"         : 14,
         "forks"         : 14,
-        "openIssues"    : 13,
+        "openIssues"    : 12,
         "languages"     : {
           "TypeScript" : 7458,
           "HTML" : 892397,
@@ -375,14 +375,14 @@
       "gitHubRepos"          : [
         {
           "name"          : "Intents",
-          "description"   : "FDC3 Intents specifications, schemas, and examples",
+          "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/Intents",
-          "heat"          : 210,
+          "heat"          : 215,
           "watchers"      : 4,
           "size"          : 18,
           "collaborators" : 43,
           "stars"         : 4,
-          "forks"         : 6,
+          "forks"         : 7,
           "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 892
@@ -390,12 +390,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 210,
+        "heat"          : 215,
         "watchers"      : 4,
         "size"          : 18,
         "collaborators" : 43,
         "stars"         : 4,
-        "forks"         : 6,
+        "forks"         : 7,
         "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 892
@@ -519,7 +519,7 @@
           "gitHubURL"     : "https://github.com/finos-fdx/cla-bot",
           "heat"          : 108,
           "watchers"      : 24,
-          "size"          : 925,
+          "size"          : 928,
           "collaborators" : 5,
           "stars"         : 24,
           "forks"         : 8,
@@ -533,7 +533,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 108,
         "watchers"      : 24,
-        "size"          : 925,
+        "size"          : 928,
         "collaborators" : 5,
         "stars"         : 24,
         "forks"         : 8,
@@ -902,11 +902,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 540,
           "watchers"      : 85,
-          "size"          : 2789,
+          "size"          : 2810,
           "collaborators" : 35,
           "stars"         : 85,
           "forks"         : 46,
-          "openIssues"    : 15,
+          "openIssues"    : 14,
           "languages"     : {
             "TypeScript" : 522758,
             "HTML" : 11245,
@@ -923,9 +923,9 @@
           "collaborators" : 36,
           "stars"         : 12,
           "forks"         : 23,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 391719,
+            "TypeScript" : 392292,
             "HTML" : 2364,
             "JavaScript" : 11378,
             "Python" : 2150
@@ -937,13 +937,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 185,
           "watchers"      : 1,
-          "size"          : 434,
+          "size"          : 452,
           "collaborators" : 37,
           "stars"         : 1,
           "forks"         : 7,
           "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 98400,
+            "TypeScript" : 98536,
             "CSS" : 48222,
             "HTML" : 2656,
             "JavaScript" : 20826
@@ -969,13 +969,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1148,
         "watchers"      : 98,
-        "size"          : 6473,
+        "size"          : 6512,
         "collaborators" : 143,
         "stars"         : 98,
         "forks"         : 76,
-        "openIssues"    : 21,
+        "openIssues"    : 19,
         "languages"     : {
-          "TypeScript" : 1012877,
+          "TypeScript" : 1013586,
           "HTML" : 16754,
           "CSS" : 48222,
           "JavaScript" : 356770,
@@ -1044,16 +1044,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 263,
           "watchers"      : 10,
-          "size"          : 2911,
+          "size"          : 2913,
           "collaborators" : 37,
           "stars"         : 10,
           "forks"         : 19,
-          "openIssues"    : 4,
+          "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 838821,
+            "TypeScript" : 839401,
             "HTML" : 45407,
             "CSS" : 22224,
-            "JavaScript" : 41857
+            "JavaScript" : 23123
           }
         },
         {
@@ -1078,16 +1078,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 421,
         "watchers"      : 10,
-        "size"          : 3002,
+        "size"          : 3004,
         "collaborators" : 74,
         "stars"         : 10,
         "forks"         : 21,
-        "openIssues"    : 4,
+        "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 854708,
+          "TypeScript" : 855288,
           "HTML" : 46700,
           "CSS" : 26813,
-          "JavaScript" : 43383
+          "JavaScript" : 24649
         }
       }
     },
@@ -3239,7 +3239,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1645,
+          "size"          : 1653,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
@@ -3285,7 +3285,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1907,
+        "size"          : 1915,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
@@ -3942,7 +3942,7 @@
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 14,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "Java" : 603678
           }
@@ -3955,7 +3955,7 @@
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 14,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "Java" : 603678
         }
@@ -4250,11 +4250,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 312,
           "watchers"      : 36,
-          "size"          : 31524,
+          "size"          : 31526,
           "collaborators" : 10,
           "stars"         : 36,
           "forks"         : 40,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "CSS" : 8720,
             "Shell" : 5890,
@@ -4348,11 +4348,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 488,
         "watchers"      : 40,
-        "size"          : 35455,
+        "size"          : 35457,
         "collaborators" : 37,
         "stars"         : 40,
         "forks"         : 52,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 84029,
           "C#" : 25902,
@@ -4504,11 +4504,11 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 37,
           "watchers"      : 2,
-          "size"          : 135,
+          "size"          : 141,
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 1,
-          "openIssues"    : 4,
+          "openIssues"    : 1,
           "languages"     : {
             "Python" : 62915
           }
@@ -4517,11 +4517,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 37,
         "watchers"      : 2,
-        "size"          : 135,
+        "size"          : 141,
         "collaborators" : 7,
         "stars"         : 2,
         "forks"         : 1,
-        "openIssues"    : 4,
+        "openIssues"    : 1,
         "languages"     : {
           "Python" : 62915
         }
