@@ -149,12 +149,12 @@
           "name"          : "API",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 244,
+          "heat"          : 239,
           "watchers"      : 6,
-          "size"          : 339,
+          "size"          : 333,
           "collaborators" : 43,
           "stars"         : 6,
-          "forks"         : 12,
+          "forks"         : 11,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 5888
@@ -162,12 +162,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 244,
+        "heat"          : 239,
         "watchers"      : 6,
-        "size"          : 339,
+        "size"          : 333,
         "collaborators" : 43,
         "stars"         : 6,
-        "forks"         : 12,
+        "forks"         : 11,
         "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 5888
@@ -222,12 +222,12 @@
           "name"          : "appd-api",
           "description"   : "Application Directory Specification and API - THIS IS NOT A RATIFIED FDC3 API or SPECIFICATION, but rather work in-progress",
           "gitHubURL"     : "https://github.com/FDC3/appd-api",
-          "heat"          : 202,
+          "heat"          : 197,
           "watchers"      : 0,
-          "size"          : 741,
+          "size"          : 671,
           "collaborators" : 43,
           "stars"         : 0,
-          "forks"         : 6,
+          "forks"         : 5,
           "openIssues"    : 0
         },
         {
@@ -244,12 +244,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 753,
+        "heat"          : 748,
         "watchers"      : 3,
-        "size"          : 850,
+        "size"          : 780,
         "collaborators" : 173,
         "stars"         : 3,
-        "forks"         : 11,
+        "forks"         : 10,
         "openIssues"    : 0,
         "languages"     : {
           "Java" : 90084,
@@ -277,12 +277,12 @@
           "name"          : "ContextData",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/ContextData",
-          "heat"          : 232,
+          "heat"          : 227,
           "watchers"      : 5,
           "size"          : 119,
           "collaborators" : 43,
           "stars"         : 5,
-          "forks"         : 10,
+          "forks"         : 9,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 1886
@@ -290,12 +290,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 232,
+        "heat"          : 227,
         "watchers"      : 5,
         "size"          : 119,
         "collaborators" : 43,
         "stars"         : 5,
-        "forks"         : 10,
+        "forks"         : 9,
         "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 1886
@@ -323,11 +323,11 @@
           "gitHubURL"     : "https://github.com/FDC3/FDC3",
           "heat"          : 268,
           "watchers"      : 11,
-          "size"          : 1340,
+          "size"          : 1350,
           "collaborators" : 44,
           "stars"         : 11,
           "forks"         : 14,
-          "openIssues"    : 8,
+          "openIssues"    : 9,
           "languages"     : {
             "TypeScript" : 7458,
             "HTML" : 892397,
@@ -351,11 +351,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 446,
         "watchers"      : 14,
-        "size"          : 3554,
+        "size"          : 3564,
         "collaborators" : 87,
         "stars"         : 14,
         "forks"         : 14,
-        "openIssues"    : 8,
+        "openIssues"    : 9,
         "languages"     : {
           "TypeScript" : 7458,
           "HTML" : 892397,
@@ -377,12 +377,12 @@
           "name"          : "Intents",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/Intents",
-          "heat"          : 215,
+          "heat"          : 210,
           "watchers"      : 4,
           "size"          : 18,
           "collaborators" : 43,
           "stars"         : 4,
-          "forks"         : 7,
+          "forks"         : 6,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 892
@@ -390,12 +390,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 215,
+        "heat"          : 210,
         "watchers"      : 4,
         "size"          : 18,
         "collaborators" : 43,
         "stars"         : 4,
-        "forks"         : 7,
+        "forks"         : 6,
         "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 892
@@ -432,7 +432,7 @@
           "gitHubURL"     : "https://github.com/FDC3/use-cases",
           "heat"          : 198,
           "watchers"      : 1,
-          "size"          : 192,
+          "size"          : 158,
           "collaborators" : 44,
           "stars"         : 1,
           "forks"         : 4,
@@ -442,7 +442,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 198,
         "watchers"      : 1,
-        "size"          : 192,
+        "size"          : 158,
         "collaborators" : 44,
         "stars"         : 1,
         "forks"         : 4,
@@ -919,7 +919,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 283,
           "watchers"      : 12,
-          "size"          : 3200,
+          "size"          : 3199,
           "collaborators" : 36,
           "stars"         : 12,
           "forks"         : 23,
@@ -937,16 +937,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 185,
           "watchers"      : 1,
-          "size"          : 452,
+          "size"          : 485,
           "collaborators" : 37,
           "stars"         : 1,
           "forks"         : 7,
           "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 98536,
+            "TypeScript" : 113786,
             "CSS" : 48222,
-            "HTML" : 2656,
-            "JavaScript" : 20826
+            "HTML" : 2777,
+            "JavaScript" : 23864
           }
         },
         {
@@ -969,16 +969,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1148,
         "watchers"      : 98,
-        "size"          : 6512,
+        "size"          : 6544,
         "collaborators" : 143,
         "stars"         : 98,
         "forks"         : 76,
         "openIssues"    : 19,
         "languages"     : {
-          "TypeScript" : 1013586,
-          "HTML" : 16754,
+          "TypeScript" : 1028836,
+          "HTML" : 16875,
           "CSS" : 48222,
-          "JavaScript" : 356770,
+          "JavaScript" : 359808,
           "Python" : 2150
         }
       }
@@ -1042,13 +1042,13 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 265,
+          "heat"          : 270,
           "watchers"      : 11,
-          "size"          : 2913,
+          "size"          : 2926,
           "collaborators" : 37,
           "stars"         : 11,
-          "forks"         : 19,
-          "openIssues"    : 2,
+          "forks"         : 20,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 839401,
             "HTML" : 45407,
@@ -1076,13 +1076,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 423,
+        "heat"          : 428,
         "watchers"      : 11,
-        "size"          : 3004,
+        "size"          : 3017,
         "collaborators" : 74,
         "stars"         : 11,
-        "forks"         : 21,
-        "openIssues"    : 2,
+        "forks"         : 22,
+        "openIssues"    : 6,
         "languages"     : {
           "TypeScript" : 855288,
           "HTML" : 46700,
@@ -1280,19 +1280,19 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 729,
           "watchers"      : 241,
-          "size"          : 6413,
+          "size"          : 6596,
           "collaborators" : 8,
           "stars"         : 241,
           "forks"         : 43,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 1151542,
-            "C#" : 1579781,
+            "C#" : 1718565,
             "Xtend" : 220468,
             "Java" : 76361,
             "Shell" : 550,
             "CSS" : 555,
-            "Batchfile" : 11091,
+            "Batchfile" : 10839,
             "JavaScript" : 1032161,
             "HTML" : 13671
           }
@@ -1316,19 +1316,19 @@
       "cumulativeGitHubStats" : {
         "heat"          : 775,
         "watchers"      : 242,
-        "size"          : 6633,
+        "size"          : 6816,
         "collaborators" : 14,
         "stars"         : 242,
         "forks"         : 47,
         "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 1173141,
-          "C#" : 1579781,
+          "C#" : 1718565,
           "Xtend" : 220468,
           "Java" : 76361,
           "Shell" : 550,
           "CSS" : 555,
-          "Batchfile" : 11091,
+          "Batchfile" : 10839,
           "JavaScript" : 1032161,
           "HTML" : 13671
         }
@@ -4250,11 +4250,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 312,
           "watchers"      : 36,
-          "size"          : 31526,
+          "size"          : 31536,
           "collaborators" : 10,
           "stars"         : 36,
           "forks"         : 40,
-          "openIssues"    : 4,
+          "openIssues"    : 2,
           "languages"     : {
             "CSS" : 8720,
             "Shell" : 5890,
@@ -4348,11 +4348,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 488,
         "watchers"      : 40,
-        "size"          : 35457,
+        "size"          : 35467,
         "collaborators" : 37,
         "stars"         : 40,
         "forks"         : 52,
-        "openIssues"    : 4,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 84029,
           "C#" : 25902,
