@@ -16,22 +16,22 @@
           "name"          : "digital-rights-management",
           "description"   : "digital-rights-management",
           "gitHubURL"     : "https://github.com/finos-data-tech/digital-rights-management",
-          "heat"          : 14,
+          "heat"          : 19,
           "watchers"      : 1,
-          "size"          : 0,
+          "size"          : 10,
           "collaborators" : 3,
           "stars"         : 1,
-          "forks"         : 0,
+          "forks"         : 1,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 14,
+        "heat"          : 19,
         "watchers"      : 1,
-        "size"          : 0,
+        "size"          : 10,
         "collaborators" : 3,
         "stars"         : 1,
-        "forks"         : 0,
+        "forks"         : 1,
         "openIssues"    : 0
       }
     },
@@ -323,16 +323,16 @@
           "gitHubURL"     : "https://github.com/FDC3/FDC3",
           "heat"          : 268,
           "watchers"      : 11,
-          "size"          : 1350,
+          "size"          : 1605,
           "collaborators" : 44,
           "stars"         : 11,
           "forks"         : 14,
-          "openIssues"    : 9,
+          "openIssues"    : 10,
           "languages"     : {
             "TypeScript" : 7458,
             "HTML" : 892397,
-            "CSS" : 460,
-            "JavaScript" : 21145
+            "CSS" : 868,
+            "JavaScript" : 21551
           }
         },
         {
@@ -351,16 +351,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 446,
         "watchers"      : 14,
-        "size"          : 3564,
+        "size"          : 3819,
         "collaborators" : 87,
         "stars"         : 14,
         "forks"         : 14,
-        "openIssues"    : 9,
+        "openIssues"    : 10,
         "languages"     : {
           "TypeScript" : 7458,
           "HTML" : 892397,
-          "CSS" : 460,
-          "JavaScript" : 21145
+          "CSS" : 868,
+          "JavaScript" : 21551
         }
       }
     },
@@ -902,11 +902,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 540,
           "watchers"      : 85,
-          "size"          : 2810,
+          "size"          : 2801,
           "collaborators" : 35,
           "stars"         : 85,
           "forks"         : 46,
-          "openIssues"    : 14,
+          "openIssues"    : 16,
           "languages"     : {
             "TypeScript" : 522758,
             "HTML" : 11245,
@@ -923,7 +923,7 @@
           "collaborators" : 36,
           "stars"         : 12,
           "forks"         : 23,
-          "openIssues"    : 1,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 392292,
             "HTML" : 2364,
@@ -941,7 +941,7 @@
           "collaborators" : 37,
           "stars"         : 1,
           "forks"         : 7,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 113786,
             "CSS" : 48222,
@@ -969,11 +969,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1148,
         "watchers"      : 98,
-        "size"          : 6544,
+        "size"          : 6535,
         "collaborators" : 143,
         "stars"         : 98,
         "forks"         : 76,
-        "openIssues"    : 19,
+        "openIssues"    : 24,
         "languages"     : {
           "TypeScript" : 1028836,
           "HTML" : 16875,
@@ -1278,10 +1278,10 @@
           "name"          : "plexus-interop",
           "description"   : "Plexus Interop open source project hosted by the Fintech Open Source Foundation",
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
-          "heat"          : 729,
+          "heat"          : 733,
           "watchers"      : 241,
           "size"          : 6596,
-          "collaborators" : 8,
+          "collaborators" : 9,
           "stars"         : 241,
           "forks"         : 43,
           "openIssues"    : 0,
@@ -1314,10 +1314,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 775,
+        "heat"          : 779,
         "watchers"      : 242,
         "size"          : 6816,
-        "collaborators" : 14,
+        "collaborators" : 15,
         "stars"         : 242,
         "forks"         : 47,
         "openIssues"    : 1,
@@ -2842,7 +2842,7 @@
           "collaborators" : 7,
           "stars"         : 35,
           "forks"         : 30,
-          "openIssues"    : 10,
+          "openIssues"    : 11,
           "languages"     : {
             "Java" : 695383,
             "Shell" : 1987
@@ -2887,7 +2887,7 @@
         "collaborators" : 16,
         "stars"         : 59,
         "forks"         : 48,
-        "openIssues"    : 14,
+        "openIssues"    : 15,
         "languages"     : {
           "Java" : 718953,
           "Shell" : 4382
@@ -3239,7 +3239,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1653,
+          "size"          : 1701,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
@@ -3285,7 +3285,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1915,
+        "size"          : 1963,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
@@ -4248,13 +4248,13 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 312,
+          "heat"          : 317,
           "watchers"      : 36,
           "size"          : 31536,
           "collaborators" : 10,
           "stars"         : 36,
-          "forks"         : 40,
-          "openIssues"    : 2,
+          "forks"         : 41,
+          "openIssues"    : 6,
           "languages"     : {
             "CSS" : 8720,
             "Shell" : 5890,
@@ -4346,13 +4346,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 488,
+        "heat"          : 493,
         "watchers"      : 40,
         "size"          : 35467,
         "collaborators" : 37,
         "stars"         : 40,
-        "forks"         : 52,
-        "openIssues"    : 2,
+        "forks"         : 53,
+        "openIssues"    : 6,
         "languages"     : {
           "TypeScript" : 84029,
           "C#" : 25902,
@@ -4508,7 +4508,7 @@
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 1,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "Python" : 62915
           }
@@ -4521,7 +4521,7 @@
         "collaborators" : 7,
         "stars"         : 2,
         "forks"         : 1,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "Python" : 62915
         }
@@ -4587,7 +4587,7 @@
           "collaborators" : 4,
           "stars"         : 3,
           "forks"         : 4,
-          "openIssues"    : 9
+          "openIssues"    : 8
         }
       ],
       "cumulativeGitHubStats" : {
@@ -4597,7 +4597,7 @@
         "collaborators" : 4,
         "stars"         : 3,
         "forks"         : 4,
-        "openIssues"    : 9
+        "openIssues"    : 8
       },
       "mailingLists"       : [
         {
