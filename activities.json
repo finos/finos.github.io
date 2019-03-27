@@ -323,7 +323,7 @@
           "gitHubURL"     : "https://github.com/FDC3/FDC3",
           "heat"          : 268,
           "watchers"      : 11,
-          "size"          : 1605,
+          "size"          : 1601,
           "collaborators" : 44,
           "stars"         : 11,
           "forks"         : 14,
@@ -332,7 +332,7 @@
             "TypeScript" : 7458,
             "HTML" : 892397,
             "CSS" : 868,
-            "JavaScript" : 21551
+            "JavaScript" : 21632
           }
         },
         {
@@ -351,7 +351,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 446,
         "watchers"      : 14,
-        "size"          : 3819,
+        "size"          : 3815,
         "collaborators" : 87,
         "stars"         : 14,
         "forks"         : 14,
@@ -360,7 +360,7 @@
           "TypeScript" : 7458,
           "HTML" : 892397,
           "CSS" : 868,
-          "JavaScript" : 21551
+          "JavaScript" : 21632
         }
       }
     },
@@ -523,7 +523,7 @@
           "collaborators" : 5,
           "stars"         : 24,
           "forks"         : 8,
-          "openIssues"    : 15,
+          "openIssues"    : 16,
           "languages"     : {
             "Shell" : 145,
             "JavaScript" : 46244
@@ -537,7 +537,7 @@
         "collaborators" : 5,
         "stars"         : 24,
         "forks"         : 8,
-        "openIssues"    : 15,
+        "openIssues"    : 16,
         "languages"     : {
           "Shell" : 145,
           "JavaScript" : 46244
@@ -902,15 +902,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 540,
           "watchers"      : 85,
-          "size"          : 2801,
+          "size"          : 2870,
           "collaborators" : 35,
           "stars"         : 85,
           "forks"         : 46,
-          "openIssues"    : 16,
+          "openIssues"    : 13,
           "languages"     : {
-            "TypeScript" : 522758,
+            "TypeScript" : 522731,
             "HTML" : 11245,
-            "JavaScript" : 320251
+            "JavaScript" : 320867
           }
         },
         {
@@ -969,16 +969,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1148,
         "watchers"      : 98,
-        "size"          : 6535,
+        "size"          : 6604,
         "collaborators" : 143,
         "stars"         : 98,
         "forks"         : 76,
-        "openIssues"    : 24,
+        "openIssues"    : 21,
         "languages"     : {
-          "TypeScript" : 1028836,
+          "TypeScript" : 1028809,
           "HTML" : 16875,
           "CSS" : 48222,
-          "JavaScript" : 359808,
+          "JavaScript" : 360424,
           "Python" : 2150
         }
       }
@@ -1048,7 +1048,7 @@
           "collaborators" : 37,
           "stars"         : 11,
           "forks"         : 20,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 839401,
             "HTML" : 45407,
@@ -1082,7 +1082,7 @@
         "collaborators" : 74,
         "stars"         : 11,
         "forks"         : 22,
-        "openIssues"    : 6,
+        "openIssues"    : 7,
         "languages"     : {
           "TypeScript" : 855288,
           "HTML" : 46700,
@@ -4254,7 +4254,7 @@
           "collaborators" : 10,
           "stars"         : 36,
           "forks"         : 41,
-          "openIssues"    : 6,
+          "openIssues"    : 3,
           "languages"     : {
             "CSS" : 8720,
             "Shell" : 5890,
@@ -4352,7 +4352,7 @@
         "collaborators" : 37,
         "stars"         : 40,
         "forks"         : 53,
-        "openIssues"    : 6,
+        "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 84029,
           "C#" : 25902,
