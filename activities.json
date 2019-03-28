@@ -312,62 +312,6 @@
       "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
       "programShortName"     : "FDC3",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
-      "activityName"         : "Financial Desktop Connectivity and Collaboration Consortium (FDC3)",
-      "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
-      "contributionDate"     : "2018-02-28",
-      "gitHubRepos"          : [
-        {
-          "name"          : "FDC3",
-          "description"   : "Open standards for the financial desktop.",
-          "gitHubURL"     : "https://github.com/FDC3/FDC3",
-          "heat"          : 268,
-          "watchers"      : 11,
-          "size"          : 1601,
-          "collaborators" : 44,
-          "stars"         : 11,
-          "forks"         : 14,
-          "openIssues"    : 10,
-          "languages"     : {
-            "TypeScript" : 7458,
-            "HTML" : 892397,
-            "CSS" : 868,
-            "JavaScript" : 21632
-          }
-        },
-        {
-          "name"          : "FDC3-Archive",
-          "description"   : "",
-          "gitHubURL"     : "https://github.com/FDC3/FDC3-Archive",
-          "heat"          : 178,
-          "watchers"      : 3,
-          "size"          : 2214,
-          "collaborators" : 43,
-          "stars"         : 3,
-          "forks"         : 0,
-          "openIssues"    : 0
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 446,
-        "watchers"      : 14,
-        "size"          : 3815,
-        "collaborators" : 87,
-        "stars"         : 14,
-        "forks"         : 14,
-        "openIssues"    : 10,
-        "languages"     : {
-          "TypeScript" : 7458,
-          "HTML" : 892397,
-          "CSS" : 868,
-          "JavaScript" : 21632
-        }
-      }
-    },
-    {
-      "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
-      "programShortName"     : "FDC3",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
       "activityName"         : "Intents",
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
@@ -817,28 +761,28 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
           "heat"          : 197,
           "watchers"      : 11,
-          "size"          : 181,
+          "size"          : 182,
           "collaborators" : 35,
           "stars"         : 11,
           "forks"         : 7,
           "openIssues"    : 2,
           "languages"     : {
-            "HTML" : 534,
-            "JavaScript" : 3436
+            "HTML" : 575,
+            "JavaScript" : 3655
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 197,
         "watchers"      : 11,
-        "size"          : 181,
+        "size"          : 182,
         "collaborators" : 35,
         "stars"         : 11,
         "forks"         : 7,
         "openIssues"    : 2,
         "languages"     : {
-          "HTML" : 534,
-          "JavaScript" : 3436
+          "HTML" : 575,
+          "JavaScript" : 3655
         }
       }
     },
@@ -902,13 +846,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 540,
           "watchers"      : 85,
-          "size"          : 2870,
+          "size"          : 2884,
           "collaborators" : 35,
           "stars"         : 85,
           "forks"         : 46,
-          "openIssues"    : 13,
+          "openIssues"    : 12,
           "languages"     : {
-            "TypeScript" : 522731,
+            "TypeScript" : 523359,
             "HTML" : 11245,
             "JavaScript" : 320867
           }
@@ -919,11 +863,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 283,
           "watchers"      : 12,
-          "size"          : 3199,
+          "size"          : 3203,
           "collaborators" : 36,
           "stars"         : 12,
           "forks"         : 23,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 392292,
             "HTML" : 2364,
@@ -937,13 +881,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 185,
           "watchers"      : 1,
-          "size"          : 485,
+          "size"          : 473,
           "collaborators" : 37,
           "stars"         : 1,
           "forks"         : 7,
-          "openIssues"    : 5,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 113786,
+            "TypeScript" : 114451,
             "CSS" : 48222,
             "HTML" : 2777,
             "JavaScript" : 23864
@@ -969,13 +913,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1148,
         "watchers"      : 98,
-        "size"          : 6604,
+        "size"          : 6610,
         "collaborators" : 143,
         "stars"         : 98,
         "forks"         : 76,
-        "openIssues"    : 21,
+        "openIssues"    : 19,
         "languages"     : {
-          "TypeScript" : 1028809,
+          "TypeScript" : 1030102,
           "HTML" : 16875,
           "CSS" : 48222,
           "JavaScript" : 360424,
@@ -1044,13 +988,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 270,
           "watchers"      : 11,
-          "size"          : 2926,
+          "size"          : 2925,
           "collaborators" : 37,
           "stars"         : 11,
           "forks"         : 20,
-          "openIssues"    : 7,
+          "openIssues"    : 6,
           "languages"     : {
-            "TypeScript" : 839401,
+            "TypeScript" : 840029,
             "HTML" : 45407,
             "CSS" : 22224,
             "JavaScript" : 23123
@@ -1078,13 +1022,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 428,
         "watchers"      : 11,
-        "size"          : 3017,
+        "size"          : 3016,
         "collaborators" : 74,
         "stars"         : 11,
         "forks"         : 22,
-        "openIssues"    : 7,
+        "openIssues"    : 6,
         "languages"     : {
-          "TypeScript" : 855288,
+          "TypeScript" : 855916,
           "HTML" : 46700,
           "CSS" : 26813,
           "JavaScript" : 24649
@@ -1187,10 +1131,10 @@
           "name"          : "OSLC-handbook",
           "description"   : "A data store and handbook of practical information about complying with the most common open source licenses.",
           "gitHubURL"     : "https://github.com/finos-osr/OSLC-handbook",
-          "heat"          : 95,
+          "heat"          : 99,
           "watchers"      : 29,
           "size"          : 488,
-          "collaborators" : 3,
+          "collaborators" : 4,
           "stars"         : 29,
           "forks"         : 5,
           "openIssues"    : 7,
@@ -1202,10 +1146,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 95,
+        "heat"          : 99,
         "watchers"      : 29,
         "size"          : 488,
-        "collaborators" : 3,
+        "collaborators" : 4,
         "stars"         : 29,
         "forks"         : 5,
         "openIssues"    : 7,
@@ -4250,16 +4194,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 317,
           "watchers"      : 36,
-          "size"          : 31536,
+          "size"          : 31545,
           "collaborators" : 10,
           "stars"         : 36,
           "forks"         : 41,
-          "openIssues"    : 3,
+          "openIssues"    : 6,
           "languages"     : {
             "CSS" : 8720,
             "Shell" : 5890,
             "Batchfile" : 552,
-            "JavaScript" : 491932,
+            "JavaScript" : 492317,
             "HTML" : 18183,
             "Objective_C" : 7338
           }
@@ -4332,13 +4276,13 @@
           "name"          : "SwiftSearch",
           "description"   : "SwiftSearch is a plugin for SymphonyElectron",
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
-          "heat"          : 39,
+          "heat"          : 47,
           "watchers"      : 2,
           "size"          : 80,
-          "collaborators" : 5,
+          "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 3,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 84029,
             "JavaScript" : 385
@@ -4346,13 +4290,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 493,
+        "heat"          : 501,
         "watchers"      : 40,
-        "size"          : 35467,
-        "collaborators" : 37,
+        "size"          : 35476,
+        "collaborators" : 39,
         "stars"         : 40,
         "forks"         : 53,
-        "openIssues"    : 3,
+        "openIssues"    : 7,
         "languages"     : {
           "TypeScript" : 84029,
           "C#" : 25902,
@@ -4361,7 +4305,7 @@
           "CSS" : 8720,
           "C" : 1364,
           "Batchfile" : 552,
-          "JavaScript" : 612461,
+          "JavaScript" : 612846,
           "Objective_C" : 7338,
           "HTML" : 18948,
           "Python" : 921
