@@ -988,11 +988,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 270,
           "watchers"      : 11,
-          "size"          : 2925,
+          "size"          : 2928,
           "collaborators" : 37,
           "stars"         : 11,
           "forks"         : 20,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 840029,
             "HTML" : 45407,
@@ -1022,11 +1022,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 428,
         "watchers"      : 11,
-        "size"          : 3016,
+        "size"          : 3019,
         "collaborators" : 74,
         "stars"         : 11,
         "forks"         : 22,
-        "openIssues"    : 6,
+        "openIssues"    : 7,
         "languages"     : {
           "TypeScript" : 855916,
           "HTML" : 46700,
@@ -4194,17 +4194,17 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 317,
           "watchers"      : 36,
-          "size"          : 31545,
+          "size"          : 31554,
           "collaborators" : 10,
           "stars"         : 36,
           "forks"         : 41,
-          "openIssues"    : 6,
+          "openIssues"    : 4,
           "languages"     : {
             "CSS" : 8720,
             "Shell" : 5890,
             "Batchfile" : 552,
-            "JavaScript" : 492317,
-            "HTML" : 18183,
+            "JavaScript" : 493608,
+            "HTML" : 18219,
             "Objective_C" : 7338
           }
         },
@@ -4278,13 +4278,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 47,
           "watchers"      : 2,
-          "size"          : 80,
+          "size"          : 84,
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 3,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 84029,
+            "TypeScript" : 85148,
             "JavaScript" : 385
           }
         }
@@ -4292,22 +4292,22 @@
       "cumulativeGitHubStats" : {
         "heat"          : 501,
         "watchers"      : 40,
-        "size"          : 35476,
+        "size"          : 35489,
         "collaborators" : 39,
         "stars"         : 40,
         "forks"         : 53,
-        "openIssues"    : 7,
+        "openIssues"    : 4,
         "languages"     : {
-          "TypeScript" : 84029,
+          "TypeScript" : 85148,
           "C#" : 25902,
           "Shell" : 5890,
           "C++" : 35850,
           "CSS" : 8720,
           "C" : 1364,
           "Batchfile" : 552,
-          "JavaScript" : 612846,
+          "JavaScript" : 614137,
           "Objective_C" : 7338,
-          "HTML" : 18948,
+          "HTML" : 18984,
           "Python" : 921
         }
       }
@@ -4510,7 +4510,13 @@
         "languages"     : {
           "JavaScript" : 7824
         }
-      }
+      },
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "voice-greenkey-sdk@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/voice-greenkey-sdk"
+        }
+      ]
     },
     {
       "programName"          : "Voice, Voice Metadata, and Voice API",
