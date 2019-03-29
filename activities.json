@@ -1019,9 +1019,9 @@
       "programName"          : "Hadouken",
       "programShortName"     : "Hadouken",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/HAD/overview",
-      "activityName"         : "Hadouken Layouts Service",
-      "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "activityName"         : "Layouts WG",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
       "contributionDate"     : "2018-05-01",
       "gitHubRepos"          : [
         {
@@ -1030,16 +1030,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 270,
           "watchers"      : 11,
-          "size"          : 2928,
+          "size"          : 2952,
           "collaborators" : 37,
           "stars"         : 11,
           "forks"         : 20,
-          "openIssues"    : 7,
+          "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 840029,
+            "TypeScript" : 839037,
             "HTML" : 45407,
             "CSS" : 22224,
-            "JavaScript" : 23123
+            "JavaScript" : 23284
           }
         },
         {
@@ -1059,21 +1059,37 @@
             "HTML" : 1293,
             "JavaScript" : 1526
           }
+        },
+        {
+          "name"          : "service-tooling",
+          "description"   : "Openfin Service Tooling",
+          "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
+          "heat"          : 160,
+          "watchers"      : 0,
+          "size"          : 181,
+          "collaborators" : 35,
+          "stars"         : 0,
+          "forks"         : 4,
+          "openIssues"    : 0,
+          "languages"     : {
+            "TypeScript" : 27080,
+            "JavaScript" : 480
+          }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 428,
+        "heat"          : 588,
         "watchers"      : 11,
-        "size"          : 3019,
-        "collaborators" : 74,
+        "size"          : 3224,
+        "collaborators" : 109,
         "stars"         : 11,
-        "forks"         : 22,
-        "openIssues"    : 7,
+        "forks"         : 26,
+        "openIssues"    : 5,
         "languages"     : {
-          "TypeScript" : 855916,
+          "TypeScript" : 882004,
           "HTML" : 46700,
           "CSS" : 26813,
-          "JavaScript" : 24649
+          "JavaScript" : 25290
         }
       },
       "mailingLists"       : [
@@ -1301,11 +1317,11 @@
           "gitHubURL"     : "https://github.com/finos-plexus/finos-plexus.github.io",
           "heat"          : 46,
           "watchers"      : 1,
-          "size"          : 211,
+          "size"          : 214,
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 4,
-          "openIssues"    : 1,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 21599
           }
@@ -1314,11 +1330,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 779,
         "watchers"      : 242,
-        "size"          : 6807,
+        "size"          : 6810,
         "collaborators" : 15,
         "stars"         : 242,
         "forks"         : 47,
-        "openIssues"    : 1,
+        "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 1173141,
           "C#" : 1718565,
@@ -4262,7 +4278,7 @@
           "collaborators" : 10,
           "stars"         : 36,
           "forks"         : 41,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "CSS" : 8720,
             "Shell" : 5890,
@@ -4360,7 +4376,7 @@
         "collaborators" : 39,
         "stars"         : 40,
         "forks"         : 53,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 85148,
           "C#" : 25902,
