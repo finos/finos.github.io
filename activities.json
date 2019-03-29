@@ -33,7 +33,13 @@
         "stars"         : 1,
         "forks"         : 1,
         "openIssues"    : 0
-      }
+      },
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "data-tech-digital-rights@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/data-tech-digital-rights"
+        }
+      ]
     },
     {
       "programName"          : "Data Technologies",
@@ -80,7 +86,13 @@
         "stars"         : 6,
         "forks"         : 2,
         "openIssues"    : 1
-      }
+      },
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "data-tech-kdb@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/data-tech-kdb"
+        }
+      ]
     },
     {
       "programName"          : "Data Technologies",
@@ -89,7 +101,13 @@
       "activityName"         : "Security Reference Data",
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
-      "contributionDate"     : "2018-11-05"
+      "contributionDate"     : "2018-11-05",
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "data-tech-sec-ref@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/data-tech-sec-ref"
+        }
+      ]
     },
     {
       "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
@@ -550,7 +568,13 @@
       "type"                 : "WORKING_GROUP",
       "state"                : "ARCHIVED",
       "contributionDate"     : "2018-04-24",
-      "archiveDate"          : "2018-10-23"
+      "archiveDate"          : "2018-10-23",
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "fdx-project-catalogue@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdx-project-catalogue"
+        }
+      ]
     },
     {
       "programName"          : "Financial Delivery Accelerator",
@@ -559,7 +583,13 @@
       "activityName"         : "Cloud Native WG",
       "type"                 : "WORKING_GROUP",
       "state"                : "PAUSED",
-      "contributionDate"     : "2018-04-24"
+      "contributionDate"     : "2018-04-24",
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "fdx-cloud-native@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdx-cloud-native"
+        }
+      ]
     },
     {
       "programName"          : "Financial Delivery Accelerator",
@@ -606,7 +636,13 @@
       "activityName"         : "Developer Experience WG",
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
-      "contributionDate"     : "2018-04-24"
+      "contributionDate"     : "2018-04-24",
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "fdx-developer-experience@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdx-developer-experience"
+        }
+      ]
     },
     {
       "programName"          : "Financial Delivery Accelerator",
@@ -739,7 +775,13 @@
         "stars"         : 1,
         "forks"         : 2,
         "openIssues"    : 0
-      }
+      },
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "fo-rfq-object@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fo-rfq-object"
+        }
+      ]
     },
     {
       "programName"          : "Hadouken",
@@ -846,7 +888,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 540,
           "watchers"      : 85,
-          "size"          : 2876,
+          "size"          : 2878,
           "collaborators" : 35,
           "stars"         : 85,
           "forks"         : 46,
@@ -913,7 +955,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1148,
         "watchers"      : 98,
-        "size"          : 6601,
+        "size"          : 6603,
         "collaborators" : 143,
         "stars"         : 98,
         "forks"         : 76,
@@ -1033,7 +1075,13 @@
           "CSS" : 26813,
           "JavaScript" : 24649
         }
-      }
+      },
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "hadouken-layouts@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/hadouken-layouts"
+        }
+      ]
     },
     {
       "programName"          : "Hadouken",
@@ -1131,11 +1179,11 @@
           "name"          : "OSLC-handbook",
           "description"   : "A data store and handbook of practical information about complying with the most common open source licenses.",
           "gitHubURL"     : "https://github.com/finos-osr/OSLC-handbook",
-          "heat"          : 99,
-          "watchers"      : 29,
+          "heat"          : 101,
+          "watchers"      : 30,
           "size"          : 488,
           "collaborators" : 4,
-          "stars"         : 29,
+          "stars"         : 30,
           "forks"         : 5,
           "openIssues"    : 7,
           "languages"     : {
@@ -1146,11 +1194,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 99,
-        "watchers"      : 29,
+        "heat"          : 101,
+        "watchers"      : 30,
         "size"          : 488,
         "collaborators" : 4,
-        "stars"         : 29,
+        "stars"         : 30,
         "forks"         : 5,
         "openIssues"    : 7,
         "languages"     : {
@@ -1203,7 +1251,13 @@
       "activityName"         : "Regulatory Compliance WG",
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
-      "contributionDate"     : "2018-04-24"
+      "contributionDate"     : "2018-04-24",
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "osr-regulatory-compliance@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/osr-regulatory-compliance"
+        }
+      ]
     },
     {
       "programName"          : "Plexus",
@@ -1247,7 +1301,7 @@
           "gitHubURL"     : "https://github.com/finos-plexus/finos-plexus.github.io",
           "heat"          : 46,
           "watchers"      : 1,
-          "size"          : 220,
+          "size"          : 211,
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 4,
@@ -1260,7 +1314,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 779,
         "watchers"      : 242,
-        "size"          : 6816,
+        "size"          : 6807,
         "collaborators" : 15,
         "stars"         : 242,
         "forks"         : 47,
@@ -1285,7 +1339,17 @@
       "activityName"         : "Desktop Interoperability WG",
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
-      "contributionDate"     : "2018-04-24"
+      "contributionDate"     : "2018-04-24",
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "plx-desktop-interop-api@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/plx-desktop-interop-api"
+        },
+        {
+          "emailAddress"  : "plx-desktop-interop@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/plx-desktop-interop"
+        }
+      ]
     },
     {
       "programName"          : "Plexus",
@@ -2472,7 +2536,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 744,
+          "size"          : 747,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -2502,7 +2566,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 42,
         "watchers"      : 0,
-        "size"          : 1035,
+        "size"          : 1038,
         "collaborators" : 8,
         "stars"         : 0,
         "forks"         : 2,
@@ -3183,7 +3247,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1701,
+          "size"          : 1715,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
@@ -3229,7 +3293,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1963,
+        "size"          : 1977,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
@@ -4194,16 +4258,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 317,
           "watchers"      : 36,
-          "size"          : 31554,
+          "size"          : 31553,
           "collaborators" : 10,
           "stars"         : 36,
           "forks"         : 41,
-          "openIssues"    : 5,
+          "openIssues"    : 2,
           "languages"     : {
             "CSS" : 8720,
             "Shell" : 5890,
             "Batchfile" : 552,
-            "JavaScript" : 493608,
+            "JavaScript" : 493718,
             "HTML" : 18219,
             "Objective_C" : 7338
           }
@@ -4292,11 +4356,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 501,
         "watchers"      : 40,
-        "size"          : 35489,
+        "size"          : 35488,
         "collaborators" : 39,
         "stars"         : 40,
         "forks"         : 53,
-        "openIssues"    : 5,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 85148,
           "C#" : 25902,
@@ -4305,7 +4369,7 @@
           "CSS" : 8720,
           "C" : 1364,
           "Batchfile" : 552,
-          "JavaScript" : 614137,
+          "JavaScript" : 614247,
           "Objective_C" : 7338,
           "HTML" : 18984,
           "Python" : 921
@@ -4358,8 +4422,8 @@
       "archiveDate"          : "2018-04-20",
       "mailingLists"       : [
         {
-          "emailAddress"  : "wg-api@symphony.foundation",
-          "webArchiveUrl" : "https://groups.google.com/a/symphony.foundation/forum/#!forum/wg-api"
+          "emailAddress"  : "wg-api@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/wg-api"
         }
       ]
     },
@@ -4374,8 +4438,8 @@
       "archiveDate"          : "2018-05-12",
       "mailingLists"       : [
         {
-          "emailAddress"  : "wg-api@symphony.foundation",
-          "webArchiveUrl" : "https://groups.google.com/a/symphony.foundation/forum/#!forum/wg-api"
+          "emailAddress"  : "wg-desktop-wrapper@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/wg-desktop-wrapper"
         }
       ]
     },
@@ -4537,7 +4601,7 @@
           "collaborators" : 4,
           "stars"         : 3,
           "forks"         : 4,
-          "openIssues"    : 8
+          "openIssues"    : 9
         }
       ],
       "cumulativeGitHubStats" : {
@@ -4547,7 +4611,7 @@
         "collaborators" : 4,
         "stars"         : 3,
         "forks"         : 4,
-        "openIssues"    : 8
+        "openIssues"    : 9
       },
       "mailingLists"       : [
         {
