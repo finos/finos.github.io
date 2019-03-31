@@ -223,12 +223,12 @@
           "name"          : "appd-poc",
           "description"   : "Application Directory POC is a reference implementation of the Application Directory API",
           "gitHubURL"     : "https://github.com/FDC3/appd-poc",
-          "heat"          : 177,
+          "heat"          : 182,
           "watchers"      : 0,
           "size"          : 90,
           "collaborators" : 43,
           "stars"         : 0,
-          "forks"         : 1,
+          "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
             "Java" : 90084,
@@ -262,12 +262,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 748,
+        "heat"          : 753,
         "watchers"      : 3,
         "size"          : 780,
         "collaborators" : 173,
         "stars"         : 3,
-        "forks"         : 10,
+        "forks"         : 11,
         "openIssues"    : 0,
         "languages"     : {
           "Java" : 90084,
