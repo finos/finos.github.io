@@ -223,11 +223,11 @@
           "name"          : "appd-poc",
           "description"   : "Application Directory POC is a reference implementation of the Application Directory API",
           "gitHubURL"     : "https://github.com/FDC3/appd-poc",
-          "heat"          : 182,
-          "watchers"      : 0,
+          "heat"          : 184,
+          "watchers"      : 1,
           "size"          : 90,
           "collaborators" : 43,
-          "stars"         : 0,
+          "stars"         : 1,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
@@ -262,11 +262,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 753,
-        "watchers"      : 3,
+        "heat"          : 755,
+        "watchers"      : 4,
         "size"          : 780,
         "collaborators" : 173,
-        "stars"         : 3,
+        "stars"         : 4,
         "forks"         : 11,
         "openIssues"    : 0,
         "languages"     : {
@@ -886,12 +886,12 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 540,
+          "heat"          : 545,
           "watchers"      : 85,
-          "size"          : 2881,
+          "size"          : 2896,
           "collaborators" : 35,
           "stars"         : 85,
-          "forks"         : 46,
+          "forks"         : 47,
           "openIssues"    : 14,
           "languages"     : {
             "TypeScript" : 523359,
@@ -905,13 +905,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 283,
           "watchers"      : 12,
-          "size"          : 3203,
+          "size"          : 3204,
           "collaborators" : 36,
           "stars"         : 12,
           "forks"         : 23,
-          "openIssues"    : 5,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 392292,
+            "TypeScript" : 392308,
             "HTML" : 2364,
             "JavaScript" : 11378,
             "Python" : 2150
@@ -921,16 +921,16 @@
           "name"          : "fdc3-service",
           "description"   : "FDC3 Service for OpenFin",
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
-          "heat"          : 185,
+          "heat"          : 190,
           "watchers"      : 1,
-          "size"          : 473,
+          "size"          : 487,
           "collaborators" : 37,
           "stars"         : 1,
-          "forks"         : 7,
-          "openIssues"    : 3,
+          "forks"         : 8,
+          "openIssues"    : 6,
           "languages"     : {
-            "TypeScript" : 114451,
-            "CSS" : 48222,
+            "TypeScript" : 126458,
+            "CSS" : 48571,
             "HTML" : 2777,
             "JavaScript" : 23864
           }
@@ -953,17 +953,17 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1148,
+        "heat"          : 1158,
         "watchers"      : 98,
-        "size"          : 6607,
+        "size"          : 6637,
         "collaborators" : 143,
         "stars"         : 98,
-        "forks"         : 76,
-        "openIssues"    : 22,
+        "forks"         : 78,
+        "openIssues"    : 24,
         "languages"     : {
-          "TypeScript" : 1030102,
+          "TypeScript" : 1042125,
           "HTML" : 16875,
-          "CSS" : 48222,
+          "CSS" : 48571,
           "JavaScript" : 360424,
           "Python" : 2150
         }
@@ -1030,7 +1030,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 270,
           "watchers"      : 11,
-          "size"          : 2985,
+          "size"          : 3055,
           "collaborators" : 37,
           "stars"         : 11,
           "forks"         : 20,
@@ -1066,7 +1066,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 160,
           "watchers"      : 0,
-          "size"          : 181,
+          "size"          : 339,
           "collaborators" : 35,
           "stars"         : 0,
           "forks"         : 4,
@@ -1080,7 +1080,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 588,
         "watchers"      : 11,
-        "size"          : 3257,
+        "size"          : 3485,
         "collaborators" : 109,
         "stars"         : 11,
         "forks"         : 26,
@@ -1195,11 +1195,11 @@
           "name"          : "OSLC-handbook",
           "description"   : "A data store and handbook of practical information about complying with the most common open source licenses.",
           "gitHubURL"     : "https://github.com/finos-osr/OSLC-handbook",
-          "heat"          : 101,
-          "watchers"      : 30,
+          "heat"          : 103,
+          "watchers"      : 31,
           "size"          : 488,
           "collaborators" : 4,
-          "stars"         : 30,
+          "stars"         : 31,
           "forks"         : 5,
           "openIssues"    : 7,
           "languages"     : {
@@ -1210,11 +1210,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 101,
-        "watchers"      : 30,
+        "heat"          : 103,
+        "watchers"      : 31,
         "size"          : 488,
         "collaborators" : 4,
-        "stars"         : 30,
+        "stars"         : 31,
         "forks"         : 5,
         "openIssues"    : 7,
         "languages"     : {
@@ -3263,7 +3263,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1715,
+          "size"          : 1719,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
@@ -3309,7 +3309,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1977,
+        "size"          : 1981,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
@@ -4274,16 +4274,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 317,
           "watchers"      : 36,
-          "size"          : 31554,
+          "size"          : 31605,
           "collaborators" : 10,
           "stars"         : 36,
           "forks"         : 41,
-          "openIssues"    : 2,
+          "openIssues"    : 0,
           "languages"     : {
             "CSS" : 8720,
             "Shell" : 5890,
             "Batchfile" : 552,
-            "JavaScript" : 493718,
+            "JavaScript" : 374034,
             "HTML" : 18219,
             "Objective_C" : 7338
           }
@@ -4372,11 +4372,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 501,
         "watchers"      : 40,
-        "size"          : 35489,
+        "size"          : 35540,
         "collaborators" : 39,
         "stars"         : 40,
         "forks"         : 53,
-        "openIssues"    : 2,
+        "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 85148,
           "C#" : 25902,
@@ -4385,7 +4385,7 @@
           "CSS" : 8720,
           "C" : 1364,
           "Batchfile" : 552,
-          "JavaScript" : 614247,
+          "JavaScript" : 494563,
           "Objective_C" : 7338,
           "HTML" : 18984,
           "Python" : 921
@@ -4487,7 +4487,7 @@
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 2,
-          "openIssues"    : 0,
+          "openIssues"    : 2,
           "languages"     : {
             "Dockerfile" : 663,
             "Shell" : 37,
@@ -4502,7 +4502,7 @@
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 2,
-        "openIssues"    : 0,
+        "openIssues"    : 2,
         "languages"     : {
           "Dockerfile" : 663,
           "Shell" : 37,
@@ -4532,7 +4532,7 @@
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 1,
-          "openIssues"    : 2,
+          "openIssues"    : 4,
           "languages"     : {
             "Python" : 62915
           }
@@ -4545,7 +4545,7 @@
         "collaborators" : 7,
         "stars"         : 2,
         "forks"         : 1,
-        "openIssues"    : 2,
+        "openIssues"    : 4,
         "languages"     : {
           "Python" : 62915
         }
@@ -4573,7 +4573,7 @@
           "collaborators" : 5,
           "stars"         : 1,
           "forks"         : 1,
-          "openIssues"    : 0,
+          "openIssues"    : 2,
           "languages"     : {
             "JavaScript" : 7824
           }
@@ -4586,7 +4586,7 @@
         "collaborators" : 5,
         "stars"         : 1,
         "forks"         : 1,
-        "openIssues"    : 0,
+        "openIssues"    : 2,
         "languages"     : {
           "JavaScript" : 7824
         }
