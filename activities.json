@@ -479,13 +479,13 @@
           "name"          : "cla-bot",
           "description"   : "cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).",
           "gitHubURL"     : "https://github.com/finos-fdx/cla-bot",
-          "heat"          : 108,
-          "watchers"      : 24,
+          "heat"          : 110,
+          "watchers"      : 25,
           "size"          : 928,
           "collaborators" : 5,
-          "stars"         : 24,
+          "stars"         : 25,
           "forks"         : 8,
-          "openIssues"    : 16,
+          "openIssues"    : 17,
           "languages"     : {
             "Shell" : 145,
             "JavaScript" : 46244
@@ -493,13 +493,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 108,
-        "watchers"      : 24,
+        "heat"          : 110,
+        "watchers"      : 25,
         "size"          : 928,
         "collaborators" : 5,
-        "stars"         : 24,
+        "stars"         : 25,
         "forks"         : 8,
-        "openIssues"    : 16,
+        "openIssues"    : 17,
         "languages"     : {
           "Shell" : 145,
           "JavaScript" : 46244
@@ -801,11 +801,11 @@
           "name"          : "app-template",
           "description"   : "A simple unopinionated Hadouken application template.",
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
-          "heat"          : 207,
-          "watchers"      : 11,
+          "heat"          : 209,
+          "watchers"      : 12,
           "size"          : 182,
           "collaborators" : 35,
-          "stars"         : 11,
+          "stars"         : 12,
           "forks"         : 9,
           "openIssues"    : 2,
           "languages"     : {
@@ -815,11 +815,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 207,
-        "watchers"      : 11,
+        "heat"          : 209,
+        "watchers"      : 12,
         "size"          : 182,
         "collaborators" : 35,
-        "stars"         : 11,
+        "stars"         : 12,
         "forks"         : 9,
         "openIssues"    : 2,
         "languages"     : {
@@ -886,17 +886,17 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 545,
+          "heat"          : 550,
           "watchers"      : 85,
-          "size"          : 2898,
+          "size"          : 2913,
           "collaborators" : 35,
           "stars"         : 85,
-          "forks"         : 47,
+          "forks"         : 48,
           "openIssues"    : 14,
           "languages"     : {
             "TypeScript" : 523359,
             "HTML" : 11245,
-            "JavaScript" : 320867
+            "JavaScript" : 323626
           }
         },
         {
@@ -905,13 +905,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 283,
           "watchers"      : 12,
-          "size"          : 3205,
+          "size"          : 3211,
           "collaborators" : 36,
           "stars"         : 12,
           "forks"         : 23,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 395538,
+            "TypeScript" : 396303,
             "HTML" : 2364,
             "JavaScript" : 11378,
             "Python" : 2150
@@ -923,16 +923,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 190,
           "watchers"      : 1,
-          "size"          : 559,
+          "size"          : 628,
           "collaborators" : 37,
           "stars"         : 1,
           "forks"         : 8,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 137236,
+            "TypeScript" : 157539,
             "CSS" : 48571,
-            "HTML" : 2777,
-            "JavaScript" : 23878
+            "HTML" : 4068,
+            "JavaScript" : 24284
           }
         },
         {
@@ -953,18 +953,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1158,
+        "heat"          : 1163,
         "watchers"      : 98,
-        "size"          : 6712,
+        "size"          : 6802,
         "collaborators" : 143,
         "stars"         : 98,
-        "forks"         : 78,
-        "openIssues"    : 22,
+        "forks"         : 79,
+        "openIssues"    : 20,
         "languages"     : {
-          "TypeScript" : 1056133,
-          "HTML" : 16875,
+          "TypeScript" : 1077201,
+          "HTML" : 18166,
           "CSS" : 48571,
-          "JavaScript" : 360438,
+          "JavaScript" : 363603,
           "Python" : 2150
         }
       }
@@ -1030,16 +1030,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 270,
           "watchers"      : 11,
-          "size"          : 3055,
+          "size"          : 3109,
           "collaborators" : 37,
           "stars"         : 11,
           "forks"         : 20,
-          "openIssues"    : 5,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 839037,
-            "HTML" : 45407,
+            "TypeScript" : 840089,
+            "HTML" : 45402,
             "CSS" : 22224,
-            "JavaScript" : 23284
+            "JavaScript" : 24901
           }
         },
         {
@@ -1070,7 +1070,7 @@
           "collaborators" : 35,
           "stars"         : 0,
           "forks"         : 4,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 27080,
             "JavaScript" : 480
@@ -1080,16 +1080,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 588,
         "watchers"      : 11,
-        "size"          : 3485,
+        "size"          : 3539,
         "collaborators" : 109,
         "stars"         : 11,
         "forks"         : 26,
         "openIssues"    : 5,
         "languages"     : {
-          "TypeScript" : 882004,
-          "HTML" : 46700,
+          "TypeScript" : 883056,
+          "HTML" : 46695,
           "CSS" : 26813,
-          "JavaScript" : 25290
+          "JavaScript" : 26907
         }
       },
       "mailingLists"       : [
@@ -1195,11 +1195,11 @@
           "name"          : "OSLC-handbook",
           "description"   : "A data store and handbook of practical information about complying with the most common open source licenses.",
           "gitHubURL"     : "https://github.com/finos-osr/OSLC-handbook",
-          "heat"          : 103,
-          "watchers"      : 31,
+          "heat"          : 105,
+          "watchers"      : 32,
           "size"          : 488,
           "collaborators" : 4,
-          "stars"         : 31,
+          "stars"         : 32,
           "forks"         : 5,
           "openIssues"    : 7,
           "languages"     : {
@@ -1210,11 +1210,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 103,
-        "watchers"      : 31,
+        "heat"          : 105,
+        "watchers"      : 32,
         "size"          : 488,
         "collaborators" : 4,
-        "stars"         : 31,
+        "stars"         : 32,
         "forks"         : 5,
         "openIssues"    : 7,
         "languages"     : {
@@ -1264,16 +1264,10 @@
       "programName"          : "Open Source Readiness",
       "programShortName"     : "OSR",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/OSR/overview",
-      "activityName"         : "Regulatory Compliance WG",
+      "activityName"         : "Open source readiness WG",
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
-      "contributionDate"     : "2018-04-24",
-      "mailingLists"       : [
-        {
-          "emailAddress"  : "osr-regulatory-compliance@finos.org",
-          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/osr-regulatory-compliance"
-        }
-      ]
+      "contributionDate"     : "2018-04-24"
     },
     {
       "programName"          : "Plexus",
@@ -3456,7 +3450,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Core",
           "heat"          : 105,
           "watchers"      : 4,
-          "size"          : 12192,
+          "size"          : 12195,
           "collaborators" : 13,
           "stars"         : 4,
           "forks"         : 9,
@@ -3502,7 +3496,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 297,
         "watchers"      : 8,
-        "size"          : 55621,
+        "size"          : 55624,
         "collaborators" : 44,
         "stars"         : 8,
         "forks"         : 21,
@@ -3536,7 +3530,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Github",
           "heat"          : 72,
           "watchers"      : 2,
-          "size"          : 1590,
+          "size"          : 1594,
           "collaborators" : 12,
           "stars"         : 2,
           "forks"         : 4,
@@ -3552,7 +3546,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 72,
         "watchers"      : 2,
-        "size"          : 1590,
+        "size"          : 1594,
         "collaborators" : 12,
         "stars"         : 2,
         "forks"         : 4,
@@ -3673,7 +3667,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Jira",
           "heat"          : 95,
           "watchers"      : 4,
-          "size"          : 1879,
+          "size"          : 1996,
           "collaborators" : 13,
           "stars"         : 4,
           "forks"         : 7,
@@ -3689,7 +3683,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 95,
         "watchers"      : 4,
-        "size"          : 1879,
+        "size"          : 1996,
         "collaborators" : 13,
         "stars"         : 4,
         "forks"         : 7,
@@ -3722,7 +3716,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Salesforce",
           "heat"          : 60,
           "watchers"      : 1,
-          "size"          : 21845,
+          "size"          : 21849,
           "collaborators" : 12,
           "stars"         : 1,
           "forks"         : 2,
@@ -3738,7 +3732,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 60,
         "watchers"      : 1,
-        "size"          : 21845,
+        "size"          : 21849,
         "collaborators" : 12,
         "stars"         : 1,
         "forks"         : 2,
@@ -3822,7 +3816,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Universal",
           "heat"          : 82,
           "watchers"      : 2,
-          "size"          : 982,
+          "size"          : 986,
           "collaborators" : 12,
           "stars"         : 2,
           "forks"         : 6,
@@ -3838,7 +3832,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 82,
         "watchers"      : 2,
-        "size"          : 982,
+        "size"          : 986,
         "collaborators" : 12,
         "stars"         : 2,
         "forks"         : 6,
@@ -3871,7 +3865,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Zapier",
           "heat"          : 64,
           "watchers"      : 3,
-          "size"          : 1138,
+          "size"          : 1143,
           "collaborators" : 12,
           "stars"         : 3,
           "forks"         : 2,
@@ -3887,7 +3881,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 64,
         "watchers"      : 3,
-        "size"          : 1138,
+        "size"          : 1143,
         "collaborators" : 12,
         "stars"         : 3,
         "forks"         : 2,
@@ -4274,7 +4268,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 317,
           "watchers"      : 36,
-          "size"          : 31605,
+          "size"          : 31618,
           "collaborators" : 10,
           "stars"         : 36,
           "forks"         : 41,
@@ -4362,7 +4356,7 @@
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 3,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 85148,
             "JavaScript" : 385
@@ -4372,11 +4366,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 501,
         "watchers"      : 40,
-        "size"          : 35632,
+        "size"          : 35645,
         "collaborators" : 39,
         "stars"         : 40,
         "forks"         : 53,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 85148,
           "C#" : 25902,
