@@ -167,11 +167,11 @@
           "name"          : "API",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 239,
-          "watchers"      : 6,
+          "heat"          : 241,
+          "watchers"      : 7,
           "size"          : 333,
           "collaborators" : 43,
-          "stars"         : 6,
+          "stars"         : 7,
           "forks"         : 11,
           "openIssues"    : 0,
           "languages"     : {
@@ -180,11 +180,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 239,
-        "watchers"      : 6,
+        "heat"          : 241,
+        "watchers"      : 7,
         "size"          : 333,
         "collaborators" : 43,
-        "stars"         : 6,
+        "stars"         : 7,
         "forks"         : 11,
         "openIssues"    : 0,
         "languages"     : {
@@ -905,11 +905,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 283,
           "watchers"      : 12,
-          "size"          : 3211,
+          "size"          : 3210,
           "collaborators" : 36,
           "stars"         : 12,
           "forks"         : 23,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 396303,
             "HTML" : 2364,
@@ -923,16 +923,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 190,
           "watchers"      : 1,
-          "size"          : 628,
+          "size"          : 743,
           "collaborators" : 37,
           "stars"         : 1,
           "forks"         : 8,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 157539,
+            "TypeScript" : 157764,
             "CSS" : 48571,
             "HTML" : 4068,
-            "JavaScript" : 24284
+            "JavaScript" : 24328
           }
         },
         {
@@ -955,16 +955,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1163,
         "watchers"      : 98,
-        "size"          : 6802,
+        "size"          : 6916,
         "collaborators" : 143,
         "stars"         : 98,
         "forks"         : 79,
-        "openIssues"    : 20,
+        "openIssues"    : 22,
         "languages"     : {
-          "TypeScript" : 1077201,
+          "TypeScript" : 1077426,
           "HTML" : 18166,
           "CSS" : 48571,
-          "JavaScript" : 363603,
+          "JavaScript" : 363647,
           "Python" : 2150
         }
       }
@@ -1030,7 +1030,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 270,
           "watchers"      : 11,
-          "size"          : 3109,
+          "size"          : 3110,
           "collaborators" : 37,
           "stars"         : 11,
           "forks"         : 20,
@@ -1080,7 +1080,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 588,
         "watchers"      : 11,
-        "size"          : 3539,
+        "size"          : 3540,
         "collaborators" : 109,
         "stars"         : 11,
         "forks"         : 26,
@@ -2546,14 +2546,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 747,
+          "size"          : 744,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 496296,
-            "FreeMarker" : 136920,
+            "Java" : 496843,
+            "FreeMarker" : 137936,
             "JavaScript" : 13681
           }
         },
@@ -2563,7 +2563,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon-example",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 291,
+          "size"          : 293,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -2576,14 +2576,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 42,
         "watchers"      : 0,
-        "size"          : 1038,
+        "size"          : 1037,
         "collaborators" : 8,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 544337,
-          "FreeMarker" : 136920,
+          "Java" : 544884,
+          "FreeMarker" : 137936,
           "JavaScript" : 13681
         }
       }
@@ -3257,13 +3257,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1719,
+          "size"          : 1692,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 810393,
+            "Java" : 871208,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3275,7 +3275,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-example",
           "heat"          : 25,
           "watchers"      : 0,
-          "size"          : 51,
+          "size"          : 53,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
@@ -3290,7 +3290,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 211,
+          "size"          : 160,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -3303,13 +3303,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1981,
+        "size"          : 1905,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 833219,
+          "Java" : 894034,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -4215,7 +4215,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-common",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 473,
+          "size"          : 477,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
@@ -4240,7 +4240,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 64,
         "watchers"      : 0,
-        "size"          : 519,
+        "size"          : 523,
         "collaborators" : 11,
         "stars"         : 0,
         "forks"         : 4,
