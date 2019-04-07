@@ -3263,7 +3263,7 @@
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 871208,
+            "Java" : 870658,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3290,7 +3290,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 160,
+          "size"          : 185,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -3303,13 +3303,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1905,
+        "size"          : 1930,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 894034,
+          "Java" : 893484,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
