@@ -1267,7 +1267,13 @@
       "activityName"         : "Open source readiness WG",
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
-      "contributionDate"     : "2018-04-24"
+      "contributionDate"     : "2018-04-24",
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "osr@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/osr"
+        }
+      ]
     },
     {
       "programName"          : "Plexus",
@@ -3257,7 +3263,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1692,
+          "size"          : 1719,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
@@ -3303,7 +3309,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1930,
+        "size"          : 1957,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
@@ -4268,7 +4274,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 317,
           "watchers"      : 36,
-          "size"          : 31618,
+          "size"          : 31641,
           "collaborators" : 10,
           "stars"         : 36,
           "forks"         : 41,
@@ -4352,7 +4358,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 47,
           "watchers"      : 2,
-          "size"          : 84,
+          "size"          : 77,
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 3,
@@ -4366,7 +4372,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 501,
         "watchers"      : 40,
-        "size"          : 35645,
+        "size"          : 35661,
         "collaborators" : 39,
         "stars"         : 40,
         "forks"         : 53,
