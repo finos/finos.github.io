@@ -888,30 +888,30 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 550,
           "watchers"      : 85,
-          "size"          : 2913,
+          "size"          : 2923,
           "collaborators" : 35,
           "stars"         : 85,
           "forks"         : 48,
-          "openIssues"    : 14,
+          "openIssues"    : 12,
           "languages"     : {
-            "TypeScript" : 523359,
+            "TypeScript" : 523390,
             "HTML" : 11245,
-            "JavaScript" : 323626
+            "JavaScript" : 324955
           }
         },
         {
           "name"          : "js-adapter",
           "description"   : "Hadouken Node Adapter",
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
-          "heat"          : 283,
-          "watchers"      : 12,
-          "size"          : 3210,
+          "heat"          : 285,
+          "watchers"      : 13,
+          "size"          : 3211,
           "collaborators" : 36,
-          "stars"         : 12,
+          "stars"         : 13,
           "forks"         : 23,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 396303,
+            "TypeScript" : 396500,
             "HTML" : 2364,
             "JavaScript" : 11378,
             "Python" : 2150
@@ -923,7 +923,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 190,
           "watchers"      : 1,
-          "size"          : 743,
+          "size"          : 753,
           "collaborators" : 37,
           "stars"         : 1,
           "forks"         : 8,
@@ -932,7 +932,7 @@
             "TypeScript" : 157764,
             "CSS" : 48571,
             "HTML" : 4068,
-            "JavaScript" : 24328
+            "JavaScript" : 5603
           }
         },
         {
@@ -953,18 +953,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1163,
-        "watchers"      : 98,
-        "size"          : 6916,
+        "heat"          : 1165,
+        "watchers"      : 99,
+        "size"          : 6937,
         "collaborators" : 143,
-        "stars"         : 98,
+        "stars"         : 99,
         "forks"         : 79,
-        "openIssues"    : 22,
+        "openIssues"    : 19,
         "languages"     : {
-          "TypeScript" : 1077426,
+          "TypeScript" : 1077654,
           "HTML" : 18166,
           "CSS" : 48571,
-          "JavaScript" : 363647,
+          "JavaScript" : 346251,
           "Python" : 2150
         }
       }
@@ -1028,13 +1028,13 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 270,
-          "watchers"      : 11,
-          "size"          : 3110,
+          "heat"          : 272,
+          "watchers"      : 12,
+          "size"          : 3105,
           "collaborators" : 37,
-          "stars"         : 11,
+          "stars"         : 12,
           "forks"         : 20,
-          "openIssues"    : 4,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 840089,
             "HTML" : 45402,
@@ -1066,7 +1066,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 160,
           "watchers"      : 0,
-          "size"          : 339,
+          "size"          : 191,
           "collaborators" : 35,
           "stars"         : 0,
           "forks"         : 4,
@@ -1078,13 +1078,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 588,
-        "watchers"      : 11,
-        "size"          : 3540,
+        "heat"          : 590,
+        "watchers"      : 12,
+        "size"          : 3387,
         "collaborators" : 109,
-        "stars"         : 11,
+        "stars"         : 12,
         "forks"         : 26,
-        "openIssues"    : 5,
+        "openIssues"    : 8,
         "languages"     : {
           "TypeScript" : 883056,
           "HTML" : 46695,
@@ -1195,11 +1195,11 @@
           "name"          : "OSLC-handbook",
           "description"   : "A data store and handbook of practical information about complying with the most common open source licenses.",
           "gitHubURL"     : "https://github.com/finos-osr/OSLC-handbook",
-          "heat"          : 105,
-          "watchers"      : 32,
+          "heat"          : 115,
+          "watchers"      : 37,
           "size"          : 488,
           "collaborators" : 4,
-          "stars"         : 32,
+          "stars"         : 37,
           "forks"         : 5,
           "openIssues"    : 7,
           "languages"     : {
@@ -1210,11 +1210,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 105,
-        "watchers"      : 32,
+        "heat"          : 115,
+        "watchers"      : 37,
         "size"          : 488,
         "collaborators" : 4,
-        "stars"         : 32,
+        "stars"         : 37,
         "forks"         : 5,
         "openIssues"    : 7,
         "languages"     : {
@@ -3296,7 +3296,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 185,
+          "size"          : 205,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
@@ -3309,7 +3309,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1957,
+        "size"          : 1977,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
@@ -4274,11 +4274,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 317,
           "watchers"      : 36,
-          "size"          : 31641,
+          "size"          : 31642,
           "collaborators" : 10,
           "stars"         : 36,
           "forks"         : 41,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "CSS" : 8720,
             "Shell" : 5890,
@@ -4372,11 +4372,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 501,
         "watchers"      : 40,
-        "size"          : 35661,
+        "size"          : 35662,
         "collaborators" : 39,
         "stars"         : 40,
         "forks"         : 53,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 85148,
           "C#" : 25902,
