@@ -892,11 +892,11 @@
           "collaborators" : 36,
           "stars"         : 85,
           "forks"         : 48,
-          "openIssues"    : 13,
+          "openIssues"    : 12,
           "languages"     : {
             "TypeScript" : 523390,
             "HTML" : 11245,
-            "JavaScript" : 324955
+            "JavaScript" : 324956
           }
         },
         {
@@ -905,11 +905,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 289,
           "watchers"      : 13,
-          "size"          : 3211,
+          "size"          : 3209,
           "collaborators" : 37,
           "stars"         : 13,
           "forks"         : 23,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 396500,
             "HTML" : 2364,
@@ -923,15 +923,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 194,
           "watchers"      : 1,
-          "size"          : 752,
+          "size"          : 755,
           "collaborators" : 38,
           "stars"         : 1,
           "forks"         : 8,
-          "openIssues"    : 6,
+          "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 157764,
+            "TypeScript" : 172700,
             "CSS" : 48571,
-            "HTML" : 4068,
+            "HTML" : 4779,
             "JavaScript" : 5603
           }
         },
@@ -955,16 +955,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1183,
         "watchers"      : 100,
-        "size"          : 6930,
+        "size"          : 6931,
         "collaborators" : 147,
         "stars"         : 100,
         "forks"         : 79,
-        "openIssues"    : 23,
+        "openIssues"    : 22,
         "languages"     : {
-          "TypeScript" : 1077654,
-          "HTML" : 18166,
+          "TypeScript" : 1092590,
+          "HTML" : 18877,
           "CSS" : 48571,
-          "JavaScript" : 346251,
+          "JavaScript" : 346252,
           "Python" : 2150
         }
       }
@@ -1028,18 +1028,18 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 276,
-          "watchers"      : 12,
-          "size"          : 3159,
+          "heat"          : 278,
+          "watchers"      : 13,
+          "size"          : 3157,
           "collaborators" : 38,
-          "stars"         : 12,
+          "stars"         : 13,
           "forks"         : 20,
-          "openIssues"    : 7,
+          "openIssues"    : 6,
           "languages"     : {
-            "TypeScript" : 839843,
+            "TypeScript" : 837553,
             "HTML" : 45402,
             "CSS" : 22224,
-            "JavaScript" : 24901
+            "JavaScript" : 25521
           }
         },
         {
@@ -1066,30 +1066,32 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 164,
           "watchers"      : 0,
-          "size"          : 189,
+          "size"          : 375,
           "collaborators" : 36,
           "stars"         : 0,
           "forks"         : 4,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 28633,
-            "JavaScript" : 480
+            "TypeScript" : 33392,
+            "CSS" : 70268,
+            "HTML" : 2933,
+            "JavaScript" : 668
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 602,
-        "watchers"      : 12,
-        "size"          : 3439,
+        "heat"          : 604,
+        "watchers"      : 13,
+        "size"          : 3623,
         "collaborators" : 112,
-        "stars"         : 12,
+        "stars"         : 13,
         "forks"         : 26,
-        "openIssues"    : 9,
+        "openIssues"    : 7,
         "languages"     : {
-          "TypeScript" : 884363,
-          "HTML" : 46695,
-          "CSS" : 26813,
-          "JavaScript" : 26907
+          "TypeScript" : 886832,
+          "HTML" : 49628,
+          "CSS" : 97081,
+          "JavaScript" : 27715
         }
       },
       "mailingLists"       : [
@@ -1195,11 +1197,11 @@
           "name"          : "OSLC-handbook",
           "description"   : "A data store and handbook of practical information about complying with the most common open source licenses.",
           "gitHubURL"     : "https://github.com/finos-osr/OSLC-handbook",
-          "heat"          : 176,
-          "watchers"      : 65,
+          "heat"          : 178,
+          "watchers"      : 66,
           "size"          : 488,
           "collaborators" : 4,
-          "stars"         : 65,
+          "stars"         : 66,
           "forks"         : 6,
           "openIssues"    : 7,
           "languages"     : {
@@ -1210,11 +1212,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 176,
-        "watchers"      : 65,
+        "heat"          : 178,
+        "watchers"      : 66,
         "size"          : 488,
         "collaborators" : 4,
-        "stars"         : 65,
+        "stars"         : 66,
         "forks"         : 6,
         "openIssues"    : 7,
         "languages"     : {
@@ -1394,13 +1396,13 @@
           "name"          : "symphony-app-authentication",
           "description"   : "Symphony third party application authentication",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-app-authentication",
-          "heat"          : 33,
+          "heat"          : 37,
           "watchers"      : 0,
-          "size"          : 195,
-          "collaborators" : 7,
+          "size"          : 179,
+          "collaborators" : 8,
           "stars"         : 0,
           "forks"         : 1,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Java" : 157825,
             "JavaScript" : 2291
@@ -1408,13 +1410,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 33,
+        "heat"          : 37,
         "watchers"      : 0,
-        "size"          : 195,
-        "collaborators" : 7,
+        "size"          : 179,
+        "collaborators" : 8,
         "stars"         : 0,
         "forks"         : 1,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "Java" : 157825,
           "JavaScript" : 2291
@@ -3263,7 +3265,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1737,
+          "size"          : 1588,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
@@ -3296,20 +3298,20 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 435,
+          "size"          : 181,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Groovy" : 193803
+            "Groovy" : 299771
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 2225,
+        "size"          : 1822,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
@@ -3319,7 +3321,7 @@
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
-          "Groovy" : 193803
+          "Groovy" : 299771
         }
       }
     },
@@ -4274,11 +4276,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 317,
           "watchers"      : 36,
-          "size"          : 31642,
+          "size"          : 31673,
           "collaborators" : 10,
           "stars"         : 36,
           "forks"         : 41,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "CSS" : 8720,
             "Shell" : 5890,
@@ -4372,11 +4374,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 501,
         "watchers"      : 40,
-        "size"          : 35662,
+        "size"          : 35693,
         "collaborators" : 39,
         "stars"         : 40,
         "forks"         : 53,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 85148,
           "C#" : 25902,
@@ -4528,11 +4530,11 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 37,
           "watchers"      : 2,
-          "size"          : 144,
+          "size"          : 133,
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 1,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
             "Python" : 62915
           }
@@ -4541,11 +4543,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 37,
         "watchers"      : 2,
-        "size"          : 144,
+        "size"          : 133,
         "collaborators" : 7,
         "stars"         : 2,
         "forks"         : 1,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
           "Python" : 62915
         }
