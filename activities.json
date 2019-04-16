@@ -249,24 +249,24 @@
           "openIssues"    : 0
         },
         {
-          "name"          : "appd-glue42-launcher-poc",
+          "name"          : "appd-launcher-poc",
           "description"   : "Launcher example interfacing with AppD",
           "gitHubURL"     : "https://github.com/FDC3/appd-glue42-launcher-poc",
-          "heat"          : 176,
-          "watchers"      : 0,
+          "heat"          : 174,
+          "watchers"      : 1,
           "size"          : 0,
-          "collaborators" : 44,
-          "stars"         : 0,
+          "collaborators" : 43,
+          "stars"         : 1,
           "forks"         : 0,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 755,
-        "watchers"      : 4,
+        "heat"          : 753,
+        "watchers"      : 5,
         "size"          : 766,
-        "collaborators" : 173,
-        "stars"         : 4,
+        "collaborators" : 172,
+        "stars"         : 5,
         "forks"         : 11,
         "openIssues"    : 0,
         "languages"     : {
@@ -604,21 +604,21 @@
           "name"          : "cloud-service-certification",
           "description"   : "Cloud Service Certification Working Group",
           "gitHubURL"     : "https://github.com/finos-fdx/cloud-service-certification",
-          "heat"          : 18,
-          "watchers"      : 1,
+          "heat"          : 22,
+          "watchers"      : 3,
           "size"          : 7,
           "collaborators" : 4,
-          "stars"         : 1,
+          "stars"         : 3,
           "forks"         : 0,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 18,
-        "watchers"      : 1,
+        "heat"          : 22,
+        "watchers"      : 3,
         "size"          : 7,
         "collaborators" : 4,
-        "stars"         : 1,
+        "stars"         : 3,
         "forks"         : 0,
         "openIssues"    : 0
       },
@@ -888,15 +888,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 554,
           "watchers"      : 85,
-          "size"          : 2918,
+          "size"          : 2926,
           "collaborators" : 36,
           "stars"         : 85,
           "forks"         : 48,
-          "openIssues"    : 12,
+          "openIssues"    : 13,
           "languages"     : {
             "TypeScript" : 523390,
             "HTML" : 11245,
-            "JavaScript" : 324956
+            "JavaScript" : 325738
           }
         },
         {
@@ -905,11 +905,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 289,
           "watchers"      : 13,
-          "size"          : 3209,
+          "size"          : 3208,
           "collaborators" : 37,
           "stars"         : 13,
           "forks"         : 23,
-          "openIssues"    : 5,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 396500,
             "HTML" : 2364,
@@ -921,17 +921,17 @@
           "name"          : "fdc3-service",
           "description"   : "FDC3 Service for OpenFin",
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
-          "heat"          : 194,
-          "watchers"      : 1,
-          "size"          : 755,
+          "heat"          : 206,
+          "watchers"      : 2,
+          "size"          : 865,
           "collaborators" : 38,
-          "stars"         : 1,
-          "forks"         : 8,
-          "openIssues"    : 5,
+          "stars"         : 2,
+          "forks"         : 10,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 172700,
-            "CSS" : 48571,
-            "HTML" : 4779,
+            "TypeScript" : 185745,
+            "CSS" : 49099,
+            "HTML" : 4620,
             "JavaScript" : 5603
           }
         },
@@ -953,18 +953,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1183,
-        "watchers"      : 100,
-        "size"          : 6932,
+        "heat"          : 1195,
+        "watchers"      : 101,
+        "size"          : 7049,
         "collaborators" : 147,
-        "stars"         : 100,
-        "forks"         : 79,
-        "openIssues"    : 22,
+        "stars"         : 101,
+        "forks"         : 81,
+        "openIssues"    : 24,
         "languages"     : {
-          "TypeScript" : 1092590,
-          "HTML" : 18877,
-          "CSS" : 48571,
-          "JavaScript" : 346252,
+          "TypeScript" : 1105635,
+          "HTML" : 18718,
+          "CSS" : 49099,
+          "JavaScript" : 347034,
           "Python" : 2150
         }
       }
@@ -1030,11 +1030,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 278,
           "watchers"      : 13,
-          "size"          : 3157,
+          "size"          : 3147,
           "collaborators" : 38,
           "stars"         : 13,
           "forks"         : 20,
-          "openIssues"    : 5,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 837553,
             "HTML" : 45402,
@@ -1066,13 +1066,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 164,
           "watchers"      : 0,
-          "size"          : 375,
+          "size"          : 223,
           "collaborators" : 36,
           "stars"         : 0,
           "forks"         : 4,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 33392,
+            "TypeScript" : 33752,
             "CSS" : 70268,
             "HTML" : 2933,
             "JavaScript" : 668
@@ -1082,13 +1082,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 604,
         "watchers"      : 13,
-        "size"          : 3623,
+        "size"          : 3461,
         "collaborators" : 112,
         "stars"         : 13,
         "forks"         : 26,
-        "openIssues"    : 7,
+        "openIssues"    : 8,
         "languages"     : {
-          "TypeScript" : 886832,
+          "TypeScript" : 887192,
           "HTML" : 49628,
           "CSS" : 97081,
           "JavaScript" : 27715
@@ -1116,32 +1116,32 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 206,
           "watchers"      : 7,
-          "size"          : 5994,
+          "size"          : 6089,
           "collaborators" : 38,
           "stars"         : 7,
           "forks"         : 8,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 120400,
+            "TypeScript" : 113881,
             "CSS" : 28538,
-            "HTML" : 7192,
-            "JavaScript" : 21584
+            "HTML" : 3772,
+            "JavaScript" : 1097
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 206,
         "watchers"      : 7,
-        "size"          : 5994,
+        "size"          : 6089,
         "collaborators" : 38,
         "stars"         : 7,
         "forks"         : 8,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 120400,
+          "TypeScript" : 113881,
           "CSS" : 28538,
-          "HTML" : 7192,
-          "JavaScript" : 21584
+          "HTML" : 3772,
+          "JavaScript" : 1097
         }
       }
     },
@@ -1197,11 +1197,11 @@
           "name"          : "OSLC-handbook",
           "description"   : "A data store and handbook of practical information about complying with the most common open source licenses.",
           "gitHubURL"     : "https://github.com/finos-osr/OSLC-handbook",
-          "heat"          : 183,
-          "watchers"      : 66,
+          "heat"          : 185,
+          "watchers"      : 67,
           "size"          : 488,
           "collaborators" : 4,
-          "stars"         : 66,
+          "stars"         : 67,
           "forks"         : 7,
           "openIssues"    : 7,
           "languages"     : {
@@ -1212,11 +1212,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 183,
-        "watchers"      : 66,
+        "heat"          : 185,
+        "watchers"      : 67,
         "size"          : 488,
         "collaborators" : 4,
-        "stars"         : 66,
+        "stars"         : 67,
         "forks"         : 7,
         "openIssues"    : 7,
         "languages"     : {
@@ -2862,11 +2862,11 @@
           "name"          : "symphony-java-client",
           "description"   : "Java client library for Symphony",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-client",
-          "heat"          : 248,
-          "watchers"      : 35,
+          "heat"          : 250,
+          "watchers"      : 36,
           "size"          : 2452,
           "collaborators" : 7,
-          "stars"         : 35,
+          "stars"         : 36,
           "forks"         : 30,
           "openIssues"    : 11,
           "languages"     : {
@@ -2907,11 +2907,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 422,
-        "watchers"      : 59,
+        "heat"          : 424,
+        "watchers"      : 60,
         "size"          : 3508,
         "collaborators" : 16,
-        "stars"         : 59,
+        "stars"         : 60,
         "forks"         : 48,
         "openIssues"    : 15,
         "languages"     : {
@@ -3964,11 +3964,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
           "heat"          : 104,
           "watchers"      : 3,
-          "size"          : 371,
+          "size"          : 372,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 14,
-          "openIssues"    : 4,
+          "openIssues"    : 7,
           "languages"     : {
             "Java" : 603678
           }
@@ -3977,11 +3977,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 104,
         "watchers"      : 3,
-        "size"          : 371,
+        "size"          : 372,
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 14,
-        "openIssues"    : 4,
+        "openIssues"    : 7,
         "languages"     : {
           "Java" : 603678
         }
@@ -4274,13 +4274,13 @@
           "name"          : "SymphonyElectron",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 317,
-          "watchers"      : 36,
+          "heat"          : 324,
+          "watchers"      : 37,
           "size"          : 31673,
           "collaborators" : 10,
-          "stars"         : 36,
-          "forks"         : 41,
-          "openIssues"    : 0,
+          "stars"         : 37,
+          "forks"         : 42,
+          "openIssues"    : 1,
           "languages"     : {
             "CSS" : 8720,
             "Shell" : 5890,
@@ -4360,11 +4360,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 47,
           "watchers"      : 2,
-          "size"          : 77,
+          "size"          : 91,
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 3,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 85148,
             "JavaScript" : 385
@@ -4372,12 +4372,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 501,
-        "watchers"      : 40,
-        "size"          : 35693,
+        "heat"          : 508,
+        "watchers"      : 41,
+        "size"          : 35707,
         "collaborators" : 39,
-        "stars"         : 40,
-        "forks"         : 53,
+        "stars"         : 41,
+        "forks"         : 54,
         "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 85148,
