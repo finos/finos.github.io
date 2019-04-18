@@ -252,23 +252,23 @@
           "name"          : "appd-launcher-poc",
           "description"   : "Launcher example interfacing with AppD",
           "gitHubURL"     : "https://github.com/FDC3/appd-glue42-launcher-poc",
-          "heat"          : 174,
+          "heat"          : 179,
           "watchers"      : 1,
           "size"          : 0,
           "collaborators" : 43,
           "stars"         : 1,
-          "forks"         : 0,
-          "openIssues"    : 0
+          "forks"         : 1,
+          "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 753,
+        "heat"          : 758,
         "watchers"      : 5,
         "size"          : 766,
         "collaborators" : 172,
         "stars"         : 5,
-        "forks"         : 11,
-        "openIssues"    : 0,
+        "forks"         : 12,
+        "openIssues"    : 1,
         "languages"     : {
           "Java" : 90084,
           "Dockerfile" : 763,
@@ -713,7 +713,7 @@
           "collaborators" : 2,
           "stars"         : 2,
           "forks"         : 2,
-          "openIssues"    : 0,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 7131,
             "Shell" : 2410,
@@ -729,7 +729,7 @@
         "collaborators" : 3,
         "stars"         : 2,
         "forks"         : 3,
-        "openIssues"    : 0,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 7131,
           "Shell" : 2410,
@@ -807,7 +807,7 @@
           "collaborators" : 36,
           "stars"         : 12,
           "forks"         : 11,
-          "openIssues"    : 2,
+          "openIssues"    : 4,
           "languages"     : {
             "HTML" : 575,
             "JavaScript" : 3655
@@ -821,7 +821,7 @@
         "collaborators" : 36,
         "stars"         : 12,
         "forks"         : 11,
-        "openIssues"    : 2,
+        "openIssues"    : 4,
         "languages"     : {
           "HTML" : 575,
           "JavaScript" : 3655
@@ -886,32 +886,32 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 554,
+          "heat"          : 559,
           "watchers"      : 85,
-          "size"          : 2926,
+          "size"          : 2923,
           "collaborators" : 36,
           "stars"         : 85,
-          "forks"         : 48,
-          "openIssues"    : 13,
+          "forks"         : 49,
+          "openIssues"    : 11,
           "languages"     : {
             "TypeScript" : 523390,
             "HTML" : 11245,
-            "JavaScript" : 325738
+            "JavaScript" : 325785
           }
         },
         {
           "name"          : "js-adapter",
           "description"   : "Hadouken Node Adapter",
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
-          "heat"          : 289,
+          "heat"          : 294,
           "watchers"      : 13,
-          "size"          : 3208,
+          "size"          : 3226,
           "collaborators" : 37,
           "stars"         : 13,
-          "forks"         : 23,
-          "openIssues"    : 7,
+          "forks"         : 24,
+          "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 396500,
+            "TypeScript" : 399083,
             "HTML" : 2364,
             "JavaScript" : 11378,
             "Python" : 2150
@@ -923,15 +923,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 206,
           "watchers"      : 2,
-          "size"          : 865,
+          "size"          : 883,
           "collaborators" : 38,
           "stars"         : 2,
           "forks"         : 10,
-          "openIssues"    : 5,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 185745,
             "CSS" : 49099,
-            "HTML" : 4620,
+            "HTML" : 4530,
             "JavaScript" : 5603
           }
         },
@@ -953,18 +953,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1195,
+        "heat"          : 1205,
         "watchers"      : 101,
-        "size"          : 7049,
+        "size"          : 7082,
         "collaborators" : 147,
         "stars"         : 101,
-        "forks"         : 81,
-        "openIssues"    : 25,
+        "forks"         : 83,
+        "openIssues"    : 20,
         "languages"     : {
-          "TypeScript" : 1105635,
-          "HTML" : 18718,
+          "TypeScript" : 1108218,
+          "HTML" : 18628,
           "CSS" : 49099,
-          "JavaScript" : 347034,
+          "JavaScript" : 347081,
           "Python" : 2150
         }
       }
@@ -1030,13 +1030,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 283,
           "watchers"      : 13,
-          "size"          : 3156,
+          "size"          : 3166,
           "collaborators" : 38,
           "stars"         : 13,
           "forks"         : 21,
-          "openIssues"    : 6,
+          "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 839688,
+            "TypeScript" : 841977,
             "HTML" : 45402,
             "CSS" : 22224,
             "JavaScript" : 25521
@@ -1082,13 +1082,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 609,
         "watchers"      : 13,
-        "size"          : 3569,
+        "size"          : 3579,
         "collaborators" : 112,
         "stars"         : 13,
         "forks"         : 27,
-        "openIssues"    : 6,
+        "openIssues"    : 5,
         "languages"     : {
-          "TypeScript" : 891860,
+          "TypeScript" : 894149,
           "HTML" : 49628,
           "CSS" : 97081,
           "JavaScript" : 27715
@@ -1116,13 +1116,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 206,
           "watchers"      : 7,
-          "size"          : 6089,
+          "size"          : 6105,
           "collaborators" : 38,
           "stars"         : 7,
           "forks"         : 8,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 113881,
+            "TypeScript" : 112860,
             "CSS" : 28538,
             "HTML" : 3772,
             "JavaScript" : 1097
@@ -1132,13 +1132,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 206,
         "watchers"      : 7,
-        "size"          : 6089,
+        "size"          : 6105,
         "collaborators" : 38,
         "stars"         : 7,
         "forks"         : 8,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 113881,
+          "TypeScript" : 112860,
           "CSS" : 28538,
           "HTML" : 3772,
           "JavaScript" : 1097
@@ -1294,11 +1294,11 @@
           "name"          : "plexus-interop",
           "description"   : "Plexus Interop open source project hosted by the Fintech Open Source Foundation",
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
-          "heat"          : 733,
-          "watchers"      : 241,
+          "heat"          : 731,
+          "watchers"      : 240,
           "size"          : 6596,
           "collaborators" : 9,
-          "stars"         : 241,
+          "stars"         : 240,
           "forks"         : 43,
           "openIssues"    : 0,
           "languages"     : {
@@ -1330,11 +1330,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 779,
-        "watchers"      : 242,
+        "heat"          : 777,
+        "watchers"      : 241,
         "size"          : 6810,
         "collaborators" : 15,
-        "stars"         : 242,
+        "stars"         : 241,
         "forks"         : 47,
         "openIssues"    : 3,
         "languages"     : {
@@ -3128,13 +3128,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/app-auth-example",
           "heat"          : 32,
           "watchers"      : 3,
-          "size"          : 354,
+          "size"          : 358,
           "collaborators" : 4,
           "stars"         : 3,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 227715,
+            "Java" : 228251,
             "HTML" : 7270,
             "Shell" : 737,
             "CSS" : 320,
@@ -3191,13 +3191,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 316,
         "watchers"      : 22,
-        "size"          : 3892,
+        "size"          : 3896,
         "collaborators" : 23,
         "stars"         : 22,
         "forks"         : 36,
         "openIssues"    : 26,
         "languages"     : {
-          "Java" : 227715,
+          "Java" : 228251,
           "Shell" : 22071,
           "CSS" : 2061,
           "JavaScript" : 170187,
@@ -3265,7 +3265,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1632,
+          "size"          : 1646,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
@@ -3311,7 +3311,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1851,
+        "size"          : 1865,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
@@ -3964,26 +3964,26 @@
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
           "heat"          : 104,
           "watchers"      : 3,
-          "size"          : 372,
+          "size"          : 378,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 14,
-          "openIssues"    : 7,
+          "openIssues"    : 6,
           "languages"     : {
-            "Java" : 603678
+            "Java" : 615408
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 104,
         "watchers"      : 3,
-        "size"          : 372,
+        "size"          : 378,
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 14,
-        "openIssues"    : 7,
+        "openIssues"    : 6,
         "languages"     : {
-          "Java" : 603678
+          "Java" : 615408
         }
       }
     },
