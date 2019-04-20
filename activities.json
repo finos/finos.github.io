@@ -3962,28 +3962,28 @@
           "name"          : "messageml-utils",
           "description"   : "MessageML parser",
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
-          "heat"          : 104,
+          "heat"          : 108,
           "watchers"      : 3,
-          "size"          : 378,
-          "collaborators" : 7,
+          "size"          : 393,
+          "collaborators" : 8,
           "stars"         : 3,
           "forks"         : 14,
           "openIssues"    : 6,
           "languages"     : {
-            "Java" : 615408
+            "Java" : 619505
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 104,
+        "heat"          : 108,
         "watchers"      : 3,
-        "size"          : 378,
-        "collaborators" : 7,
+        "size"          : 393,
+        "collaborators" : 8,
         "stars"         : 3,
         "forks"         : 14,
         "openIssues"    : 6,
         "languages"     : {
-          "Java" : 615408
+          "Java" : 619505
         }
       }
     },
