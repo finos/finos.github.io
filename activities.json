@@ -865,15 +865,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 567,
           "watchers"      : 85,
-          "size"          : 2928,
+          "size"          : 2930,
           "collaborators" : 38,
           "stars"         : 85,
           "forks"         : 49,
-          "openIssues"    : 13,
+          "openIssues"    : 16,
           "languages"     : {
-            "TypeScript" : 523390,
+            "TypeScript" : 524174,
             "HTML" : 11245,
-            "JavaScript" : 325128
+            "JavaScript" : 325253
           }
         },
         {
@@ -882,13 +882,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 302,
           "watchers"      : 13,
-          "size"          : 3228,
+          "size"          : 3227,
           "collaborators" : 39,
           "stars"         : 13,
           "forks"         : 24,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
-            "TypeScript" : 399741,
+            "TypeScript" : 402830,
             "HTML" : 2364,
             "JavaScript" : 11378,
             "Python" : 2150
@@ -932,16 +932,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1242,
         "watchers"      : 101,
-        "size"          : 7096,
+        "size"          : 7097,
         "collaborators" : 155,
         "stars"         : 101,
         "forks"         : 84,
-        "openIssues"    : 23,
+        "openIssues"    : 27,
         "languages"     : {
-          "TypeScript" : 1108876,
+          "TypeScript" : 1112749,
           "HTML" : 18628,
           "CSS" : 49099,
-          "JavaScript" : 346424,
+          "JavaScript" : 346549,
           "Python" : 2150
         }
       }
@@ -1007,7 +1007,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 296,
           "watchers"      : 13,
-          "size"          : 3175,
+          "size"          : 3176,
           "collaborators" : 40,
           "stars"         : 13,
           "forks"         : 22,
@@ -1059,7 +1059,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 638,
         "watchers"      : 13,
-        "size"          : 3588,
+        "size"          : 3589,
         "collaborators" : 118,
         "stars"         : 13,
         "forks"         : 28,
@@ -3242,13 +3242,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1649,
+          "size"          : 1654,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 903809,
+            "Java" : 904157,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3288,13 +3288,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1868,
+        "size"          : 1873,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 926635,
+          "Java" : 926983,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -3941,26 +3941,26 @@
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
           "heat"          : 108,
           "watchers"      : 3,
-          "size"          : 393,
+          "size"          : 388,
           "collaborators" : 8,
           "stars"         : 3,
           "forks"         : 14,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
-            "Java" : 619505
+            "Java" : 619580
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 108,
         "watchers"      : 3,
-        "size"          : 393,
+        "size"          : 388,
         "collaborators" : 8,
         "stars"         : 3,
         "forks"         : 14,
-        "openIssues"    : 6,
+        "openIssues"    : 7,
         "languages"     : {
-          "Java" : 619505
+          "Java" : 619580
         }
       }
     },
@@ -4257,7 +4257,7 @@
           "collaborators" : 10,
           "stars"         : 37,
           "forks"         : 42,
-          "openIssues"    : 2,
+          "openIssues"    : 4,
           "languages"     : {
             "CSS" : 8720,
             "Shell" : 5890,
@@ -4288,14 +4288,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/electron-spellchecker",
           "heat"          : 24,
           "watchers"      : 0,
-          "size"          : 725,
+          "size"          : 732,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 0,
           "openIssues"    : 0,
           "languages"     : {
             "HTML" : 765,
-            "JavaScript" : 55798
+            "JavaScript" : 53248
           }
         },
         {
@@ -4337,7 +4337,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 47,
           "watchers"      : 2,
-          "size"          : 91,
+          "size"          : 94,
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 3,
@@ -4351,11 +4351,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 508,
         "watchers"      : 41,
-        "size"          : 35688,
+        "size"          : 35698,
         "collaborators" : 39,
         "stars"         : 41,
         "forks"         : 54,
-        "openIssues"    : 2,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 85148,
           "C#" : 25902,
@@ -4364,7 +4364,7 @@
           "CSS" : 8720,
           "C" : 1364,
           "Batchfile" : 552,
-          "JavaScript" : 495528,
+          "JavaScript" : 492978,
           "Objective_C" : 7338,
           "HTML" : 18984,
           "Python" : 921
