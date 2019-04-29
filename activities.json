@@ -778,12 +778,12 @@
           "name"          : "app-template",
           "description"   : "A simple unopinionated Hadouken application template.",
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
-          "heat"          : 235,
+          "heat"          : 240,
           "watchers"      : 14,
           "size"          : 182,
           "collaborators" : 38,
           "stars"         : 14,
-          "forks"         : 11,
+          "forks"         : 12,
           "openIssues"    : 4,
           "languages"     : {
             "HTML" : 575,
@@ -792,12 +792,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 235,
+        "heat"          : 240,
         "watchers"      : 14,
         "size"          : 182,
         "collaborators" : 38,
         "stars"         : 14,
-        "forks"         : 11,
+        "forks"         : 12,
         "openIssues"    : 4,
         "languages"     : {
           "HTML" : 575,
@@ -865,15 +865,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 571,
           "watchers"      : 87,
-          "size"          : 2930,
+          "size"          : 2952,
           "collaborators" : 38,
           "stars"         : 87,
           "forks"         : 49,
-          "openIssues"    : 16,
+          "openIssues"    : 14,
           "languages"     : {
             "TypeScript" : 524174,
             "HTML" : 11245,
-            "JavaScript" : 325253
+            "JavaScript" : 325343
           }
         },
         {
@@ -882,13 +882,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 302,
           "watchers"      : 13,
-          "size"          : 3227,
+          "size"          : 3240,
           "collaborators" : 39,
           "stars"         : 13,
           "forks"         : 24,
-          "openIssues"    : 7,
+          "openIssues"    : 6,
           "languages"     : {
-            "TypeScript" : 402830,
+            "TypeScript" : 403167,
             "HTML" : 2364,
             "JavaScript" : 11378,
             "Python" : 2150
@@ -900,13 +900,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 219,
           "watchers"      : 2,
-          "size"          : 890,
+          "size"          : 893,
           "collaborators" : 40,
           "stars"         : 2,
           "forks"         : 11,
           "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 185745,
+            "TypeScript" : 186382,
             "CSS" : 49099,
             "HTML" : 4530,
             "JavaScript" : 5603
@@ -932,16 +932,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1246,
         "watchers"      : 103,
-        "size"          : 7097,
+        "size"          : 7135,
         "collaborators" : 155,
         "stars"         : 103,
         "forks"         : 84,
-        "openIssues"    : 27,
+        "openIssues"    : 24,
         "languages"     : {
-          "TypeScript" : 1112749,
+          "TypeScript" : 1113723,
           "HTML" : 18628,
           "CSS" : 49099,
-          "JavaScript" : 346549,
+          "JavaScript" : 346639,
           "Python" : 2150
         }
       }
@@ -1007,11 +1007,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 296,
           "watchers"      : 13,
-          "size"          : 3176,
+          "size"          : 3190,
           "collaborators" : 40,
           "stars"         : 13,
           "forks"         : 22,
-          "openIssues"    : 4,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 841977,
             "HTML" : 45402,
@@ -1059,11 +1059,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 638,
         "watchers"      : 13,
-        "size"          : 3589,
+        "size"          : 3603,
         "collaborators" : 118,
         "stars"         : 13,
         "forks"         : 28,
-        "openIssues"    : 5,
+        "openIssues"    : 7,
         "languages"     : {
           "TypeScript" : 894149,
           "HTML" : 49628,
@@ -1097,7 +1097,7 @@
           "collaborators" : 40,
           "stars"         : 7,
           "forks"         : 8,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 116942,
             "CSS" : 28538,
@@ -1113,7 +1113,7 @@
         "collaborators" : 40,
         "stars"         : 7,
         "forks"         : 8,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 116942,
           "CSS" : 28538,
@@ -1176,7 +1176,7 @@
           "gitHubURL"     : "https://github.com/finos-osr/OSLC-handbook",
           "heat"          : 187,
           "watchers"      : 68,
-          "size"          : 488,
+          "size"          : 495,
           "collaborators" : 4,
           "stars"         : 68,
           "forks"         : 7,
@@ -1191,7 +1191,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 187,
         "watchers"      : 68,
-        "size"          : 488,
+        "size"          : 495,
         "collaborators" : 4,
         "stars"         : 68,
         "forks"         : 7,
