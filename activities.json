@@ -1011,9 +1011,9 @@
           "collaborators" : 42,
           "stars"         : 13,
           "forks"         : 22,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 850662,
+            "TypeScript" : 857415,
             "HTML" : 45402,
             "CSS" : 22224,
             "JavaScript" : 25521
@@ -1063,9 +1063,9 @@
         "collaborators" : 124,
         "stars"         : 13,
         "forks"         : 28,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 902834,
+          "TypeScript" : 909587,
           "HTML" : 49628,
           "CSS" : 97081,
           "JavaScript" : 27715
@@ -1097,12 +1097,12 @@
           "collaborators" : 42,
           "stars"         : 7,
           "forks"         : 8,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 116942,
             "CSS" : 28538,
             "HTML" : 3772,
-            "JavaScript" : 1097
+            "JavaScript" : 1112
           }
         }
       ],
@@ -1113,12 +1113,12 @@
         "collaborators" : 42,
         "stars"         : 7,
         "forks"         : 8,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 116942,
           "CSS" : 28538,
           "HTML" : 3772,
-          "JavaScript" : 1097
+          "JavaScript" : 1112
         }
       }
     },
@@ -2531,14 +2531,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 609,
+          "size"          : 622,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 497666,
-            "FreeMarker" : 138218,
+            "Java" : 501389,
+            "FreeMarker" : 138220,
             "JavaScript" : 13681
           }
         },
@@ -2548,27 +2548,27 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon-example",
           "heat"          : 21,
           "watchers"      : 0,
-          "size"          : 299,
+          "size"          : 305,
           "collaborators" : 4,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 48041
+            "Java" : 48042
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 42,
         "watchers"      : 0,
-        "size"          : 908,
+        "size"          : 927,
         "collaborators" : 8,
         "stars"         : 0,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 545707,
-          "FreeMarker" : 138218,
+          "Java" : 549431,
+          "FreeMarker" : 138220,
           "JavaScript" : 13681
         }
       }
@@ -3242,13 +3242,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1654,
+          "size"          : 1697,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 904157,
+            "Java" : 904388,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3288,13 +3288,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1873,
+        "size"          : 1916,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 926983,
+          "Java" : 927214,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -4507,7 +4507,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 37,
           "watchers"      : 2,
-          "size"          : 139,
+          "size"          : 144,
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 1,
@@ -4520,7 +4520,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 37,
         "watchers"      : 2,
-        "size"          : 139,
+        "size"          : 144,
         "collaborators" : 7,
         "stars"         : 2,
         "forks"         : 1,
