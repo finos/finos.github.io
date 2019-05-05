@@ -1049,7 +1049,7 @@
           "collaborators" : 40,
           "stars"         : 0,
           "forks"         : 4,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 36285,
             "CSS" : 70268,
@@ -1065,7 +1065,7 @@
         "collaborators" : 124,
         "stars"         : 13,
         "forks"         : 28,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 909587,
           "HTML" : 49628,
@@ -3244,7 +3244,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1697,
+          "size"          : 1714,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
@@ -3290,7 +3290,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 1937,
+        "size"          : 1954,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
