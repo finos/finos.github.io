@@ -930,13 +930,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 584,
           "watchers"      : 87,
-          "size"          : 3045,
+          "size"          : 3020,
           "collaborators" : 40,
           "stars"         : 87,
           "forks"         : 50,
-          "openIssues"    : 18,
+          "openIssues"    : 17,
           "languages"     : {
-            "TypeScript" : 585702,
+            "TypeScript" : 585818,
             "HTML" : 11245,
             "JavaScript" : 321345
           }
@@ -997,13 +997,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1295,
         "watchers"      : 104,
-        "size"          : 7290,
+        "size"          : 7265,
         "collaborators" : 163,
         "stars"         : 104,
         "forks"         : 87,
-        "openIssues"    : 26,
+        "openIssues"    : 25,
         "languages"     : {
-          "TypeScript" : 1196683,
+          "TypeScript" : 1196799,
           "HTML" : 18628,
           "CSS" : 49099,
           "JavaScript" : 342685,
@@ -1108,7 +1108,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 180,
           "watchers"      : 0,
-          "size"          : 343,
+          "size"          : 353,
           "collaborators" : 40,
           "stars"         : 0,
           "forks"         : 4,
@@ -1124,7 +1124,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 664,
         "watchers"      : 14,
-        "size"          : 3723,
+        "size"          : 3733,
         "collaborators" : 124,
         "stars"         : 14,
         "forks"         : 28,
@@ -1361,11 +1361,11 @@
           "gitHubURL"     : "https://github.com/finos-plexus/finos-plexus.github.io",
           "heat"          : 41,
           "watchers"      : 1,
-          "size"          : 214,
+          "size"          : 850,
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 3,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 21599
           }
@@ -1374,11 +1374,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 776,
         "watchers"      : 243,
-        "size"          : 6864,
+        "size"          : 7500,
         "collaborators" : 15,
         "stars"         : 243,
         "forks"         : 46,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 1173141,
           "C#" : 1747756,
@@ -4318,13 +4318,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 324,
           "watchers"      : 37,
-          "size"          : 33290,
+          "size"          : 33307,
           "collaborators" : 10,
           "stars"         : 37,
           "forks"         : 42,
-          "openIssues"    : 5,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 392362,
+            "TypeScript" : 392372,
             "CSS" : 19202,
             "Shell" : 5890,
             "Batchfile" : 552,
@@ -4417,13 +4417,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 508,
         "watchers"      : 41,
-        "size"          : 37350,
+        "size"          : 37367,
         "collaborators" : 39,
         "stars"         : 41,
         "forks"         : 54,
-        "openIssues"    : 7,
+        "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 477621,
+          "TypeScript" : 477631,
           "C#" : 25902,
           "Shell" : 5890,
           "C++" : 35850,
