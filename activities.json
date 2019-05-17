@@ -113,7 +113,7 @@
       "programName"          : "Data Analytics Visualization",
       "programShortName"     : "DAV",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/DAV/overview",
-      "activityName"         : "PerspectiveJS",
+      "activityName"         : "Perspective",
       "type"                 : "PROJECT",
       "state"                : "INCUBATING",
       "contributionDate"     : "2019-04-30",
@@ -131,11 +131,11 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 4366,
           "watchers"      : 1840,
-          "size"          : 13707,
+          "size"          : 13720,
           "collaborators" : 9,
           "stars"         : 1840,
           "forks"         : 130,
-          "openIssues"    : 23,
+          "openIssues"    : 24,
           "languages"     : {
             "TypeScript" : 25873,
             "Dockerfile" : 6495,
@@ -153,11 +153,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 4366,
         "watchers"      : 1840,
-        "size"          : 13707,
+        "size"          : 13720,
         "collaborators" : 9,
         "stars"         : 1840,
         "forks"         : 130,
-        "openIssues"    : 23,
+        "openIssues"    : 24,
         "languages"     : {
           "TypeScript" : 25873,
           "Dockerfile" : 6495,
@@ -3313,7 +3313,7 @@
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
-            "Java" : 931523,
+            "Java" : 931822,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3359,7 +3359,7 @@
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
-          "Java" : 954761,
+          "Java" : 955060,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -4318,11 +4318,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 324,
           "watchers"      : 37,
-          "size"          : 33289,
+          "size"          : 33290,
           "collaborators" : 10,
           "stars"         : 37,
           "forks"         : 42,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 392362,
             "CSS" : 19202,
@@ -4417,11 +4417,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 508,
         "watchers"      : 41,
-        "size"          : 37349,
+        "size"          : 37350,
         "collaborators" : 39,
         "stars"         : 41,
         "forks"         : 54,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 477621,
           "C#" : 25902,
