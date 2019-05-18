@@ -928,13 +928,13 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 584,
-          "watchers"      : 87,
-          "size"          : 3020,
+          "heat"          : 586,
+          "watchers"      : 88,
+          "size"          : 3031,
           "collaborators" : 40,
-          "stars"         : 87,
+          "stars"         : 88,
           "forks"         : 50,
-          "openIssues"    : 17,
+          "openIssues"    : 18,
           "languages"     : {
             "TypeScript" : 585818,
             "HTML" : 11245,
@@ -951,7 +951,7 @@
           "collaborators" : 41,
           "stars"         : 13,
           "forks"         : 25,
-          "openIssues"    : 5,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 422381,
             "HTML" : 2364,
@@ -995,13 +995,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1295,
-        "watchers"      : 104,
-        "size"          : 7265,
+        "heat"          : 1297,
+        "watchers"      : 105,
+        "size"          : 7276,
         "collaborators" : 163,
-        "stars"         : 104,
+        "stars"         : 105,
         "forks"         : 87,
-        "openIssues"    : 25,
+        "openIssues"    : 27,
         "languages"     : {
           "TypeScript" : 1196799,
           "HTML" : 18628,
@@ -4403,13 +4403,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 47,
           "watchers"      : 2,
-          "size"          : 110,
+          "size"          : 109,
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 3,
-          "openIssues"    : 2,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 85259,
+            "TypeScript" : 85397,
             "JavaScript" : 385
           }
         }
@@ -4417,13 +4417,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 508,
         "watchers"      : 41,
-        "size"          : 37367,
+        "size"          : 37366,
         "collaborators" : 39,
         "stars"         : 41,
         "forks"         : 54,
-        "openIssues"    : 2,
+        "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 477631,
+          "TypeScript" : 477769,
           "C#" : 25902,
           "Shell" : 5890,
           "C++" : 35850,
@@ -4569,15 +4569,15 @@
       "gitHubRepos"          : [
         {
           "name"          : "greenkey-discovery-sdk",
-          "description"   : "Speed up business workflows through creating custom 'voice skills' and text interpreters",
+          "description"   : "Speed up business workflows through custom 'voice skills' and text (NLP) interpreters",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 37,
           "watchers"      : 2,
-          "size"          : 150,
+          "size"          : 155,
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 1,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "Python" : 62915
           }
@@ -4586,11 +4586,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 37,
         "watchers"      : 2,
-        "size"          : 150,
+        "size"          : 155,
         "collaborators" : 7,
         "stars"         : 2,
         "forks"         : 1,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "Python" : 62915
         }
@@ -4662,7 +4662,7 @@
           "collaborators" : 4,
           "stars"         : 3,
           "forks"         : 5,
-          "openIssues"    : 7
+          "openIssues"    : 8
         }
       ],
       "cumulativeGitHubStats" : {
@@ -4672,7 +4672,7 @@
         "collaborators" : 4,
         "stars"         : 3,
         "forks"         : 5,
-        "openIssues"    : 7
+        "openIssues"    : 8
       },
       "mailingLists"       : [
         {
