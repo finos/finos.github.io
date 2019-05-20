@@ -129,13 +129,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4366,
-          "watchers"      : 1840,
-          "size"          : 13720,
+          "heat"          : 4373,
+          "watchers"      : 1841,
+          "size"          : 13736,
           "collaborators" : 9,
-          "stars"         : 1840,
-          "forks"         : 130,
-          "openIssues"    : 24,
+          "stars"         : 1841,
+          "forks"         : 131,
+          "openIssues"    : 26,
           "languages"     : {
             "TypeScript" : 25873,
             "Dockerfile" : 6495,
@@ -151,13 +151,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4366,
-        "watchers"      : 1840,
-        "size"          : 13720,
+        "heat"          : 4373,
+        "watchers"      : 1841,
+        "size"          : 13736,
         "collaborators" : 9,
-        "stars"         : 1840,
-        "forks"         : 130,
-        "openIssues"    : 24,
+        "stars"         : 1841,
+        "forks"         : 131,
+        "openIssues"    : 26,
         "languages"     : {
           "TypeScript" : 25873,
           "Dockerfile" : 6495,
@@ -321,7 +321,7 @@
           "collaborators" : 43,
           "stars"         : 1,
           "forks"         : 1,
-          "openIssues"    : 1
+          "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
@@ -331,7 +331,7 @@
         "collaborators" : 172,
         "stars"         : 5,
         "forks"         : 12,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "Java" : 90084,
           "Dockerfile" : 763,
@@ -928,17 +928,17 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 586,
+          "heat"          : 591,
           "watchers"      : 88,
-          "size"          : 3031,
+          "size"          : 3038,
           "collaborators" : 40,
           "stars"         : 88,
-          "forks"         : 50,
-          "openIssues"    : 18,
+          "forks"         : 51,
+          "openIssues"    : 17,
           "languages"     : {
             "TypeScript" : 585818,
             "HTML" : 11245,
-            "JavaScript" : 321345
+            "JavaScript" : 321591
           }
         },
         {
@@ -965,13 +965,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 234,
           "watchers"      : 3,
-          "size"          : 942,
+          "size"          : 1027,
           "collaborators" : 42,
           "stars"         : 3,
           "forks"         : 12,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 188600,
+            "TypeScript" : 188633,
             "CSS" : 49099,
             "HTML" : 4530,
             "JavaScript" : 5647
@@ -995,18 +995,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1297,
+        "heat"          : 1302,
         "watchers"      : 105,
-        "size"          : 7276,
+        "size"          : 7368,
         "collaborators" : 163,
         "stars"         : 105,
-        "forks"         : 87,
-        "openIssues"    : 27,
+        "forks"         : 88,
+        "openIssues"    : 25,
         "languages"     : {
-          "TypeScript" : 1196799,
+          "TypeScript" : 1196832,
           "HTML" : 18628,
           "CSS" : 49099,
-          "JavaScript" : 342685,
+          "JavaScript" : 342931,
           "Python" : 2150
         }
       }
@@ -1076,7 +1076,7 @@
           "collaborators" : 42,
           "stars"         : 14,
           "forks"         : 22,
-          "openIssues"    : 1,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 858363,
             "HTML" : 45402,
@@ -1108,13 +1108,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 180,
           "watchers"      : 0,
-          "size"          : 353,
+          "size"          : 360,
           "collaborators" : 40,
           "stars"         : 0,
           "forks"         : 4,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 39868,
+            "TypeScript" : 39953,
             "CSS" : 70303,
             "HTML" : 2933,
             "JavaScript" : 668
@@ -1124,13 +1124,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 664,
         "watchers"      : 14,
-        "size"          : 3733,
+        "size"          : 3740,
         "collaborators" : 124,
         "stars"         : 14,
         "forks"         : 28,
-        "openIssues"    : 1,
+        "openIssues"    : 4,
         "languages"     : {
-          "TypeScript" : 914118,
+          "TypeScript" : 914203,
           "HTML" : 49628,
           "CSS" : 97116,
           "JavaScript" : 27715
@@ -1162,7 +1162,7 @@
           "collaborators" : 42,
           "stars"         : 7,
           "forks"         : 11,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 116942,
             "CSS" : 28538,
@@ -1178,7 +1178,7 @@
         "collaborators" : 42,
         "stars"         : 7,
         "forks"         : 11,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 116942,
           "CSS" : 28538,
@@ -3307,7 +3307,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 1910,
+          "size"          : 1915,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
@@ -3353,7 +3353,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 76,
         "watchers"      : 0,
-        "size"          : 2160,
+        "size"          : 2165,
         "collaborators" : 14,
         "stars"         : 0,
         "forks"         : 4,
@@ -4318,7 +4318,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 324,
           "watchers"      : 37,
-          "size"          : 33307,
+          "size"          : 33280,
           "collaborators" : 10,
           "stars"         : 37,
           "forks"         : 42,
@@ -4417,7 +4417,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 508,
         "watchers"      : 41,
-        "size"          : 37366,
+        "size"          : 37339,
         "collaborators" : 39,
         "stars"         : 41,
         "forks"         : 54,
