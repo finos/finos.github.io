@@ -129,13 +129,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4424,
+          "heat"          : 4429,
           "watchers"      : 1859,
-          "size"          : 14025,
+          "size"          : 14022,
           "collaborators" : 9,
           "stars"         : 1859,
-          "forks"         : 134,
-          "openIssues"    : 28,
+          "forks"         : 135,
+          "openIssues"    : 29,
           "languages"     : {
             "TypeScript" : 25896,
             "Dockerfile" : 6495,
@@ -143,21 +143,21 @@
             "CSS" : 66258,
             "C" : 3505,
             "CMake" : 28130,
-            "JavaScript" : 879633,
-            "HTML" : 27856,
+            "JavaScript" : 880524,
+            "HTML" : 27815,
             "Jupyter Notebook" : 4054,
             "Python" : 18354
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4424,
+        "heat"          : 4429,
         "watchers"      : 1859,
-        "size"          : 14025,
+        "size"          : 14022,
         "collaborators" : 9,
         "stars"         : 1859,
-        "forks"         : 134,
-        "openIssues"    : 28,
+        "forks"         : 135,
+        "openIssues"    : 29,
         "languages"     : {
           "TypeScript" : 25896,
           "Dockerfile" : 6495,
@@ -165,8 +165,8 @@
           "CSS" : 66258,
           "C" : 3505,
           "CMake" : 28130,
-          "JavaScript" : 879633,
-          "HTML" : 27856,
+          "JavaScript" : 880524,
+          "HTML" : 27815,
           "Jupyter Notebook" : 4054,
           "Python" : 18354
         }
@@ -196,7 +196,7 @@
           "collaborators" : 43,
           "stars"         : 4,
           "forks"         : 3,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "HTML" : 3858,
             "JavaScript" : 3994
@@ -210,7 +210,7 @@
         "collaborators" : 43,
         "stars"         : 4,
         "forks"         : 3,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "HTML" : 3858,
           "JavaScript" : 3994
@@ -502,7 +502,7 @@
           "gitHubURL"     : "https://github.com/finos-fdx/bot-github-chatops",
           "heat"          : 34,
           "watchers"      : 4,
-          "size"          : 389,
+          "size"          : 391,
           "collaborators" : 4,
           "stars"         : 4,
           "forks"         : 2,
@@ -517,7 +517,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 34,
         "watchers"      : 4,
-        "size"          : 389,
+        "size"          : 391,
         "collaborators" : 4,
         "stars"         : 4,
         "forks"         : 2,
@@ -544,7 +544,7 @@
           "gitHubURL"     : "https://github.com/finos-fdx/cla-bot",
           "heat"          : 117,
           "watchers"      : 28,
-          "size"          : 964,
+          "size"          : 968,
           "collaborators" : 4,
           "stars"         : 28,
           "forks"         : 9,
@@ -558,7 +558,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 117,
         "watchers"      : 28,
-        "size"          : 964,
+        "size"          : 968,
         "collaborators" : 4,
         "stars"         : 28,
         "forks"         : 9,
@@ -584,7 +584,7 @@
           "gitHubURL"     : "https://github.com/finos-fdx/finos-parent-pom",
           "heat"          : 19,
           "watchers"      : 1,
-          "size"          : 74,
+          "size"          : 78,
           "collaborators" : 3,
           "stars"         : 1,
           "forks"         : 1,
@@ -600,7 +600,7 @@
           "collaborators" : 3,
           "stars"         : 0,
           "forks"         : 2,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Shell" : 21188,
             "HTML" : 472,
@@ -611,11 +611,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 41,
         "watchers"      : 1,
-        "size"          : 260,
+        "size"          : 264,
         "collaborators" : 6,
         "stars"         : 1,
         "forks"         : 3,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "Shell" : 21188,
           "HTML" : 472,
@@ -753,7 +753,7 @@
           "collaborators" : 4,
           "stars"         : 2,
           "forks"         : 3,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 7131,
             "Shell" : 2410,
@@ -769,7 +769,7 @@
         "collaborators" : 5,
         "stars"         : 2,
         "forks"         : 4,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 7131,
           "Shell" : 2410,
@@ -847,7 +847,7 @@
           "collaborators" : 40,
           "stars"         : 14,
           "forks"         : 15,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "CSS" : 704,
             "HTML" : 703,
@@ -862,7 +862,7 @@
         "collaborators" : 40,
         "stars"         : 14,
         "forks"         : 15,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "CSS" : 704,
           "HTML" : 703,
@@ -893,7 +893,7 @@
           "collaborators" : 40,
           "stars"         : 1,
           "forks"         : 1,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "JavaScript" : 4041
           }
@@ -906,7 +906,7 @@
         "collaborators" : 40,
         "stars"         : 1,
         "forks"         : 1,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "JavaScript" : 4041
         }
@@ -930,13 +930,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 600,
           "watchers"      : 90,
-          "size"          : 3018,
+          "size"          : 3038,
           "collaborators" : 40,
           "stars"         : 90,
           "forks"         : 52,
-          "openIssues"    : 19,
+          "openIssues"    : 21,
           "languages"     : {
-            "TypeScript" : 591158,
+            "TypeScript" : 591305,
             "HTML" : 11245,
             "JavaScript" : 321295
           }
@@ -945,13 +945,13 @@
           "name"          : "js-adapter",
           "description"   : "Hadouken Node Adapter",
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
-          "heat"          : 320,
-          "watchers"      : 13,
-          "size"          : 3923,
+          "heat"          : 322,
+          "watchers"      : 14,
+          "size"          : 3924,
           "collaborators" : 41,
-          "stars"         : 13,
+          "stars"         : 14,
           "forks"         : 26,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 424230,
             "HTML" : 2364,
@@ -965,13 +965,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 248,
           "watchers"      : 5,
-          "size"          : 1078,
+          "size"          : 1107,
           "collaborators" : 42,
           "stars"         : 5,
           "forks"         : 14,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 250745,
+            "TypeScript" : 251609,
             "CSS" : 49078,
             "HTML" : 5054,
             "JavaScript" : 4249
@@ -987,7 +987,7 @@
           "collaborators" : 40,
           "stars"         : 1,
           "forks"         : 1,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "HTML" : 489,
             "JavaScript" : 4315
@@ -995,15 +995,15 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1335,
-        "watchers"      : 109,
-        "size"          : 8069,
+        "heat"          : 1337,
+        "watchers"      : 110,
+        "size"          : 8119,
         "collaborators" : 163,
-        "stars"         : 109,
+        "stars"         : 110,
         "forks"         : 93,
-        "openIssues"    : 27,
+        "openIssues"    : 32,
         "languages"     : {
-          "TypeScript" : 1266133,
+          "TypeScript" : 1267144,
           "HTML" : 19152,
           "CSS" : 49078,
           "JavaScript" : 341237,
@@ -1162,7 +1162,7 @@
           "collaborators" : 42,
           "stars"         : 7,
           "forks"         : 12,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 94389,
             "CSS" : 10576,
@@ -1178,7 +1178,7 @@
         "collaborators" : 42,
         "stars"         : 7,
         "forks"         : 12,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 94389,
           "CSS" : 10576,
@@ -1245,7 +1245,7 @@
           "collaborators" : 4,
           "stars"         : 72,
           "forks"         : 9,
-          "openIssues"    : 9,
+          "openIssues"    : 10,
           "languages"     : {
             "HTML" : 232059,
             "CSS" : 80487,
@@ -1260,7 +1260,7 @@
         "collaborators" : 4,
         "stars"         : 72,
         "forks"         : 9,
-        "openIssues"    : 9,
+        "openIssues"    : 10,
         "languages"     : {
           "HTML" : 232059,
           "CSS" : 80487,
@@ -1342,7 +1342,7 @@
           "collaborators" : 9,
           "stars"         : 242,
           "forks"         : 44,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 1151542,
             "C#" : 1747756,
@@ -1365,7 +1365,7 @@
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 4,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 21599
           }
@@ -1378,7 +1378,7 @@
         "collaborators" : 15,
         "stars"         : 243,
         "forks"         : 48,
-        "openIssues"    : 3,
+        "openIssues"    : 5,
         "languages"     : {
           "TypeScript" : 1173141,
           "C#" : 1747756,
@@ -1444,7 +1444,7 @@
           "collaborators" : 9,
           "stars"         : 0,
           "forks"         : 2,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "Java" : 157825,
             "JavaScript" : 2291
@@ -1458,7 +1458,7 @@
         "collaborators" : 9,
         "stars"         : 0,
         "forks"         : 2,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "Java" : 157825,
           "JavaScript" : 2291
@@ -1488,7 +1488,7 @@
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 3,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Java" : 208921,
             "HTML" : 38712
@@ -1502,7 +1502,7 @@
         "collaborators" : 5,
         "stars"         : 0,
         "forks"         : 3,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "Java" : 208921,
           "HTML" : 38712
@@ -1531,7 +1531,7 @@
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 6,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "JavaScript" : 8355
           }
@@ -1544,7 +1544,7 @@
         "collaborators" : 5,
         "stars"         : 0,
         "forks"         : 6,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "JavaScript" : 8355
         }
@@ -1657,7 +1657,7 @@
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "JavaScript" : 5001
           }
@@ -1670,7 +1670,7 @@
         "collaborators" : 5,
         "stars"         : 0,
         "forks"         : 1,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "JavaScript" : 5001
         }
@@ -1698,7 +1698,7 @@
           "collaborators" : 6,
           "stars"         : 3,
           "forks"         : 10,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "CoffeeScript" : 25010,
             "Shell" : 2245,
@@ -1713,7 +1713,7 @@
         "collaborators" : 6,
         "stars"         : 3,
         "forks"         : 10,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "CoffeeScript" : 25010,
           "Shell" : 2245,
@@ -1869,7 +1869,7 @@
           "collaborators" : 10,
           "stars"         : 0,
           "forks"         : 3,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Java" : 735956,
             "Dockerfile" : 4705,
@@ -1886,7 +1886,7 @@
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 3,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "Java" : 735956,
           "Dockerfile" : 4705,
@@ -1953,7 +1953,7 @@
           "collaborators" : 7,
           "stars"         : 5,
           "forks"         : 3,
-          "openIssues"    : 7,
+          "openIssues"    : 8,
           "languages"     : {
             "Java" : 686027,
             "HTML" : 9435
@@ -1967,7 +1967,7 @@
         "collaborators" : 7,
         "stars"         : 5,
         "forks"         : 3,
-        "openIssues"    : 7,
+        "openIssues"    : 8,
         "languages"     : {
           "Java" : 686027,
           "HTML" : 9435
@@ -2168,7 +2168,7 @@
           "collaborators" : 5,
           "stars"         : 4,
           "forks"         : 2,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "Shell" : 558,
             "Python" : 8468
@@ -2182,7 +2182,7 @@
         "collaborators" : 5,
         "stars"         : 4,
         "forks"         : 2,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "Shell" : 558,
           "Python" : 8468
@@ -2212,7 +2212,7 @@
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
-          "openIssues"    : 0
+          "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
@@ -2222,7 +2222,7 @@
         "collaborators" : 5,
         "stars"         : 0,
         "forks"         : 2,
-        "openIssues"    : 0
+        "openIssues"    : 1
       }
     },
     {
@@ -2247,7 +2247,7 @@
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 2,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "Java" : 76544
           }
@@ -2260,7 +2260,7 @@
         "collaborators" : 6,
         "stars"         : 0,
         "forks"         : 2,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "Java" : 76544
         }
@@ -2330,7 +2330,7 @@
           "collaborators" : 5,
           "stars"         : 2,
           "forks"         : 2,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "CSS" : 22720,
             "HTML" : 18029,
@@ -2345,7 +2345,7 @@
         "collaborators" : 5,
         "stars"         : 2,
         "forks"         : 2,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "CSS" : 22720,
           "HTML" : 18029,
@@ -2377,7 +2377,7 @@
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 2,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "CSS" : 20843,
             "HTML" : 17084,
@@ -2392,7 +2392,7 @@
         "collaborators" : 6,
         "stars"         : 1,
         "forks"         : 2,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "CSS" : 20843,
           "HTML" : 17084,
@@ -2425,7 +2425,7 @@
           "collaborators" : 4,
           "stars"         : 4,
           "forks"         : 3,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "Dockerfile" : 401,
             "Shell" : 1098,
@@ -2440,7 +2440,7 @@
         "collaborators" : 4,
         "stars"         : 4,
         "forks"         : 3,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "Dockerfile" : 401,
           "Shell" : 1098,
@@ -2515,7 +2515,7 @@
           "collaborators" : 5,
           "stars"         : 4,
           "forks"         : 4,
-          "openIssues"    : 10,
+          "openIssues"    : 11,
           "languages"     : {
             "Java" : 268867,
             "Shell" : 4210
@@ -2529,7 +2529,7 @@
         "collaborators" : 5,
         "stars"         : 4,
         "forks"         : 4,
-        "openIssues"    : 10,
+        "openIssues"    : 11,
         "languages"     : {
           "Java" : 268867,
           "Shell" : 4210
@@ -2600,7 +2600,7 @@
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Java" : 501857,
             "FreeMarker" : 138220,
@@ -2617,7 +2617,7 @@
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Java" : 48042
           }
@@ -2630,7 +2630,7 @@
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 4,
-        "openIssues"    : 0,
+        "openIssues"    : 2,
         "languages"     : {
           "Java" : 549899,
           "FreeMarker" : 138220,
@@ -2657,7 +2657,7 @@
           "collaborators" : 6,
           "stars"         : 2,
           "forks"         : 4,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "HTML" : 1812,
             "JavaScript" : 4608
@@ -2671,7 +2671,7 @@
         "collaborators" : 6,
         "stars"         : 2,
         "forks"         : 4,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "HTML" : 1812,
           "JavaScript" : 4608
@@ -2701,7 +2701,7 @@
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 2,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "HTML" : 1834,
             "CSS" : 1018,
@@ -2716,7 +2716,7 @@
         "collaborators" : 6,
         "stars"         : 1,
         "forks"         : 2,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "HTML" : 1834,
           "CSS" : 1018,
@@ -2746,7 +2746,7 @@
           "collaborators" : 6,
           "stars"         : 5,
           "forks"         : 20,
-          "openIssues"    : 0
+          "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
@@ -2756,7 +2756,7 @@
         "collaborators" : 6,
         "stars"         : 5,
         "forks"         : 20,
-        "openIssues"    : 0
+        "openIssues"    : 2
       }
     },
     {
@@ -2782,7 +2782,7 @@
           "collaborators" : 4,
           "stars"         : 4,
           "forks"         : 5,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "Clojure" : 61538
           }
@@ -2795,7 +2795,7 @@
         "collaborators" : 4,
         "stars"         : 4,
         "forks"         : 5,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "Clojure" : 61538
         }
@@ -2823,7 +2823,7 @@
           "collaborators" : 7,
           "stars"         : 13,
           "forks"         : 14,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "C#" : 1992342,
             "Batchfile" : 7671
@@ -2837,7 +2837,7 @@
         "collaborators" : 7,
         "stars"         : 13,
         "forks"         : 14,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "C#" : 1992342,
           "Batchfile" : 7671
@@ -2868,7 +2868,7 @@
           "collaborators" : 5,
           "stars"         : 9,
           "forks"         : 12,
-          "openIssues"    : 12,
+          "openIssues"    : 13,
           "languages"     : {
             "JavaScript" : 81960
           }
@@ -2881,7 +2881,7 @@
         "collaborators" : 5,
         "stars"         : 9,
         "forks"         : 12,
-        "openIssues"    : 12,
+        "openIssues"    : 13,
         "languages"     : {
           "JavaScript" : 81960
         }
@@ -2910,7 +2910,7 @@
           "collaborators" : 8,
           "stars"         : 35,
           "forks"         : 33,
-          "openIssues"    : 11,
+          "openIssues"    : 12,
           "languages"     : {
             "Java" : 695383,
             "Shell" : 1987
@@ -2926,7 +2926,7 @@
           "collaborators" : 6,
           "stars"         : 2,
           "forks"         : 6,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Shell" : 1938
           }
@@ -2955,7 +2955,7 @@
         "collaborators" : 19,
         "stars"         : 58,
         "forks"         : 52,
-        "openIssues"    : 15,
+        "openIssues"    : 17,
         "languages"     : {
           "Java" : 718953,
           "Shell" : 4382
@@ -2985,7 +2985,7 @@
           "collaborators" : 6,
           "stars"         : 2,
           "forks"         : 11,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "JavaScript" : 28233
           }
@@ -2998,7 +2998,7 @@
         "collaborators" : 6,
         "stars"         : 2,
         "forks"         : 11,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "JavaScript" : 28233
         }
@@ -3020,13 +3020,13 @@
           "name"          : "python-symphony",
           "description"   : "An importable class that provides methods and objects for interacting with the Symphony Agent API from python",
           "gitHubURL"     : "https://github.com/symphonyoss/python-symphony",
-          "heat"          : 108,
-          "watchers"      : 14,
+          "heat"          : 110,
+          "watchers"      : 15,
           "size"          : 181,
           "collaborators" : 5,
-          "stars"         : 14,
+          "stars"         : 15,
           "forks"         : 12,
-          "openIssues"    : 7,
+          "openIssues"    : 8,
           "languages"     : {
             "Shell" : 11,
             "Makefile" : 2118,
@@ -3043,7 +3043,7 @@
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 3,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Shell" : 11,
             "Makefile" : 2118,
@@ -3052,13 +3052,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 143,
-        "watchers"      : 14,
+        "heat"          : 145,
+        "watchers"      : 15,
         "size"          : 226,
         "collaborators" : 10,
-        "stars"         : 14,
+        "stars"         : 15,
         "forks"         : 15,
-        "openIssues"    : 7,
+        "openIssues"    : 9,
         "languages"     : {
           "Shell" : 22,
           "Makefile" : 4236,
@@ -3159,7 +3159,7 @@
           "collaborators" : 4,
           "stars"         : 3,
           "forks"         : 4,
-          "openIssues"    : 9,
+          "openIssues"    : 10,
           "languages"     : {
             "HTML" : 498
           }
@@ -3174,7 +3174,7 @@
           "collaborators" : 5,
           "stars"         : 3,
           "forks"         : 3,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Java" : 228251,
             "HTML" : 7270,
@@ -3193,7 +3193,7 @@
           "collaborators" : 5,
           "stars"         : 3,
           "forks"         : 2,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "HTML" : 2147,
             "CSS" : 947,
@@ -3210,7 +3210,7 @@
           "collaborators" : 6,
           "stars"         : 11,
           "forks"         : 26,
-          "openIssues"    : 13,
+          "openIssues"    : 14,
           "languages"     : {
             "HTML" : 6781,
             "CSS" : 794,
@@ -3227,7 +3227,7 @@
           "collaborators" : 5,
           "stars"         : 1,
           "forks"         : 3,
-          "openIssues"    : 0
+          "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
@@ -3237,7 +3237,7 @@
         "collaborators" : 29,
         "stars"         : 22,
         "forks"         : 42,
-        "openIssues"    : 26,
+        "openIssues"    : 31,
         "languages"     : {
           "Java" : 228251,
           "Shell" : 22071,
@@ -3270,7 +3270,7 @@
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "JavaScript" : 5818
           }
@@ -3283,7 +3283,7 @@
         "collaborators" : 5,
         "stars"         : 0,
         "forks"         : 1,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "JavaScript" : 5818
         }
@@ -3311,7 +3311,7 @@
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Java" : 936603,
             "CSS" : 29377,
@@ -3329,7 +3329,7 @@
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 2,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Java" : 23238
           }
@@ -3344,7 +3344,7 @@
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Groovy" : 300668
           }
@@ -3357,7 +3357,7 @@
         "collaborators" : 17,
         "stars"         : 0,
         "forks"         : 7,
-        "openIssues"    : 0,
+        "openIssues"    : 3,
         "languages"     : {
           "Java" : 959841,
           "CSS" : 29377,
@@ -3390,7 +3390,7 @@
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "C#" : 107314,
             "CSS" : 651245,
@@ -3408,7 +3408,7 @@
         "collaborators" : 5,
         "stars"         : 0,
         "forks"         : 2,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "C#" : 107314,
           "CSS" : 651245,
@@ -3442,7 +3442,7 @@
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 3,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Java" : 61134,
             "HTML" : 2222,
@@ -3457,7 +3457,7 @@
         "collaborators" : 5,
         "stars"         : 0,
         "forks"         : 3,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "Java" : 61134,
           "HTML" : 2222,
@@ -3489,7 +3489,7 @@
           "collaborators" : 15,
           "stars"         : 3,
           "forks"         : 11,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "Java" : 730159
           }
@@ -3504,7 +3504,7 @@
           "collaborators" : 14,
           "stars"         : 4,
           "forks"         : 10,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Java" : 1171760,
             "Shell" : 1724,
@@ -3521,7 +3521,7 @@
           "collaborators" : 12,
           "stars"         : 1,
           "forks"         : 2,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "CSS" : 13989,
             "JavaScript" : 99926
@@ -3537,7 +3537,7 @@
           "collaborators" : 7,
           "stars"         : 0,
           "forks"         : 2,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "HTML" : 651
           }
@@ -3550,7 +3550,7 @@
         "collaborators" : 48,
         "stars"         : 8,
         "forks"         : 25,
-        "openIssues"    : 5,
+        "openIssues"    : 9,
         "languages"     : {
           "Java" : 1901919,
           "Shell" : 1724,
@@ -3584,7 +3584,7 @@
           "collaborators" : 13,
           "stars"         : 2,
           "forks"         : 5,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "Java" : 123428,
             "HTML" : 2240,
@@ -3600,7 +3600,7 @@
         "collaborators" : 13,
         "stars"         : 2,
         "forks"         : 5,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "Java" : 123428,
           "HTML" : 2240,
@@ -3670,7 +3670,7 @@
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "Java" : 4935,
             "CSS" : 16638,
@@ -3687,7 +3687,7 @@
         "collaborators" : 5,
         "stars"         : 0,
         "forks"         : 1,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "Java" : 4935,
           "CSS" : 16638,
@@ -3721,7 +3721,7 @@
           "collaborators" : 14,
           "stars"         : 4,
           "forks"         : 8,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "Java" : 258884,
             "HTML" : 5932,
@@ -3737,7 +3737,7 @@
         "collaborators" : 14,
         "stars"         : 4,
         "forks"         : 8,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "Java" : 258884,
           "HTML" : 5932,
@@ -3870,7 +3870,7 @@
           "collaborators" : 13,
           "stars"         : 2,
           "forks"         : 7,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "Java" : 31688,
             "HTML" : 2246,
@@ -3886,7 +3886,7 @@
         "collaborators" : 13,
         "stars"         : 2,
         "forks"         : 7,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "Java" : 31688,
           "HTML" : 2246,
@@ -3919,7 +3919,7 @@
           "collaborators" : 13,
           "stars"         : 3,
           "forks"         : 4,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Java" : 37847,
             "HTML" : 2386,
@@ -3935,7 +3935,7 @@
         "collaborators" : 13,
         "stars"         : 3,
         "forks"         : 4,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "Java" : 37847,
           "HTML" : 2386,
@@ -3967,7 +3967,7 @@
           "collaborators" : 5,
           "stars"         : 15,
           "forks"         : 18,
-          "openIssues"    : 9,
+          "openIssues"    : 10,
           "languages"     : {
             "Java" : 62971,
             "Ruby" : 467
@@ -3981,7 +3981,7 @@
         "collaborators" : 5,
         "stars"         : 15,
         "forks"         : 18,
-        "openIssues"    : 9,
+        "openIssues"    : 10,
         "languages"     : {
           "Java" : 62971,
           "Ruby" : 467
@@ -4006,11 +4006,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
           "heat"          : 127,
           "watchers"      : 3,
-          "size"          : 410,
+          "size"          : 415,
           "collaborators" : 9,
           "stars"         : 3,
           "forks"         : 17,
-          "openIssues"    : 11,
+          "openIssues"    : 12,
           "languages"     : {
             "Java" : 635087
           }
@@ -4019,11 +4019,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 127,
         "watchers"      : 3,
-        "size"          : 410,
+        "size"          : 415,
         "collaborators" : 9,
         "stars"         : 3,
         "forks"         : 17,
-        "openIssues"    : 11,
+        "openIssues"    : 12,
         "languages"     : {
           "Java" : 635087
         }
@@ -4045,13 +4045,13 @@
           "name"          : "SFE-Minuet-DesktopClient",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SFE-Minuet-DesktopClient",
-          "heat"          : 90,
+          "heat"          : 95,
           "watchers"      : 4,
           "size"          : 473042,
           "collaborators" : 8,
           "stars"         : 4,
-          "forks"         : 10,
-          "openIssues"    : 9,
+          "forks"         : 11,
+          "openIssues"    : 10,
           "languages"     : {
             "C#" : 4127753,
             "PowerShell" : 1467,
@@ -4075,7 +4075,7 @@
           "collaborators" : 8,
           "stars"         : 0,
           "forks"         : 6,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "C#" : 196010,
             "PowerShell" : 3306,
@@ -4085,13 +4085,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 152,
+        "heat"          : 157,
         "watchers"      : 4,
         "size"          : 475306,
         "collaborators" : 16,
         "stars"         : 4,
-        "forks"         : 16,
-        "openIssues"    : 11,
+        "forks"         : 17,
+        "openIssues"    : 13,
         "languages"     : {
           "C#" : 4323763,
           "PowerShell" : 4773,
@@ -4131,7 +4131,7 @@
           "collaborators" : 5,
           "stars"         : 1,
           "forks"         : 1,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Java" : 682916,
             "Shell" : 81096,
@@ -4154,7 +4154,7 @@
         "collaborators" : 5,
         "stars"         : 1,
         "forks"         : 1,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "Java" : 682916,
           "Shell" : 81096,
@@ -4193,7 +4193,7 @@
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 5,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Java" : 343444,
             "Shell" : 2461,
@@ -4226,7 +4226,7 @@
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Java" : 2815
           }
@@ -4239,7 +4239,7 @@
         "collaborators" : 16,
         "stars"         : 1,
         "forks"         : 10,
-        "openIssues"    : 0,
+        "openIssues"    : 2,
         "languages"     : {
           "Java" : 448339,
           "Shell" : 3517,
@@ -4269,7 +4269,7 @@
           "collaborators" : 7,
           "stars"         : 0,
           "forks"         : 4,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Java" : 434612
           }
@@ -4284,7 +4284,7 @@
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 2,
-          "openIssues"    : 0
+          "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
@@ -4294,7 +4294,7 @@
         "collaborators" : 13,
         "stars"         : 0,
         "forks"         : 6,
-        "openIssues"    : 0,
+        "openIssues"    : 2,
         "languages"     : {
           "Java" : 434612
         }
@@ -4318,11 +4318,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 315,
           "watchers"      : 36,
-          "size"          : 33348,
+          "size"          : 33353,
           "collaborators" : 7,
           "stars"         : 36,
           "forks"         : 43,
-          "openIssues"    : 0,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 407130,
             "CSS" : 19429,
@@ -4339,7 +4339,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/electron-utils",
           "heat"          : 34,
           "watchers"      : 2,
-          "size"          : 17,
+          "size"          : 20,
           "collaborators" : 5,
           "stars"         : 2,
           "forks"         : 2,
@@ -4358,7 +4358,7 @@
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 1,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "HTML" : 765,
             "JavaScript" : 53248
@@ -4370,7 +4370,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/node-ffi",
           "heat"          : 29,
           "watchers"      : 0,
-          "size"          : 3116,
+          "size"          : 3029,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 1,
@@ -4392,7 +4392,7 @@
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 9,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "C#" : 18229
           }
@@ -4403,11 +4403,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 52,
           "watchers"      : 2,
-          "size"          : 91,
+          "size"          : 95,
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 4,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 115983,
             "JavaScript" : 385
@@ -4417,11 +4417,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 524,
         "watchers"      : 40,
-        "size"          : 37389,
+        "size"          : 37314,
         "collaborators" : 36,
         "stars"         : 40,
         "forks"         : 60,
-        "openIssues"    : 0,
+        "openIssues"    : 6,
         "languages"     : {
           "TypeScript" : 523113,
           "C#" : 25902,
@@ -4459,7 +4459,7 @@
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 1,
-          "openIssues"    : 0
+          "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
@@ -4469,7 +4469,7 @@
         "collaborators" : 5,
         "stars"         : 0,
         "forks"         : 1,
-        "openIssues"    : 0
+        "openIssues"    : 1
       }
     },
     {
@@ -4532,7 +4532,7 @@
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 3,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "Dockerfile" : 679,
             "Shell" : 37,
@@ -4547,7 +4547,7 @@
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 3,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "Dockerfile" : 679,
           "Shell" : 37,
@@ -4577,7 +4577,7 @@
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 2,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "Python" : 69810
           }
@@ -4590,7 +4590,7 @@
         "collaborators" : 7,
         "stars"         : 2,
         "forks"         : 2,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "Python" : 69810
         }
@@ -4618,7 +4618,7 @@
           "collaborators" : 5,
           "stars"         : 1,
           "forks"         : 2,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "JavaScript" : 7824
           }
@@ -4631,7 +4631,7 @@
         "collaborators" : 5,
         "stars"         : 1,
         "forks"         : 2,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "JavaScript" : 7824
         }
