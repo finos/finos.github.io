@@ -230,11 +230,11 @@
           "name"          : "API",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 241,
-          "watchers"      : 7,
+          "heat"          : 243,
+          "watchers"      : 8,
           "size"          : 333,
           "collaborators" : 43,
-          "stars"         : 7,
+          "stars"         : 8,
           "forks"         : 11,
           "openIssues"    : 0,
           "languages"     : {
@@ -243,11 +243,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 241,
-        "watchers"      : 7,
+        "heat"          : 243,
+        "watchers"      : 8,
         "size"          : 333,
         "collaborators" : 43,
-        "stars"         : 7,
+        "stars"         : 8,
         "forks"         : 11,
         "openIssues"    : 0,
         "languages"     : {
@@ -749,11 +749,11 @@
           "gitHubURL"     : "https://github.com/finos-fo/finos-fo",
           "heat"          : 40,
           "watchers"      : 2,
-          "size"          : 956,
+          "size"          : 958,
           "collaborators" : 4,
           "stars"         : 2,
           "forks"         : 4,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 7075,
             "Shell" : 2410,
@@ -765,11 +765,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 49,
         "watchers"      : 2,
-        "size"          : 960,
+        "size"          : 962,
         "collaborators" : 5,
         "stars"         : 2,
         "forks"         : 5,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 7075,
           "Shell" : 2410,
@@ -1444,7 +1444,7 @@
           "collaborators" : 9,
           "stars"         : 0,
           "forks"         : 2,
-          "openIssues"    : 3,
+          "openIssues"    : 6,
           "languages"     : {
             "Java" : 157825,
             "JavaScript" : 2291
@@ -1458,7 +1458,7 @@
         "collaborators" : 9,
         "stars"         : 0,
         "forks"         : 2,
-        "openIssues"    : 3,
+        "openIssues"    : 6,
         "languages"     : {
           "Java" : 157825,
           "JavaScript" : 2291
@@ -4573,7 +4573,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 42,
           "watchers"      : 2,
-          "size"          : 205,
+          "size"          : 46013,
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 2,
@@ -4586,7 +4586,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 42,
         "watchers"      : 2,
-        "size"          : 205,
+        "size"          : 46013,
         "collaborators" : 7,
         "stars"         : 2,
         "forks"         : 2,
