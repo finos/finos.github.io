@@ -129,21 +129,21 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4437,
-          "watchers"      : 1861,
-          "size"          : 14022,
+          "heat"          : 4439,
+          "watchers"      : 1862,
+          "size"          : 14040,
           "collaborators" : 10,
-          "stars"         : 1861,
+          "stars"         : 1862,
           "forks"         : 135,
-          "openIssues"    : 29,
+          "openIssues"    : 26,
           "languages"     : {
-            "TypeScript" : 25896,
+            "TypeScript" : 26129,
             "Dockerfile" : 6495,
             "C++" : 1050152,
-            "CSS" : 66258,
+            "CSS" : 66333,
             "C" : 3505,
             "CMake" : 28130,
-            "JavaScript" : 880524,
+            "JavaScript" : 881444,
             "HTML" : 27815,
             "Jupyter Notebook" : 4054,
             "Python" : 18354
@@ -151,21 +151,21 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4437,
-        "watchers"      : 1861,
-        "size"          : 14022,
+        "heat"          : 4439,
+        "watchers"      : 1862,
+        "size"          : 14040,
         "collaborators" : 10,
-        "stars"         : 1861,
+        "stars"         : 1862,
         "forks"         : 135,
-        "openIssues"    : 29,
+        "openIssues"    : 26,
         "languages"     : {
-          "TypeScript" : 25896,
+          "TypeScript" : 26129,
           "Dockerfile" : 6495,
           "C++" : 1050152,
-          "CSS" : 66258,
+          "CSS" : 66333,
           "C" : 3505,
           "CMake" : 28130,
-          "JavaScript" : 880524,
+          "JavaScript" : 881444,
           "HTML" : 27815,
           "Jupyter Notebook" : 4054,
           "Python" : 18354
@@ -749,11 +749,11 @@
           "gitHubURL"     : "https://github.com/finos-fo/finos-fo",
           "heat"          : 40,
           "watchers"      : 2,
-          "size"          : 958,
+          "size"          : 974,
           "collaborators" : 4,
           "stars"         : 2,
           "forks"         : 4,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 7075,
             "Shell" : 2410,
@@ -765,11 +765,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 49,
         "watchers"      : 2,
-        "size"          : 962,
+        "size"          : 978,
         "collaborators" : 5,
         "stars"         : 2,
         "forks"         : 5,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 7075,
           "Shell" : 2410,
@@ -930,15 +930,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 600,
           "watchers"      : 90,
-          "size"          : 3051,
+          "size"          : 3068,
           "collaborators" : 40,
           "stars"         : 90,
           "forks"         : 52,
-          "openIssues"    : 20,
+          "openIssues"    : 19,
           "languages"     : {
-            "TypeScript" : 591361,
+            "TypeScript" : 591477,
             "HTML" : 11245,
-            "JavaScript" : 321295
+            "JavaScript" : 320570
           }
         },
         {
@@ -947,13 +947,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 322,
           "watchers"      : 14,
-          "size"          : 3924,
+          "size"          : 3942,
           "collaborators" : 41,
           "stars"         : 14,
           "forks"         : 26,
-          "openIssues"    : 6,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 424230,
+            "TypeScript" : 424374,
             "HTML" : 2364,
             "JavaScript" : 11378,
             "Python" : 2150
@@ -969,7 +969,7 @@
           "collaborators" : 42,
           "stars"         : 5,
           "forks"         : 14,
-          "openIssues"    : 7,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 251609,
             "CSS" : 49078,
@@ -997,16 +997,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1337,
         "watchers"      : 110,
-        "size"          : 8132,
+        "size"          : 8167,
         "collaborators" : 163,
         "stars"         : 110,
         "forks"         : 93,
-        "openIssues"    : 34,
+        "openIssues"    : 30,
         "languages"     : {
-          "TypeScript" : 1267200,
+          "TypeScript" : 1267460,
           "HTML" : 19152,
           "CSS" : 49078,
-          "JavaScript" : 341237,
+          "JavaScript" : 340512,
           "Python" : 2150
         }
       }
@@ -1070,12 +1070,12 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 311,
+          "heat"          : 316,
           "watchers"      : 14,
-          "size"          : 3312,
+          "size"          : 5081,
           "collaborators" : 42,
           "stars"         : 14,
-          "forks"         : 23,
+          "forks"         : 24,
           "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 888468,
@@ -1122,12 +1122,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 669,
+        "heat"          : 674,
         "watchers"      : 14,
-        "size"          : 3762,
+        "size"          : 5531,
         "collaborators" : 124,
         "stars"         : 14,
-        "forks"         : 29,
+        "forks"         : 30,
         "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 944350,
@@ -3307,13 +3307,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 1680,
+          "size"          : 1687,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 936603,
+            "Java" : 936928,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3353,13 +3353,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 103,
         "watchers"      : 0,
-        "size"          : 1941,
+        "size"          : 1948,
         "collaborators" : 17,
         "stars"         : 0,
         "forks"         : 7,
         "openIssues"    : 3,
         "languages"     : {
-          "Java" : 959841,
+          "Java" : 960166,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -4004,28 +4004,28 @@
           "name"          : "messageml-utils",
           "description"   : "MessageML parser",
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
-          "heat"          : 127,
+          "heat"          : 132,
           "watchers"      : 3,
-          "size"          : 415,
+          "size"          : 427,
           "collaborators" : 9,
           "stars"         : 3,
-          "forks"         : 17,
-          "openIssues"    : 12,
+          "forks"         : 18,
+          "openIssues"    : 11,
           "languages"     : {
-            "Java" : 635087
+            "Java" : 651268
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 127,
+        "heat"          : 132,
         "watchers"      : 3,
-        "size"          : 415,
+        "size"          : 427,
         "collaborators" : 9,
         "stars"         : 3,
-        "forks"         : 17,
-        "openIssues"    : 12,
+        "forks"         : 18,
+        "openIssues"    : 11,
         "languages"     : {
-          "Java" : 635087
+          "Java" : 651268
         }
       }
     },
@@ -4318,11 +4318,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 315,
           "watchers"      : 36,
-          "size"          : 33352,
+          "size"          : 33358,
           "collaborators" : 7,
           "stars"         : 36,
           "forks"         : 43,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 407130,
             "CSS" : 19429,
@@ -4417,11 +4417,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 524,
         "watchers"      : 40,
-        "size"          : 37313,
+        "size"          : 37319,
         "collaborators" : 36,
         "stars"         : 40,
         "forks"         : 60,
-        "openIssues"    : 6,
+        "openIssues"    : 7,
         "languages"     : {
           "TypeScript" : 523113,
           "C#" : 25902,
