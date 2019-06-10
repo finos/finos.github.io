@@ -129,13 +129,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4439,
-          "watchers"      : 1862,
-          "size"          : 14040,
+          "heat"          : 4470,
+          "watchers"      : 1875,
+          "size"          : 14777,
           "collaborators" : 10,
-          "stars"         : 1862,
-          "forks"         : 135,
-          "openIssues"    : 26,
+          "stars"         : 1875,
+          "forks"         : 136,
+          "openIssues"    : 28,
           "languages"     : {
             "TypeScript" : 26129,
             "Dockerfile" : 6495,
@@ -143,7 +143,7 @@
             "CSS" : 66333,
             "C" : 3505,
             "CMake" : 28130,
-            "JavaScript" : 881444,
+            "JavaScript" : 882083,
             "HTML" : 27815,
             "Jupyter Notebook" : 4054,
             "Python" : 18354
@@ -151,13 +151,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4439,
-        "watchers"      : 1862,
-        "size"          : 14040,
+        "heat"          : 4470,
+        "watchers"      : 1875,
+        "size"          : 14777,
         "collaborators" : 10,
-        "stars"         : 1862,
-        "forks"         : 135,
-        "openIssues"    : 26,
+        "stars"         : 1875,
+        "forks"         : 136,
+        "openIssues"    : 28,
         "languages"     : {
           "TypeScript" : 26129,
           "Dockerfile" : 6495,
@@ -165,7 +165,7 @@
           "CSS" : 66333,
           "C" : 3505,
           "CMake" : 28130,
-          "JavaScript" : 881444,
+          "JavaScript" : 882083,
           "HTML" : 27815,
           "Jupyter Notebook" : 4054,
           "Python" : 18354
@@ -930,7 +930,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 600,
           "watchers"      : 90,
-          "size"          : 3068,
+          "size"          : 3053,
           "collaborators" : 40,
           "stars"         : 90,
           "forks"         : 52,
@@ -997,7 +997,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1337,
         "watchers"      : 110,
-        "size"          : 8167,
+        "size"          : 8152,
         "collaborators" : 163,
         "stars"         : 110,
         "forks"         : 93,
@@ -1158,32 +1158,32 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 242,
           "watchers"      : 7,
-          "size"          : 8049,
+          "size"          : 8125,
           "collaborators" : 42,
           "stars"         : 7,
           "forks"         : 12,
           "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 94389,
+            "TypeScript" : 120879,
             "CSS" : 10576,
-            "HTML" : 2942,
-            "JavaScript" : 987
+            "HTML" : 3106,
+            "JavaScript" : 2591
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 242,
         "watchers"      : 7,
-        "size"          : 8049,
+        "size"          : 8125,
         "collaborators" : 42,
         "stars"         : 7,
         "forks"         : 12,
         "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 94389,
+          "TypeScript" : 120879,
           "CSS" : 10576,
-          "HTML" : 2942,
-          "JavaScript" : 987
+          "HTML" : 3106,
+          "JavaScript" : 2591
         }
       }
     },
@@ -2740,22 +2740,22 @@
           "name"          : "symphony-api-spec",
           "description"   : "Swagger definitions for Symphony LLC public REST API ",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
-          "heat"          : 134,
-          "watchers"      : 5,
+          "heat"          : 141,
+          "watchers"      : 6,
           "size"          : 265,
           "collaborators" : 6,
-          "stars"         : 5,
-          "forks"         : 20,
+          "stars"         : 6,
+          "forks"         : 21,
           "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 134,
-        "watchers"      : 5,
+        "heat"          : 141,
+        "watchers"      : 6,
         "size"          : 265,
         "collaborators" : 6,
-        "stars"         : 5,
-        "forks"         : 20,
+        "stars"         : 6,
+        "forks"         : 21,
         "openIssues"    : 1
       }
     },
@@ -4322,7 +4322,7 @@
           "collaborators" : 7,
           "stars"         : 36,
           "forks"         : 43,
-          "openIssues"    : 4,
+          "openIssues"    : 8,
           "languages"     : {
             "TypeScript" : 407130,
             "CSS" : 19429,
@@ -4407,7 +4407,7 @@
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 4,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 115983,
             "JavaScript" : 385
@@ -4421,7 +4421,7 @@
         "collaborators" : 36,
         "stars"         : 40,
         "forks"         : 60,
-        "openIssues"    : 7,
+        "openIssues"    : 12,
         "languages"     : {
           "TypeScript" : 523113,
           "C#" : 25902,
@@ -4528,7 +4528,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
           "heat"          : 49,
           "watchers"      : 3,
-          "size"          : 393,
+          "size"          : 395,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 3,
@@ -4536,14 +4536,14 @@
           "languages"     : {
             "Dockerfile" : 679,
             "Shell" : 37,
-            "Python" : 67207
+            "Python" : 67273
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 49,
         "watchers"      : 3,
-        "size"          : 393,
+        "size"          : 395,
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 3,
@@ -4551,7 +4551,7 @@
         "languages"     : {
           "Dockerfile" : 679,
           "Shell" : 37,
-          "Python" : 67207
+          "Python" : 67273
         }
       }
     },
