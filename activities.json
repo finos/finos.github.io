@@ -129,11 +129,11 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4549,
-          "watchers"      : 1912,
+          "heat"          : 4557,
+          "watchers"      : 1916,
           "size"          : 15071,
           "collaborators" : 10,
-          "stars"         : 1912,
+          "stars"         : 1916,
           "forks"         : 137,
           "openIssues"    : 29,
           "languages"     : {
@@ -151,11 +151,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4549,
-        "watchers"      : 1912,
+        "heat"          : 4557,
+        "watchers"      : 1916,
         "size"          : 15071,
         "collaborators" : 10,
-        "stars"         : 1912,
+        "stars"         : 1916,
         "forks"         : 137,
         "openIssues"    : 29,
         "languages"     : {
@@ -930,13 +930,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 604,
           "watchers"      : 90,
-          "size"          : 3062,
+          "size"          : 3216,
           "collaborators" : 41,
           "stars"         : 90,
           "forks"         : 52,
-          "openIssues"    : 17,
+          "openIssues"    : 18,
           "languages"     : {
-            "TypeScript" : 593595,
+            "TypeScript" : 593589,
             "HTML" : 11245,
             "JavaScript" : 320559
           }
@@ -951,7 +951,7 @@
           "collaborators" : 42,
           "stars"         : 14,
           "forks"         : 26,
-          "openIssues"    : 4,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 424374,
             "HTML" : 2364,
@@ -997,13 +997,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1353,
         "watchers"      : 110,
-        "size"          : 8315,
+        "size"          : 8469,
         "collaborators" : 167,
         "stars"         : 110,
         "forks"         : 93,
-        "openIssues"    : 26,
+        "openIssues"    : 29,
         "languages"     : {
-          "TypeScript" : 1269578,
+          "TypeScript" : 1269572,
           "HTML" : 19152,
           "CSS" : 49078,
           "JavaScript" : 340501,
@@ -4010,7 +4010,7 @@
           "collaborators" : 9,
           "stars"         : 3,
           "forks"         : 19,
-          "openIssues"    : 12,
+          "openIssues"    : 13,
           "languages"     : {
             "Java" : 660964
           }
@@ -4023,7 +4023,7 @@
         "collaborators" : 9,
         "stars"         : 3,
         "forks"         : 19,
-        "openIssues"    : 12,
+        "openIssues"    : 13,
         "languages"     : {
           "Java" : 660964
         }
@@ -4318,13 +4318,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 315,
           "watchers"      : 36,
-          "size"          : 33363,
+          "size"          : 33367,
           "collaborators" : 7,
           "stars"         : 36,
           "forks"         : 43,
-          "openIssues"    : 4,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 411448,
+            "TypeScript" : 411530,
             "CSS" : 19429,
             "Shell" : 5890,
             "Batchfile" : 552,
@@ -4403,13 +4403,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 52,
           "watchers"      : 2,
-          "size"          : 95,
+          "size"          : 110,
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 4,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 115983,
+            "TypeScript" : 118916,
             "JavaScript" : 385
           }
         }
@@ -4417,13 +4417,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 524,
         "watchers"      : 40,
-        "size"          : 37324,
+        "size"          : 37343,
         "collaborators" : 36,
         "stars"         : 40,
         "forks"         : 60,
-        "openIssues"    : 8,
+        "openIssues"    : 4,
         "languages"     : {
-          "TypeScript" : 527431,
+          "TypeScript" : 530446,
           "C#" : 25902,
           "Shell" : 5890,
           "C++" : 35850,
