@@ -131,11 +131,11 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 4565,
           "watchers"      : 1920,
-          "size"          : 14815,
+          "size"          : 14820,
           "collaborators" : 10,
           "stars"         : 1920,
           "forks"         : 137,
-          "openIssues"    : 30,
+          "openIssues"    : 31,
           "languages"     : {
             "TypeScript" : 26129,
             "Dockerfile" : 6495,
@@ -153,11 +153,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 4565,
         "watchers"      : 1920,
-        "size"          : 14815,
+        "size"          : 14820,
         "collaborators" : 10,
         "stars"         : 1920,
         "forks"         : 137,
-        "openIssues"    : 30,
+        "openIssues"    : 31,
         "languages"     : {
           "TypeScript" : 26129,
           "Dockerfile" : 6495,
@@ -930,7 +930,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 618,
           "watchers"      : 92,
-          "size"          : 3250,
+          "size"          : 3251,
           "collaborators" : 41,
           "stars"         : 92,
           "forks"         : 54,
@@ -997,7 +997,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1367,
         "watchers"      : 112,
-        "size"          : 8589,
+        "size"          : 8590,
         "collaborators" : 167,
         "stars"         : 112,
         "forks"         : 95,
@@ -4322,7 +4322,7 @@
           "collaborators" : 7,
           "stars"         : 36,
           "forks"         : 44,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 412307,
             "CSS" : 19429,
@@ -4421,7 +4421,7 @@
         "collaborators" : 36,
         "stars"         : 40,
         "forks"         : 61,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "TypeScript" : 538753,
           "C#" : 25902,
