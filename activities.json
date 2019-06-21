@@ -129,13 +129,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4571,
-          "watchers"      : 1921,
-          "size"          : 14836,
+          "heat"          : 4578,
+          "watchers"      : 1922,
+          "size"          : 14840,
           "collaborators" : 11,
-          "stars"         : 1921,
-          "forks"         : 137,
-          "openIssues"    : 31,
+          "stars"         : 1922,
+          "forks"         : 138,
+          "openIssues"    : 33,
           "languages"     : {
             "TypeScript" : 26129,
             "Dockerfile" : 6495,
@@ -151,13 +151,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4571,
-        "watchers"      : 1921,
-        "size"          : 14836,
+        "heat"          : 4578,
+        "watchers"      : 1922,
+        "size"          : 14840,
         "collaborators" : 11,
-        "stars"         : 1921,
-        "forks"         : 137,
-        "openIssues"    : 31,
+        "stars"         : 1922,
+        "forks"         : 138,
+        "openIssues"    : 33,
         "languages"     : {
           "TypeScript" : 26129,
           "Dockerfile" : 6495,
@@ -934,7 +934,7 @@
           "collaborators" : 41,
           "stars"         : 93,
           "forks"         : 54,
-          "openIssues"    : 16,
+          "openIssues"    : 17,
           "languages"     : {
             "TypeScript" : 594080,
             "HTML" : 11245,
@@ -969,7 +969,7 @@
           "collaborators" : 43,
           "stars"         : 5,
           "forks"         : 14,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 274258,
             "CSS" : 51275,
@@ -1001,7 +1001,7 @@
         "collaborators" : 167,
         "stars"         : 113,
         "forks"         : 95,
-        "openIssues"    : 25,
+        "openIssues"    : 27,
         "languages"     : {
           "TypeScript" : 1293213,
           "HTML" : 19647,
@@ -1338,14 +1338,14 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 740,
           "watchers"      : 242,
-          "size"          : 6928,
+          "size"          : 6620,
           "collaborators" : 9,
           "stars"         : 242,
           "forks"         : 44,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 1159437,
-            "C#" : 1747756,
+            "C#" : 1750989,
             "Xtend" : 220485,
             "Java" : 76361,
             "Shell" : 550,
@@ -1374,14 +1374,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 786,
         "watchers"      : 243,
-        "size"          : 7778,
+        "size"          : 7470,
         "collaborators" : 15,
         "stars"         : 243,
         "forks"         : 48,
         "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 1181036,
-          "C#" : 1747756,
+          "C#" : 1750989,
           "Xtend" : 220485,
           "Java" : 76361,
           "Shell" : 550,
@@ -3307,13 +3307,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 1712,
+          "size"          : 1742,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 937595,
+            "Java" : 942477,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3353,13 +3353,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 103,
         "watchers"      : 0,
-        "size"          : 1973,
+        "size"          : 2003,
         "collaborators" : 17,
         "stars"         : 0,
         "forks"         : 7,
         "openIssues"    : 3,
         "languages"     : {
-          "Java" : 960833,
+          "Java" : 965715,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -4006,26 +4006,26 @@
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
           "heat"          : 132,
           "watchers"      : 3,
-          "size"          : 462,
+          "size"          : 459,
           "collaborators" : 9,
           "stars"         : 3,
           "forks"         : 18,
-          "openIssues"    : 6,
+          "openIssues"    : 5,
           "languages"     : {
-            "Java" : 717533
+            "Java" : 741483
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 132,
         "watchers"      : 3,
-        "size"          : 462,
+        "size"          : 459,
         "collaborators" : 9,
         "stars"         : 3,
         "forks"         : 18,
-        "openIssues"    : 6,
+        "openIssues"    : 5,
         "languages"     : {
-          "Java" : 717533
+          "Java" : 741483
         }
       }
     },
@@ -4318,13 +4318,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 322,
           "watchers"      : 37,
-          "size"          : 33380,
+          "size"          : 33407,
           "collaborators" : 7,
           "stars"         : 37,
           "forks"         : 44,
-          "openIssues"    : 3,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 412437,
+            "TypeScript" : 417390,
             "CSS" : 19429,
             "Shell" : 5890,
             "Batchfile" : 552,
@@ -4417,13 +4417,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 537,
         "watchers"      : 44,
-        "size"          : 37394,
+        "size"          : 37421,
         "collaborators" : 36,
         "stars"         : 44,
         "forks"         : 61,
-        "openIssues"    : 5,
+        "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 539661,
+          "TypeScript" : 544614,
           "C#" : 25902,
           "Shell" : 5890,
           "C++" : 35850,
@@ -4573,7 +4573,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 42,
           "watchers"      : 2,
-          "size"          : 46009,
+          "size"          : 46033,
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 2,
@@ -4586,7 +4586,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 42,
         "watchers"      : 2,
-        "size"          : 46009,
+        "size"          : 46033,
         "collaborators" : 7,
         "stars"         : 2,
         "forks"         : 2,
