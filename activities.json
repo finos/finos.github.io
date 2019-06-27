@@ -131,11 +131,11 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 4602,
           "watchers"      : 1932,
-          "size"          : 14894,
+          "size"          : 14895,
           "collaborators" : 12,
           "stars"         : 1932,
           "forks"         : 138,
-          "openIssues"    : 36,
+          "openIssues"    : 35,
           "languages"     : {
             "TypeScript" : 26562,
             "Dockerfile" : 6495,
@@ -143,7 +143,7 @@
             "CSS" : 66372,
             "C" : 3505,
             "CMake" : 27043,
-            "JavaScript" : 881923,
+            "JavaScript" : 881991,
             "HTML" : 27815,
             "Jupyter Notebook" : 4054,
             "Python" : 18354
@@ -153,11 +153,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 4602,
         "watchers"      : 1932,
-        "size"          : 14894,
+        "size"          : 14895,
         "collaborators" : 12,
         "stars"         : 1932,
         "forks"         : 138,
-        "openIssues"    : 36,
+        "openIssues"    : 35,
         "languages"     : {
           "TypeScript" : 26562,
           "Dockerfile" : 6495,
@@ -165,7 +165,7 @@
           "CSS" : 66372,
           "C" : 3505,
           "CMake" : 27043,
-          "JavaScript" : 881923,
+          "JavaScript" : 881991,
           "HTML" : 27815,
           "Jupyter Notebook" : 4054,
           "Python" : 18354
