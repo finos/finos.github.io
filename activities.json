@@ -131,11 +131,11 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 4602,
           "watchers"      : 1932,
-          "size"          : 14895,
+          "size"          : 14912,
           "collaborators" : 12,
           "stars"         : 1932,
           "forks"         : 138,
-          "openIssues"    : 35,
+          "openIssues"    : 36,
           "languages"     : {
             "TypeScript" : 26562,
             "Dockerfile" : 6495,
@@ -153,11 +153,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 4602,
         "watchers"      : 1932,
-        "size"          : 14895,
+        "size"          : 14912,
         "collaborators" : 12,
         "stars"         : 1932,
         "forks"         : 138,
-        "openIssues"    : 35,
+        "openIssues"    : 36,
         "languages"     : {
           "TypeScript" : 26562,
           "Dockerfile" : 6495,
@@ -843,11 +843,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
           "heat"          : 267,
           "watchers"      : 14,
-          "size"          : 335,
+          "size"          : 338,
           "collaborators" : 41,
           "stars"         : 14,
           "forks"         : 15,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
             "CSS" : 704,
             "HTML" : 703,
@@ -858,11 +858,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 267,
         "watchers"      : 14,
-        "size"          : 335,
+        "size"          : 338,
         "collaborators" : 41,
         "stars"         : 14,
         "forks"         : 15,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
           "CSS" : 704,
           "HTML" : 703,
@@ -930,11 +930,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 620,
           "watchers"      : 93,
-          "size"          : 3306,
+          "size"          : 3308,
           "collaborators" : 41,
           "stars"         : 93,
           "forks"         : 54,
-          "openIssues"    : 21,
+          "openIssues"    : 18,
           "languages"     : {
             "TypeScript" : 594299,
             "HTML" : 11245,
@@ -945,12 +945,12 @@
           "name"          : "js-adapter",
           "description"   : "Hadouken Node Adapter",
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
-          "heat"          : 326,
+          "heat"          : 331,
           "watchers"      : 14,
-          "size"          : 3951,
+          "size"          : 3954,
           "collaborators" : 42,
           "stars"         : 14,
-          "forks"         : 26,
+          "forks"         : 27,
           "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 425608,
@@ -995,13 +995,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1369,
+        "heat"          : 1374,
         "watchers"      : 113,
-        "size"          : 8669,
+        "size"          : 8674,
         "collaborators" : 167,
         "stars"         : 113,
-        "forks"         : 95,
-        "openIssues"    : 30,
+        "forks"         : 96,
+        "openIssues"    : 27,
         "languages"     : {
           "TypeScript" : 1302108,
           "HTML" : 19647,
@@ -1070,13 +1070,13 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 320,
+          "heat"          : 325,
           "watchers"      : 14,
           "size"          : 5085,
           "collaborators" : 43,
           "stars"         : 14,
-          "forks"         : 24,
-          "openIssues"    : 4,
+          "forks"         : 25,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 888501,
             "HTML" : 53598,
@@ -1088,12 +1088,12 @@
           "name"          : "layouts-tabstrip",
           "description"   : "Repository for the tabstrip used by default in the OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-tabstrip",
-          "heat"          : 182,
+          "heat"          : 187,
           "watchers"      : 0,
           "size"          : 91,
           "collaborators" : 43,
           "stars"         : 0,
-          "forks"         : 2,
+          "forks"         : 3,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 15887,
@@ -1122,13 +1122,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 686,
+        "heat"          : 696,
         "watchers"      : 14,
         "size"          : 5535,
         "collaborators" : 127,
         "stars"         : 14,
-        "forks"         : 30,
-        "openIssues"    : 4,
+        "forks"         : 32,
+        "openIssues"    : 5,
         "languages"     : {
           "TypeScript" : 944383,
           "HTML" : 57824,
@@ -1162,7 +1162,7 @@
           "collaborators" : 43,
           "stars"         : 7,
           "forks"         : 12,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 132312,
             "CSS" : 10576,
@@ -1178,7 +1178,7 @@
         "collaborators" : 43,
         "stars"         : 7,
         "forks"         : 12,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 132312,
           "CSS" : 10576,
@@ -2864,11 +2864,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 98,
           "watchers"      : 9,
-          "size"          : 273,
+          "size"          : 276,
           "collaborators" : 5,
           "stars"         : 9,
           "forks"         : 12,
-          "openIssues"    : 13,
+          "openIssues"    : 12,
           "languages"     : {
             "JavaScript" : 81960
           }
@@ -2877,11 +2877,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 98,
         "watchers"      : 9,
-        "size"          : 273,
+        "size"          : 276,
         "collaborators" : 5,
         "stars"         : 9,
         "forks"         : 12,
-        "openIssues"    : 13,
+        "openIssues"    : 12,
         "languages"     : {
           "JavaScript" : 81960
         }
@@ -2922,11 +2922,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-api",
           "heat"          : 58,
           "watchers"      : 2,
-          "size"          : 124,
+          "size"          : 131,
           "collaborators" : 6,
           "stars"         : 2,
           "forks"         : 6,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "Shell" : 1938
           }
@@ -2951,11 +2951,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 452,
         "watchers"      : 58,
-        "size"          : 3508,
+        "size"          : 3515,
         "collaborators" : 19,
         "stars"         : 58,
         "forks"         : 52,
-        "openIssues"    : 17,
+        "openIssues"    : 16,
         "languages"     : {
           "Java" : 718953,
           "Shell" : 4382
@@ -4010,7 +4010,7 @@
           "collaborators" : 9,
           "stars"         : 3,
           "forks"         : 18,
-          "openIssues"    : 5,
+          "openIssues"    : 7,
           "languages"     : {
             "Java" : 741483
           }
@@ -4023,7 +4023,7 @@
         "collaborators" : 9,
         "stars"         : 3,
         "forks"         : 18,
-        "openIssues"    : 5,
+        "openIssues"    : 7,
         "languages"     : {
           "Java" : 741483
         }
@@ -4403,13 +4403,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 54,
           "watchers"      : 3,
-          "size"          : 163,
+          "size"          : 178,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 4,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 126554,
+            "TypeScript" : 130614,
             "JavaScript" : 385
           }
         }
@@ -4417,13 +4417,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 537,
         "watchers"      : 44,
-        "size"          : 37437,
+        "size"          : 37452,
         "collaborators" : 36,
         "stars"         : 44,
         "forks"         : 61,
         "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 543219,
+          "TypeScript" : 547279,
           "C#" : 25902,
           "Shell" : 5890,
           "C++" : 35850,
