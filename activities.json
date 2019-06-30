@@ -129,11 +129,11 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4602,
-          "watchers"      : 1932,
-          "size"          : 14912,
+          "heat"          : 4600,
+          "watchers"      : 1931,
+          "size"          : 14934,
           "collaborators" : 12,
-          "stars"         : 1932,
+          "stars"         : 1931,
           "forks"         : 138,
           "openIssues"    : 36,
           "languages"     : {
@@ -151,11 +151,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4602,
-        "watchers"      : 1932,
-        "size"          : 14912,
+        "heat"          : 4600,
+        "watchers"      : 1931,
+        "size"          : 14934,
         "collaborators" : 12,
-        "stars"         : 1932,
+        "stars"         : 1931,
         "forks"         : 138,
         "openIssues"    : 36,
         "languages"     : {
@@ -930,13 +930,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 620,
           "watchers"      : 93,
-          "size"          : 3308,
+          "size"          : 3305,
           "collaborators" : 41,
           "stars"         : 93,
           "forks"         : 54,
-          "openIssues"    : 18,
+          "openIssues"    : 19,
           "languages"     : {
-            "TypeScript" : 594299,
+            "TypeScript" : 593803,
             "HTML" : 11245,
             "JavaScript" : 324504
           }
@@ -947,7 +947,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 331,
           "watchers"      : 14,
-          "size"          : 3954,
+          "size"          : 3944,
           "collaborators" : 42,
           "stars"         : 14,
           "forks"         : 27,
@@ -997,13 +997,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1374,
         "watchers"      : 113,
-        "size"          : 8674,
+        "size"          : 8661,
         "collaborators" : 167,
         "stars"         : 113,
         "forks"         : 96,
-        "openIssues"    : 27,
+        "openIssues"    : 28,
         "languages"     : {
-          "TypeScript" : 1302108,
+          "TypeScript" : 1301612,
           "HTML" : 19647,
           "CSS" : 51823,
           "JavaScript" : 344452,
@@ -2979,12 +2979,12 @@
           "name"          : "symphony-node-binding",
           "description"   : "A node.js symphony api implementation",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-node-binding",
-          "heat"          : 83,
+          "heat"          : 78,
           "watchers"      : 2,
           "size"          : 22,
           "collaborators" : 6,
           "stars"         : 2,
-          "forks"         : 11,
+          "forks"         : 10,
           "openIssues"    : 5,
           "languages"     : {
             "JavaScript" : 28233
@@ -2992,12 +2992,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 83,
+        "heat"          : 78,
         "watchers"      : 2,
         "size"          : 22,
         "collaborators" : 6,
         "stars"         : 2,
-        "forks"         : 11,
+        "forks"         : 10,
         "openIssues"    : 5,
         "languages"     : {
           "JavaScript" : 28233
@@ -4662,7 +4662,7 @@
           "collaborators" : 5,
           "stars"         : 3,
           "forks"         : 6,
-          "openIssues"    : 7
+          "openIssues"    : 5
         }
       ],
       "cumulativeGitHubStats" : {
@@ -4672,7 +4672,7 @@
         "collaborators" : 5,
         "stars"         : 3,
         "forks"         : 6,
-        "openIssues"    : 7
+        "openIssues"    : 5
       },
       "mailingLists"       : [
         {
