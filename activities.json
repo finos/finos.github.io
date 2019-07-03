@@ -4,6 +4,24 @@
       "programName"          : "Data Technologies",
       "programShortName"     : "Data Tech",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/DT/overview",
+      "activityName"         : "Data Helix",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2019-07-03"
+    },
+    {
+      "programName"          : "Data Technologies",
+      "programShortName"     : "Data Tech",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/DT/overview",
+      "activityName"         : "Exodus",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2019-07-03"
+    },
+    {
+      "programName"          : "Data Technologies",
+      "programShortName"     : "Data Tech",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/DT/overview",
       "activityName"         : "Digital Rights Management Working Group",
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
@@ -129,13 +147,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4618,
-          "watchers"      : 1940,
-          "size"          : 14958,
-          "collaborators" : 12,
-          "stars"         : 1940,
+          "heat"          : 4656,
+          "watchers"      : 1945,
+          "size"          : 14951,
+          "collaborators" : 19,
+          "stars"         : 1945,
           "forks"         : 138,
-          "openIssues"    : 32,
+          "openIssues"    : 33,
           "languages"     : {
             "TypeScript" : 26539,
             "Dockerfile" : 6495,
@@ -151,13 +169,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4618,
-        "watchers"      : 1940,
-        "size"          : 14958,
-        "collaborators" : 12,
-        "stars"         : 1940,
+        "heat"          : 4656,
+        "watchers"      : 1945,
+        "size"          : 14951,
+        "collaborators" : 19,
+        "stars"         : 1945,
         "forks"         : 138,
-        "openIssues"    : 32,
+        "openIssues"    : 33,
         "languages"     : {
           "TypeScript" : 26539,
           "Dockerfile" : 6495,
@@ -500,10 +518,10 @@
           "name"          : "bot-github-chatops",
           "description"   : "A Symphony bot that uses ChatOps techniques to allow a firm employee to interact in a compliant manner with GitHub issues and PRs",
           "gitHubURL"     : "https://github.com/finos-fdx/bot-github-chatops",
-          "heat"          : 40,
+          "heat"          : 64,
           "watchers"      : 5,
           "size"          : 391,
-          "collaborators" : 5,
+          "collaborators" : 11,
           "stars"         : 5,
           "forks"         : 2,
           "openIssues"    : 13,
@@ -515,10 +533,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 40,
+        "heat"          : 64,
         "watchers"      : 5,
         "size"          : 391,
-        "collaborators" : 5,
+        "collaborators" : 11,
         "stars"         : 5,
         "forks"         : 2,
         "openIssues"    : 13,
@@ -582,10 +600,10 @@
           "name"          : "finos-parent-pom",
           "description"   : "A Maven Parent POM that provide common build and release features using the Symphony Software Foundation Infrastructure",
           "gitHubURL"     : "https://github.com/finos-fdx/finos-parent-pom",
-          "heat"          : 28,
+          "heat"          : 52,
           "watchers"      : 1,
           "size"          : 78,
-          "collaborators" : 4,
+          "collaborators" : 10,
           "stars"         : 1,
           "forks"         : 2,
           "openIssues"    : 0
@@ -594,10 +612,10 @@
           "name"          : "contrib-toolbox",
           "description"   : "A collection of utilities to support the FINOS contribution process",
           "gitHubURL"     : "https://github.com/finos-fdx/contrib-toolbox",
-          "heat"          : 26,
+          "heat"          : 50,
           "watchers"      : 0,
           "size"          : 176,
-          "collaborators" : 4,
+          "collaborators" : 10,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
@@ -609,10 +627,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 54,
+        "heat"          : 102,
         "watchers"      : 1,
         "size"          : 254,
-        "collaborators" : 8,
+        "collaborators" : 20,
         "stars"         : 1,
         "forks"         : 4,
         "openIssues"    : 0,
@@ -692,29 +710,6 @@
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
       "contributionDate"     : "2018-04-24",
-      "gitHubRepos"          : [
-        {
-          "name"          : "odp-test",
-          "description"   : "Testing accessibility to FINOS Infrastructure",
-          "gitHubURL"     : "https://github.com/finos-fdx/odp-test",
-          "heat"          : 34,
-          "watchers"      : 0,
-          "size"          : 5,
-          "collaborators" : 6,
-          "stars"         : 0,
-          "forks"         : 2,
-          "openIssues"    : 3
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 34,
-        "watchers"      : 0,
-        "size"          : 5,
-        "collaborators" : 6,
-        "stars"         : 0,
-        "forks"         : 2,
-        "openIssues"    : 3
-      },
       "mailingLists"       : [
         {
           "emailAddress"  : "fdx-odp@finos.org",
@@ -936,7 +931,7 @@
           "forks"         : 55,
           "openIssues"    : 17,
           "languages"     : {
-            "TypeScript" : 595935,
+            "TypeScript" : 597307,
             "HTML" : 11245,
             "JavaScript" : 324873
           }
@@ -1003,7 +998,7 @@
         "forks"         : 97,
         "openIssues"    : 26,
         "languages"     : {
-          "TypeScript" : 1354206,
+          "TypeScript" : 1355578,
           "HTML" : 20208,
           "CSS" : 51823,
           "JavaScript" : 344821,
@@ -3307,13 +3302,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 1742,
+          "size"          : 1752,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 942477,
+            "Java" : 942638,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3353,13 +3348,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 103,
         "watchers"      : 0,
-        "size"          : 2003,
+        "size"          : 2013,
         "collaborators" : 17,
         "stars"         : 0,
         "forks"         : 7,
         "openIssues"    : 3,
         "languages"     : {
-          "Java" : 965715,
+          "Java" : 965876,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -4318,7 +4313,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 322,
           "watchers"      : 37,
-          "size"          : 33421,
+          "size"          : 33415,
           "collaborators" : 7,
           "stars"         : 37,
           "forks"         : 44,
@@ -4417,7 +4412,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 537,
         "watchers"      : 44,
-        "size"          : 37465,
+        "size"          : 37459,
         "collaborators" : 36,
         "stars"         : 44,
         "forks"         : 61,
@@ -4577,9 +4572,9 @@
           "collaborators" : 9,
           "stars"         : 2,
           "forks"         : 2,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
-            "Python" : 69810
+            "Python" : 25116
           }
         }
       ],
@@ -4590,9 +4585,9 @@
         "collaborators" : 9,
         "stars"         : 2,
         "forks"         : 2,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
-          "Python" : 69810
+          "Python" : 25116
         }
       }
     },
