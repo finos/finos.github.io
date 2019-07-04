@@ -147,13 +147,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4656,
-          "watchers"      : 1945,
-          "size"          : 14951,
+          "heat"          : 4664,
+          "watchers"      : 1949,
+          "size"          : 14954,
           "collaborators" : 19,
-          "stars"         : 1945,
+          "stars"         : 1949,
           "forks"         : 138,
-          "openIssues"    : 33,
+          "openIssues"    : 36,
           "languages"     : {
             "TypeScript" : 26539,
             "Dockerfile" : 6495,
@@ -169,13 +169,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4656,
-        "watchers"      : 1945,
-        "size"          : 14951,
+        "heat"          : 4664,
+        "watchers"      : 1949,
+        "size"          : 14954,
         "collaborators" : 19,
-        "stars"         : 1945,
+        "stars"         : 1949,
         "forks"         : 138,
-        "openIssues"    : 33,
+        "openIssues"    : 36,
         "languages"     : {
           "TypeScript" : 26539,
           "Dockerfile" : 6495,
@@ -518,11 +518,11 @@
           "name"          : "bot-github-chatops",
           "description"   : "A Symphony bot that uses ChatOps techniques to allow a firm employee to interact in a compliant manner with GitHub issues and PRs",
           "gitHubURL"     : "https://github.com/finos-fdx/bot-github-chatops",
-          "heat"          : 64,
-          "watchers"      : 5,
+          "heat"          : 66,
+          "watchers"      : 6,
           "size"          : 391,
           "collaborators" : 11,
-          "stars"         : 5,
+          "stars"         : 6,
           "forks"         : 2,
           "openIssues"    : 13,
           "languages"     : {
@@ -533,11 +533,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 64,
-        "watchers"      : 5,
+        "heat"          : 66,
+        "watchers"      : 6,
         "size"          : 391,
         "collaborators" : 11,
-        "stars"         : 5,
+        "stars"         : 6,
         "forks"         : 2,
         "openIssues"    : 13,
         "languages"     : {
@@ -925,7 +925,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 625,
           "watchers"      : 93,
-          "size"          : 3407,
+          "size"          : 3423,
           "collaborators" : 41,
           "stars"         : 93,
           "forks"         : 55,
@@ -933,7 +933,7 @@
           "languages"     : {
             "TypeScript" : 597307,
             "HTML" : 11245,
-            "JavaScript" : 324873
+            "JavaScript" : 325464
           }
         },
         {
@@ -946,7 +946,7 @@
           "collaborators" : 42,
           "stars"         : 14,
           "forks"         : 27,
-          "openIssues"    : 5,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 426851,
             "HTML" : 2364,
@@ -960,15 +960,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 252,
           "watchers"      : 5,
-          "size"          : 1395,
+          "size"          : 1418,
           "collaborators" : 43,
           "stars"         : 5,
           "forks"         : 14,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 331420,
+            "TypeScript" : 349187,
             "CSS" : 51823,
-            "HTML" : 6110,
+            "HTML" : 6103,
             "JavaScript" : 4255
           }
         },
@@ -992,16 +992,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1379,
         "watchers"      : 113,
-        "size"          : 8808,
+        "size"          : 8847,
         "collaborators" : 167,
         "stars"         : 113,
         "forks"         : 97,
         "openIssues"    : 26,
         "languages"     : {
-          "TypeScript" : 1355578,
-          "HTML" : 20208,
+          "TypeScript" : 1373345,
+          "HTML" : 20201,
           "CSS" : 51823,
-          "JavaScript" : 344821,
+          "JavaScript" : 345412,
           "Python" : 2150
         }
       }
@@ -1157,7 +1157,7 @@
           "collaborators" : 43,
           "stars"         : 7,
           "forks"         : 12,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 132312,
             "CSS" : 10576,
@@ -1173,7 +1173,7 @@
         "collaborators" : 43,
         "stars"         : 7,
         "forks"         : 12,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 132312,
           "CSS" : 10576,
@@ -3148,11 +3148,11 @@
           "name"          : "symphonyoss.github.io",
           "description"   : "Source code for https://symphonyoss.github.io/",
           "gitHubURL"     : "https://github.com/symphonyoss/symphonyoss.github.io",
-          "heat"          : 42,
-          "watchers"      : 3,
+          "heat"          : 44,
+          "watchers"      : 4,
           "size"          : 2257,
           "collaborators" : 4,
-          "stars"         : 3,
+          "stars"         : 4,
           "forks"         : 4,
           "openIssues"    : 10,
           "languages"     : {
@@ -3226,11 +3226,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 375,
-        "watchers"      : 22,
+        "heat"          : 377,
+        "watchers"      : 23,
         "size"          : 3896,
         "collaborators" : 29,
-        "stars"         : 22,
+        "stars"         : 23,
         "forks"         : 43,
         "openIssues"    : 31,
         "languages"     : {
@@ -3999,12 +3999,12 @@
           "name"          : "messageml-utils",
           "description"   : "MessageML parser",
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
-          "heat"          : 132,
-          "watchers"      : 3,
+          "heat"          : 139,
+          "watchers"      : 4,
           "size"          : 491,
           "collaborators" : 9,
-          "stars"         : 3,
-          "forks"         : 18,
+          "stars"         : 4,
+          "forks"         : 19,
           "openIssues"    : 5,
           "languages"     : {
             "Java" : 758191
@@ -4012,12 +4012,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 132,
-        "watchers"      : 3,
+        "heat"          : 139,
+        "watchers"      : 4,
         "size"          : 491,
         "collaborators" : 9,
-        "stars"         : 3,
-        "forks"         : 18,
+        "stars"         : 4,
+        "forks"         : 19,
         "openIssues"    : 5,
         "languages"     : {
           "Java" : 758191
@@ -4309,17 +4309,17 @@
       "gitHubRepos"          : [
         {
           "name"          : "SymphonyElectron",
-          "description"   : "",
+          "description"   : "A desktop client of the Symphony Communication Platform built using Electron for Windows & macOS",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 322,
           "watchers"      : 37,
-          "size"          : 33415,
+          "size"          : 33430,
           "collaborators" : 7,
           "stars"         : 37,
           "forks"         : 44,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 417749,
+            "TypeScript" : 422699,
             "CSS" : 19429,
             "Shell" : 5890,
             "Batchfile" : 552,
@@ -4383,7 +4383,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/ScreenSnippet",
           "heat"          : 67,
           "watchers"      : 1,
-          "size"          : 85,
+          "size"          : 81,
           "collaborators" : 5,
           "stars"         : 1,
           "forks"         : 9,
@@ -4398,13 +4398,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 54,
           "watchers"      : 3,
-          "size"          : 178,
+          "size"          : 148,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 4,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 130614,
+            "TypeScript" : 131352,
             "JavaScript" : 385
           }
         }
@@ -4412,13 +4412,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 537,
         "watchers"      : 44,
-        "size"          : 37459,
+        "size"          : 37440,
         "collaborators" : 36,
         "stars"         : 44,
         "forks"         : 61,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
-          "TypeScript" : 548363,
+          "TypeScript" : 554051,
           "C#" : 25902,
           "Shell" : 5890,
           "C++" : 35850,
@@ -4523,30 +4523,30 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
           "heat"          : 57,
           "watchers"      : 3,
-          "size"          : 417,
+          "size"          : 407,
           "collaborators" : 9,
           "stars"         : 3,
           "forks"         : 3,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
             "Dockerfile" : 679,
             "Shell" : 58,
-            "Python" : 77690
+            "Python" : 77692
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 57,
         "watchers"      : 3,
-        "size"          : 417,
+        "size"          : 407,
         "collaborators" : 9,
         "stars"         : 3,
         "forks"         : 3,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
           "Dockerfile" : 679,
           "Shell" : 58,
-          "Python" : 77690
+          "Python" : 77692
         }
       }
     },
@@ -4568,7 +4568,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 50,
           "watchers"      : 2,
-          "size"          : 46053,
+          "size"          : 46054,
           "collaborators" : 9,
           "stars"         : 2,
           "forks"         : 2,
@@ -4581,7 +4581,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 50,
         "watchers"      : 2,
-        "size"          : 46053,
+        "size"          : 46054,
         "collaborators" : 9,
         "stars"         : 2,
         "forks"         : 2,
