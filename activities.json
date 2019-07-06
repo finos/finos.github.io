@@ -81,7 +81,7 @@
           "collaborators" : 2,
           "stars"         : 6,
           "forks"         : 3,
-          "openIssues"    : 3
+          "openIssues"    : 4
         },
         {
           "name"          : "finos-data-tech.github.io",
@@ -103,7 +103,7 @@
         "collaborators" : 5,
         "stars"         : 7,
         "forks"         : 3,
-        "openIssues"    : 3
+        "openIssues"    : 4
       },
       "mailingLists"       : [
         {
@@ -147,11 +147,11 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4664,
-          "watchers"      : 1949,
-          "size"          : 14954,
+          "heat"          : 4670,
+          "watchers"      : 1952,
+          "size"          : 14942,
           "collaborators" : 19,
-          "stars"         : 1949,
+          "stars"         : 1952,
           "forks"         : 138,
           "openIssues"    : 36,
           "languages"     : {
@@ -169,11 +169,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4664,
-        "watchers"      : 1949,
-        "size"          : 14954,
+        "heat"          : 4670,
+        "watchers"      : 1952,
+        "size"          : 14942,
         "collaborators" : 19,
-        "stars"         : 1949,
+        "stars"         : 1952,
         "forks"         : 138,
         "openIssues"    : 36,
         "languages"     : {
@@ -925,7 +925,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 625,
           "watchers"      : 93,
-          "size"          : 3423,
+          "size"          : 3546,
           "collaborators" : 41,
           "stars"         : 93,
           "forks"         : 55,
@@ -940,11 +940,11 @@
           "name"          : "js-adapter",
           "description"   : "Hadouken Node Adapter",
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
-          "heat"          : 331,
-          "watchers"      : 14,
+          "heat"          : 333,
+          "watchers"      : 15,
           "size"          : 3956,
           "collaborators" : 42,
-          "stars"         : 14,
+          "stars"         : 15,
           "forks"         : 27,
           "openIssues"    : 6,
           "languages"     : {
@@ -964,7 +964,7 @@
           "collaborators" : 43,
           "stars"         : 5,
           "forks"         : 14,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 349187,
             "CSS" : 51823,
@@ -990,13 +990,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1379,
-        "watchers"      : 113,
-        "size"          : 8847,
+        "heat"          : 1381,
+        "watchers"      : 114,
+        "size"          : 8970,
         "collaborators" : 167,
-        "stars"         : 113,
+        "stars"         : 114,
         "forks"         : 97,
-        "openIssues"    : 26,
+        "openIssues"    : 27,
         "languages"     : {
           "TypeScript" : 1373345,
           "HTML" : 20201,
@@ -1067,16 +1067,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 325,
           "watchers"      : 14,
-          "size"          : 5085,
+          "size"          : 5088,
           "collaborators" : 43,
           "stars"         : 14,
           "forks"         : 25,
-          "openIssues"    : 5,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 888501,
+            "TypeScript" : 888663,
             "HTML" : 53598,
             "CSS" : 22258,
-            "JavaScript" : 25521
+            "JavaScript" : 17883
           }
         },
         {
@@ -1103,32 +1103,32 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 184,
           "watchers"      : 0,
-          "size"          : 286,
+          "size"          : 258,
           "collaborators" : 41,
           "stars"         : 0,
           "forks"         : 4,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 32278,
+            "TypeScript" : 40901,
             "CSS" : 70303,
             "HTML" : 2933,
-            "JavaScript" : 8501
+            "JavaScript" : 8832
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 701,
         "watchers"      : 14,
-        "size"          : 5462,
+        "size"          : 5437,
         "collaborators" : 127,
         "stars"         : 14,
         "forks"         : 33,
-        "openIssues"    : 7,
+        "openIssues"    : 5,
         "languages"     : {
-          "TypeScript" : 936666,
+          "TypeScript" : 945451,
           "HTML" : 57824,
           "CSS" : 97150,
-          "JavaScript" : 35548
+          "JavaScript" : 28241
         }
       },
       "mailingLists"       : [
@@ -4001,26 +4001,26 @@
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
           "heat"          : 139,
           "watchers"      : 4,
-          "size"          : 491,
+          "size"          : 483,
           "collaborators" : 9,
           "stars"         : 4,
           "forks"         : 19,
           "openIssues"    : 5,
           "languages"     : {
-            "Java" : 758191
+            "Java" : 768696
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 139,
         "watchers"      : 4,
-        "size"          : 491,
+        "size"          : 483,
         "collaborators" : 9,
         "stars"         : 4,
         "forks"         : 19,
         "openIssues"    : 5,
         "languages"     : {
-          "Java" : 758191
+          "Java" : 768696
         }
       }
     },
@@ -4313,13 +4313,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 322,
           "watchers"      : 37,
-          "size"          : 33430,
+          "size"          : 33436,
           "collaborators" : 7,
           "stars"         : 37,
           "forks"         : 44,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 422699,
+            "TypeScript" : 423851,
             "CSS" : 19429,
             "Shell" : 5890,
             "Batchfile" : 552,
@@ -4412,13 +4412,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 537,
         "watchers"      : 44,
-        "size"          : 37440,
+        "size"          : 37446,
         "collaborators" : 36,
         "stars"         : 44,
         "forks"         : 61,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 554051,
+          "TypeScript" : 555203,
           "C#" : 25902,
           "Shell" : 5890,
           "C++" : 35850,
@@ -4568,11 +4568,11 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 50,
           "watchers"      : 2,
-          "size"          : 46054,
+          "size"          : 46058,
           "collaborators" : 9,
           "stars"         : 2,
           "forks"         : 2,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "Python" : 25116
           }
@@ -4581,11 +4581,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 50,
         "watchers"      : 2,
-        "size"          : 46054,
+        "size"          : 46058,
         "collaborators" : 9,
         "stars"         : 2,
         "forks"         : 2,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "Python" : 25116
         }
