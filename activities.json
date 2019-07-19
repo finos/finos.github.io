@@ -34,20 +34,20 @@
           "name"          : "digital-rights-management",
           "description"   : "digital-rights-management",
           "gitHubURL"     : "https://github.com/finos-data-tech/digital-rights-management",
-          "heat"          : 68,
+          "heat"          : 72,
           "watchers"      : 1,
           "size"          : 10,
-          "collaborators" : 14,
+          "collaborators" : 15,
           "stars"         : 1,
           "forks"         : 2,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 68,
+        "heat"          : 72,
         "watchers"      : 1,
         "size"          : 10,
-        "collaborators" : 14,
+        "collaborators" : 15,
         "stars"         : 1,
         "forks"         : 2,
         "openIssues"    : 0
@@ -75,20 +75,20 @@
           "name"          : "kdb",
           "description"   : "kdb+ Working Group from FINOS Data Technologies program",
           "gitHubURL"     : "https://github.com/finos-data-tech/kdb",
-          "heat"          : 83,
+          "heat"          : 87,
           "watchers"      : 6,
           "size"          : 17,
-          "collaborators" : 14,
+          "collaborators" : 15,
           "stars"         : 6,
           "forks"         : 3,
           "openIssues"    : 4
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 83,
+        "heat"          : 87,
         "watchers"      : 6,
         "size"          : 17,
-        "collaborators" : 14,
+        "collaborators" : 15,
         "stars"         : 6,
         "forks"         : 3,
         "openIssues"    : 4
@@ -135,12 +135,12 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4710,
+          "heat"          : 4709,
           "watchers"      : 1959,
-          "size"          : 15260,
-          "collaborators" : 23,
+          "size"          : 15263,
+          "collaborators" : 24,
           "stars"         : 1959,
-          "forks"         : 140,
+          "forks"         : 139,
           "openIssues"    : 38,
           "languages"     : {
             "TypeScript" : 26539,
@@ -157,12 +157,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4710,
+        "heat"          : 4709,
         "watchers"      : 1959,
-        "size"          : 15260,
-        "collaborators" : 23,
+        "size"          : 15263,
+        "collaborators" : 24,
         "stars"         : 1959,
-        "forks"         : 140,
+        "forks"         : 139,
         "openIssues"    : 38,
         "languages"     : {
           "TypeScript" : 26539,
@@ -506,10 +506,10 @@
           "name"          : "bot-github-chatops",
           "description"   : "A Symphony bot that uses ChatOps techniques to allow a firm employee to interact in a compliant manner with GitHub issues and PRs",
           "gitHubURL"     : "https://github.com/finos-fdx/bot-github-chatops",
-          "heat"          : 78,
+          "heat"          : 82,
           "watchers"      : 6,
           "size"          : 391,
-          "collaborators" : 14,
+          "collaborators" : 15,
           "stars"         : 6,
           "forks"         : 2,
           "openIssues"    : 13,
@@ -521,10 +521,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 78,
+        "heat"          : 82,
         "watchers"      : 6,
         "size"          : 391,
-        "collaborators" : 14,
+        "collaborators" : 15,
         "stars"         : 6,
         "forks"         : 2,
         "openIssues"    : 13,
@@ -548,11 +548,11 @@
           "name"          : "cla-bot",
           "description"   : "cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).",
           "gitHubURL"     : "https://github.com/finos-fdx/cla-bot",
-          "heat"          : 112,
-          "watchers"      : 28,
+          "heat"          : 114,
+          "watchers"      : 29,
           "size"          : 1014,
           "collaborators" : 4,
-          "stars"         : 28,
+          "stars"         : 29,
           "forks"         : 8,
           "openIssues"    : 19,
           "languages"     : {
@@ -562,11 +562,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 112,
-        "watchers"      : 28,
+        "heat"          : 114,
+        "watchers"      : 29,
         "size"          : 1014,
         "collaborators" : 4,
-        "stars"         : 28,
+        "stars"         : 29,
         "forks"         : 8,
         "openIssues"    : 19,
         "languages"     : {
@@ -588,10 +588,10 @@
           "name"          : "finos-parent-pom",
           "description"   : "A Maven Parent POM that provide common build and release features using the Symphony Software Foundation Infrastructure",
           "gitHubURL"     : "https://github.com/finos-fdx/finos-parent-pom",
-          "heat"          : 64,
+          "heat"          : 68,
           "watchers"      : 1,
           "size"          : 78,
-          "collaborators" : 13,
+          "collaborators" : 14,
           "stars"         : 1,
           "forks"         : 2,
           "openIssues"    : 0
@@ -600,10 +600,10 @@
           "name"          : "contrib-toolbox",
           "description"   : "A collection of utilities to support the FINOS contribution process",
           "gitHubURL"     : "https://github.com/finos-fdx/contrib-toolbox",
-          "heat"          : 62,
+          "heat"          : 66,
           "watchers"      : 0,
           "size"          : 176,
-          "collaborators" : 13,
+          "collaborators" : 14,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
@@ -615,10 +615,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 126,
+        "heat"          : 134,
         "watchers"      : 1,
         "size"          : 254,
-        "collaborators" : 26,
+        "collaborators" : 28,
         "stars"         : 1,
         "forks"         : 4,
         "openIssues"    : 0,
@@ -934,7 +934,7 @@
           "collaborators" : 41,
           "stars"         : 15,
           "forks"         : 30,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 434080,
             "HTML" : 2364,
@@ -948,14 +948,14 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 248,
           "watchers"      : 5,
-          "size"          : 1474,
+          "size"          : 1483,
           "collaborators" : 42,
           "stars"         : 5,
           "forks"         : 14,
           "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 389730,
-            "CSS" : 51823,
+            "TypeScript" : 390721,
+            "CSS" : 51886,
             "HTML" : 6191,
             "JavaScript" : 5730
           }
@@ -980,15 +980,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1385,
         "watchers"      : 114,
-        "size"          : 9084,
+        "size"          : 9093,
         "collaborators" : 163,
         "stars"         : 114,
         "forks"         : 101,
-        "openIssues"    : 23,
+        "openIssues"    : 24,
         "languages"     : {
-          "TypeScript" : 1430835,
+          "TypeScript" : 1431826,
           "HTML" : 20289,
-          "CSS" : 51823,
+          "CSS" : 51886,
           "JavaScript" : 346546,
           "Python" : 2150
         }
@@ -1421,12 +1421,12 @@
           "name"          : "symphony-app-authentication",
           "description"   : "Symphony third party application authentication",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-app-authentication",
-          "heat"          : 46,
+          "heat"          : 51,
           "watchers"      : 0,
           "size"          : 179,
           "collaborators" : 9,
           "stars"         : 0,
-          "forks"         : 2,
+          "forks"         : 3,
           "openIssues"    : 6,
           "languages"     : {
             "Java" : 157825,
@@ -1435,12 +1435,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 46,
+        "heat"          : 51,
         "watchers"      : 0,
         "size"          : 179,
         "collaborators" : 9,
         "stars"         : 0,
-        "forks"         : 2,
+        "forks"         : 3,
         "openIssues"    : 6,
         "languages"     : {
           "Java" : 157825,
@@ -3290,13 +3290,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 1798,
+          "size"          : 1744,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 943332,
+            "Java" : 987403,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3336,13 +3336,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 103,
         "watchers"      : 0,
-        "size"          : 2082,
+        "size"          : 2028,
         "collaborators" : 17,
         "stars"         : 0,
         "forks"         : 7,
         "openIssues"    : 3,
         "languages"     : {
-          "Java" : 966570,
+          "Java" : 1010641,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -3514,12 +3514,12 @@
           "name"          : "Integrations-Docs",
           "description"   : "Symphony Integrations documentation",
           "gitHubURL"     : "https://github.com/symphonyoss/Integrations-Docs",
-          "heat"          : 38,
+          "heat"          : 43,
           "watchers"      : 0,
           "size"          : 634,
           "collaborators" : 7,
           "stars"         : 0,
-          "forks"         : 2,
+          "forks"         : 3,
           "openIssues"    : 2,
           "languages"     : {
             "HTML" : 651
@@ -3527,12 +3527,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 333,
+        "heat"          : 338,
         "watchers"      : 8,
         "size"          : 55630,
         "collaborators" : 48,
         "stars"         : 8,
-        "forks"         : 25,
+        "forks"         : 26,
         "openIssues"    : 9,
         "languages"     : {
           "Java" : 1901919,
@@ -4054,12 +4054,12 @@
           "name"          : "SFE-DesktopClient-pgx",
           "description"   : "project containing build for Symphony.pgx needed for desktop client (aka wrapper).",
           "gitHubURL"     : "https://github.com/symphonyoss/SFE-DesktopClient-pgx",
-          "heat"          : 62,
+          "heat"          : 67,
           "watchers"      : 0,
           "size"          : 2264,
           "collaborators" : 8,
           "stars"         : 0,
-          "forks"         : 6,
+          "forks"         : 7,
           "openIssues"    : 3,
           "languages"     : {
             "C#" : 196010,
@@ -4070,12 +4070,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 157,
+        "heat"          : 162,
         "watchers"      : 4,
         "size"          : 475306,
         "collaborators" : 16,
         "stars"         : 4,
-        "forks"         : 17,
+        "forks"         : 18,
         "openIssues"    : 13,
         "languages"     : {
           "C#" : 4323763,
@@ -4265,7 +4265,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-super-pom",
           "heat"          : 34,
           "watchers"      : 0,
-          "size"          : 52,
+          "size"          : 41,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 2,
@@ -4275,7 +4275,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 82,
         "watchers"      : 0,
-        "size"          : 511,
+        "size"          : 500,
         "collaborators" : 13,
         "stars"         : 0,
         "forks"         : 6,
@@ -4301,15 +4301,15 @@
           "name"          : "SymphonyElectron",
           "description"   : "A desktop client of the Symphony Communication Platform built using Electron for Windows & macOS",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 329,
+          "heat"          : 334,
           "watchers"      : 38,
-          "size"          : 33502,
+          "size"          : 33527,
           "collaborators" : 7,
           "stars"         : 38,
-          "forks"         : 45,
+          "forks"         : 46,
           "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 443682,
+            "TypeScript" : 443705,
             "CSS" : 19322,
             "Shell" : 5890,
             "Batchfile" : 552,
@@ -4337,12 +4337,12 @@
           "name"          : "electron-spellchecker",
           "description"   : "Implement spellchecking, correctly",
           "gitHubURL"     : "https://github.com/symphonyoss/electron-spellchecker",
-          "heat"          : 31,
+          "heat"          : 36,
           "watchers"      : 1,
           "size"          : 732,
           "collaborators" : 6,
           "stars"         : 1,
-          "forks"         : 1,
+          "forks"         : 2,
           "openIssues"    : 1,
           "languages"     : {
             "HTML" : 765,
@@ -4386,12 +4386,12 @@
           "name"          : "SwiftSearch",
           "description"   : "SwiftSearch is a plugin for SymphonyElectron",
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
-          "heat"          : 54,
+          "heat"          : 59,
           "watchers"      : 3,
-          "size"          : 132,
+          "size"          : 134,
           "collaborators" : 7,
           "stars"         : 3,
-          "forks"         : 4,
+          "forks"         : 5,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 131424,
@@ -4400,15 +4400,15 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 544,
+        "heat"          : 559,
         "watchers"      : 45,
-        "size"          : 37496,
+        "size"          : 37523,
         "collaborators" : 36,
         "stars"         : 45,
-        "forks"         : 62,
+        "forks"         : 65,
         "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 575106,
+          "TypeScript" : 575129,
           "C#" : 25902,
           "Shell" : 5890,
           "C++" : 35850,
@@ -4647,7 +4647,7 @@
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 6,
-          "openIssues"    : 10
+          "openIssues"    : 11
         }
       ],
       "cumulativeGitHubStats" : {
@@ -4657,7 +4657,7 @@
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 6,
-        "openIssues"    : 10
+        "openIssues"    : 11
       },
       "mailingLists"       : [
         {
