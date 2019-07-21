@@ -135,13 +135,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4709,
-          "watchers"      : 1959,
-          "size"          : 15263,
+          "heat"          : 4711,
+          "watchers"      : 1960,
+          "size"          : 15267,
           "collaborators" : 24,
-          "stars"         : 1959,
+          "stars"         : 1960,
           "forks"         : 139,
-          "openIssues"    : 38,
+          "openIssues"    : 39,
           "languages"     : {
             "TypeScript" : 26539,
             "Dockerfile" : 6495,
@@ -157,13 +157,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4709,
-        "watchers"      : 1959,
-        "size"          : 15263,
+        "heat"          : 4711,
+        "watchers"      : 1960,
+        "size"          : 15267,
         "collaborators" : 24,
-        "stars"         : 1959,
+        "stars"         : 1960,
         "forks"         : 139,
-        "openIssues"    : 38,
+        "openIssues"    : 39,
         "languages"     : {
           "TypeScript" : 26539,
           "Dockerfile" : 6495,
@@ -824,11 +824,11 @@
           "name"          : "app-template",
           "description"   : "A simple unopinionated Hadouken application template.",
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
-          "heat"          : 268,
-          "watchers"      : 14,
+          "heat"          : 270,
+          "watchers"      : 15,
           "size"          : 338,
           "collaborators" : 40,
-          "stars"         : 14,
+          "stars"         : 15,
           "forks"         : 16,
           "openIssues"    : 2,
           "languages"     : {
@@ -839,11 +839,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 268,
-        "watchers"      : 14,
+        "heat"          : 270,
+        "watchers"      : 15,
         "size"          : 338,
         "collaborators" : 40,
-        "stars"         : 14,
+        "stars"         : 15,
         "forks"         : 16,
         "openIssues"    : 2,
         "languages"     : {
@@ -1222,11 +1222,11 @@
           "name"          : "OSLC-handbook",
           "description"   : "A data store and handbook of practical information about complying with the most common open source licenses.",
           "gitHubURL"     : "https://github.com/finos-osr/OSLC-handbook",
-          "heat"          : 220,
-          "watchers"      : 72,
+          "heat"          : 222,
+          "watchers"      : 73,
           "size"          : 529,
           "collaborators" : 4,
-          "stars"         : 72,
+          "stars"         : 73,
           "forks"         : 12,
           "openIssues"    : 8,
           "languages"     : {
@@ -1237,11 +1237,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 220,
-        "watchers"      : 72,
+        "heat"          : 222,
+        "watchers"      : 73,
         "size"          : 529,
         "collaborators" : 4,
-        "stars"         : 72,
+        "stars"         : 73,
         "forks"         : 12,
         "openIssues"    : 8,
         "languages"     : {
@@ -2579,14 +2579,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 701,
+          "size"          : 692,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 503138,
-            "FreeMarker" : 135639,
+            "Java" : 519835,
+            "FreeMarker" : 135633,
             "JavaScript" : 13681
           }
         },
@@ -2596,7 +2596,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon-example",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 315,
+          "size"          : 317,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
@@ -2609,14 +2609,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 60,
         "watchers"      : 0,
-        "size"          : 1016,
+        "size"          : 1009,
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 2,
         "languages"     : {
-          "Java" : 551229,
-          "FreeMarker" : 135639,
+          "Java" : 567926,
+          "FreeMarker" : 135633,
           "JavaScript" : 13681
         }
       }
@@ -4303,11 +4303,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 334,
           "watchers"      : 38,
-          "size"          : 33527,
+          "size"          : 33660,
           "collaborators" : 7,
           "stars"         : 38,
           "forks"         : 46,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 443705,
             "CSS" : 19322,
@@ -4402,11 +4402,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 559,
         "watchers"      : 45,
-        "size"          : 37523,
+        "size"          : 37656,
         "collaborators" : 36,
         "stars"         : 45,
         "forks"         : 65,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 575129,
           "C#" : 25902,
@@ -4558,11 +4558,11 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 50,
           "watchers"      : 2,
-          "size"          : 46064,
+          "size"          : 46050,
           "collaborators" : 9,
           "stars"         : 2,
           "forks"         : 2,
-          "openIssues"    : 2,
+          "openIssues"    : 4,
           "languages"     : {
             "Python" : 30370
           }
@@ -4571,11 +4571,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 50,
         "watchers"      : 2,
-        "size"          : 46064,
+        "size"          : 46050,
         "collaborators" : 9,
         "stars"         : 2,
         "forks"         : 2,
-        "openIssues"    : 2,
+        "openIssues"    : 4,
         "languages"     : {
           "Python" : 30370
         }
@@ -4643,21 +4643,21 @@
           "gitHubURL"     : "https://github.com/finos-voice/voice-metadata-standard",
           "heat"          : 64,
           "watchers"      : 3,
-          "size"          : 58,
+          "size"          : 63,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 6,
-          "openIssues"    : 11
+          "openIssues"    : 9
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 64,
         "watchers"      : 3,
-        "size"          : 58,
+        "size"          : 63,
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 6,
-        "openIssues"    : 11
+        "openIssues"    : 9
       },
       "mailingLists"       : [
         {
