@@ -135,13 +135,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4711,
-          "watchers"      : 1960,
-          "size"          : 15267,
+          "heat"          : 4715,
+          "watchers"      : 1962,
+          "size"          : 15272,
           "collaborators" : 24,
-          "stars"         : 1960,
+          "stars"         : 1962,
           "forks"         : 139,
-          "openIssues"    : 39,
+          "openIssues"    : 40,
           "languages"     : {
             "TypeScript" : 26539,
             "Dockerfile" : 6495,
@@ -157,13 +157,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4711,
-        "watchers"      : 1960,
-        "size"          : 15267,
+        "heat"          : 4715,
+        "watchers"      : 1962,
+        "size"          : 15272,
         "collaborators" : 24,
-        "stars"         : 1960,
+        "stars"         : 1962,
         "forks"         : 139,
-        "openIssues"    : 39,
+        "openIssues"    : 40,
         "languages"     : {
           "TypeScript" : 26539,
           "Dockerfile" : 6495,
@@ -824,12 +824,12 @@
           "name"          : "app-template",
           "description"   : "A simple unopinionated Hadouken application template.",
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
-          "heat"          : 270,
+          "heat"          : 275,
           "watchers"      : 15,
           "size"          : 338,
           "collaborators" : 40,
           "stars"         : 15,
-          "forks"         : 16,
+          "forks"         : 17,
           "openIssues"    : 2,
           "languages"     : {
             "CSS" : 704,
@@ -839,12 +839,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 270,
+        "heat"          : 275,
         "watchers"      : 15,
         "size"          : 338,
         "collaborators" : 40,
         "stars"         : 15,
-        "forks"         : 16,
+        "forks"         : 17,
         "openIssues"    : 2,
         "languages"     : {
           "CSS" : 704,
@@ -911,12 +911,12 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 626,
+          "heat"          : 631,
           "watchers"      : 93,
-          "size"          : 3575,
+          "size"          : 3577,
           "collaborators" : 40,
           "stars"         : 93,
-          "forks"         : 56,
+          "forks"         : 57,
           "openIssues"    : 13,
           "languages"     : {
             "TypeScript" : 607025,
@@ -952,7 +952,7 @@
           "collaborators" : 42,
           "stars"         : 5,
           "forks"         : 14,
-          "openIssues"    : 5,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 390721,
             "CSS" : 51886,
@@ -978,13 +978,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1385,
+        "heat"          : 1390,
         "watchers"      : 114,
-        "size"          : 9093,
+        "size"          : 9095,
         "collaborators" : 163,
         "stars"         : 114,
-        "forks"         : 101,
-        "openIssues"    : 24,
+        "forks"         : 102,
+        "openIssues"    : 25,
         "languages"     : {
           "TypeScript" : 1431826,
           "HTML" : 20289,
@@ -1145,7 +1145,7 @@
           "collaborators" : 42,
           "stars"         : 7,
           "forks"         : 12,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 154017,
             "CSS" : 10576,
@@ -1161,7 +1161,7 @@
         "collaborators" : 42,
         "stars"         : 7,
         "forks"         : 12,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 154017,
           "CSS" : 10576,
@@ -3290,13 +3290,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 1744,
+          "size"          : 1801,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 987403,
+            "Java" : 991175,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3336,13 +3336,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 103,
         "watchers"      : 0,
-        "size"          : 2028,
+        "size"          : 2085,
         "collaborators" : 17,
         "stars"         : 0,
         "forks"         : 7,
         "openIssues"    : 3,
         "languages"     : {
-          "Java" : 1010641,
+          "Java" : 1014413,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -3995,7 +3995,7 @@
           "collaborators" : 9,
           "stars"         : 4,
           "forks"         : 19,
-          "openIssues"    : 5,
+          "openIssues"    : 6,
           "languages"     : {
             "Java" : 751882
           }
@@ -4008,7 +4008,7 @@
         "collaborators" : 9,
         "stars"         : 4,
         "forks"         : 19,
-        "openIssues"    : 5,
+        "openIssues"    : 6,
         "languages"     : {
           "Java" : 751882
         }
@@ -4303,13 +4303,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 334,
           "watchers"      : 38,
-          "size"          : 33647,
+          "size"          : 33648,
           "collaborators" : 7,
           "stars"         : 38,
           "forks"         : 46,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 443705,
+            "TypeScript" : 443709,
             "CSS" : 19322,
             "Shell" : 5890,
             "Batchfile" : 552,
@@ -4402,13 +4402,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 559,
         "watchers"      : 45,
-        "size"          : 37652,
+        "size"          : 37653,
         "collaborators" : 36,
         "stars"         : 45,
         "forks"         : 65,
         "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 574592,
+          "TypeScript" : 574596,
           "C#" : 25902,
           "Shell" : 5890,
           "C++" : 35850,
@@ -4558,7 +4558,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 50,
           "watchers"      : 2,
-          "size"          : 46050,
+          "size"          : 46055,
           "collaborators" : 9,
           "stars"         : 2,
           "forks"         : 2,
@@ -4571,7 +4571,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 50,
         "watchers"      : 2,
-        "size"          : 46050,
+        "size"          : 46055,
         "collaborators" : 9,
         "stars"         : 2,
         "forks"         : 2,
@@ -4643,21 +4643,21 @@
           "gitHubURL"     : "https://github.com/finos-voice/voice-metadata-standard",
           "heat"          : 64,
           "watchers"      : 3,
-          "size"          : 63,
+          "size"          : 60,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 6,
-          "openIssues"    : 10
+          "openIssues"    : 11
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 64,
         "watchers"      : 3,
-        "size"          : 63,
+        "size"          : 60,
         "collaborators" : 7,
         "stars"         : 3,
         "forks"         : 6,
-        "openIssues"    : 10
+        "openIssues"    : 11
       },
       "mailingLists"       : [
         {
