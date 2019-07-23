@@ -231,6 +231,7 @@
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
       "contributionDate"     : "2018-04-20",
+      "releaseDate"          : "2019-07-19",
       "gitHubRepos"          : [
         {
           "name"          : "API",
@@ -275,6 +276,7 @@
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
       "contributionDate"     : "2018-02-28",
+      "releaseDate"          : "2019-07-19",
       "gitHubRepos"          : [
         {
           "name"          : "App-Directory",
@@ -357,8 +359,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
       "activityName"         : "Context Data",
       "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2018-02-28",
+      "archiveDate"          : "2019-05-03",
       "gitHubRepos"          : [
         {
           "name"          : "ContextData",
@@ -399,10 +402,56 @@
       "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
       "programShortName"     : "FDC3",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
-      "activityName"         : "Intents",
+      "activityName"         : "Context Data and Intents",
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
+      "contributionDate"     : "2019-05-03",
+      "releaseDate"          : "2019-07-19",
+      "gitHubRepos"          : [
+        {
+          "name"          : "FDC3",
+          "description"   : "Open standards for the financial desktop.",
+          "gitHubURL"     : "https://github.com/FDC3/FDC3",
+          "heat"          : 334,
+          "watchers"      : 22,
+          "size"          : 3280,
+          "collaborators" : 45,
+          "stars"         : 22,
+          "forks"         : 22,
+          "openIssues"    : 11,
+          "languages"     : {
+            "TypeScript" : 7781,
+            "HTML" : 1858006,
+            "CSS" : 3201,
+            "JavaScript" : 23124
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 334,
+        "watchers"      : 22,
+        "size"          : 3280,
+        "collaborators" : 45,
+        "stars"         : 22,
+        "forks"         : 22,
+        "openIssues"    : 11,
+        "languages"     : {
+          "TypeScript" : 7781,
+          "HTML" : 1858006,
+          "CSS" : 3201,
+          "JavaScript" : 23124
+        }
+      }
+    },
+    {
+      "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
+      "programShortName"     : "FDC3",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
+      "activityName"         : "Intents",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2018-02-28",
+      "archiveDate"          : "2019-05-03",
       "gitHubRepos"          : [
         {
           "name"          : "Intents",
@@ -446,7 +495,8 @@
       "activityName"         : "Technical Steering",
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
-      "contributionDate"     : "2018-02-28"
+      "contributionDate"     : "2018-02-28",
+      "releaseDate"          : "2019-07-19"
     },
     {
       "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
@@ -456,6 +506,7 @@
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
       "contributionDate"     : "2018-05-18",
+      "releaseDate"          : "2019-07-19",
       "gitHubRepos"          : [
         {
           "name"          : "use-cases",
@@ -952,7 +1003,7 @@
           "collaborators" : 42,
           "stars"         : 5,
           "forks"         : 14,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 390721,
             "CSS" : 51886,
@@ -984,7 +1035,7 @@
         "collaborators" : 163,
         "stars"         : 114,
         "forks"         : 102,
-        "openIssues"    : 25,
+        "openIssues"    : 26,
         "languages"     : {
           "TypeScript" : 1431826,
           "HTML" : 20289,
@@ -3290,7 +3341,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 1801,
+          "size"          : 1813,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
@@ -3336,7 +3387,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 103,
         "watchers"      : 0,
-        "size"          : 2085,
+        "size"          : 2097,
         "collaborators" : 17,
         "stars"         : 0,
         "forks"         : 7,
