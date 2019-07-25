@@ -34,20 +34,20 @@
           "name"          : "digital-rights-management",
           "description"   : "digital-rights-management",
           "gitHubURL"     : "https://github.com/finos-data-tech/digital-rights-management",
-          "heat"          : 76,
+          "heat"          : 108,
           "watchers"      : 1,
           "size"          : 10,
-          "collaborators" : 16,
+          "collaborators" : 24,
           "stars"         : 1,
           "forks"         : 2,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 76,
+        "heat"          : 108,
         "watchers"      : 1,
         "size"          : 10,
-        "collaborators" : 16,
+        "collaborators" : 24,
         "stars"         : 1,
         "forks"         : 2,
         "openIssues"    : 0
@@ -75,20 +75,20 @@
           "name"          : "kdb",
           "description"   : "kdb+ Working Group from FINOS Data Technologies program",
           "gitHubURL"     : "https://github.com/finos-data-tech/kdb",
-          "heat"          : 91,
+          "heat"          : 123,
           "watchers"      : 6,
           "size"          : 17,
-          "collaborators" : 16,
+          "collaborators" : 24,
           "stars"         : 6,
           "forks"         : 3,
           "openIssues"    : 4
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 91,
+        "heat"          : 123,
         "watchers"      : 6,
         "size"          : 17,
-        "collaborators" : 16,
+        "collaborators" : 24,
         "stars"         : 6,
         "forks"         : 3,
         "openIssues"    : 4
@@ -135,11 +135,11 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4726,
-          "watchers"      : 1963,
-          "size"          : 15275,
-          "collaborators" : 25,
-          "stars"         : 1963,
+          "heat"          : 4756,
+          "watchers"      : 1964,
+          "size"          : 15279,
+          "collaborators" : 32,
+          "stars"         : 1964,
           "forks"         : 140,
           "openIssues"    : 41,
           "languages"     : {
@@ -157,11 +157,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4726,
-        "watchers"      : 1963,
-        "size"          : 15275,
-        "collaborators" : 25,
-        "stars"         : 1963,
+        "heat"          : 4756,
+        "watchers"      : 1964,
+        "size"          : 15279,
+        "collaborators" : 32,
+        "stars"         : 1964,
         "forks"         : 140,
         "openIssues"    : 41,
         "languages"     : {
@@ -176,6 +176,41 @@
           "Jupyter Notebook" : 4054,
           "Python" : 18354
         }
+      }
+    },
+    {
+      "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
+      "programShortName"     : "FDC3",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
+      "activityName"         : "Appd Toolbar",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2019-07-25",
+      "tags"                 : [
+        "desktop technology"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "appd-launcher-poc",
+          "description"   : "Launcher example interfacing with AppD",
+          "gitHubURL"     : "https://github.com/FDC3/appd-launcher-poc",
+          "heat"          : 184,
+          "watchers"      : 1,
+          "size"          : 0,
+          "collaborators" : 43,
+          "stars"         : 1,
+          "forks"         : 2,
+          "openIssues"    : 5
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 184,
+        "watchers"      : 1,
+        "size"          : 0,
+        "collaborators" : 43,
+        "stars"         : 1,
+        "forks"         : 2,
+        "openIssues"    : 5
       }
     },
     {
@@ -329,7 +364,7 @@
           "collaborators" : 43,
           "stars"         : 1,
           "forks"         : 2,
-          "openIssues"    : 1
+          "openIssues"    : 5
         }
       ],
       "cumulativeGitHubStats" : {
@@ -339,7 +374,7 @@
         "collaborators" : 172,
         "stars"         : 5,
         "forks"         : 13,
-        "openIssues"    : 1,
+        "openIssues"    : 5,
         "languages"     : {
           "Java" : 90084,
           "Dockerfile" : 763,
@@ -557,10 +592,10 @@
           "name"          : "bot-github-chatops",
           "description"   : "A Symphony bot that uses ChatOps techniques to allow a firm employee to interact in a compliant manner with GitHub issues and PRs",
           "gitHubURL"     : "https://github.com/finos-fdx/bot-github-chatops",
-          "heat"          : 86,
+          "heat"          : 118,
           "watchers"      : 6,
           "size"          : 391,
-          "collaborators" : 16,
+          "collaborators" : 24,
           "stars"         : 6,
           "forks"         : 2,
           "openIssues"    : 13,
@@ -572,10 +607,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 86,
+        "heat"          : 118,
         "watchers"      : 6,
         "size"          : 391,
-        "collaborators" : 16,
+        "collaborators" : 24,
         "stars"         : 6,
         "forks"         : 2,
         "openIssues"    : 13,
@@ -639,10 +674,10 @@
           "name"          : "finos-parent-pom",
           "description"   : "A Maven Parent POM that provide common build and release features using the Symphony Software Foundation Infrastructure",
           "gitHubURL"     : "https://github.com/finos-fdx/finos-parent-pom",
-          "heat"          : 72,
+          "heat"          : 104,
           "watchers"      : 1,
           "size"          : 78,
-          "collaborators" : 15,
+          "collaborators" : 23,
           "stars"         : 1,
           "forks"         : 2,
           "openIssues"    : 0
@@ -651,10 +686,10 @@
           "name"          : "contrib-toolbox",
           "description"   : "A collection of utilities to support the FINOS contribution process",
           "gitHubURL"     : "https://github.com/finos-fdx/contrib-toolbox",
-          "heat"          : 70,
+          "heat"          : 102,
           "watchers"      : 0,
           "size"          : 176,
-          "collaborators" : 15,
+          "collaborators" : 23,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 0,
@@ -666,10 +701,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 142,
+        "heat"          : 206,
         "watchers"      : 1,
         "size"          : 254,
-        "collaborators" : 30,
+        "collaborators" : 46,
         "stars"         : 1,
         "forks"         : 4,
         "openIssues"    : 0,
@@ -769,10 +804,10 @@
           "name"          : "finos-fo",
           "description"   : "FINOS Financial Objects Program Documentation",
           "gitHubURL"     : "https://github.com/finos-fo/finos-fo",
-          "heat"          : 88,
+          "heat"          : 120,
           "watchers"      : 2,
           "size"          : 974,
-          "collaborators" : 16,
+          "collaborators" : 24,
           "stars"         : 2,
           "forks"         : 4,
           "openIssues"    : 0,
@@ -785,10 +820,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 88,
+        "heat"          : 120,
         "watchers"      : 2,
         "size"          : 974,
-        "collaborators" : 16,
+        "collaborators" : 24,
         "stars"         : 2,
         "forks"         : 4,
         "openIssues"    : 0,
@@ -820,20 +855,20 @@
           "name"          : "symphony-object",
           "description"   : " Structured Object Schemas",
           "gitHubURL"     : "https://github.com/finos-fo/symphony-object",
-          "heat"          : 76,
+          "heat"          : 108,
           "watchers"      : 1,
           "size"          : 21,
-          "collaborators" : 16,
+          "collaborators" : 24,
           "stars"         : 1,
           "forks"         : 2,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 76,
+        "heat"          : 108,
         "watchers"      : 1,
         "size"          : 21,
-        "collaborators" : 16,
+        "collaborators" : 24,
         "stars"         : 1,
         "forks"         : 2,
         "openIssues"    : 0
@@ -863,11 +898,11 @@
           "name"          : "app-template",
           "description"   : "A simple unopinionated Hadouken application template.",
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
-          "heat"          : 275,
-          "watchers"      : 15,
+          "heat"          : 277,
+          "watchers"      : 16,
           "size"          : 338,
           "collaborators" : 40,
-          "stars"         : 15,
+          "stars"         : 16,
           "forks"         : 17,
           "openIssues"    : 2,
           "languages"     : {
@@ -878,11 +913,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 275,
-        "watchers"      : 15,
+        "heat"          : 277,
+        "watchers"      : 16,
         "size"          : 338,
         "collaborators" : 40,
-        "stars"         : 15,
+        "stars"         : 16,
         "forks"         : 17,
         "openIssues"    : 2,
         "languages"     : {
@@ -952,11 +987,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 631,
           "watchers"      : 93,
-          "size"          : 3577,
+          "size"          : 3582,
           "collaborators" : 40,
           "stars"         : 93,
           "forks"         : 57,
-          "openIssues"    : 14,
+          "openIssues"    : 16,
           "languages"     : {
             "TypeScript" : 607025,
             "HTML" : 11245,
@@ -969,11 +1004,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 344,
           "watchers"      : 15,
-          "size"          : 3986,
+          "size"          : 3989,
           "collaborators" : 41,
           "stars"         : 15,
           "forks"         : 30,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 434043,
             "HTML" : 2364,
@@ -991,9 +1026,9 @@
           "collaborators" : 42,
           "stars"         : 5,
           "forks"         : 14,
-          "openIssues"    : 7,
+          "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 390721,
+            "TypeScript" : 381498,
             "CSS" : 51886,
             "HTML" : 6191,
             "JavaScript" : 5730
@@ -1019,13 +1054,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1390,
         "watchers"      : 114,
-        "size"          : 9096,
+        "size"          : 9104,
         "collaborators" : 163,
         "stars"         : 114,
         "forks"         : 102,
-        "openIssues"    : 26,
+        "openIssues"    : 27,
         "languages"     : {
-          "TypeScript" : 1431789,
+          "TypeScript" : 1422566,
           "HTML" : 20289,
           "CSS" : 51886,
           "JavaScript" : 346546,
@@ -1098,9 +1133,9 @@
           "collaborators" : 42,
           "stars"         : 14,
           "forks"         : 25,
-          "openIssues"    : 5,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 827374,
+            "TypeScript" : 818045,
             "HTML" : 65666,
             "CSS" : 22196,
             "JavaScript" : 7022
@@ -1130,13 +1165,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 180,
           "watchers"      : 0,
-          "size"          : 258,
+          "size"          : 260,
           "collaborators" : 40,
           "stars"         : 0,
           "forks"         : 4,
           "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 40901,
+            "TypeScript" : 40952,
             "CSS" : 70303,
             "HTML" : 2933,
             "JavaScript" : 8832
@@ -1146,13 +1181,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 689,
         "watchers"      : 14,
-        "size"          : 5577,
+        "size"          : 5579,
         "collaborators" : 124,
         "stars"         : 14,
         "forks"         : 33,
-        "openIssues"    : 7,
+        "openIssues"    : 6,
         "languages"     : {
-          "TypeScript" : 884162,
+          "TypeScript" : 874884,
           "HTML" : 69892,
           "CSS" : 97088,
           "JavaScript" : 17380
@@ -1184,9 +1219,9 @@
           "collaborators" : 42,
           "stars"         : 7,
           "forks"         : 12,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 154017,
+            "TypeScript" : 144986,
             "CSS" : 10576,
             "HTML" : 2786,
             "JavaScript" : 2591
@@ -1200,9 +1235,9 @@
         "collaborators" : 42,
         "stars"         : 7,
         "forks"         : 12,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 154017,
+          "TypeScript" : 144986,
           "CSS" : 10576,
           "HTML" : 2786,
           "JavaScript" : 2591
@@ -4342,7 +4377,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 334,
           "watchers"      : 38,
-          "size"          : 33731,
+          "size"          : 34342,
           "collaborators" : 7,
           "stars"         : 38,
           "forks"         : 46,
@@ -4433,7 +4468,7 @@
           "forks"         : 5,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 130887,
+            "TypeScript" : 130912,
             "JavaScript" : 385
           }
         }
@@ -4441,13 +4476,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 559,
         "watchers"      : 45,
-        "size"          : 37796,
+        "size"          : 38407,
         "collaborators" : 36,
         "stars"         : 45,
         "forks"         : 65,
         "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 571249,
+          "TypeScript" : 571274,
           "C#" : 25902,
           "Shell" : 5890,
           "C++" : 35850,
@@ -4550,13 +4585,13 @@
           "name"          : "greenkey-asrtoolkit",
           "description"   : "A collection of useful tools for handling speech recognition data",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
-          "heat"          : 57,
+          "heat"          : 121,
           "watchers"      : 3,
-          "size"          : 407,
-          "collaborators" : 9,
+          "size"          : 415,
+          "collaborators" : 25,
           "stars"         : 3,
           "forks"         : 3,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "Dockerfile" : 679,
             "Shell" : 58,
@@ -4565,13 +4600,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 57,
+        "heat"          : 121,
         "watchers"      : 3,
-        "size"          : 407,
-        "collaborators" : 9,
+        "size"          : 415,
+        "collaborators" : 25,
         "stars"         : 3,
         "forks"         : 3,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "Dockerfile" : 679,
           "Shell" : 58,
@@ -4595,10 +4630,10 @@
           "name"          : "greenkey-discovery-sdk",
           "description"   : "Speed up business workflows through custom 'voice skills' and text (NLP) interpreters",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
-          "heat"          : 50,
+          "heat"          : 114,
           "watchers"      : 2,
           "size"          : 46057,
-          "collaborators" : 9,
+          "collaborators" : 25,
           "stars"         : 2,
           "forks"         : 2,
           "openIssues"    : 2,
@@ -4608,10 +4643,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 50,
+        "heat"          : 114,
         "watchers"      : 2,
         "size"          : 46057,
-        "collaborators" : 9,
+        "collaborators" : 25,
         "stars"         : 2,
         "forks"         : 2,
         "openIssues"    : 2,
@@ -4636,10 +4671,10 @@
           "name"          : "greenkey-voice-sdk",
           "description"   : "Voice-enable your front-end apps with instant intercoms",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-voice-sdk",
-          "heat"          : 36,
+          "heat"          : 116,
           "watchers"      : 1,
           "size"          : 364,
-          "collaborators" : 6,
+          "collaborators" : 26,
           "stars"         : 1,
           "forks"         : 2,
           "openIssues"    : 3,
@@ -4649,10 +4684,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 36,
+        "heat"          : 116,
         "watchers"      : 1,
         "size"          : 364,
-        "collaborators" : 6,
+        "collaborators" : 26,
         "stars"         : 1,
         "forks"         : 2,
         "openIssues"    : 3,
@@ -4680,20 +4715,20 @@
           "name"          : "voice-metadata-standard",
           "description"   : "This is a project from FINOS Voice program to define a standard for call metadata.",
           "gitHubURL"     : "https://github.com/finos-voice/voice-metadata-standard",
-          "heat"          : 64,
+          "heat"          : 144,
           "watchers"      : 3,
           "size"          : 60,
-          "collaborators" : 7,
+          "collaborators" : 27,
           "stars"         : 3,
           "forks"         : 6,
           "openIssues"    : 11
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 64,
+        "heat"          : 144,
         "watchers"      : 3,
         "size"          : 60,
-        "collaborators" : 7,
+        "collaborators" : 27,
         "stars"         : 3,
         "forks"         : 6,
         "openIssues"    : 11
