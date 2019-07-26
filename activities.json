@@ -1117,13 +1117,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 321,
           "watchers"      : 14,
-          "size"          : 5255,
+          "size"          : 5256,
           "collaborators" : 42,
           "stars"         : 14,
           "forks"         : 25,
-          "openIssues"    : 5,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 818045,
+            "TypeScript" : 817343,
             "HTML" : 65666,
             "CSS" : 22196,
             "JavaScript" : 7022
@@ -1153,13 +1153,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 180,
           "watchers"      : 0,
-          "size"          : 260,
+          "size"          : 301,
           "collaborators" : 40,
           "stars"         : 0,
           "forks"         : 4,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 40952,
+            "TypeScript" : 52066,
             "CSS" : 70303,
             "HTML" : 2933,
             "JavaScript" : 8832
@@ -1169,13 +1169,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 689,
         "watchers"      : 14,
-        "size"          : 5606,
+        "size"          : 5648,
         "collaborators" : 124,
         "stars"         : 14,
         "forks"         : 33,
-        "openIssues"    : 8,
+        "openIssues"    : 6,
         "languages"     : {
-          "TypeScript" : 874884,
+          "TypeScript" : 885296,
           "HTML" : 69892,
           "CSS" : 97088,
           "JavaScript" : 17380
@@ -2641,7 +2641,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 692,
+          "size"          : 712,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
@@ -2671,7 +2671,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 60,
         "watchers"      : 0,
-        "size"          : 1009,
+        "size"          : 1029,
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 4,
