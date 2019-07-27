@@ -135,46 +135,46 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4760,
-          "watchers"      : 1964,
-          "size"          : 15292,
+          "heat"          : 4774,
+          "watchers"      : 1966,
+          "size"          : 15307,
           "collaborators" : 33,
-          "stars"         : 1964,
-          "forks"         : 140,
+          "stars"         : 1966,
+          "forks"         : 142,
           "openIssues"    : 39,
           "languages"     : {
             "TypeScript" : 26539,
             "Dockerfile" : 6495,
-            "C++" : 1052006,
+            "C++" : 1066568,
             "CSS" : 66898,
             "C" : 3505,
-            "CMake" : 27041,
-            "JavaScript" : 897058,
+            "CMake" : 27065,
+            "JavaScript" : 894654,
             "HTML" : 28223,
             "Jupyter Notebook" : 4054,
-            "Python" : 18354
+            "Python" : 18364
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4760,
-        "watchers"      : 1964,
-        "size"          : 15292,
+        "heat"          : 4774,
+        "watchers"      : 1966,
+        "size"          : 15307,
         "collaborators" : 33,
-        "stars"         : 1964,
-        "forks"         : 140,
+        "stars"         : 1966,
+        "forks"         : 142,
         "openIssues"    : 39,
         "languages"     : {
           "TypeScript" : 26539,
           "Dockerfile" : 6495,
-          "C++" : 1052006,
+          "C++" : 1066568,
           "CSS" : 66898,
           "C" : 3505,
-          "CMake" : 27041,
-          "JavaScript" : 897058,
+          "CMake" : 27065,
+          "JavaScript" : 894654,
           "HTML" : 28223,
           "Jupyter Notebook" : 4054,
-          "Python" : 18354
+          "Python" : 18364
         }
       }
     },
@@ -975,11 +975,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 631,
           "watchers"      : 93,
-          "size"          : 3585,
+          "size"          : 3590,
           "collaborators" : 40,
           "stars"         : 93,
           "forks"         : 57,
-          "openIssues"    : 15,
+          "openIssues"    : 14,
           "languages"     : {
             "TypeScript" : 607331,
             "HTML" : 11245,
@@ -1042,11 +1042,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1390,
         "watchers"      : 114,
-        "size"          : 9115,
+        "size"          : 9120,
         "collaborators" : 163,
         "stars"         : 114,
         "forks"         : 102,
-        "openIssues"    : 27,
+        "openIssues"    : 26,
         "languages"     : {
           "TypeScript" : 1422872,
           "HTML" : 20289,
@@ -1117,13 +1117,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 321,
           "watchers"      : 14,
-          "size"          : 5256,
+          "size"          : 5260,
           "collaborators" : 42,
           "stars"         : 14,
           "forks"         : 25,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 817343,
+            "TypeScript" : 818038,
             "HTML" : 65666,
             "CSS" : 22196,
             "JavaScript" : 7022
@@ -1159,7 +1159,7 @@
           "forks"         : 4,
           "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 52066,
+            "TypeScript" : 52088,
             "CSS" : 70303,
             "HTML" : 2933,
             "JavaScript" : 8832
@@ -1169,13 +1169,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 689,
         "watchers"      : 14,
-        "size"          : 5648,
+        "size"          : 5652,
         "collaborators" : 124,
         "stars"         : 14,
         "forks"         : 33,
-        "openIssues"    : 6,
+        "openIssues"    : 5,
         "languages"     : {
-          "TypeScript" : 885296,
+          "TypeScript" : 886013,
           "HTML" : 69892,
           "CSS" : 97088,
           "JavaScript" : 17380
@@ -3352,7 +3352,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 1854,
+          "size"          : 1856,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
@@ -3398,7 +3398,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 103,
         "watchers"      : 0,
-        "size"          : 2138,
+        "size"          : 2140,
         "collaborators" : 17,
         "stars"         : 0,
         "forks"         : 7,
@@ -4365,13 +4365,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 334,
           "watchers"      : 38,
-          "size"          : 34342,
+          "size"          : 34344,
           "collaborators" : 7,
           "stars"         : 38,
           "forks"         : 46,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 440362,
+            "TypeScript" : 436871,
             "CSS" : 19322,
             "Shell" : 5890,
             "Batchfile" : 552,
@@ -4464,13 +4464,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 559,
         "watchers"      : 45,
-        "size"          : 38408,
+        "size"          : 38410,
         "collaborators" : 36,
         "stars"         : 45,
         "forks"         : 65,
         "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 571274,
+          "TypeScript" : 567783,
           "C#" : 25902,
           "Shell" : 5890,
           "C++" : 35850,
@@ -4705,21 +4705,21 @@
           "gitHubURL"     : "https://github.com/finos-voice/voice-metadata-standard",
           "heat"          : 148,
           "watchers"      : 3,
-          "size"          : 60,
+          "size"          : 66,
           "collaborators" : 28,
           "stars"         : 3,
           "forks"         : 6,
-          "openIssues"    : 11
+          "openIssues"    : 9
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 148,
         "watchers"      : 3,
-        "size"          : 60,
+        "size"          : 66,
         "collaborators" : 28,
         "stars"         : 3,
         "forks"         : 6,
-        "openIssues"    : 11
+        "openIssues"    : 9
       },
       "mailingLists"       : [
         {
