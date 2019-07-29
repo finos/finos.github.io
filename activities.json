@@ -135,11 +135,11 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4774,
-          "watchers"      : 1966,
-          "size"          : 15307,
+          "heat"          : 4776,
+          "watchers"      : 1967,
+          "size"          : 15314,
           "collaborators" : 33,
-          "stars"         : 1966,
+          "stars"         : 1967,
           "forks"         : 142,
           "openIssues"    : 39,
           "languages"     : {
@@ -157,11 +157,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4774,
-        "watchers"      : 1966,
-        "size"          : 15307,
+        "heat"          : 4776,
+        "watchers"      : 1967,
+        "size"          : 15314,
         "collaborators" : 33,
-        "stars"         : 1966,
+        "stars"         : 1967,
         "forks"         : 142,
         "openIssues"    : 39,
         "languages"     : {
@@ -979,7 +979,7 @@
           "collaborators" : 40,
           "stars"         : 93,
           "forks"         : 57,
-          "openIssues"    : 14,
+          "openIssues"    : 15,
           "languages"     : {
             "TypeScript" : 607331,
             "HTML" : 11245,
@@ -992,11 +992,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 344,
           "watchers"      : 15,
-          "size"          : 3989,
+          "size"          : 3990,
           "collaborators" : 41,
           "stars"         : 15,
           "forks"         : 30,
-          "openIssues"    : 6,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 434043,
             "HTML" : 2364,
@@ -1010,13 +1010,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 248,
           "watchers"      : 5,
-          "size"          : 1491,
+          "size"          : 1527,
           "collaborators" : 42,
           "stars"         : 5,
           "forks"         : 14,
-          "openIssues"    : 5,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 381498,
+            "TypeScript" : 381518,
             "CSS" : 51886,
             "HTML" : 6191,
             "JavaScript" : 5730
@@ -1042,13 +1042,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1390,
         "watchers"      : 114,
-        "size"          : 9120,
+        "size"          : 9157,
         "collaborators" : 163,
         "stars"         : 114,
         "forks"         : 102,
-        "openIssues"    : 26,
+        "openIssues"    : 25,
         "languages"     : {
-          "TypeScript" : 1422872,
+          "TypeScript" : 1422892,
           "HTML" : 20289,
           "CSS" : 51886,
           "JavaScript" : 346546,
@@ -1117,13 +1117,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 321,
           "watchers"      : 14,
-          "size"          : 5260,
+          "size"          : 5309,
           "collaborators" : 42,
           "stars"         : 14,
           "forks"         : 25,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 818038,
+            "TypeScript" : 851300,
             "HTML" : 65666,
             "CSS" : 22196,
             "JavaScript" : 7022
@@ -1157,7 +1157,7 @@
           "collaborators" : 40,
           "stars"         : 0,
           "forks"         : 4,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 52088,
             "CSS" : 70303,
@@ -1169,13 +1169,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 689,
         "watchers"      : 14,
-        "size"          : 5652,
+        "size"          : 5701,
         "collaborators" : 124,
         "stars"         : 14,
         "forks"         : 33,
         "openIssues"    : 5,
         "languages"     : {
-          "TypeScript" : 886013,
+          "TypeScript" : 919275,
           "HTML" : 69892,
           "CSS" : 97088,
           "JavaScript" : 17380
@@ -1406,11 +1406,11 @@
           "gitHubURL"     : "https://github.com/finos-plexus/finos-plexus.github.io",
           "heat"          : 46,
           "watchers"      : 1,
-          "size"          : 850,
+          "size"          : 756,
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 4,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 21599
           }
@@ -1419,11 +1419,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 788,
         "watchers"      : 244,
-        "size"          : 7470,
+        "size"          : 7376,
         "collaborators" : 15,
         "stars"         : 244,
         "forks"         : 48,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 1181036,
           "C#" : 1750989,
@@ -2647,8 +2647,8 @@
           "forks"         : 2,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 519835,
-            "FreeMarker" : 135633,
+            "Java" : 524099,
+            "FreeMarker" : 135575,
             "JavaScript" : 13681
           }
         },
@@ -2677,8 +2677,8 @@
         "forks"         : 4,
         "openIssues"    : 2,
         "languages"     : {
-          "Java" : 567926,
-          "FreeMarker" : 135633,
+          "Java" : 572190,
+          "FreeMarker" : 135575,
           "JavaScript" : 13681
         }
       }
@@ -3352,13 +3352,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 1879,
+          "size"          : 1890,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 998967,
+            "Java" : 999273,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3398,13 +3398,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 103,
         "watchers"      : 0,
-        "size"          : 2163,
+        "size"          : 2174,
         "collaborators" : 17,
         "stars"         : 0,
         "forks"         : 7,
         "openIssues"    : 3,
         "languages"     : {
-          "Java" : 1022205,
+          "Java" : 1022511,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -4053,26 +4053,26 @@
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
           "heat"          : 139,
           "watchers"      : 4,
-          "size"          : 493,
+          "size"          : 499,
           "collaborators" : 9,
           "stars"         : 4,
           "forks"         : 19,
           "openIssues"    : 8,
           "languages"     : {
-            "Java" : 754156
+            "Java" : 757526
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 139,
         "watchers"      : 4,
-        "size"          : 493,
+        "size"          : 499,
         "collaborators" : 9,
         "stars"         : 4,
         "forks"         : 19,
         "openIssues"    : 8,
         "languages"     : {
-          "Java" : 754156
+          "Java" : 757526
         }
       }
     },
@@ -4573,32 +4573,32 @@
           "name"          : "greenkey-asrtoolkit",
           "description"   : "A collection of useful tools for handling speech recognition data",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
-          "heat"          : 121,
+          "heat"          : 126,
           "watchers"      : 3,
-          "size"          : 414,
+          "size"          : 429,
           "collaborators" : 25,
           "stars"         : 3,
-          "forks"         : 3,
+          "forks"         : 4,
           "openIssues"    : 1,
           "languages"     : {
             "Dockerfile" : 679,
             "Shell" : 58,
-            "Python" : 77807
+            "Python" : 77888
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 121,
+        "heat"          : 126,
         "watchers"      : 3,
-        "size"          : 414,
+        "size"          : 429,
         "collaborators" : 25,
         "stars"         : 3,
-        "forks"         : 3,
+        "forks"         : 4,
         "openIssues"    : 1,
         "languages"     : {
           "Dockerfile" : 679,
           "Shell" : 58,
-          "Python" : 77807
+          "Python" : 77888
         }
       }
     },
