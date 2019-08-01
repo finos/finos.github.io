@@ -75,23 +75,23 @@
           "name"          : "kdb",
           "description"   : "kdb+ Working Group from FINOS Data Technologies program",
           "gitHubURL"     : "https://github.com/finos-data-tech/kdb",
-          "heat"          : 127,
+          "heat"          : 132,
           "watchers"      : 6,
           "size"          : 17,
           "collaborators" : 25,
           "stars"         : 6,
-          "forks"         : 3,
-          "openIssues"    : 4
+          "forks"         : 4,
+          "openIssues"    : 5
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 127,
+        "heat"          : 132,
         "watchers"      : 6,
         "size"          : 17,
         "collaborators" : 25,
         "stars"         : 6,
-        "forks"         : 3,
-        "openIssues"    : 4
+        "forks"         : 4,
+        "openIssues"    : 5
       },
       "mailingLists"       : [
         {
@@ -135,13 +135,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4784,
-          "watchers"      : 1971,
-          "size"          : 15310,
+          "heat"          : 4786,
+          "watchers"      : 1972,
+          "size"          : 15307,
           "collaborators" : 33,
-          "stars"         : 1971,
+          "stars"         : 1972,
           "forks"         : 142,
-          "openIssues"    : 37,
+          "openIssues"    : 35,
           "languages"     : {
             "TypeScript" : 26543,
             "Dockerfile" : 6495,
@@ -157,13 +157,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4784,
-        "watchers"      : 1971,
-        "size"          : 15310,
+        "heat"          : 4786,
+        "watchers"      : 1972,
+        "size"          : 15307,
         "collaborators" : 33,
-        "stars"         : 1971,
+        "stars"         : 1972,
         "forks"         : 142,
-        "openIssues"    : 37,
+        "openIssues"    : 35,
         "languages"     : {
           "TypeScript" : 26543,
           "Dockerfile" : 6495,
@@ -601,11 +601,11 @@
           "gitHubURL"     : "https://github.com/finos-fdx/cla-bot",
           "heat"          : 199,
           "watchers"      : 29,
-          "size"          : 1014,
+          "size"          : 1608,
           "collaborators" : 24,
           "stars"         : 29,
           "forks"         : 9,
-          "openIssues"    : 19,
+          "openIssues"    : 31,
           "languages"     : {
             "Shell" : 155,
             "JavaScript" : 46244
@@ -615,11 +615,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 199,
         "watchers"      : 29,
-        "size"          : 1014,
+        "size"          : 1608,
         "collaborators" : 24,
         "stars"         : 29,
         "forks"         : 9,
-        "openIssues"    : 19,
+        "openIssues"    : 31,
         "languages"     : {
           "Shell" : 155,
           "JavaScript" : 46244
@@ -724,22 +724,22 @@
           "name"          : "cloud-service-certification",
           "description"   : "Cloud Service Certification Working Group",
           "gitHubURL"     : "https://github.com/finos-fdx/cloud-service-certification",
-          "heat"          : 116,
-          "watchers"      : 2,
-          "size"          : 17,
+          "heat"          : 123,
+          "watchers"      : 3,
+          "size"          : 29,
           "collaborators" : 28,
-          "stars"         : 2,
-          "forks"         : 0,
+          "stars"         : 3,
+          "forks"         : 1,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 116,
-        "watchers"      : 2,
-        "size"          : 17,
+        "heat"          : 123,
+        "watchers"      : 3,
+        "size"          : 29,
         "collaborators" : 28,
-        "stars"         : 2,
-        "forks"         : 0,
+        "stars"         : 3,
+        "forks"         : 1,
         "openIssues"    : 0
       },
       "mailingLists"       : [
@@ -973,12 +973,12 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 631,
+          "heat"          : 626,
           "watchers"      : 93,
           "size"          : 3611,
           "collaborators" : 40,
           "stars"         : 93,
-          "forks"         : 57,
+          "forks"         : 56,
           "openIssues"    : 14,
           "languages"     : {
             "TypeScript" : 607331,
@@ -1008,16 +1008,16 @@
           "name"          : "fdc3-service",
           "description"   : "FDC3 Service for OpenFin",
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
-          "heat"          : 248,
+          "heat"          : 253,
           "watchers"      : 5,
-          "size"          : 1531,
+          "size"          : 1546,
           "collaborators" : 42,
           "stars"         : 5,
-          "forks"         : 14,
-          "openIssues"    : 4,
+          "forks"         : 15,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 381518,
-            "CSS" : 51886,
+            "TypeScript" : 391874,
+            "CSS" : 52615,
             "HTML" : 6191,
             "JavaScript" : 5730
           }
@@ -1042,15 +1042,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1390,
         "watchers"      : 114,
-        "size"          : 9187,
+        "size"          : 9202,
         "collaborators" : 163,
         "stars"         : 114,
         "forks"         : 102,
-        "openIssues"    : 23,
+        "openIssues"    : 22,
         "languages"     : {
-          "TypeScript" : 1423323,
+          "TypeScript" : 1433679,
           "HTML" : 20289,
-          "CSS" : 51886,
+          "CSS" : 52615,
           "JavaScript" : 346546,
           "Python" : 2150
         }
@@ -1117,13 +1117,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 321,
           "watchers"      : 14,
-          "size"          : 5274,
+          "size"          : 5287,
           "collaborators" : 42,
           "stars"         : 14,
           "forks"         : 25,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 851300,
+            "TypeScript" : 851242,
             "HTML" : 65666,
             "CSS" : 22196,
             "JavaScript" : 7022
@@ -1169,13 +1169,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 689,
         "watchers"      : 14,
-        "size"          : 5675,
+        "size"          : 5688,
         "collaborators" : 124,
         "stars"         : 14,
         "forks"         : 33,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 919688,
+          "TypeScript" : 919630,
           "HTML" : 69891,
           "CSS" : 97088,
           "JavaScript" : 17542
@@ -1207,7 +1207,7 @@
           "collaborators" : 42,
           "stars"         : 7,
           "forks"         : 13,
-          "openIssues"    : 5,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 144986,
             "CSS" : 10576,
@@ -1223,7 +1223,7 @@
         "collaborators" : 42,
         "stars"         : 7,
         "forks"         : 13,
-        "openIssues"    : 5,
+        "openIssues"    : 6,
         "languages"     : {
           "TypeScript" : 144986,
           "CSS" : 10576,
@@ -1248,21 +1248,21 @@
           "name"          : "zero-downtime-trading-web-ux",
           "description"   : "Showcases how the OpenFin API, in conjunction with the ODP OpenShift Infrastructure and APIs, can create a powerful experience to live-reload an app and swap its environment from production to UAT",
           "gitHubURL"     : "https://github.com/HadoukenIO/zero-downtime-trading-web-ux",
-          "heat"          : 183,
-          "watchers"      : 0,
+          "heat"          : 185,
+          "watchers"      : 1,
           "size"          : 17,
           "collaborators" : 42,
-          "stars"         : 0,
+          "stars"         : 1,
           "forks"         : 3,
           "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 183,
-        "watchers"      : 0,
+        "heat"          : 185,
+        "watchers"      : 1,
         "size"          : 17,
         "collaborators" : 42,
-        "stars"         : 0,
+        "stars"         : 1,
         "forks"         : 3,
         "openIssues"    : 1
       }
@@ -2641,14 +2641,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 719,
+          "size"          : 732,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 524099,
-            "FreeMarker" : 135575,
+            "Java" : 521883,
+            "FreeMarker" : 133060,
             "JavaScript" : 13681
           }
         },
@@ -2658,7 +2658,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon-example",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 276,
+          "size"          : 281,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
@@ -2671,14 +2671,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 60,
         "watchers"      : 0,
-        "size"          : 995,
+        "size"          : 1013,
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 2,
         "languages"     : {
-          "Java" : 572190,
-          "FreeMarker" : 135575,
+          "Java" : 569974,
+          "FreeMarker" : 133060,
           "JavaScript" : 13681
         }
       }
@@ -2823,7 +2823,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/clj-symphony",
           "heat"          : 49,
           "watchers"      : 4,
-          "size"          : 242,
+          "size"          : 240,
           "collaborators" : 4,
           "stars"         : 4,
           "forks"         : 5,
@@ -2836,7 +2836,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 49,
         "watchers"      : 4,
-        "size"          : 242,
+        "size"          : 240,
         "collaborators" : 4,
         "stars"         : 4,
         "forks"         : 5,
@@ -4008,12 +4008,12 @@
           "name"          : "JCurl",
           "description"   : "JSON-aware curl (1) in Java",
           "gitHubURL"     : "https://github.com/symphonyoss/JCurl",
-          "heat"          : 144,
+          "heat"          : 149,
           "watchers"      : 15,
           "size"          : 72,
           "collaborators" : 6,
           "stars"         : 15,
-          "forks"         : 18,
+          "forks"         : 19,
           "openIssues"    : 10,
           "languages"     : {
             "Java" : 62971,
@@ -4022,12 +4022,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 144,
+        "heat"          : 149,
         "watchers"      : 15,
         "size"          : 72,
         "collaborators" : 6,
         "stars"         : 15,
-        "forks"         : 18,
+        "forks"         : 19,
         "openIssues"    : 10,
         "languages"     : {
           "Java" : 62971,
@@ -4053,26 +4053,26 @@
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
           "heat"          : 139,
           "watchers"      : 4,
-          "size"          : 499,
+          "size"          : 531,
           "collaborators" : 9,
           "stars"         : 4,
           "forks"         : 19,
-          "openIssues"    : 10,
+          "openIssues"    : 5,
           "languages"     : {
-            "Java" : 757526
+            "Java" : 776893
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 139,
         "watchers"      : 4,
-        "size"          : 499,
+        "size"          : 531,
         "collaborators" : 9,
         "stars"         : 4,
         "forks"         : 19,
-        "openIssues"    : 10,
+        "openIssues"    : 5,
         "languages"     : {
-          "Java" : 757526
+          "Java" : 776893
         }
       }
     },
@@ -4312,7 +4312,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-common",
           "heat"          : 48,
           "watchers"      : 0,
-          "size"          : 459,
+          "size"          : 463,
           "collaborators" : 7,
           "stars"         : 0,
           "forks"         : 4,
@@ -4327,7 +4327,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-super-pom",
           "heat"          : 34,
           "watchers"      : 0,
-          "size"          : 41,
+          "size"          : 51,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 2,
@@ -4337,7 +4337,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 82,
         "watchers"      : 0,
-        "size"          : 500,
+        "size"          : 514,
         "collaborators" : 13,
         "stars"         : 0,
         "forks"         : 6,
@@ -4365,13 +4365,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 334,
           "watchers"      : 38,
-          "size"          : 34347,
+          "size"          : 34349,
           "collaborators" : 7,
           "stars"         : 38,
           "forks"         : 46,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 436957,
+            "TypeScript" : 437804,
             "CSS" : 19322,
             "Shell" : 5890,
             "Batchfile" : 552,
@@ -4464,13 +4464,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 559,
         "watchers"      : 45,
-        "size"          : 38413,
+        "size"          : 38415,
         "collaborators" : 36,
         "stars"         : 45,
         "forks"         : 65,
         "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 567869,
+          "TypeScript" : 568716,
           "C#" : 25902,
           "Shell" : 5890,
           "C++" : 35850,
@@ -4575,30 +4575,30 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
           "heat"          : 121,
           "watchers"      : 3,
-          "size"          : 418,
+          "size"          : 426,
           "collaborators" : 25,
           "stars"         : 3,
           "forks"         : 3,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
             "Dockerfile" : 679,
             "Shell" : 58,
-            "Python" : 82610
+            "Python" : 82763
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 121,
         "watchers"      : 3,
-        "size"          : 418,
+        "size"          : 426,
         "collaborators" : 25,
         "stars"         : 3,
         "forks"         : 3,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
           "Dockerfile" : 679,
           "Shell" : 58,
-          "Python" : 82610
+          "Python" : 82763
         }
       }
     },
@@ -4620,11 +4620,11 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 114,
           "watchers"      : 2,
-          "size"          : 46057,
+          "size"          : 46063,
           "collaborators" : 25,
           "stars"         : 2,
           "forks"         : 2,
-          "openIssues"    : 2,
+          "openIssues"    : 4,
           "languages"     : {
             "Python" : 30369
           }
@@ -4633,11 +4633,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 114,
         "watchers"      : 2,
-        "size"          : 46057,
+        "size"          : 46063,
         "collaborators" : 25,
         "stars"         : 2,
         "forks"         : 2,
-        "openIssues"    : 2,
+        "openIssues"    : 4,
         "languages"     : {
           "Python" : 30369
         }
