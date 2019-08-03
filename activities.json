@@ -135,11 +135,11 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4786,
-          "watchers"      : 1972,
+          "heat"          : 4788,
+          "watchers"      : 1973,
           "size"          : 15308,
           "collaborators" : 33,
-          "stars"         : 1972,
+          "stars"         : 1973,
           "forks"         : 142,
           "openIssues"    : 35,
           "languages"     : {
@@ -157,11 +157,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4786,
-        "watchers"      : 1972,
+        "heat"          : 4788,
+        "watchers"      : 1973,
         "size"          : 15308,
         "collaborators" : 33,
-        "stars"         : 1972,
+        "stars"         : 1973,
         "forks"         : 142,
         "openIssues"    : 35,
         "languages"     : {
@@ -3352,13 +3352,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 1934,
+          "size"          : 1976,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 1000009,
+            "Java" : 1002103,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3398,13 +3398,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 103,
         "watchers"      : 0,
-        "size"          : 2349,
+        "size"          : 2391,
         "collaborators" : 17,
         "stars"         : 0,
         "forks"         : 7,
         "openIssues"    : 3,
         "languages"     : {
-          "Java" : 1023247,
+          "Java" : 1025341,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -3760,12 +3760,12 @@
           "name"          : "App-Integrations-Jira",
           "description"   : "Jira Integration",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Jira",
-          "heat"          : 104,
+          "heat"          : 109,
           "watchers"      : 4,
           "size"          : 1996,
           "collaborators" : 14,
           "stars"         : 4,
-          "forks"         : 8,
+          "forks"         : 9,
           "openIssues"    : 2,
           "languages"     : {
             "Java" : 258884,
@@ -3776,12 +3776,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 104,
+        "heat"          : 109,
         "watchers"      : 4,
         "size"          : 1996,
         "collaborators" : 14,
         "stars"         : 4,
-        "forks"         : 8,
+        "forks"         : 9,
         "openIssues"    : 2,
         "languages"     : {
           "Java" : 258884,
@@ -4573,11 +4573,11 @@
           "name"          : "greenkey-asrtoolkit",
           "description"   : "A collection of useful tools for handling speech recognition data",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
-          "heat"          : 121,
-          "watchers"      : 3,
+          "heat"          : 123,
+          "watchers"      : 4,
           "size"          : 426,
           "collaborators" : 25,
-          "stars"         : 3,
+          "stars"         : 4,
           "forks"         : 3,
           "openIssues"    : 1,
           "languages"     : {
@@ -4588,11 +4588,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 121,
-        "watchers"      : 3,
+        "heat"          : 123,
+        "watchers"      : 4,
         "size"          : 426,
         "collaborators" : 25,
-        "stars"         : 3,
+        "stars"         : 4,
         "forks"         : 3,
         "openIssues"    : 1,
         "languages"     : {
@@ -4620,11 +4620,11 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 114,
           "watchers"      : 2,
-          "size"          : 46072,
+          "size"          : 46085,
           "collaborators" : 25,
           "stars"         : 2,
           "forks"         : 2,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "Python" : 32205
           }
@@ -4633,11 +4633,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 114,
         "watchers"      : 2,
-        "size"          : 46072,
+        "size"          : 46085,
         "collaborators" : 25,
         "stars"         : 2,
         "forks"         : 2,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "Python" : 32205
         }
@@ -4709,7 +4709,7 @@
           "collaborators" : 28,
           "stars"         : 3,
           "forks"         : 6,
-          "openIssues"    : 9
+          "openIssues"    : 8
         }
       ],
       "cumulativeGitHubStats" : {
@@ -4719,7 +4719,7 @@
         "collaborators" : 28,
         "stars"         : 3,
         "forks"         : 6,
-        "openIssues"    : 9
+        "openIssues"    : 8
       },
       "mailingLists"       : [
         {
