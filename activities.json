@@ -135,11 +135,11 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4788,
-          "watchers"      : 1973,
+          "heat"          : 4800,
+          "watchers"      : 1979,
           "size"          : 15308,
           "collaborators" : 33,
-          "stars"         : 1973,
+          "stars"         : 1979,
           "forks"         : 142,
           "openIssues"    : 35,
           "languages"     : {
@@ -157,11 +157,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4788,
-        "watchers"      : 1973,
+        "heat"          : 4800,
+        "watchers"      : 1979,
         "size"          : 15308,
         "collaborators" : 33,
-        "stars"         : 1973,
+        "stars"         : 1979,
         "forks"         : 142,
         "openIssues"    : 35,
         "languages"     : {
@@ -557,11 +557,11 @@
           "name"          : "bot-github-chatops",
           "description"   : "A Symphony bot that uses ChatOps techniques to allow a firm employee to interact in a compliant manner with GitHub issues and PRs",
           "gitHubURL"     : "https://github.com/finos-fdx/bot-github-chatops",
-          "heat"          : 122,
-          "watchers"      : 6,
+          "heat"          : 124,
+          "watchers"      : 7,
           "size"          : 391,
           "collaborators" : 25,
-          "stars"         : 6,
+          "stars"         : 7,
           "forks"         : 2,
           "openIssues"    : 13,
           "languages"     : {
@@ -572,11 +572,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 122,
-        "watchers"      : 6,
+        "heat"          : 124,
+        "watchers"      : 7,
         "size"          : 391,
         "collaborators" : 25,
-        "stars"         : 6,
+        "stars"         : 7,
         "forks"         : 2,
         "openIssues"    : 13,
         "languages"     : {
@@ -599,13 +599,13 @@
           "name"          : "cla-bot",
           "description"   : "cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).",
           "gitHubURL"     : "https://github.com/finos-fdx/cla-bot",
-          "heat"          : 199,
+          "heat"          : 204,
           "watchers"      : 29,
           "size"          : 1608,
           "collaborators" : 24,
           "stars"         : 29,
-          "forks"         : 9,
-          "openIssues"    : 31,
+          "forks"         : 10,
+          "openIssues"    : 32,
           "languages"     : {
             "Shell" : 155,
             "JavaScript" : 46244
@@ -613,13 +613,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 199,
+        "heat"          : 204,
         "watchers"      : 29,
         "size"          : 1608,
         "collaborators" : 24,
         "stars"         : 29,
-        "forks"         : 9,
-        "openIssues"    : 31,
+        "forks"         : 10,
+        "openIssues"    : 32,
         "languages"     : {
           "Shell" : 155,
           "JavaScript" : 46244
@@ -651,13 +651,13 @@
           "name"          : "contrib-toolbox",
           "description"   : "A collection of utilities to support the FINOS contribution process",
           "gitHubURL"     : "https://github.com/finos-fdx/contrib-toolbox",
-          "heat"          : 106,
+          "heat"          : 111,
           "watchers"      : 0,
           "size"          : 176,
           "collaborators" : 24,
           "stars"         : 0,
-          "forks"         : 2,
-          "openIssues"    : 0,
+          "forks"         : 3,
+          "openIssues"    : 1,
           "languages"     : {
             "Shell" : 21188,
             "HTML" : 472,
@@ -666,13 +666,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 214,
+        "heat"          : 219,
         "watchers"      : 1,
         "size"          : 254,
         "collaborators" : 48,
         "stars"         : 1,
-        "forks"         : 4,
-        "openIssues"    : 0,
+        "forks"         : 5,
+        "openIssues"    : 1,
         "languages"     : {
           "Shell" : 21188,
           "HTML" : 472,
@@ -724,21 +724,21 @@
           "name"          : "cloud-service-certification",
           "description"   : "Cloud Service Certification Working Group",
           "gitHubURL"     : "https://github.com/finos-fdx/cloud-service-certification",
-          "heat"          : 123,
-          "watchers"      : 3,
+          "heat"          : 125,
+          "watchers"      : 4,
           "size"          : 29,
           "collaborators" : 28,
-          "stars"         : 3,
+          "stars"         : 4,
           "forks"         : 1,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 123,
-        "watchers"      : 3,
+        "heat"          : 125,
+        "watchers"      : 4,
         "size"          : 29,
         "collaborators" : 28,
-        "stars"         : 3,
+        "stars"         : 4,
         "forks"         : 1,
         "openIssues"    : 0
       },
@@ -798,7 +798,7 @@
           "collaborators" : 25,
           "stars"         : 2,
           "forks"         : 4,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 7075,
             "Shell" : 2410,
@@ -814,7 +814,7 @@
         "collaborators" : 25,
         "stars"         : 2,
         "forks"         : 4,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 7075,
           "Shell" : 2410,
@@ -843,23 +843,23 @@
           "name"          : "symphony-object",
           "description"   : " Structured Object Schemas",
           "gitHubURL"     : "https://github.com/finos-fo/symphony-object",
-          "heat"          : 112,
+          "heat"          : 117,
           "watchers"      : 1,
           "size"          : 21,
           "collaborators" : 25,
           "stars"         : 1,
-          "forks"         : 2,
-          "openIssues"    : 0
+          "forks"         : 3,
+          "openIssues"    : 3
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 112,
+        "heat"          : 117,
         "watchers"      : 1,
         "size"          : 21,
         "collaborators" : 25,
         "stars"         : 1,
-        "forks"         : 2,
-        "openIssues"    : 0
+        "forks"         : 3,
+        "openIssues"    : 3
       },
       "mailingLists"       : [
         {
@@ -975,15 +975,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 628,
           "watchers"      : 94,
-          "size"          : 3616,
+          "size"          : 3617,
           "collaborators" : 40,
           "stars"         : 94,
           "forks"         : 56,
-          "openIssues"    : 14,
+          "openIssues"    : 17,
           "languages"     : {
-            "TypeScript" : 607331,
+            "TypeScript" : 609518,
             "HTML" : 11245,
-            "JavaScript" : 325568
+            "JavaScript" : 324166
           }
         },
         {
@@ -992,14 +992,14 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 344,
           "watchers"      : 15,
-          "size"          : 3995,
+          "size"          : 3998,
           "collaborators" : 41,
           "stars"         : 15,
           "forks"         : 30,
-          "openIssues"    : 4,
+          "openIssues"    : 7,
           "languages"     : {
-            "TypeScript" : 434474,
-            "HTML" : 2364,
+            "TypeScript" : 435170,
+            "HTML" : 2432,
             "JavaScript" : 11378,
             "Python" : 2150
           }
@@ -1042,16 +1042,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1392,
         "watchers"      : 115,
-        "size"          : 9207,
+        "size"          : 9211,
         "collaborators" : 163,
         "stars"         : 115,
         "forks"         : 102,
-        "openIssues"    : 22,
+        "openIssues"    : 28,
         "languages"     : {
-          "TypeScript" : 1433679,
-          "HTML" : 20289,
+          "TypeScript" : 1436562,
+          "HTML" : 20357,
           "CSS" : 52615,
-          "JavaScript" : 346991,
+          "JavaScript" : 345589,
           "Python" : 2150
         }
       }
@@ -1121,7 +1121,7 @@
           "collaborators" : 42,
           "stars"         : 14,
           "forks"         : 25,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 851242,
             "HTML" : 65666,
@@ -1173,7 +1173,7 @@
         "collaborators" : 124,
         "stars"         : 14,
         "forks"         : 33,
-        "openIssues"    : 5,
+        "openIssues"    : 6,
         "languages"     : {
           "TypeScript" : 919630,
           "HTML" : 69891,
@@ -1203,13 +1203,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 247,
           "watchers"      : 7,
-          "size"          : 8353,
+          "size"          : 8328,
           "collaborators" : 42,
           "stars"         : 7,
           "forks"         : 13,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 135179,
+            "TypeScript" : 138976,
             "CSS" : 10576,
             "HTML" : 2786,
             "JavaScript" : 3997
@@ -1219,13 +1219,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 247,
         "watchers"      : 7,
-        "size"          : 8353,
+        "size"          : 8328,
         "collaborators" : 42,
         "stars"         : 7,
         "forks"         : 13,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
-          "TypeScript" : 135179,
+          "TypeScript" : 138976,
           "CSS" : 10576,
           "HTML" : 2786,
           "JavaScript" : 3997
@@ -1330,23 +1330,23 @@
           "name"          : "reference-foss-policy",
           "description"   : "Reference FOSS Policy for Financial Services Institutions",
           "gitHubURL"     : "https://github.com/finos-osr/reference-foss-policy",
-          "heat"          : 28,
+          "heat"          : 33,
           "watchers"      : 3,
           "size"          : 88,
           "collaborators" : 3,
           "stars"         : 3,
-          "forks"         : 2,
-          "openIssues"    : 1
+          "forks"         : 3,
+          "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 28,
+        "heat"          : 33,
         "watchers"      : 3,
         "size"          : 88,
         "collaborators" : 3,
         "stars"         : 3,
-        "forks"         : 2,
-        "openIssues"    : 1
+        "forks"         : 3,
+        "openIssues"    : 2
       }
     },
     {
@@ -1383,11 +1383,11 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 742,
           "watchers"      : 243,
-          "size"          : 6620,
+          "size"          : 6662,
           "collaborators" : 9,
           "stars"         : 243,
           "forks"         : 44,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 1159437,
             "C#" : 1750989,
@@ -1419,11 +1419,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 788,
         "watchers"      : 244,
-        "size"          : 7376,
+        "size"          : 7418,
         "collaborators" : 15,
         "stars"         : 244,
         "forks"         : 48,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 1181036,
           "C#" : 1750989,
@@ -2641,13 +2641,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 30,
           "watchers"      : 0,
-          "size"          : 732,
+          "size"          : 659,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 2,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 521883,
+            "Java" : 522442,
             "FreeMarker" : 133060,
             "JavaScript" : 13681
           }
@@ -2671,13 +2671,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 60,
         "watchers"      : 0,
-        "size"          : 1013,
+        "size"          : 940,
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 4,
         "openIssues"    : 2,
         "languages"     : {
-          "Java" : 569974,
+          "Java" : 570533,
           "FreeMarker" : 133060,
           "JavaScript" : 13681
         }
@@ -2907,11 +2907,11 @@
           "name"          : "hubot-symphony",
           "description"   : "Hubot adapter for Symphony",
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
-          "heat"          : 98,
-          "watchers"      : 9,
+          "heat"          : 100,
+          "watchers"      : 10,
           "size"          : 276,
           "collaborators" : 5,
-          "stars"         : 9,
+          "stars"         : 10,
           "forks"         : 12,
           "openIssues"    : 12,
           "languages"     : {
@@ -2920,11 +2920,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 98,
-        "watchers"      : 9,
+        "heat"          : 100,
+        "watchers"      : 10,
         "size"          : 276,
         "collaborators" : 5,
-        "stars"         : 9,
+        "stars"         : 10,
         "forks"         : 12,
         "openIssues"    : 12,
         "languages"     : {
@@ -3065,11 +3065,11 @@
           "name"          : "python-symphony",
           "description"   : "An importable class that provides methods and objects for interacting with the Symphony Agent API from python",
           "gitHubURL"     : "https://github.com/symphonyoss/python-symphony",
-          "heat"          : 110,
-          "watchers"      : 15,
+          "heat"          : 112,
+          "watchers"      : 16,
           "size"          : 181,
           "collaborators" : 5,
-          "stars"         : 15,
+          "stars"         : 16,
           "forks"         : 12,
           "openIssues"    : 8,
           "languages"     : {
@@ -3097,11 +3097,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 145,
-        "watchers"      : 15,
+        "heat"          : 147,
+        "watchers"      : 16,
         "size"          : 226,
         "collaborators" : 10,
-        "stars"         : 15,
+        "stars"         : 16,
         "forks"         : 15,
         "openIssues"    : 9,
         "languages"     : {
@@ -3352,13 +3352,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 1976,
+          "size"          : 2025,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 1002103,
+            "Java" : 1002456,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3398,13 +3398,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 103,
         "watchers"      : 0,
-        "size"          : 2391,
+        "size"          : 2440,
         "collaborators" : 17,
         "stars"         : 0,
         "forks"         : 7,
         "openIssues"    : 3,
         "languages"     : {
-          "Java" : 1025341,
+          "Java" : 1025694,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -4365,13 +4365,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 334,
           "watchers"      : 38,
-          "size"          : 34352,
+          "size"          : 34364,
           "collaborators" : 7,
           "stars"         : 38,
           "forks"         : 46,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 437804,
+            "TypeScript" : 438410,
             "CSS" : 19322,
             "Shell" : 5890,
             "Batchfile" : 552,
@@ -4450,13 +4450,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 59,
           "watchers"      : 3,
-          "size"          : 144,
+          "size"          : 185,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 5,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 130912,
+            "TypeScript" : 131575,
             "JavaScript" : 385
           }
         }
@@ -4464,13 +4464,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 559,
         "watchers"      : 45,
-        "size"          : 38418,
+        "size"          : 38471,
         "collaborators" : 36,
         "stars"         : 45,
         "forks"         : 65,
         "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 568716,
+          "TypeScript" : 569985,
           "C#" : 25902,
           "Shell" : 5890,
           "C++" : 35850,
@@ -4573,11 +4573,11 @@
           "name"          : "greenkey-asrtoolkit",
           "description"   : "A collection of useful tools for handling speech recognition data",
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
-          "heat"          : 123,
-          "watchers"      : 4,
+          "heat"          : 125,
+          "watchers"      : 5,
           "size"          : 426,
           "collaborators" : 25,
-          "stars"         : 4,
+          "stars"         : 5,
           "forks"         : 3,
           "openIssues"    : 1,
           "languages"     : {
@@ -4588,11 +4588,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 123,
-        "watchers"      : 4,
+        "heat"          : 125,
+        "watchers"      : 5,
         "size"          : 426,
         "collaborators" : 25,
-        "stars"         : 4,
+        "stars"         : 5,
         "forks"         : 3,
         "openIssues"    : 1,
         "languages"     : {
@@ -4620,26 +4620,26 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 114,
           "watchers"      : 2,
-          "size"          : 46085,
+          "size"          : 46086,
           "collaborators" : 25,
           "stars"         : 2,
           "forks"         : 2,
-          "openIssues"    : 5,
+          "openIssues"    : 3,
           "languages"     : {
-            "Python" : 32205
+            "Python" : 33464
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 114,
         "watchers"      : 2,
-        "size"          : 46085,
+        "size"          : 46086,
         "collaborators" : 25,
         "stars"         : 2,
         "forks"         : 2,
-        "openIssues"    : 5,
+        "openIssues"    : 3,
         "languages"     : {
-          "Python" : 32205
+          "Python" : 33464
         }
       }
     },
@@ -4661,7 +4661,7 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-voice-sdk",
           "heat"          : 116,
           "watchers"      : 1,
-          "size"          : 364,
+          "size"          : 351,
           "collaborators" : 26,
           "stars"         : 1,
           "forks"         : 2,
@@ -4674,7 +4674,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 116,
         "watchers"      : 1,
-        "size"          : 364,
+        "size"          : 351,
         "collaborators" : 26,
         "stars"         : 1,
         "forks"         : 2,
@@ -4703,23 +4703,23 @@
           "name"          : "voice-metadata-standard",
           "description"   : "This is a project from FINOS Voice program to define a standard for call metadata.",
           "gitHubURL"     : "https://github.com/finos-voice/voice-metadata-standard",
-          "heat"          : 148,
+          "heat"          : 153,
           "watchers"      : 3,
           "size"          : 66,
           "collaborators" : 28,
           "stars"         : 3,
-          "forks"         : 6,
-          "openIssues"    : 8
+          "forks"         : 7,
+          "openIssues"    : 11
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 148,
+        "heat"          : 153,
         "watchers"      : 3,
         "size"          : 66,
         "collaborators" : 28,
         "stars"         : 3,
-        "forks"         : 6,
-        "openIssues"    : 8
+        "forks"         : 7,
+        "openIssues"    : 11
       },
       "mailingLists"       : [
         {
