@@ -135,11 +135,11 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4813,
-          "watchers"      : 1983,
+          "heat"          : 4815,
+          "watchers"      : 1984,
           "size"          : 15308,
           "collaborators" : 33,
-          "stars"         : 1983,
+          "stars"         : 1984,
           "forks"         : 143,
           "openIssues"    : 36,
           "languages"     : {
@@ -157,11 +157,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4813,
-        "watchers"      : 1983,
+        "heat"          : 4815,
+        "watchers"      : 1984,
         "size"          : 15308,
         "collaborators" : 33,
-        "stars"         : 1983,
+        "stars"         : 1984,
         "forks"         : 143,
         "openIssues"    : 36,
         "languages"     : {
@@ -1115,12 +1115,12 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 321,
+          "heat"          : 316,
           "watchers"      : 14,
           "size"          : 5287,
           "collaborators" : 42,
           "stars"         : 14,
-          "forks"         : 25,
+          "forks"         : 24,
           "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 851242,
@@ -1167,12 +1167,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 689,
+        "heat"          : 684,
         "watchers"      : 14,
         "size"          : 5690,
         "collaborators" : 124,
         "stars"         : 14,
-        "forks"         : 33,
+        "forks"         : 32,
         "openIssues"    : 6,
         "languages"     : {
           "TypeScript" : 919646,
@@ -1381,11 +1381,11 @@
           "name"          : "plexus-interop",
           "description"   : "Plexus Interop open source project hosted by the Fintech Open Source Foundation",
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
-          "heat"          : 742,
-          "watchers"      : 243,
+          "heat"          : 744,
+          "watchers"      : 244,
           "size"          : 6662,
           "collaborators" : 9,
-          "stars"         : 243,
+          "stars"         : 244,
           "forks"         : 44,
           "openIssues"    : 1,
           "languages"     : {
@@ -1417,11 +1417,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 788,
-        "watchers"      : 244,
+        "heat"          : 790,
+        "watchers"      : 245,
         "size"          : 7418,
         "collaborators" : 15,
-        "stars"         : 244,
+        "stars"         : 245,
         "forks"         : 48,
         "openIssues"    : 4,
         "languages"     : {
@@ -2785,21 +2785,21 @@
           "name"          : "symphony-api-spec",
           "description"   : "Swagger definitions for Symphony LLC public REST API ",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
-          "heat"          : 141,
-          "watchers"      : 6,
+          "heat"          : 143,
+          "watchers"      : 7,
           "size"          : 265,
           "collaborators" : 6,
-          "stars"         : 6,
+          "stars"         : 7,
           "forks"         : 21,
           "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 141,
-        "watchers"      : 6,
+        "heat"          : 143,
+        "watchers"      : 7,
         "size"          : 265,
         "collaborators" : 6,
-        "stars"         : 6,
+        "stars"         : 7,
         "forks"         : 21,
         "openIssues"    : 1
       }
