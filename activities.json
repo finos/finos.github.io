@@ -137,7 +137,7 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 4815,
           "watchers"      : 1984,
-          "size"          : 15308,
+          "size"          : 15326,
           "collaborators" : 33,
           "stars"         : 1984,
           "forks"         : 143,
@@ -159,7 +159,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 4815,
         "watchers"      : 1984,
-        "size"          : 15308,
+        "size"          : 15326,
         "collaborators" : 33,
         "stars"         : 1984,
         "forks"         : 143,
@@ -601,11 +601,11 @@
           "gitHubURL"     : "https://github.com/finos-fdx/cla-bot",
           "heat"          : 204,
           "watchers"      : 29,
-          "size"          : 1608,
+          "size"          : 1611,
           "collaborators" : 24,
           "stars"         : 29,
           "forks"         : 10,
-          "openIssues"    : 32,
+          "openIssues"    : 31,
           "languages"     : {
             "Shell" : 155,
             "JavaScript" : 46244
@@ -615,11 +615,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 204,
         "watchers"      : 29,
-        "size"          : 1608,
+        "size"          : 1611,
         "collaborators" : 24,
         "stars"         : 29,
         "forks"         : 10,
-        "openIssues"    : 32,
+        "openIssues"    : 31,
         "languages"     : {
           "Shell" : 155,
           "JavaScript" : 46244
@@ -979,11 +979,11 @@
           "collaborators" : 40,
           "stars"         : 94,
           "forks"         : 56,
-          "openIssues"    : 14,
+          "openIssues"    : 13,
           "languages"     : {
             "TypeScript" : 612277,
             "HTML" : 11245,
-            "JavaScript" : 324950
+            "JavaScript" : 325113
           }
         },
         {
@@ -996,7 +996,7 @@
           "collaborators" : 41,
           "stars"         : 15,
           "forks"         : 30,
-          "openIssues"    : 8,
+          "openIssues"    : 9,
           "languages"     : {
             "TypeScript" : 435170,
             "HTML" : 2432,
@@ -1051,7 +1051,7 @@
           "TypeScript" : 1439321,
           "HTML" : 20357,
           "CSS" : 52615,
-          "JavaScript" : 346373,
+          "JavaScript" : 346536,
           "Python" : 2150
         }
       }
@@ -1284,11 +1284,11 @@
           "name"          : "OSLC-handbook",
           "description"   : "A data store and handbook of practical information about complying with the most common open source licenses.",
           "gitHubURL"     : "https://github.com/finos-osr/OSLC-handbook",
-          "heat"          : 222,
-          "watchers"      : 73,
+          "heat"          : 220,
+          "watchers"      : 72,
           "size"          : 529,
           "collaborators" : 4,
-          "stars"         : 73,
+          "stars"         : 72,
           "forks"         : 12,
           "openIssues"    : 8,
           "languages"     : {
@@ -1299,11 +1299,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 222,
-        "watchers"      : 73,
+        "heat"          : 220,
+        "watchers"      : 72,
         "size"          : 529,
         "collaborators" : 4,
-        "stars"         : 73,
+        "stars"         : 72,
         "forks"         : 12,
         "openIssues"    : 8,
         "languages"     : {
@@ -1383,11 +1383,11 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 744,
           "watchers"      : 244,
-          "size"          : 6662,
+          "size"          : 7173,
           "collaborators" : 9,
           "stars"         : 244,
           "forks"         : 44,
-          "openIssues"    : 1,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 1159437,
             "C#" : 1750989,
@@ -1419,11 +1419,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 790,
         "watchers"      : 245,
-        "size"          : 7418,
+        "size"          : 7929,
         "collaborators" : 15,
         "stars"         : 245,
         "forks"         : 48,
-        "openIssues"    : 4,
+        "openIssues"    : 8,
         "languages"     : {
           "TypeScript" : 1181036,
           "C#" : 1750989,
