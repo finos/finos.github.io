@@ -135,13 +135,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4819,
-          "watchers"      : 1984,
-          "size"          : 15337,
+          "heat"          : 4823,
+          "watchers"      : 1986,
+          "size"          : 15389,
           "collaborators" : 34,
-          "stars"         : 1984,
+          "stars"         : 1986,
           "forks"         : 143,
-          "openIssues"    : 39,
+          "openIssues"    : 34,
           "languages"     : {
             "TypeScript" : 26543,
             "Dockerfile" : 6495,
@@ -157,13 +157,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4819,
-        "watchers"      : 1984,
-        "size"          : 15337,
+        "heat"          : 4823,
+        "watchers"      : 1986,
+        "size"          : 15389,
         "collaborators" : 34,
-        "stars"         : 1984,
+        "stars"         : 1986,
         "forks"         : 143,
-        "openIssues"    : 39,
+        "openIssues"    : 34,
         "languages"     : {
           "TypeScript" : 26543,
           "Dockerfile" : 6495,
@@ -794,32 +794,32 @@
           "gitHubURL"     : "https://github.com/finos-fo/finos-fo",
           "heat"          : 128,
           "watchers"      : 2,
-          "size"          : 974,
+          "size"          : 1584,
           "collaborators" : 26,
           "stars"         : 2,
           "forks"         : 4,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 7075,
+            "CSS" : 3512,
             "Shell" : 2410,
-            "CSS" : 414,
-            "JavaScript" : 17855
+            "JavaScript" : 21933
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 128,
         "watchers"      : 2,
-        "size"          : 974,
+        "size"          : 1584,
         "collaborators" : 26,
         "stars"         : 2,
         "forks"         : 4,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 7075,
+          "CSS" : 3512,
           "Shell" : 2410,
-          "CSS" : 414,
-          "JavaScript" : 17855
+          "JavaScript" : 21933
         }
       },
       "mailingLists"       : [
@@ -975,11 +975,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 628,
           "watchers"      : 94,
-          "size"          : 3689,
+          "size"          : 3699,
           "collaborators" : 40,
           "stars"         : 94,
           "forks"         : 56,
-          "openIssues"    : 12,
+          "openIssues"    : 14,
           "languages"     : {
             "TypeScript" : 612650,
             "HTML" : 11245,
@@ -992,13 +992,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 344,
           "watchers"      : 15,
-          "size"          : 4000,
+          "size"          : 4043,
           "collaborators" : 41,
           "stars"         : 15,
           "forks"         : 30,
-          "openIssues"    : 9,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 435170,
+            "TypeScript" : 438041,
             "HTML" : 2432,
             "JavaScript" : 11378,
             "Python" : 2150
@@ -1042,13 +1042,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1392,
         "watchers"      : 115,
-        "size"          : 9285,
+        "size"          : 9338,
         "collaborators" : 163,
         "stars"         : 115,
         "forks"         : 102,
-        "openIssues"    : 25,
+        "openIssues"    : 22,
         "languages"     : {
-          "TypeScript" : 1439694,
+          "TypeScript" : 1442565,
           "HTML" : 20357,
           "CSS" : 52615,
           "JavaScript" : 346779,
@@ -1203,7 +1203,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 247,
           "watchers"      : 7,
-          "size"          : 8332,
+          "size"          : 8335,
           "collaborators" : 42,
           "stars"         : 7,
           "forks"         : 13,
@@ -1212,14 +1212,14 @@
             "TypeScript" : 141274,
             "CSS" : 10576,
             "HTML" : 2786,
-            "JavaScript" : 3997
+            "JavaScript" : 3981
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 247,
         "watchers"      : 7,
-        "size"          : 8332,
+        "size"          : 8335,
         "collaborators" : 42,
         "stars"         : 7,
         "forks"         : 13,
@@ -1228,7 +1228,7 @@
           "TypeScript" : 141274,
           "CSS" : 10576,
           "HTML" : 2786,
-          "JavaScript" : 3997
+          "JavaScript" : 3981
         }
       }
     },
@@ -1383,11 +1383,11 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 744,
           "watchers"      : 244,
-          "size"          : 8068,
+          "size"          : 8694,
           "collaborators" : 9,
           "stars"         : 244,
           "forks"         : 44,
-          "openIssues"    : 6,
+          "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 1176424,
             "C#" : 1755830,
@@ -1419,11 +1419,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 790,
         "watchers"      : 245,
-        "size"          : 8824,
+        "size"          : 9450,
         "collaborators" : 15,
         "stars"         : 245,
         "forks"         : 48,
-        "openIssues"    : 9,
+        "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 1198023,
           "C#" : 1755830,
@@ -2639,12 +2639,12 @@
           "name"          : "canon",
           "description"   : "JSON API Generation Tooling",
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
-          "heat"          : 30,
+          "heat"          : 35,
           "watchers"      : 0,
           "size"          : 659,
           "collaborators" : 5,
           "stars"         : 0,
-          "forks"         : 2,
+          "forks"         : 3,
           "openIssues"    : 1,
           "languages"     : {
             "Java" : 522442,
@@ -2669,12 +2669,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 60,
+        "heat"          : 65,
         "watchers"      : 0,
         "size"          : 940,
         "collaborators" : 10,
         "stars"         : 0,
-        "forks"         : 4,
+        "forks"         : 5,
         "openIssues"    : 2,
         "languages"     : {
           "Java" : 570533,
@@ -4092,11 +4092,11 @@
           "name"          : "SFE-Minuet-DesktopClient",
           "description"   : "",
           "gitHubURL"     : "https://github.com/symphonyoss/SFE-Minuet-DesktopClient",
-          "heat"          : 95,
-          "watchers"      : 4,
+          "heat"          : 97,
+          "watchers"      : 5,
           "size"          : 473042,
           "collaborators" : 8,
-          "stars"         : 4,
+          "stars"         : 5,
           "forks"         : 11,
           "openIssues"    : 10,
           "languages"     : {
@@ -4132,11 +4132,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 162,
-        "watchers"      : 4,
+        "heat"          : 164,
+        "watchers"      : 5,
         "size"          : 475306,
         "collaborators" : 16,
-        "stars"         : 4,
+        "stars"         : 5,
         "forks"         : 18,
         "openIssues"    : 13,
         "languages"     : {
@@ -4369,7 +4369,7 @@
           "collaborators" : 7,
           "stars"         : 38,
           "forks"         : 47,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 438410,
             "CSS" : 19322,
@@ -4439,7 +4439,7 @@
           "collaborators" : 5,
           "stars"         : 1,
           "forks"         : 9,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "C#" : 18229
           }
@@ -4468,7 +4468,7 @@
         "collaborators" : 36,
         "stars"         : 45,
         "forks"         : 66,
-        "openIssues"    : 3,
+        "openIssues"    : 5,
         "languages"     : {
           "TypeScript" : 569985,
           "C#" : 25902,
@@ -4620,11 +4620,11 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
           "heat"          : 120,
           "watchers"      : 3,
-          "size"          : 46135,
+          "size"          : 46144,
           "collaborators" : 26,
           "stars"         : 3,
           "forks"         : 2,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "Python" : 32865
           }
@@ -4633,11 +4633,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 120,
         "watchers"      : 3,
-        "size"          : 46135,
+        "size"          : 46144,
         "collaborators" : 26,
         "stars"         : 3,
         "forks"         : 2,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "Python" : 32865
         }
