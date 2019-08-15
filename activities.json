@@ -24,8 +24,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/DT/overview",
       "activityName"         : "Digital Rights Management Working Group",
       "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2019-03-12",
+      "archiveDate"          : "2019-08-12",
       "tags"                 : [
         "digital-rights-management"
       ],
@@ -137,11 +138,11 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 4823,
           "watchers"      : 1986,
-          "size"          : 15389,
+          "size"          : 15359,
           "collaborators" : 34,
           "stars"         : 1986,
           "forks"         : 143,
-          "openIssues"    : 34,
+          "openIssues"    : 30,
           "languages"     : {
             "TypeScript" : 26543,
             "Dockerfile" : 6495,
@@ -159,11 +160,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 4823,
         "watchers"      : 1986,
-        "size"          : 15389,
+        "size"          : 15359,
         "collaborators" : 34,
         "stars"         : 1986,
         "forks"         : 143,
-        "openIssues"    : 34,
+        "openIssues"    : 30,
         "languages"     : {
           "TypeScript" : 26543,
           "Dockerfile" : 6495,
@@ -601,7 +602,7 @@
           "gitHubURL"     : "https://github.com/finos-fdx/cla-bot",
           "heat"          : 208,
           "watchers"      : 29,
-          "size"          : 1611,
+          "size"          : 1612,
           "collaborators" : 25,
           "stars"         : 29,
           "forks"         : 10,
@@ -615,7 +616,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 208,
         "watchers"      : 29,
-        "size"          : 1611,
+        "size"          : 1612,
         "collaborators" : 25,
         "stars"         : 29,
         "forks"         : 10,
@@ -794,14 +795,14 @@
           "gitHubURL"     : "https://github.com/finos-fo/finos-fo",
           "heat"          : 128,
           "watchers"      : 2,
-          "size"          : 1584,
+          "size"          : 1608,
           "collaborators" : 26,
           "stars"         : 2,
           "forks"         : 4,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 7075,
-            "CSS" : 3512,
+            "CSS" : 3722,
             "Shell" : 2410,
             "JavaScript" : 21933
           }
@@ -810,14 +811,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 128,
         "watchers"      : 2,
-        "size"          : 1584,
+        "size"          : 1608,
         "collaborators" : 26,
         "stars"         : 2,
         "forks"         : 4,
         "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 7075,
-          "CSS" : 3512,
+          "CSS" : 3722,
           "Shell" : 2410,
           "JavaScript" : 21933
         }
@@ -1121,9 +1122,9 @@
           "collaborators" : 42,
           "stars"         : 14,
           "forks"         : 24,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 851242,
+            "TypeScript" : 865694,
             "HTML" : 65666,
             "CSS" : 22196,
             "JavaScript" : 7022
@@ -1153,11 +1154,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 180,
           "watchers"      : 0,
-          "size"          : 312,
+          "size"          : 307,
           "collaborators" : 40,
           "stars"         : 0,
           "forks"         : 4,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 52517,
             "CSS" : 70303,
@@ -1169,13 +1170,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 684,
         "watchers"      : 14,
-        "size"          : 5690,
+        "size"          : 5685,
         "collaborators" : 124,
         "stars"         : 14,
         "forks"         : 32,
         "openIssues"    : 6,
         "languages"     : {
-          "TypeScript" : 919646,
+          "TypeScript" : 934098,
           "HTML" : 69891,
           "CSS" : 97088,
           "JavaScript" : 17542
@@ -1203,15 +1204,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 247,
           "watchers"      : 7,
-          "size"          : 8335,
+          "size"          : 8438,
           "collaborators" : 42,
           "stars"         : 7,
           "forks"         : 13,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 141274,
+            "TypeScript" : 176057,
             "CSS" : 10576,
-            "HTML" : 2786,
+            "HTML" : 3094,
             "JavaScript" : 3981
           }
         }
@@ -1219,15 +1220,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 247,
         "watchers"      : 7,
-        "size"          : 8335,
+        "size"          : 8438,
         "collaborators" : 42,
         "stars"         : 7,
         "forks"         : 13,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 141274,
+          "TypeScript" : 176057,
           "CSS" : 10576,
-          "HTML" : 2786,
+          "HTML" : 3094,
           "JavaScript" : 3981
         }
       }
