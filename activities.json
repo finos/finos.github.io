@@ -138,7 +138,7 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 4833,
           "watchers"      : 1989,
-          "size"          : 15602,
+          "size"          : 15614,
           "collaborators" : 35,
           "stars"         : 1989,
           "forks"         : 143,
@@ -150,7 +150,7 @@
             "CSS" : 66789,
             "C" : 3505,
             "CMake" : 27152,
-            "JavaScript" : 924716,
+            "JavaScript" : 926022,
             "HTML" : 28223,
             "Jupyter Notebook" : 4054,
             "Python" : 18364
@@ -160,7 +160,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 4833,
         "watchers"      : 1989,
-        "size"          : 15602,
+        "size"          : 15614,
         "collaborators" : 35,
         "stars"         : 1989,
         "forks"         : 143,
@@ -172,7 +172,7 @@
           "CSS" : 66789,
           "C" : 3505,
           "CMake" : 27152,
-          "JavaScript" : 924716,
+          "JavaScript" : 926022,
           "HTML" : 28223,
           "Jupyter Notebook" : 4054,
           "Python" : 18364
@@ -600,12 +600,12 @@
           "name"          : "cla-bot",
           "description"   : "cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).",
           "gitHubURL"     : "https://github.com/finos-fdx/cla-bot",
-          "heat"          : 207,
+          "heat"          : 212,
           "watchers"      : 29,
-          "size"          : 1612,
+          "size"          : 1004,
           "collaborators" : 26,
           "stars"         : 29,
-          "forks"         : 9,
+          "forks"         : 10,
           "openIssues"    : 31,
           "languages"     : {
             "Shell" : 155,
@@ -614,12 +614,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 207,
+        "heat"          : 212,
         "watchers"      : 29,
-        "size"          : 1612,
+        "size"          : 1004,
         "collaborators" : 26,
         "stars"         : 29,
-        "forks"         : 9,
+        "forks"         : 10,
         "openIssues"    : 31,
         "languages"     : {
           "Shell" : 155,
@@ -795,7 +795,7 @@
           "gitHubURL"     : "https://github.com/finos-fo/finos-fo",
           "heat"          : 132,
           "watchers"      : 2,
-          "size"          : 1608,
+          "size"          : 1595,
           "collaborators" : 27,
           "stars"         : 2,
           "forks"         : 4,
@@ -811,7 +811,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 132,
         "watchers"      : 2,
-        "size"          : 1608,
+        "size"          : 1595,
         "collaborators" : 27,
         "stars"         : 2,
         "forks"         : 4,
@@ -980,7 +980,7 @@
           "collaborators" : 40,
           "stars"         : 94,
           "forks"         : 56,
-          "openIssues"    : 14,
+          "openIssues"    : 15,
           "languages"     : {
             "TypeScript" : 612650,
             "HTML" : 11245,
@@ -1015,7 +1015,7 @@
           "collaborators" : 42,
           "stars"         : 5,
           "forks"         : 15,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 391874,
             "CSS" : 52615,
@@ -1047,7 +1047,7 @@
         "collaborators" : 163,
         "stars"         : 115,
         "forks"         : 102,
-        "openIssues"    : 24,
+        "openIssues"    : 26,
         "languages"     : {
           "TypeScript" : 1442565,
           "HTML" : 20357,
@@ -1154,11 +1154,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 180,
           "watchers"      : 0,
-          "size"          : 416,
+          "size"          : 443,
           "collaborators" : 40,
           "stars"         : 0,
           "forks"         : 4,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 54451,
             "CSS" : 70303,
@@ -1170,11 +1170,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 684,
         "watchers"      : 14,
-        "size"          : 5906,
+        "size"          : 5933,
         "collaborators" : 124,
         "stars"         : 14,
         "forks"         : 32,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "TypeScript" : 936032,
           "HTML" : 69891,
@@ -1208,7 +1208,7 @@
           "collaborators" : 42,
           "stars"         : 7,
           "forks"         : 13,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 176247,
             "CSS" : 10576,
@@ -1224,7 +1224,7 @@
         "collaborators" : 42,
         "stars"         : 7,
         "forks"         : 13,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "TypeScript" : 176247,
           "CSS" : 10576,
@@ -1285,10 +1285,10 @@
           "name"          : "OSLC-handbook",
           "description"   : "A data store and handbook of practical information about complying with the most common open source licenses.",
           "gitHubURL"     : "https://github.com/finos-osr/OSLC-handbook",
-          "heat"          : 308,
+          "heat"          : 312,
           "watchers"      : 72,
           "size"          : 529,
-          "collaborators" : 26,
+          "collaborators" : 27,
           "stars"         : 72,
           "forks"         : 12,
           "openIssues"    : 8,
@@ -1300,10 +1300,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 308,
+        "heat"          : 312,
         "watchers"      : 72,
         "size"          : 529,
-        "collaborators" : 26,
+        "collaborators" : 27,
         "stars"         : 72,
         "forks"         : 12,
         "openIssues"    : 8,
@@ -1405,26 +1405,26 @@
           "name"          : "finos-plexus.github.io",
           "description"   : "",
           "gitHubURL"     : "https://github.com/finos-plexus/finos-plexus.github.io",
-          "heat"          : 46,
+          "heat"          : 51,
           "watchers"      : 1,
           "size"          : 756,
           "collaborators" : 6,
           "stars"         : 1,
-          "forks"         : 4,
-          "openIssues"    : 3,
+          "forks"         : 5,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 21599
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 790,
+        "heat"          : 795,
         "watchers"      : 245,
         "size"          : 9518,
         "collaborators" : 15,
         "stars"         : 245,
-        "forks"         : 48,
-        "openIssues"    : 3,
+        "forks"         : 49,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 1198023,
           "C#" : 1755830,
@@ -2642,13 +2642,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 35,
           "watchers"      : 0,
-          "size"          : 659,
+          "size"          : 674,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 2,
           "languages"     : {
-            "Java" : 522442,
+            "Java" : 522608,
             "FreeMarker" : 133060,
             "JavaScript" : 13681
           }
@@ -2672,13 +2672,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 65,
         "watchers"      : 0,
-        "size"          : 940,
+        "size"          : 955,
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 5,
         "openIssues"    : 3,
         "languages"     : {
-          "Java" : 570533,
+          "Java" : 570699,
           "FreeMarker" : 133060,
           "JavaScript" : 13681
         }
@@ -4451,13 +4451,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SwiftSearch",
           "heat"          : 59,
           "watchers"      : 3,
-          "size"          : 185,
+          "size"          : 189,
           "collaborators" : 7,
           "stars"         : 3,
           "forks"         : 5,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 131575,
+            "TypeScript" : 131590,
             "JavaScript" : 385
           }
         }
@@ -4465,13 +4465,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 564,
         "watchers"      : 45,
-        "size"          : 38491,
+        "size"          : 38495,
         "collaborators" : 36,
         "stars"         : 45,
         "forks"         : 66,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 570247,
+          "TypeScript" : 570262,
           "C#" : 25902,
           "Shell" : 5890,
           "C++" : 35850,
@@ -4704,20 +4704,20 @@
           "name"          : "voice-metadata-standard",
           "description"   : "This is a project from FINOS Voice program to define a standard for call metadata.",
           "gitHubURL"     : "https://github.com/finos-voice/voice-metadata-standard",
-          "heat"          : 161,
+          "heat"          : 165,
           "watchers"      : 3,
           "size"          : 70,
-          "collaborators" : 30,
+          "collaborators" : 31,
           "stars"         : 3,
           "forks"         : 7,
           "openIssues"    : 9
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 161,
+        "heat"          : 165,
         "watchers"      : 3,
         "size"          : 70,
-        "collaborators" : 30,
+        "collaborators" : 31,
         "stars"         : 3,
         "forks"         : 7,
         "openIssues"    : 9
