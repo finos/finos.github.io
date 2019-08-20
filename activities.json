@@ -136,11 +136,11 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4833,
-          "watchers"      : 1989,
-          "size"          : 15614,
+          "heat"          : 4835,
+          "watchers"      : 1990,
+          "size"          : 15513,
           "collaborators" : 35,
-          "stars"         : 1989,
+          "stars"         : 1990,
           "forks"         : 143,
           "openIssues"    : 28,
           "languages"     : {
@@ -150,7 +150,7 @@
             "CSS" : 66789,
             "C" : 3505,
             "CMake" : 27152,
-            "JavaScript" : 926022,
+            "JavaScript" : 926778,
             "HTML" : 28223,
             "Jupyter Notebook" : 4054,
             "Python" : 18364
@@ -158,11 +158,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4833,
-        "watchers"      : 1989,
-        "size"          : 15614,
+        "heat"          : 4835,
+        "watchers"      : 1990,
+        "size"          : 15513,
         "collaborators" : 35,
-        "stars"         : 1989,
+        "stars"         : 1990,
         "forks"         : 143,
         "openIssues"    : 28,
         "languages"     : {
@@ -172,7 +172,7 @@
           "CSS" : 66789,
           "C" : 3505,
           "CMake" : 27152,
-          "JavaScript" : 926022,
+          "JavaScript" : 926778,
           "HTML" : 28223,
           "Jupyter Notebook" : 4054,
           "Python" : 18364
@@ -976,15 +976,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 628,
           "watchers"      : 94,
-          "size"          : 3730,
+          "size"          : 3738,
           "collaborators" : 40,
           "stars"         : 94,
           "forks"         : 56,
-          "openIssues"    : 15,
+          "openIssues"    : 14,
           "languages"     : {
             "TypeScript" : 612650,
             "HTML" : 11245,
-            "JavaScript" : 325754
+            "JavaScript" : 325887
           }
         },
         {
@@ -997,7 +997,7 @@
           "collaborators" : 41,
           "stars"         : 15,
           "forks"         : 30,
-          "openIssues"    : 6,
+          "openIssues"    : 8,
           "languages"     : {
             "TypeScript" : 438041,
             "HTML" : 2432,
@@ -1043,16 +1043,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1392,
         "watchers"      : 115,
-        "size"          : 9369,
+        "size"          : 9377,
         "collaborators" : 163,
         "stars"         : 115,
         "forks"         : 102,
-        "openIssues"    : 26,
+        "openIssues"    : 27,
         "languages"     : {
           "TypeScript" : 1442565,
           "HTML" : 20357,
           "CSS" : 52615,
-          "JavaScript" : 347177,
+          "JavaScript" : 347310,
           "Python" : 2150
         }
       }
@@ -1136,7 +1136,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-tabstrip",
           "heat"          : 188,
           "watchers"      : 0,
-          "size"          : 91,
+          "size"          : 146,
           "collaborators" : 42,
           "stars"         : 0,
           "forks"         : 4,
@@ -1170,7 +1170,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 684,
         "watchers"      : 14,
-        "size"          : 5933,
+        "size"          : 5988,
         "collaborators" : 124,
         "stars"         : 14,
         "forks"         : 32,
@@ -1204,13 +1204,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 247,
           "watchers"      : 7,
-          "size"          : 8722,
+          "size"          : 8550,
           "collaborators" : 42,
           "stars"         : 7,
           "forks"         : 13,
-          "openIssues"    : 5,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 176247,
+            "TypeScript" : 177008,
             "CSS" : 10576,
             "HTML" : 3094,
             "JavaScript" : 3981
@@ -1220,13 +1220,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 247,
         "watchers"      : 7,
-        "size"          : 8722,
+        "size"          : 8550,
         "collaborators" : 42,
         "stars"         : 7,
         "forks"         : 13,
-        "openIssues"    : 5,
+        "openIssues"    : 4,
         "languages"     : {
-          "TypeScript" : 176247,
+          "TypeScript" : 177008,
           "CSS" : 10576,
           "HTML" : 3094,
           "JavaScript" : 3981
@@ -2646,7 +2646,7 @@
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 3,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
             "Java" : 522608,
             "FreeMarker" : 133060,
@@ -2676,7 +2676,7 @@
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 5,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
           "Java" : 570699,
           "FreeMarker" : 133060,
@@ -4366,13 +4366,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 339,
           "watchers"      : 38,
-          "size"          : 34377,
+          "size"          : 34628,
           "collaborators" : 7,
           "stars"         : 38,
           "forks"         : 47,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 438672,
+            "TypeScript" : 439336,
             "CSS" : 19598,
             "Shell" : 5890,
             "Batchfile" : 552,
@@ -4465,13 +4465,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 564,
         "watchers"      : 45,
-        "size"          : 38495,
+        "size"          : 38746,
         "collaborators" : 36,
         "stars"         : 45,
         "forks"         : 66,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 570262,
+          "TypeScript" : 570926,
           "C#" : 25902,
           "Shell" : 5890,
           "C++" : 35850,
