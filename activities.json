@@ -136,13 +136,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4835,
-          "watchers"      : 1990,
-          "size"          : 15513,
+          "heat"          : 4837,
+          "watchers"      : 1991,
+          "size"          : 15516,
           "collaborators" : 35,
-          "stars"         : 1990,
+          "stars"         : 1991,
           "forks"         : 143,
-          "openIssues"    : 28,
+          "openIssues"    : 29,
           "languages"     : {
             "TypeScript" : 26543,
             "Dockerfile" : 6495,
@@ -158,13 +158,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4835,
-        "watchers"      : 1990,
-        "size"          : 15513,
+        "heat"          : 4837,
+        "watchers"      : 1991,
+        "size"          : 15516,
         "collaborators" : 35,
-        "stars"         : 1990,
+        "stars"         : 1991,
         "forks"         : 143,
-        "openIssues"    : 28,
+        "openIssues"    : 29,
         "languages"     : {
           "TypeScript" : 26543,
           "Dockerfile" : 6495,
@@ -602,11 +602,11 @@
           "gitHubURL"     : "https://github.com/finos-fdx/cla-bot",
           "heat"          : 212,
           "watchers"      : 29,
-          "size"          : 1004,
+          "size"          : 969,
           "collaborators" : 26,
           "stars"         : 29,
           "forks"         : 10,
-          "openIssues"    : 31,
+          "openIssues"    : 19,
           "languages"     : {
             "Shell" : 155,
             "JavaScript" : 46244
@@ -616,11 +616,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 212,
         "watchers"      : 29,
-        "size"          : 1004,
+        "size"          : 969,
         "collaborators" : 26,
         "stars"         : 29,
         "forks"         : 10,
-        "openIssues"    : 31,
+        "openIssues"    : 19,
         "languages"     : {
           "Shell" : 155,
           "JavaScript" : 46244
@@ -795,7 +795,7 @@
           "gitHubURL"     : "https://github.com/finos-fo/finos-fo",
           "heat"          : 132,
           "watchers"      : 2,
-          "size"          : 1595,
+          "size"          : 1597,
           "collaborators" : 27,
           "stars"         : 2,
           "forks"         : 4,
@@ -811,7 +811,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 132,
         "watchers"      : 2,
-        "size"          : 1595,
+        "size"          : 1597,
         "collaborators" : 27,
         "stars"         : 2,
         "forks"         : 4,
@@ -887,12 +887,12 @@
           "name"          : "app-template",
           "description"   : "A simple unopinionated Hadouken application template.",
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
-          "heat"          : 287,
+          "heat"          : 292,
           "watchers"      : 16,
           "size"          : 338,
           "collaborators" : 40,
           "stars"         : 16,
-          "forks"         : 19,
+          "forks"         : 20,
           "openIssues"    : 2,
           "languages"     : {
             "CSS" : 704,
@@ -902,12 +902,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 287,
+        "heat"          : 292,
         "watchers"      : 16,
         "size"          : 338,
         "collaborators" : 40,
         "stars"         : 16,
-        "forks"         : 19,
+        "forks"         : 20,
         "openIssues"    : 2,
         "languages"     : {
           "CSS" : 704,
@@ -974,30 +974,30 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 628,
+          "heat"          : 633,
           "watchers"      : 94,
-          "size"          : 3738,
+          "size"          : 3800,
           "collaborators" : 40,
           "stars"         : 94,
-          "forks"         : 56,
+          "forks"         : 57,
           "openIssues"    : 14,
           "languages"     : {
-            "TypeScript" : 612650,
+            "TypeScript" : 612161,
             "HTML" : 11245,
-            "JavaScript" : 325887
+            "JavaScript" : 325254
           }
         },
         {
           "name"          : "js-adapter",
           "description"   : "Hadouken Node Adapter",
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
-          "heat"          : 344,
+          "heat"          : 349,
           "watchers"      : 15,
           "size"          : 4043,
           "collaborators" : 41,
           "stars"         : 15,
-          "forks"         : 30,
-          "openIssues"    : 8,
+          "forks"         : 31,
+          "openIssues"    : 9,
           "languages"     : {
             "TypeScript" : 438041,
             "HTML" : 2432,
@@ -1011,13 +1011,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 253,
           "watchers"      : 5,
-          "size"          : 1546,
+          "size"          : 1612,
           "collaborators" : 42,
           "stars"         : 5,
           "forks"         : 15,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 391874,
+            "TypeScript" : 396848,
             "CSS" : 52615,
             "HTML" : 6191,
             "JavaScript" : 5730
@@ -1041,18 +1041,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1392,
+        "heat"          : 1402,
         "watchers"      : 115,
-        "size"          : 9377,
+        "size"          : 9505,
         "collaborators" : 163,
         "stars"         : 115,
-        "forks"         : 102,
+        "forks"         : 104,
         "openIssues"    : 27,
         "languages"     : {
-          "TypeScript" : 1442565,
+          "TypeScript" : 1447050,
           "HTML" : 20357,
           "CSS" : 52615,
-          "JavaScript" : 347310,
+          "JavaScript" : 346677,
           "Python" : 2150
         }
       }
@@ -1154,13 +1154,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 180,
           "watchers"      : 0,
-          "size"          : 443,
+          "size"          : 476,
           "collaborators" : 40,
           "stars"         : 0,
           "forks"         : 4,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 54451,
+            "TypeScript" : 54546,
             "CSS" : 70303,
             "HTML" : 2932,
             "JavaScript" : 8994
@@ -1170,13 +1170,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 684,
         "watchers"      : 14,
-        "size"          : 5988,
+        "size"          : 6021,
         "collaborators" : 124,
         "stars"         : 14,
         "forks"         : 32,
-        "openIssues"    : 5,
+        "openIssues"    : 4,
         "languages"     : {
-          "TypeScript" : 936032,
+          "TypeScript" : 936127,
           "HTML" : 69891,
           "CSS" : 97088,
           "JavaScript" : 17542
@@ -1208,7 +1208,7 @@
           "collaborators" : 42,
           "stars"         : 7,
           "forks"         : 13,
-          "openIssues"    : 4,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 177008,
             "CSS" : 10576,
@@ -1224,7 +1224,7 @@
         "collaborators" : 42,
         "stars"         : 7,
         "forks"         : 13,
-        "openIssues"    : 4,
+        "openIssues"    : 6,
         "languages"     : {
           "TypeScript" : 177008,
           "CSS" : 10576,
@@ -1382,10 +1382,10 @@
           "name"          : "plexus-interop",
           "description"   : "Plexus Interop open source project hosted by the Fintech Open Source Foundation",
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
-          "heat"          : 744,
+          "heat"          : 748,
           "watchers"      : 244,
           "size"          : 8762,
-          "collaborators" : 9,
+          "collaborators" : 10,
           "stars"         : 244,
           "forks"         : 44,
           "openIssues"    : 0,
@@ -1405,10 +1405,10 @@
           "name"          : "finos-plexus.github.io",
           "description"   : "",
           "gitHubURL"     : "https://github.com/finos-plexus/finos-plexus.github.io",
-          "heat"          : 51,
+          "heat"          : 55,
           "watchers"      : 1,
           "size"          : 756,
-          "collaborators" : 6,
+          "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 5,
           "openIssues"    : 4,
@@ -1418,10 +1418,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 795,
+        "heat"          : 803,
         "watchers"      : 245,
         "size"          : 9518,
-        "collaborators" : 15,
+        "collaborators" : 17,
         "stars"         : 245,
         "forks"         : 49,
         "openIssues"    : 4,
@@ -4058,7 +4058,7 @@
           "collaborators" : 9,
           "stars"         : 4,
           "forks"         : 19,
-          "openIssues"    : 5,
+          "openIssues"    : 7,
           "languages"     : {
             "Java" : 776850
           }
@@ -4071,7 +4071,7 @@
         "collaborators" : 9,
         "stars"         : 4,
         "forks"         : 19,
-        "openIssues"    : 5,
+        "openIssues"    : 7,
         "languages"     : {
           "Java" : 776850
         }
@@ -4313,7 +4313,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-common",
           "heat"          : 48,
           "watchers"      : 0,
-          "size"          : 463,
+          "size"          : 467,
           "collaborators" : 7,
           "stars"         : 0,
           "forks"         : 4,
@@ -4328,21 +4328,21 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-super-pom",
           "heat"          : 36,
           "watchers"      : 1,
-          "size"          : 51,
+          "size"          : 64,
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 2,
-          "openIssues"    : 1
+          "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 84,
         "watchers"      : 1,
-        "size"          : 514,
+        "size"          : 531,
         "collaborators" : 13,
         "stars"         : 1,
         "forks"         : 6,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
           "Java" : 434612
         }
@@ -4366,11 +4366,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 339,
           "watchers"      : 38,
-          "size"          : 34628,
+          "size"          : 34629,
           "collaborators" : 7,
           "stars"         : 38,
           "forks"         : 47,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 439336,
             "CSS" : 19598,
@@ -4465,11 +4465,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 564,
         "watchers"      : 45,
-        "size"          : 38746,
+        "size"          : 38747,
         "collaborators" : 36,
         "stars"         : 45,
         "forks"         : 66,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 570926,
           "C#" : 25902,
@@ -4576,11 +4576,11 @@
           "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
           "heat"          : 135,
           "watchers"      : 6,
-          "size"          : 426,
+          "size"          : 430,
           "collaborators" : 27,
           "stars"         : 6,
           "forks"         : 3,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "Dockerfile" : 679,
             "Shell" : 58,
@@ -4591,11 +4591,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 135,
         "watchers"      : 6,
-        "size"          : 426,
+        "size"          : 430,
         "collaborators" : 27,
         "stars"         : 6,
         "forks"         : 3,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "Dockerfile" : 679,
           "Shell" : 58,
