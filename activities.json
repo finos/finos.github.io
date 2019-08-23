@@ -685,6 +685,32 @@
       "programName"          : "Financial Delivery Accelerator",
       "programShortName"     : "FDX",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
+      "activityName"         : "OSLC Handbook",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2019-03-21",
+      "tags"                 : [
+        "handbook",
+        "oslc"
+      ]
+    },
+    {
+      "programName"          : "Financial Delivery Accelerator",
+      "programShortName"     : "FDX",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
+      "activityName"         : "Reference FOSS Policy",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-05-28",
+      "tags"                 : [
+        "policy",
+        "reference"
+      ]
+    },
+    {
+      "programName"          : "Financial Delivery Accelerator",
+      "programShortName"     : "FDX",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
       "activityName"         : "Foundation Catalogue WG",
       "type"                 : "WORKING_GROUP",
       "state"                : "ARCHIVED",
@@ -777,6 +803,21 @@
         {
           "emailAddress"  : "fdx-odp@finos.org",
           "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdx-odp"
+        }
+      ]
+    },
+    {
+      "programName"          : "Financial Delivery Accelerator",
+      "programShortName"     : "FDX",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
+      "activityName"         : "Open source readiness WG",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "OPERATING",
+      "contributionDate"     : "2018-04-24",
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "osr@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/osr"
         }
       ]
     },
@@ -1267,103 +1308,6 @@
         "forks"         : 2,
         "openIssues"    : 1
       }
-    },
-    {
-      "programName"          : "Open Source Readiness",
-      "programShortName"     : "OSR",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/OSR/overview",
-      "activityName"         : "OSLC Handbook",
-      "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
-      "contributionDate"     : "2019-03-21",
-      "tags"                 : [
-        "handbook",
-        "oslc"
-      ],
-      "gitHubRepos"          : [
-        {
-          "name"          : "OSLC-handbook",
-          "description"   : "A data store and handbook of practical information about complying with the most common open source licenses.",
-          "gitHubURL"     : "https://github.com/finos-osr/OSLC-handbook",
-          "heat"          : 312,
-          "watchers"      : 72,
-          "size"          : 529,
-          "collaborators" : 27,
-          "stars"         : 72,
-          "forks"         : 12,
-          "openIssues"    : 8,
-          "languages"     : {
-            "HTML" : 232059,
-            "CSS" : 80487,
-            "Python" : 7813
-          }
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 312,
-        "watchers"      : 72,
-        "size"          : 529,
-        "collaborators" : 27,
-        "stars"         : 72,
-        "forks"         : 12,
-        "openIssues"    : 8,
-        "languages"     : {
-          "HTML" : 232059,
-          "CSS" : 80487,
-          "Python" : 7813
-        }
-      }
-    },
-    {
-      "programName"          : "Open Source Readiness",
-      "programShortName"     : "OSR",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/OSR/overview",
-      "activityName"         : "Reference FOSS Policy",
-      "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
-      "contributionDate"     : "2018-05-28",
-      "tags"                 : [
-        "policy",
-        "reference"
-      ],
-      "gitHubRepos"          : [
-        {
-          "name"          : "reference-foss-policy",
-          "description"   : "Reference FOSS Policy for Financial Services Institutions",
-          "gitHubURL"     : "https://github.com/finos-osr/reference-foss-policy",
-          "heat"          : 125,
-          "watchers"      : 3,
-          "size"          : 88,
-          "collaborators" : 26,
-          "stars"         : 3,
-          "forks"         : 3,
-          "openIssues"    : 2
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 125,
-        "watchers"      : 3,
-        "size"          : 88,
-        "collaborators" : 26,
-        "stars"         : 3,
-        "forks"         : 3,
-        "openIssues"    : 2
-      }
-    },
-    {
-      "programName"          : "Open Source Readiness",
-      "programShortName"     : "OSR",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/OSR/overview",
-      "activityName"         : "Open source readiness WG",
-      "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
-      "contributionDate"     : "2018-04-24",
-      "mailingLists"       : [
-        {
-          "emailAddress"  : "osr@finos.org",
-          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/osr"
-        }
-      ]
     },
     {
       "programName"          : "Plexus",
@@ -3419,8 +3363,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "Glue RFQ Symphony Integration",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2016-12-20",
+      "archiveDate"          : "2019-08-22",
       "tags"                 : [
         "extension api",
         "integration"
@@ -4362,7 +4307,7 @@
       "gitHubRepos"          : [
         {
           "name"          : "SymphonyElectron",
-          "description"   : "A desktop client of the Symphony Communication Platform built using Electron for Windows & macOS",
+          "description"   : "A desktop client for the Symphony Collaboration Platform built using Electron",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 339,
           "watchers"      : 38,
@@ -4567,8 +4512,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/VOICE/overview",
       "activityName"         : "Greenkey Automatic Speech Recognition Toolkit",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2018-10-08",
+      "releaseDate"          : "2018-11-02",
       "gitHubRepos"          : [
         {
           "name"          : "greenkey-asrtoolkit",
@@ -4609,8 +4555,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/VOICE/overview",
       "activityName"         : "Greenkey Discovery SDK",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2018-08-20",
+      "releaseDate"          : "2018-08-21",
       "tags"                 : [
         "rest api client"
       ],
@@ -4650,8 +4597,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/VOICE/overview",
       "activityName"         : "Greenkey Voice SDK",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2018-05-25",
+      "archiveDate"          : "2019-08-06",
       "tags"                 : [
         "rest api client"
       ],
