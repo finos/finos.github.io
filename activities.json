@@ -7,7 +7,42 @@
       "activityName"         : "Data Helix",
       "type"                 : "PROJECT",
       "state"                : "INCUBATING",
-      "contributionDate"     : "2019-07-03"
+      "contributionDate"     : "2019-07-03",
+      "gitHubRepos"          : [
+        {
+          "name"          : "datahelix",
+          "description"   : "The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for the purpose of testing and validation",
+          "gitHubURL"     : "https://github.com/finos/datahelix",
+          "heat"          : 212,
+          "watchers"      : 24,
+          "size"          : 11683,
+          "collaborators" : 26,
+          "stars"         : 24,
+          "forks"         : 12,
+          "openIssues"    : 77,
+          "languages"     : {
+            "Java" : 1672617,
+            "Dockerfile" : 581,
+            "Shell" : 1945,
+            "Gherkin" : 558052
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 212,
+        "watchers"      : 24,
+        "size"          : 11683,
+        "collaborators" : 26,
+        "stars"         : 24,
+        "forks"         : 12,
+        "openIssues"    : 77,
+        "languages"     : {
+          "Java" : 1672617,
+          "Dockerfile" : 581,
+          "Shell" : 1945,
+          "Gherkin" : 558052
+        }
+      }
     },
     {
       "programName"          : "Data Technologies",
@@ -16,7 +51,48 @@
       "activityName"         : "Exodus",
       "type"                 : "PROJECT",
       "state"                : "INCUBATING",
-      "contributionDate"     : "2019-07-03"
+      "contributionDate"     : "2019-07-03",
+      "gitHubRepos"          : [
+        {
+          "name"          : "exodus",
+          "description"   : "Migration tools for Tabular Data to Oracle JSON/Tabular Data",
+          "gitHubURL"     : "https://github.com/finos/exodus",
+          "heat"          : 126,
+          "watchers"      : 4,
+          "size"          : 8992,
+          "collaborators" : 27,
+          "stars"         : 4,
+          "forks"         : 2,
+          "openIssues"    : 1,
+          "languages"     : {
+            "Shell" : 16887,
+            "Scheme" : 109099,
+            "Batchfile" : 5166,
+            "PLpgSQL" : 544,
+            "PLSQL" : 93723,
+            "SQLPL" : 7755,
+            "TSQL" : 5040
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 126,
+        "watchers"      : 4,
+        "size"          : 8992,
+        "collaborators" : 27,
+        "stars"         : 4,
+        "forks"         : 2,
+        "openIssues"    : 1,
+        "languages"     : {
+          "Shell" : 16887,
+          "Scheme" : 109099,
+          "Batchfile" : 5166,
+          "PLpgSQL" : 544,
+          "PLSQL" : 93723,
+          "SQLPL" : 7755,
+          "TSQL" : 5040
+        }
+      }
     },
     {
       "programName"          : "Data Technologies",
@@ -34,7 +110,7 @@
         {
           "name"          : "digital-rights-management",
           "description"   : "digital-rights-management",
-          "gitHubURL"     : "https://github.com/finos-data-tech/digital-rights-management",
+          "gitHubURL"     : "https://github.com/finos/digital-rights-management",
           "heat"          : 125,
           "watchers"      : 1,
           "size"          : 10,
@@ -75,7 +151,7 @@
         {
           "name"          : "kdb",
           "description"   : "kdb+ Working Group from FINOS Data Technologies program",
-          "gitHubURL"     : "https://github.com/finos-data-tech/kdb",
+          "gitHubURL"     : "https://github.com/finos/kdb",
           "heat"          : 142,
           "watchers"      : 7,
           "size"          : 17,
@@ -136,12 +212,12 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4842,
-          "watchers"      : 1991,
-          "size"          : 15528,
+          "heat"          : 4841,
+          "watchers"      : 1993,
+          "size"          : 17178,
           "collaborators" : 35,
-          "stars"         : 1991,
-          "forks"         : 144,
+          "stars"         : 1993,
+          "forks"         : 143,
           "openIssues"    : 28,
           "languages"     : {
             "TypeScript" : 26543,
@@ -158,12 +234,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4842,
-        "watchers"      : 1991,
-        "size"          : 15528,
+        "heat"          : 4841,
+        "watchers"      : 1993,
+        "size"          : 17178,
         "collaborators" : 35,
-        "stars"         : 1991,
-        "forks"         : 144,
+        "stars"         : 1993,
+        "forks"         : 143,
         "openIssues"    : 28,
         "languages"     : {
           "TypeScript" : 26543,
@@ -212,6 +288,63 @@
         "stars"         : 1,
         "forks"         : 2,
         "openIssues"    : 5
+      }
+    },
+    {
+      "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
+      "programShortName"     : "FDC3",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
+      "activityName"         : "FDC3",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2018-04-20",
+      "releaseDate"          : "2019-07-19",
+      "gitHubRepos"          : [
+        {
+          "name"          : "FDC3",
+          "description"   : "Open standards for the financial desktop.",
+          "gitHubURL"     : "https://github.com/FDC3/fdc3",
+          "heat"          : 344,
+          "watchers"      : 22,
+          "size"          : 2816,
+          "collaborators" : 45,
+          "stars"         : 22,
+          "forks"         : 24,
+          "openIssues"    : 12,
+          "languages"     : {
+            "TypeScript" : 13533,
+            "HTML" : 1858006,
+            "CSS" : 3201,
+            "JavaScript" : 23124
+          }
+        },
+        {
+          "name"          : "FDC3-Archive",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/FDC3/fdc3-archive",
+          "heat"          : 178,
+          "watchers"      : 3,
+          "size"          : 2214,
+          "collaborators" : 43,
+          "stars"         : 3,
+          "forks"         : 0,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 522,
+        "watchers"      : 25,
+        "size"          : 5030,
+        "collaborators" : 88,
+        "stars"         : 25,
+        "forks"         : 24,
+        "openIssues"    : 12,
+        "languages"     : {
+          "TypeScript" : 13533,
+          "HTML" : 1858006,
+          "CSS" : 3201,
+          "JavaScript" : 23124
+        }
       }
     },
     {
@@ -354,28 +487,16 @@
           "stars"         : 0,
           "forks"         : 5,
           "openIssues"    : 0
-        },
-        {
-          "name"          : "appd-launcher-poc",
-          "description"   : "Launcher example interfacing with AppD",
-          "gitHubURL"     : "https://github.com/FDC3/appd-glue42-launcher-poc",
-          "heat"          : 184,
-          "watchers"      : 1,
-          "size"          : 0,
-          "collaborators" : 43,
-          "stars"         : 1,
-          "forks"         : 2,
-          "openIssues"    : 5
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 763,
-        "watchers"      : 5,
+        "heat"          : 579,
+        "watchers"      : 4,
         "size"          : 766,
-        "collaborators" : 172,
-        "stars"         : 5,
-        "forks"         : 13,
-        "openIssues"    : 5,
+        "collaborators" : 129,
+        "stars"         : 4,
+        "forks"         : 11,
+        "openIssues"    : 0,
         "languages"     : {
           "Java" : 90084,
           "Dockerfile" : 763,
@@ -513,22 +634,22 @@
           "name"          : "use-cases",
           "description"   : "FDC3 Use Cases",
           "gitHubURL"     : "https://github.com/FDC3/use-cases",
-          "heat"          : 198,
+          "heat"          : 193,
           "watchers"      : 1,
           "size"          : 158,
           "collaborators" : 44,
           "stars"         : 1,
-          "forks"         : 4,
+          "forks"         : 3,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 198,
+        "heat"          : 193,
         "watchers"      : 1,
         "size"          : 158,
         "collaborators" : 44,
         "stars"         : 1,
-        "forks"         : 4,
+        "forks"         : 3,
         "openIssues"    : 0
       },
       "mailingLists"       : [
@@ -557,7 +678,7 @@
         {
           "name"          : "bot-github-chatops",
           "description"   : "A Symphony bot that uses ChatOps techniques to allow a firm employee to interact in a compliant manner with GitHub issues and PRs",
-          "gitHubURL"     : "https://github.com/finos-fdx/bot-github-chatops",
+          "gitHubURL"     : "https://github.com/finos/bot-github-chatops",
           "heat"          : 132,
           "watchers"      : 7,
           "size"          : 396,
@@ -599,7 +720,7 @@
         {
           "name"          : "cla-bot",
           "description"   : "cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).",
-          "gitHubURL"     : "https://github.com/finos-fdx/cla-bot",
+          "gitHubURL"     : "https://github.com/finos/cla-bot",
           "heat"          : 212,
           "watchers"      : 29,
           "size"          : 970,
@@ -639,7 +760,7 @@
         {
           "name"          : "finos-parent-pom",
           "description"   : "A Maven Parent POM that provide common build and release features using the Symphony Software Foundation Infrastructure",
-          "gitHubURL"     : "https://github.com/finos-fdx/finos-parent-pom",
+          "gitHubURL"     : "https://github.com/finos/finos-parent-pom",
           "heat"          : 116,
           "watchers"      : 1,
           "size"          : 78,
@@ -651,7 +772,7 @@
         {
           "name"          : "contrib-toolbox",
           "description"   : "A collection of utilities to support the FINOS contribution process",
-          "gitHubURL"     : "https://github.com/finos-fdx/contrib-toolbox",
+          "gitHubURL"     : "https://github.com/finos/contrib-toolbox",
           "heat"          : 119,
           "watchers"      : 0,
           "size"          : 176,
@@ -664,20 +785,167 @@
             "HTML" : 472,
             "Python" : 7381
           }
+        },
+        {
+          "name"          : "certificate-toolbox",
+          "description"   : "A collection of command-line tools to generate PKI Signing Certificates and X.509 Identity Certificates",
+          "gitHubURL"     : "https://github.com/finos/certificate-toolbox",
+          "heat"          : 113,
+          "watchers"      : 2,
+          "size"          : 14,
+          "collaborators" : 26,
+          "stars"         : 2,
+          "forks"         : 1,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Shell" : 5512
+          }
+        },
+        {
+          "name"          : "clabot-test",
+          "description"   : "Testing https://github.com/apps/cla-bot",
+          "gitHubURL"     : "https://github.com/finos/clabot-test",
+          "heat"          : 104,
+          "watchers"      : 0,
+          "size"          : 14,
+          "collaborators" : 26,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 3
+        },
+        {
+          "name"          : "clabot-test-prod",
+          "description"   : "Testing the instance in production of cla-bot",
+          "gitHubURL"     : "https://github.com/finos/clabot-test-prod",
+          "heat"          : 104,
+          "watchers"      : 0,
+          "size"          : 2,
+          "collaborators" : 26,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 1
+        },
+        {
+          "name"          : "finos.github.io",
+          "description"   : "The source for the FINOS activity catalogue.",
+          "gitHubURL"     : "https://github.com/finos/finos.github.io",
+          "heat"          : 134,
+          "watchers"      : 3,
+          "size"          : 2656,
+          "collaborators" : 27,
+          "stars"         : 3,
+          "forks"         : 4,
+          "openIssues"    : 5,
+          "languages"     : {
+            "HTML" : 6112,
+            "CSS" : 4539,
+            "JavaScript" : 21093
+          }
+        },
+        {
+          "name"          : "metadata-tool",
+          "description"   : "A command line tool for performing various tasks with Fintech Open Source Foundation (FINOS) metadata.",
+          "gitHubURL"     : "https://github.com/finos/metadata-tool",
+          "heat"          : 139,
+          "watchers"      : 3,
+          "size"          : 261,
+          "collaborators" : 27,
+          "stars"         : 3,
+          "forks"         : 5,
+          "openIssues"    : 4,
+          "languages"     : {
+            "FreeMarker" : 21837,
+            "Clojure" : 95928
+          }
+        },
+        {
+          "name"          : "project-blueprint",
+          "description"   : "Project blueprint for new Fintech Open Source Foundation hosted projects.",
+          "gitHubURL"     : "https://github.com/finos/project-blueprint",
+          "heat"          : 129,
+          "watchers"      : 3,
+          "size"          : 46,
+          "collaborators" : 27,
+          "stars"         : 3,
+          "forks"         : 3,
+          "openIssues"    : 1
+        },
+        {
+          "name"          : "reports-job",
+          "description"   : "Initiates the generation of the Foundation's periodic automated email reports.",
+          "gitHubURL"     : "https://github.com/finos/reports-job",
+          "heat"          : 111,
+          "watchers"      : 1,
+          "size"          : 2203,
+          "collaborators" : 26,
+          "stars"         : 1,
+          "forks"         : 1,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Shell" : 1384,
+            "Clojure" : 1198
+          }
+        },
+        {
+          "name"          : "ssf-enforcer-rules",
+          "description"   : "Symphony Software Foundation Enforcer Rules",
+          "gitHubURL"     : "https://github.com/finos/ssf-enforcer-rules",
+          "heat"          : 109,
+          "watchers"      : 0,
+          "size"          : 21,
+          "collaborators" : 26,
+          "stars"         : 0,
+          "forks"         : 1,
+          "openIssues"    : 1,
+          "languages"     : {
+            "Java" : 12202
+          }
+        },
+        {
+          "name"          : "wiki.finos.org",
+          "description"   : "HTTP redirect to finosfoundation.atlassian.net/wiki",
+          "gitHubURL"     : "https://github.com/finos/wiki.finos.org",
+          "heat"          : 104,
+          "watchers"      : 0,
+          "size"          : 2,
+          "collaborators" : 26,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "HTML" : 317
+          }
+        },
+        {
+          "name"          : "branding",
+          "description"   : "FINOS (Fintech Open Source Foundation) official branding resources",
+          "gitHubURL"     : "https://github.com/finos/branding",
+          "heat"          : 110,
+          "watchers"      : 1,
+          "size"          : 29603,
+          "collaborators" : 27,
+          "stars"         : 1,
+          "forks"         : 0,
+          "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 235,
-        "watchers"      : 1,
-        "size"          : 254,
-        "collaborators" : 52,
-        "stars"         : 1,
-        "forks"         : 5,
-        "openIssues"    : 1,
+        "heat"          : 1392,
+        "watchers"      : 14,
+        "size"          : 35076,
+        "collaborators" : 316,
+        "stars"         : 14,
+        "forks"         : 20,
+        "openIssues"    : 16,
         "languages"     : {
-          "Shell" : 21188,
-          "HTML" : 472,
-          "Python" : 7381
+          "Java" : 12202,
+          "Shell" : 28084,
+          "CSS" : 4539,
+          "JavaScript" : 21093,
+          "HTML" : 6901,
+          "FreeMarker" : 21837,
+          "Python" : 7381,
+          "Clojure" : 97126
         }
       }
     },
@@ -692,7 +960,59 @@
       "tags"                 : [
         "handbook",
         "oslc"
-      ]
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "OSLC-handbook",
+          "description"   : "A data store and handbook of practical information about complying with the most common open source licenses.",
+          "gitHubURL"     : "https://github.com/finos/OSLC-handbook",
+          "heat"          : 324,
+          "watchers"      : 73,
+          "size"          : 529,
+          "collaborators" : 27,
+          "stars"         : 73,
+          "forks"         : 14,
+          "openIssues"    : 8,
+          "languages"     : {
+            "HTML" : 232059,
+            "CSS" : 80487,
+            "Python" : 7813
+          }
+        },
+        {
+          "name"          : "asciidoctor-stylesheet-factory",
+          "description"   : ":art: A factory for producing stylesheets to theme AsciiDoc HTML5 output. Assembled using Compass, Sass and Foundation.",
+          "gitHubURL"     : "https://github.com/finos/asciidoctor-stylesheet-factory",
+          "heat"          : 108,
+          "watchers"      : 0,
+          "size"          : 1124,
+          "collaborators" : 27,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "CSS" : 80953,
+            "Shell" : 2627,
+            "Ruby" : 2156
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 432,
+        "watchers"      : 73,
+        "size"          : 1653,
+        "collaborators" : 54,
+        "stars"         : 73,
+        "forks"         : 14,
+        "openIssues"    : 8,
+        "languages"     : {
+          "HTML" : 232059,
+          "CSS" : 161440,
+          "Shell" : 2627,
+          "Ruby" : 2156,
+          "Python" : 7813
+        }
+      }
     },
     {
       "programName"          : "Financial Delivery Accelerator",
@@ -705,7 +1025,30 @@
       "tags"                 : [
         "policy",
         "reference"
-      ]
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "reference-foss-policy",
+          "description"   : "Reference FOSS Policy for Financial Services Institutions",
+          "gitHubURL"     : "https://github.com/finos/reference-foss-policy",
+          "heat"          : 120,
+          "watchers"      : 3,
+          "size"          : 88,
+          "collaborators" : 26,
+          "stars"         : 3,
+          "forks"         : 2,
+          "openIssues"    : 2
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 120,
+        "watchers"      : 3,
+        "size"          : 88,
+        "collaborators" : 26,
+        "stars"         : 3,
+        "forks"         : 2,
+        "openIssues"    : 2
+      }
     },
     {
       "programName"          : "Financial Delivery Accelerator",
@@ -750,7 +1093,7 @@
         {
           "name"          : "cloud-service-certification",
           "description"   : "Cloud Service Certification Working Group",
-          "gitHubURL"     : "https://github.com/finos-fdx/cloud-service-certification",
+          "gitHubURL"     : "https://github.com/finos/cloud-service-certification",
           "heat"          : 133,
           "watchers"      : 4,
           "size"          : 29,
@@ -799,6 +1142,29 @@
       "type"                 : "WORKING_GROUP",
       "state"                : "OPERATING",
       "contributionDate"     : "2018-04-24",
+      "gitHubRepos"          : [
+        {
+          "name"          : "odp-test",
+          "description"   : "Testing accessibility to FINOS Infrastructure",
+          "gitHubURL"     : "https://github.com/finos/odp-test",
+          "heat"          : 114,
+          "watchers"      : 0,
+          "size"          : 5,
+          "collaborators" : 26,
+          "stars"         : 0,
+          "forks"         : 2,
+          "openIssues"    : 3
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 114,
+        "watchers"      : 0,
+        "size"          : 5,
+        "collaborators" : 26,
+        "stars"         : 0,
+        "forks"         : 2,
+        "openIssues"    : 3
+      },
       "mailingLists"       : [
         {
           "emailAddress"  : "fdx-odp@finos.org",
@@ -833,7 +1199,7 @@
         {
           "name"          : "finos-fo",
           "description"   : "FINOS Financial Objects Program Documentation",
-          "gitHubURL"     : "https://github.com/finos-fo/finos-fo",
+          "gitHubURL"     : "https://github.com/finos/finos-fo",
           "heat"          : 132,
           "watchers"      : 2,
           "size"          : 1597,
@@ -884,7 +1250,7 @@
         {
           "name"          : "symphony-object",
           "description"   : " Structured Object Schemas",
-          "gitHubURL"     : "https://github.com/finos-fo/symphony-object",
+          "gitHubURL"     : "https://github.com/finos/symphony-object",
           "heat"          : 125,
           "watchers"      : 1,
           "size"          : 21,
@@ -1015,17 +1381,17 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 633,
+          "heat"          : 638,
           "watchers"      : 94,
-          "size"          : 3770,
+          "size"          : 3781,
           "collaborators" : 40,
           "stars"         : 94,
-          "forks"         : 57,
-          "openIssues"    : 15,
+          "forks"         : 58,
+          "openIssues"    : 13,
           "languages"     : {
-            "TypeScript" : 612161,
+            "TypeScript" : 612303,
             "HTML" : 11245,
-            "JavaScript" : 325572
+            "JavaScript" : 326852
           }
         },
         {
@@ -1034,13 +1400,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 349,
           "watchers"      : 15,
-          "size"          : 4043,
+          "size"          : 4104,
           "collaborators" : 41,
           "stars"         : 15,
           "forks"         : 31,
-          "openIssues"    : 9,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 438041,
+            "TypeScript" : 437737,
             "HTML" : 2432,
             "JavaScript" : 11378,
             "Python" : 2150
@@ -1082,18 +1448,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1402,
+        "heat"          : 1407,
         "watchers"      : 115,
-        "size"          : 9475,
+        "size"          : 9547,
         "collaborators" : 163,
         "stars"         : 115,
-        "forks"         : 104,
-        "openIssues"    : 28,
+        "forks"         : 105,
+        "openIssues"    : 21,
         "languages"     : {
-          "TypeScript" : 1447050,
+          "TypeScript" : 1446888,
           "HTML" : 20357,
           "CSS" : 52615,
-          "JavaScript" : 346995,
+          "JavaScript" : 348275,
           "Python" : 2150
         }
       }
@@ -1195,13 +1561,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 180,
           "watchers"      : 0,
-          "size"          : 476,
+          "size"          : 719,
           "collaborators" : 40,
           "stars"         : 0,
           "forks"         : 4,
-          "openIssues"    : 2,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 54546,
+            "TypeScript" : 56586,
             "CSS" : 70303,
             "HTML" : 2932,
             "JavaScript" : 8994
@@ -1211,13 +1577,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 684,
         "watchers"      : 14,
-        "size"          : 6008,
+        "size"          : 6251,
         "collaborators" : 124,
         "stars"         : 14,
         "forks"         : 32,
-        "openIssues"    : 5,
+        "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 972296,
+          "TypeScript" : 974336,
           "HTML" : 69891,
           "CSS" : 97088,
           "JavaScript" : 17542
@@ -1245,13 +1611,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 247,
           "watchers"      : 7,
-          "size"          : 8550,
+          "size"          : 8554,
           "collaborators" : 42,
           "stars"         : 7,
           "forks"         : 13,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
-            "TypeScript" : 177008,
+            "TypeScript" : 185118,
             "CSS" : 10576,
             "HTML" : 3094,
             "JavaScript" : 3981
@@ -1261,13 +1627,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 247,
         "watchers"      : 7,
-        "size"          : 8550,
+        "size"          : 8554,
         "collaborators" : 42,
         "stars"         : 7,
         "forks"         : 13,
-        "openIssues"    : 6,
+        "openIssues"    : 7,
         "languages"     : {
-          "TypeScript" : 177008,
+          "TypeScript" : 185118,
           "CSS" : 10576,
           "HTML" : 3094,
           "JavaScript" : 3981
@@ -4311,19 +4677,19 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 339,
           "watchers"      : 38,
-          "size"          : 34629,
+          "size"          : 34636,
           "collaborators" : 7,
           "stars"         : 38,
           "forks"         : 47,
           "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 439336,
-            "CSS" : 19598,
-            "Shell" : 5890,
-            "Batchfile" : 552,
+            "CSS" : 23550,
+            "Shell" : 9300,
+            "Batchfile" : 2649,
             "JavaScript" : 2484,
-            "Objective_C" : 7338,
-            "HTML" : 1155
+            "HTML" : 28967,
+            "Objective_C" : 7338
           }
         },
         {
@@ -4405,27 +4771,44 @@
             "TypeScript" : 131590,
             "JavaScript" : 385
           }
+        },
+        {
+          "name"          : "electron-dl",
+          "description"   : "Simplified file downloads for your Electron app",
+          "gitHubURL"     : "https://github.com/symphonyoss/electron-dl",
+          "heat"          : 21,
+          "watchers"      : 0,
+          "size"          : 5591,
+          "collaborators" : 4,
+          "stars"         : 0,
+          "forks"         : 1,
+          "openIssues"    : 0,
+          "languages"     : {
+            "TypeScript" : 337,
+            "HTML" : 699,
+            "JavaScript" : 7544
+          }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 564,
+        "heat"          : 585,
         "watchers"      : 45,
-        "size"          : 38747,
-        "collaborators" : 36,
+        "size"          : 44345,
+        "collaborators" : 40,
         "stars"         : 45,
-        "forks"         : 66,
+        "forks"         : 67,
         "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 570926,
+          "TypeScript" : 571263,
           "C#" : 25902,
-          "Shell" : 5890,
+          "Shell" : 9300,
           "C++" : 35850,
-          "CSS" : 19598,
+          "CSS" : 23550,
           "C" : 1364,
-          "Batchfile" : 552,
-          "JavaScript" : 121428,
+          "Batchfile" : 2649,
+          "JavaScript" : 128972,
           "Objective_C" : 7338,
-          "HTML" : 1920,
+          "HTML" : 30431,
           "Python" : 921
         }
       }
@@ -4519,7 +4902,7 @@
         {
           "name"          : "greenkey-asrtoolkit",
           "description"   : "A collection of useful tools for handling speech recognition data",
-          "gitHubURL"     : "https://github.com/finos-voice/greenkey-asrtoolkit",
+          "gitHubURL"     : "https://github.com/finos/greenkey-asrtoolkit",
           "heat"          : 135,
           "watchers"      : 6,
           "size"          : 430,
@@ -4565,7 +4948,7 @@
         {
           "name"          : "greenkey-discovery-sdk",
           "description"   : "Speed up business workflows through custom 'voice skills' and text (NLP) interpreters",
-          "gitHubURL"     : "https://github.com/finos-voice/greenkey-discovery-sdk",
+          "gitHubURL"     : "https://github.com/finos/greenkey-discovery-sdk",
           "heat"          : 124,
           "watchers"      : 3,
           "size"          : 46144,
@@ -4607,7 +4990,7 @@
         {
           "name"          : "greenkey-voice-sdk",
           "description"   : "Voice-enable your front-end apps with instant intercoms",
-          "gitHubURL"     : "https://github.com/finos-voice/greenkey-voice-sdk",
+          "gitHubURL"     : "https://github.com/finos/greenkey-voice-sdk",
           "heat"          : 124,
           "watchers"      : 1,
           "size"          : 323,
@@ -4651,24 +5034,24 @@
         {
           "name"          : "voice-metadata-standard",
           "description"   : "This is a project from FINOS Voice program to define a standard for call metadata.",
-          "gitHubURL"     : "https://github.com/finos-voice/voice-metadata-standard",
+          "gitHubURL"     : "https://github.com/finos/voice-metadata-standard",
           "heat"          : 165,
           "watchers"      : 3,
-          "size"          : 70,
+          "size"          : 75,
           "collaborators" : 31,
           "stars"         : 3,
           "forks"         : 7,
-          "openIssues"    : 9
+          "openIssues"    : 8
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 165,
         "watchers"      : 3,
-        "size"          : 70,
+        "size"          : 75,
         "collaborators" : 31,
         "stars"         : 3,
         "forks"         : 7,
-        "openIssues"    : 9
+        "openIssues"    : 8
       },
       "mailingLists"       : [
         {
