@@ -13,34 +13,34 @@
           "name"          : "datahelix",
           "description"   : "The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for the purpose of testing and validation",
           "gitHubURL"     : "https://github.com/finos/datahelix",
-          "heat"          : 218,
-          "watchers"      : 25,
-          "size"          : 11852,
+          "heat"          : 220,
+          "watchers"      : 26,
+          "size"          : 11966,
           "collaborators" : 27,
-          "stars"         : 25,
+          "stars"         : 26,
           "forks"         : 12,
-          "openIssues"    : 94,
+          "openIssues"    : 89,
           "languages"     : {
-            "Java" : 1664617,
+            "Java" : 1655116,
             "Dockerfile" : 581,
             "Shell" : 1945,
-            "Gherkin" : 557548
+            "Gherkin" : 559445
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 218,
-        "watchers"      : 25,
-        "size"          : 11852,
+        "heat"          : 220,
+        "watchers"      : 26,
+        "size"          : 11966,
         "collaborators" : 27,
-        "stars"         : 25,
+        "stars"         : 26,
         "forks"         : 12,
-        "openIssues"    : 94,
+        "openIssues"    : 89,
         "languages"     : {
-          "Java" : 1664617,
+          "Java" : 1655116,
           "Dockerfile" : 581,
           "Shell" : 1945,
-          "Gherkin" : 557548
+          "Gherkin" : 559445
         }
       }
     },
@@ -214,20 +214,20 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 4857,
           "watchers"      : 2001,
-          "size"          : 19164,
+          "size"          : 19211,
           "collaborators" : 35,
           "stars"         : 2001,
           "forks"         : 143,
-          "openIssues"    : 29,
+          "openIssues"    : 26,
           "languages"     : {
             "TypeScript" : 26543,
             "Dockerfile" : 23254,
-            "C++" : 1062361,
-            "CSS" : 66789,
+            "C++" : 1066523,
+            "CSS" : 68057,
             "C" : 3505,
             "CMake" : 27124,
-            "JavaScript" : 934417,
-            "HTML" : 28223,
+            "JavaScript" : 946039,
+            "HTML" : 28296,
             "Jupyter Notebook" : 4054,
             "Python" : 18364
           }
@@ -236,20 +236,20 @@
       "cumulativeGitHubStats" : {
         "heat"          : 4857,
         "watchers"      : 2001,
-        "size"          : 19164,
+        "size"          : 19211,
         "collaborators" : 35,
         "stars"         : 2001,
         "forks"         : 143,
-        "openIssues"    : 29,
+        "openIssues"    : 26,
         "languages"     : {
           "TypeScript" : 26543,
           "Dockerfile" : 23254,
-          "C++" : 1062361,
-          "CSS" : 66789,
+          "C++" : 1066523,
+          "CSS" : 68057,
           "C" : 3505,
           "CMake" : 27124,
-          "JavaScript" : 934417,
-          "HTML" : 28223,
+          "JavaScript" : 946039,
+          "HTML" : 28296,
           "Jupyter Notebook" : 4054,
           "Python" : 18364
         }
@@ -831,7 +831,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 134,
           "watchers"      : 3,
-          "size"          : 2681,
+          "size"          : 2186,
           "collaborators" : 27,
           "stars"         : 3,
           "forks"         : 4,
@@ -932,7 +932,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1392,
         "watchers"      : 14,
-        "size"          : 35087,
+        "size"          : 34592,
         "collaborators" : 316,
         "stars"         : 14,
         "forks"         : 20,
@@ -1615,7 +1615,7 @@
           "collaborators" : 42,
           "stars"         : 7,
           "forks"         : 14,
-          "openIssues"    : 5,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 203601,
             "CSS" : 10576,
@@ -1631,7 +1631,7 @@
         "collaborators" : 42,
         "stars"         : 7,
         "forks"         : 14,
-        "openIssues"    : 5,
+        "openIssues"    : 6,
         "languages"     : {
           "TypeScript" : 203601,
           "CSS" : 10576,
