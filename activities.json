@@ -15,32 +15,32 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 226,
           "watchers"      : 27,
-          "size"          : 11930,
+          "size"          : 11995,
           "collaborators" : 28,
           "stars"         : 27,
           "forks"         : 12,
-          "openIssues"    : 87,
+          "openIssues"    : 89,
           "languages"     : {
-            "Java" : 1656272,
+            "Java" : 1551293,
             "Dockerfile" : 581,
             "Shell" : 1945,
-            "Gherkin" : 561882
+            "Gherkin" : 561317
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 226,
         "watchers"      : 27,
-        "size"          : 11930,
+        "size"          : 11995,
         "collaborators" : 28,
         "stars"         : 27,
         "forks"         : 12,
-        "openIssues"    : 87,
+        "openIssues"    : 89,
         "languages"     : {
-          "Java" : 1656272,
+          "Java" : 1551293,
           "Dockerfile" : 581,
           "Shell" : 1945,
-          "Gherkin" : 561882
+          "Gherkin" : 561317
         }
       }
     },
@@ -154,21 +154,21 @@
           "gitHubURL"     : "https://github.com/finos/kdb",
           "heat"          : 146,
           "watchers"      : 7,
-          "size"          : 16,
+          "size"          : 44,
           "collaborators" : 28,
           "stars"         : 7,
           "forks"         : 4,
-          "openIssues"    : 8
+          "openIssues"    : 3
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 146,
         "watchers"      : 7,
-        "size"          : 16,
+        "size"          : 44,
         "collaborators" : 28,
         "stars"         : 7,
         "forks"         : 4,
-        "openIssues"    : 8
+        "openIssues"    : 3
       },
       "mailingLists"       : [
         {
@@ -212,21 +212,21 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4859,
-          "watchers"      : 2004,
-          "size"          : 19025,
+          "heat"          : 4861,
+          "watchers"      : 2005,
+          "size"          : 19010,
           "collaborators" : 34,
-          "stars"         : 2004,
+          "stars"         : 2005,
           "forks"         : 143,
-          "openIssues"    : 29,
+          "openIssues"    : 28,
           "languages"     : {
-            "TypeScript" : 28147,
+            "TypeScript" : 28175,
             "Dockerfile" : 23254,
-            "C++" : 1066523,
+            "C++" : 1067307,
             "CSS" : 68059,
             "C" : 3505,
             "CMake" : 27124,
-            "JavaScript" : 951729,
+            "JavaScript" : 960004,
             "HTML" : 28296,
             "Jupyter Notebook" : 4054,
             "Python" : 18364
@@ -234,21 +234,21 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4859,
-        "watchers"      : 2004,
-        "size"          : 19025,
+        "heat"          : 4861,
+        "watchers"      : 2005,
+        "size"          : 19010,
         "collaborators" : 34,
-        "stars"         : 2004,
+        "stars"         : 2005,
         "forks"         : 143,
-        "openIssues"    : 29,
+        "openIssues"    : 28,
         "languages"     : {
-          "TypeScript" : 28147,
+          "TypeScript" : 28175,
           "Dockerfile" : 23254,
-          "C++" : 1066523,
+          "C++" : 1067307,
           "CSS" : 68059,
           "C" : 3505,
           "CMake" : 27124,
-          "JavaScript" : 951729,
+          "JavaScript" : 960004,
           "HTML" : 28296,
           "Jupyter Notebook" : 4054,
           "Python" : 18364
@@ -831,7 +831,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 138,
           "watchers"      : 3,
-          "size"          : 2209,
+          "size"          : 2211,
           "collaborators" : 28,
           "stars"         : 3,
           "forks"         : 4,
@@ -932,7 +932,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1440,
         "watchers"      : 14,
-        "size"          : 34616,
+        "size"          : 34618,
         "collaborators" : 328,
         "stars"         : 14,
         "forks"         : 20,
@@ -966,12 +966,12 @@
           "name"          : "OSLC-handbook",
           "description"   : "A data store and handbook of practical information about complying with the most common open source licenses.",
           "gitHubURL"     : "https://github.com/finos/OSLC-handbook",
-          "heat"          : 328,
-          "watchers"      : 73,
+          "heat"          : 335,
+          "watchers"      : 74,
           "size"          : 529,
           "collaborators" : 28,
-          "stars"         : 73,
-          "forks"         : 14,
+          "stars"         : 74,
+          "forks"         : 15,
           "openIssues"    : 8,
           "languages"     : {
             "HTML" : 232059,
@@ -998,12 +998,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 440,
-        "watchers"      : 73,
+        "heat"          : 447,
+        "watchers"      : 74,
         "size"          : 1653,
         "collaborators" : 56,
-        "stars"         : 73,
-        "forks"         : 14,
+        "stars"         : 74,
+        "forks"         : 15,
         "openIssues"    : 8,
         "languages"     : {
           "HTML" : 232059,
@@ -1383,13 +1383,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 643,
           "watchers"      : 94,
-          "size"          : 3800,
+          "size"          : 3808,
           "collaborators" : 40,
           "stars"         : 94,
           "forks"         : 59,
-          "openIssues"    : 13,
+          "openIssues"    : 14,
           "languages"     : {
-            "TypeScript" : 612303,
+            "TypeScript" : 613144,
             "HTML" : 11245,
             "JavaScript" : 326852
           }
@@ -1404,7 +1404,7 @@
           "collaborators" : 41,
           "stars"         : 15,
           "forks"         : 32,
-          "openIssues"    : 6,
+          "openIssues"    : 8,
           "languages"     : {
             "TypeScript" : 438755,
             "HTML" : 2432,
@@ -1418,11 +1418,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 258,
           "watchers"      : 5,
-          "size"          : 1708,
+          "size"          : 1663,
           "collaborators" : 42,
           "stars"         : 5,
           "forks"         : 16,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 417635,
             "CSS" : 52615,
@@ -1450,13 +1450,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1422,
         "watchers"      : 115,
-        "size"          : 9631,
+        "size"          : 9594,
         "collaborators" : 163,
         "stars"         : 115,
         "forks"         : 108,
-        "openIssues"    : 22,
+        "openIssues"    : 26,
         "languages"     : {
-          "TypeScript" : 1468693,
+          "TypeScript" : 1469534,
           "HTML" : 20357,
           "CSS" : 52615,
           "JavaScript" : 348275,
@@ -1523,13 +1523,13 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 316,
-          "watchers"      : 14,
+          "heat"          : 323,
+          "watchers"      : 15,
           "size"          : 5387,
           "collaborators" : 42,
-          "stars"         : 14,
-          "forks"         : 24,
-          "openIssues"    : 3,
+          "stars"         : 15,
+          "forks"         : 25,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 901863,
             "HTML" : 65666,
@@ -1561,7 +1561,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 180,
           "watchers"      : 0,
-          "size"          : 724,
+          "size"          : 725,
           "collaborators" : 40,
           "stars"         : 0,
           "forks"         : 4,
@@ -1575,13 +1575,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 684,
-        "watchers"      : 14,
-        "size"          : 6257,
+        "heat"          : 691,
+        "watchers"      : 15,
+        "size"          : 6258,
         "collaborators" : 124,
-        "stars"         : 14,
-        "forks"         : 32,
-        "openIssues"    : 3,
+        "stars"         : 15,
+        "forks"         : 33,
+        "openIssues"    : 5,
         "languages"     : {
           "TypeScript" : 974546,
           "HTML" : 69954,
@@ -1611,13 +1611,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 252,
           "watchers"      : 7,
-          "size"          : 8774,
+          "size"          : 8796,
           "collaborators" : 42,
           "stars"         : 7,
           "forks"         : 14,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
-            "TypeScript" : 221637,
+            "TypeScript" : 232480,
             "CSS" : 10576,
             "HTML" : 3685,
             "JavaScript" : 3981
@@ -1627,13 +1627,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 252,
         "watchers"      : 7,
-        "size"          : 8774,
+        "size"          : 8796,
         "collaborators" : 42,
         "stars"         : 7,
         "forks"         : 14,
-        "openIssues"    : 6,
+        "openIssues"    : 7,
         "languages"     : {
-          "TypeScript" : 221637,
+          "TypeScript" : 232480,
           "CSS" : 10576,
           "HTML" : 3685,
           "JavaScript" : 3981
@@ -1694,16 +1694,16 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 748,
           "watchers"      : 244,
-          "size"          : 8887,
+          "size"          : 8892,
           "collaborators" : 10,
           "stars"         : 244,
           "forks"         : 44,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 1176424,
             "C#" : 1755830,
-            "Xtend" : 220585,
-            "Java" : 78692,
+            "Xtend" : 219880,
+            "Java" : 78616,
             "Shell" : 550,
             "CSS" : 555,
             "Batchfile" : 10839,
@@ -1730,16 +1730,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 803,
         "watchers"      : 245,
-        "size"          : 9643,
+        "size"          : 9648,
         "collaborators" : 17,
         "stars"         : 245,
         "forks"         : 49,
-        "openIssues"    : 5,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 1198023,
           "C#" : 1755830,
-          "Xtend" : 220585,
-          "Java" : 78692,
+          "Xtend" : 219880,
+          "Java" : 78616,
           "Shell" : 550,
           "CSS" : 555,
           "Batchfile" : 10839,
@@ -4677,15 +4677,15 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 344,
           "watchers"      : 38,
-          "size"          : 35871,
+          "size"          : 35898,
           "collaborators" : 7,
           "stars"         : 38,
           "forks"         : 48,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 439144,
-            "CSS" : 23550,
-            "Shell" : 10326,
+            "TypeScript" : 434349,
+            "CSS" : 24884,
+            "Shell" : 9929,
             "Batchfile" : 3768,
             "JavaScript" : 2484,
             "HTML" : 28967,
@@ -4713,14 +4713,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/electron-spellchecker",
           "heat"          : 36,
           "watchers"      : 1,
-          "size"          : 732,
+          "size"          : 827,
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 2,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "HTML" : 765,
-            "JavaScript" : 53248
+            "JavaScript" : 52625
           }
         },
         {
@@ -4793,20 +4793,20 @@
       "cumulativeGitHubStats" : {
         "heat"          : 590,
         "watchers"      : 45,
-        "size"          : 45580,
+        "size"          : 45702,
         "collaborators" : 40,
         "stars"         : 45,
         "forks"         : 68,
-        "openIssues"    : 2,
+        "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 571071,
+          "TypeScript" : 566276,
           "C#" : 25902,
-          "Shell" : 10326,
+          "Shell" : 9929,
           "C++" : 35850,
-          "CSS" : 23550,
+          "CSS" : 24884,
           "C" : 1364,
           "Batchfile" : 3768,
-          "JavaScript" : 128972,
+          "JavaScript" : 128349,
           "Objective_C" : 7338,
           "HTML" : 30431,
           "Python" : 921
@@ -4951,28 +4951,28 @@
           "gitHubURL"     : "https://github.com/finos/greenkey-discovery-sdk",
           "heat"          : 128,
           "watchers"      : 3,
-          "size"          : 46171,
+          "size"          : 46173,
           "collaborators" : 28,
           "stars"         : 3,
           "forks"         : 2,
           "openIssues"    : 1,
           "languages"     : {
             "Shell" : 802,
-            "Python" : 40615
+            "Python" : 41045
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 128,
         "watchers"      : 3,
-        "size"          : 46171,
+        "size"          : 46173,
         "collaborators" : 28,
         "stars"         : 3,
         "forks"         : 2,
         "openIssues"    : 1,
         "languages"     : {
           "Shell" : 802,
-          "Python" : 40615
+          "Python" : 41045
         }
       }
     },
@@ -5039,21 +5039,21 @@
           "gitHubURL"     : "https://github.com/finos/voice-metadata-standard",
           "heat"          : 169,
           "watchers"      : 3,
-          "size"          : 75,
+          "size"          : 79,
           "collaborators" : 32,
           "stars"         : 3,
           "forks"         : 7,
-          "openIssues"    : 11
+          "openIssues"    : 7
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 169,
         "watchers"      : 3,
-        "size"          : 75,
+        "size"          : 79,
         "collaborators" : 32,
         "stars"         : 3,
         "forks"         : 7,
-        "openIssues"    : 11
+        "openIssues"    : 7
       },
       "mailingLists"       : [
         {
