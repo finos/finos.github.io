@@ -15,7 +15,7 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 226,
           "watchers"      : 27,
-          "size"          : 12043,
+          "size"          : 12085,
           "collaborators" : 28,
           "stars"         : 27,
           "forks"         : 12,
@@ -31,7 +31,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 226,
         "watchers"      : 27,
-        "size"          : 12043,
+        "size"          : 12085,
         "collaborators" : 28,
         "stars"         : 27,
         "forks"         : 12,
@@ -212,21 +212,21 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4861,
-          "watchers"      : 2005,
-          "size"          : 19022,
+          "heat"          : 4867,
+          "watchers"      : 2008,
+          "size"          : 19066,
           "collaborators" : 34,
-          "stars"         : 2005,
+          "stars"         : 2008,
           "forks"         : 143,
-          "openIssues"    : 29,
+          "openIssues"    : 28,
           "languages"     : {
-            "TypeScript" : 28175,
+            "TypeScript" : 28207,
             "Dockerfile" : 23254,
             "C++" : 1067307,
             "CSS" : 68059,
             "C" : 3505,
             "CMake" : 27124,
-            "JavaScript" : 960004,
+            "JavaScript" : 960063,
             "HTML" : 28296,
             "Jupyter Notebook" : 4054,
             "Python" : 18364
@@ -234,21 +234,21 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4861,
-        "watchers"      : 2005,
-        "size"          : 19022,
+        "heat"          : 4867,
+        "watchers"      : 2008,
+        "size"          : 19066,
         "collaborators" : 34,
-        "stars"         : 2005,
+        "stars"         : 2008,
         "forks"         : 143,
-        "openIssues"    : 29,
+        "openIssues"    : 28,
         "languages"     : {
-          "TypeScript" : 28175,
+          "TypeScript" : 28207,
           "Dockerfile" : 23254,
           "C++" : 1067307,
           "CSS" : 68059,
           "C" : 3505,
           "CMake" : 27124,
-          "JavaScript" : 960004,
+          "JavaScript" : 960063,
           "HTML" : 28296,
           "Jupyter Notebook" : 4054,
           "Python" : 18364
@@ -721,11 +721,11 @@
           "name"          : "cla-bot",
           "description"   : "cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).",
           "gitHubURL"     : "https://github.com/finos/cla-bot",
-          "heat"          : 218,
-          "watchers"      : 30,
+          "heat"          : 220,
+          "watchers"      : 31,
           "size"          : 973,
           "collaborators" : 27,
-          "stars"         : 30,
+          "stars"         : 31,
           "forks"         : 10,
           "openIssues"    : 18,
           "languages"     : {
@@ -735,11 +735,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 218,
-        "watchers"      : 30,
+        "heat"          : 220,
+        "watchers"      : 31,
         "size"          : 973,
         "collaborators" : 27,
-        "stars"         : 30,
+        "stars"         : 31,
         "forks"         : 10,
         "openIssues"    : 18,
         "languages"     : {
@@ -831,7 +831,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 138,
           "watchers"      : 3,
-          "size"          : 2234,
+          "size"          : 2235,
           "collaborators" : 28,
           "stars"         : 3,
           "forks"         : 4,
@@ -932,7 +932,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1440,
         "watchers"      : 14,
-        "size"          : 34641,
+        "size"          : 34642,
         "collaborators" : 328,
         "stars"         : 14,
         "forks"         : 20,
@@ -1383,15 +1383,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 643,
           "watchers"      : 94,
-          "size"          : 3808,
+          "size"          : 3866,
           "collaborators" : 40,
           "stars"         : 94,
           "forks"         : 59,
-          "openIssues"    : 14,
+          "openIssues"    : 12,
           "languages"     : {
-            "TypeScript" : 613144,
+            "TypeScript" : 614074,
             "HTML" : 11245,
-            "JavaScript" : 326852
+            "JavaScript" : 327980
           }
         },
         {
@@ -1400,13 +1400,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 354,
           "watchers"      : 15,
-          "size"          : 4073,
+          "size"          : 4086,
           "collaborators" : 41,
           "stars"         : 15,
           "forks"         : 32,
-          "openIssues"    : 8,
+          "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 438755,
+            "TypeScript" : 439196,
             "HTML" : 2432,
             "JavaScript" : 11378,
             "Python" : 2150
@@ -1450,16 +1450,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1422,
         "watchers"      : 115,
-        "size"          : 9594,
+        "size"          : 9665,
         "collaborators" : 163,
         "stars"         : 115,
         "forks"         : 108,
-        "openIssues"    : 27,
+        "openIssues"    : 22,
         "languages"     : {
-          "TypeScript" : 1469534,
+          "TypeScript" : 1470905,
           "HTML" : 20357,
           "CSS" : 52615,
-          "JavaScript" : 348275,
+          "JavaScript" : 349403,
           "Python" : 2150
         }
       }
@@ -1525,14 +1525,14 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 323,
           "watchers"      : 15,
-          "size"          : 5387,
+          "size"          : 5390,
           "collaborators" : 42,
           "stars"         : 15,
           "forks"         : 25,
-          "openIssues"    : 6,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 901863,
-            "HTML" : 65666,
+            "TypeScript" : 902389,
+            "HTML" : 65523,
             "CSS" : 22196,
             "JavaScript" : 7022
           }
@@ -1577,14 +1577,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 691,
         "watchers"      : 15,
-        "size"          : 6258,
+        "size"          : 6261,
         "collaborators" : 124,
         "stars"         : 15,
         "forks"         : 33,
-        "openIssues"    : 6,
+        "openIssues"    : 4,
         "languages"     : {
-          "TypeScript" : 974546,
-          "HTML" : 69954,
+          "TypeScript" : 975072,
+          "HTML" : 69811,
           "CSS" : 97088,
           "JavaScript" : 17542
         }
@@ -1615,7 +1615,7 @@
           "collaborators" : 42,
           "stars"         : 7,
           "forks"         : 14,
-          "openIssues"    : 7,
+          "openIssues"    : 8,
           "languages"     : {
             "TypeScript" : 230051,
             "CSS" : 10576,
@@ -1631,7 +1631,7 @@
         "collaborators" : 42,
         "stars"         : 7,
         "forks"         : 14,
-        "openIssues"    : 7,
+        "openIssues"    : 8,
         "languages"     : {
           "TypeScript" : 230051,
           "CSS" : 10576,
