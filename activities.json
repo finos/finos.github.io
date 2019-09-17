@@ -13,15 +13,15 @@
           "name"          : "datahelix",
           "description"   : "The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for the purpose of testing and validation",
           "gitHubURL"     : "https://github.com/finos/datahelix",
-          "heat"          : 226,
-          "watchers"      : 27,
-          "size"          : 12200,
+          "heat"          : 228,
+          "watchers"      : 28,
+          "size"          : 12273,
           "collaborators" : 28,
-          "stars"         : 27,
+          "stars"         : 28,
           "forks"         : 12,
           "openIssues"    : 59,
           "languages"     : {
-            "Java" : 1538205,
+            "Java" : 1538875,
             "Dockerfile" : 581,
             "Shell" : 1945,
             "Gherkin" : 539370
@@ -29,15 +29,15 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 226,
-        "watchers"      : 27,
-        "size"          : 12200,
+        "heat"          : 228,
+        "watchers"      : 28,
+        "size"          : 12273,
         "collaborators" : 28,
-        "stars"         : 27,
+        "stars"         : 28,
         "forks"         : 12,
         "openIssues"    : 59,
         "languages"     : {
-          "Java" : 1538205,
+          "Java" : 1538875,
           "Dockerfile" : 581,
           "Shell" : 1945,
           "Gherkin" : 539370
@@ -59,7 +59,7 @@
           "gitHubURL"     : "https://github.com/finos/exodus",
           "heat"          : 130,
           "watchers"      : 4,
-          "size"          : 8996,
+          "size"          : 9000,
           "collaborators" : 28,
           "stars"         : 4,
           "forks"         : 2,
@@ -78,7 +78,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 130,
         "watchers"      : 4,
-        "size"          : 8996,
+        "size"          : 9000,
         "collaborators" : 28,
         "stars"         : 4,
         "forks"         : 2,
@@ -226,46 +226,48 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4910,
-          "watchers"      : 2017,
-          "size"          : 19386,
+          "heat"          : 4916,
+          "watchers"      : 2020,
+          "size"          : 20321,
           "collaborators" : 34,
-          "stars"         : 2017,
+          "stars"         : 2020,
           "forks"         : 148,
-          "openIssues"    : 30,
+          "openIssues"    : 25,
           "languages"     : {
             "TypeScript" : 28207,
-            "Dockerfile" : 23254,
-            "C++" : 1067349,
+            "Dockerfile" : 23406,
+            "C++" : 1107457,
             "CSS" : 68474,
             "C" : 3505,
-            "CMake" : 27124,
-            "JavaScript" : 992509,
+            "CMake" : 27630,
+            "Makefile" : 1602,
+            "JavaScript" : 1004814,
             "HTML" : 29449,
-            "Jupyter Notebook" : 4054,
-            "Python" : 18364
+            "Jupyter Notebook" : 18453481,
+            "Python" : 149829
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4910,
-        "watchers"      : 2017,
-        "size"          : 19386,
+        "heat"          : 4916,
+        "watchers"      : 2020,
+        "size"          : 20321,
         "collaborators" : 34,
-        "stars"         : 2017,
+        "stars"         : 2020,
         "forks"         : 148,
-        "openIssues"    : 30,
+        "openIssues"    : 25,
         "languages"     : {
           "TypeScript" : 28207,
-          "Dockerfile" : 23254,
-          "C++" : 1067349,
+          "Dockerfile" : 23406,
+          "C++" : 1107457,
           "CSS" : 68474,
           "C" : 3505,
-          "CMake" : 27124,
-          "JavaScript" : 992509,
+          "CMake" : 27630,
+          "Makefile" : 1602,
+          "JavaScript" : 1004814,
           "HTML" : 29449,
-          "Jupyter Notebook" : 4054,
-          "Python" : 18364
+          "Jupyter Notebook" : 18453481,
+          "Python" : 149829
         }
       }
     },
@@ -737,7 +739,7 @@
           "gitHubURL"     : "https://github.com/finos/cla-bot",
           "heat"          : 225,
           "watchers"      : 31,
-          "size"          : 978,
+          "size"          : 985,
           "collaborators" : 27,
           "stars"         : 31,
           "forks"         : 11,
@@ -751,7 +753,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 225,
         "watchers"      : 31,
-        "size"          : 978,
+        "size"          : 985,
         "collaborators" : 27,
         "stars"         : 31,
         "forks"         : 11,
@@ -789,7 +791,7 @@
           "gitHubURL"     : "https://github.com/finos/contrib-toolbox",
           "heat"          : 123,
           "watchers"      : 0,
-          "size"          : 185,
+          "size"          : 192,
           "collaborators" : 27,
           "stars"         : 0,
           "forks"         : 3,
@@ -845,7 +847,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 138,
           "watchers"      : 3,
-          "size"          : 2283,
+          "size"          : 2286,
           "collaborators" : 28,
           "stars"         : 3,
           "forks"         : 4,
@@ -946,7 +948,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1440,
         "watchers"      : 14,
-        "size"          : 34698,
+        "size"          : 34708,
         "collaborators" : 328,
         "stars"         : 14,
         "forks"         : 20,
@@ -1308,12 +1310,12 @@
           "name"          : "app-template",
           "description"   : "A simple unopinionated Hadouken application template.",
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
-          "heat"          : 295,
+          "heat"          : 300,
           "watchers"      : 17,
           "size"          : 338,
           "collaborators" : 39,
           "stars"         : 17,
-          "forks"         : 21,
+          "forks"         : 22,
           "openIssues"    : 2,
           "languages"     : {
             "CSS" : 704,
@@ -1323,12 +1325,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 295,
+        "heat"          : 300,
         "watchers"      : 17,
         "size"          : 338,
         "collaborators" : 39,
         "stars"         : 17,
-        "forks"         : 21,
+        "forks"         : 22,
         "openIssues"    : 2,
         "languages"     : {
           "CSS" : 704,
@@ -1397,15 +1399,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 639,
           "watchers"      : 94,
-          "size"          : 3925,
+          "size"          : 4009,
           "collaborators" : 39,
           "stars"         : 94,
           "forks"         : 59,
-          "openIssues"    : 16,
+          "openIssues"    : 18,
           "languages"     : {
-            "TypeScript" : 614197,
+            "TypeScript" : 614367,
             "HTML" : 11245,
-            "JavaScript" : 327980
+            "JavaScript" : 328018
           }
         },
         {
@@ -1414,13 +1416,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 355,
           "watchers"      : 15,
-          "size"          : 4072,
+          "size"          : 4092,
           "collaborators" : 40,
           "stars"         : 15,
           "forks"         : 33,
-          "openIssues"    : 6,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 439196,
+            "TypeScript" : 440800,
             "HTML" : 2432,
             "JavaScript" : 11378,
             "Python" : 2150
@@ -1464,16 +1466,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1411,
         "watchers"      : 115,
-        "size"          : 9672,
+        "size"          : 9776,
         "collaborators" : 159,
         "stars"         : 115,
         "forks"         : 109,
         "openIssues"    : 25,
         "languages"     : {
-          "TypeScript" : 1473825,
+          "TypeScript" : 1475599,
           "HTML" : 20357,
           "CSS" : 52615,
-          "JavaScript" : 349403,
+          "JavaScript" : 349441,
           "Python" : 2150
         }
       }
@@ -1539,11 +1541,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 326,
           "watchers"      : 16,
-          "size"          : 5430,
+          "size"          : 5434,
           "collaborators" : 41,
           "stars"         : 16,
           "forks"         : 26,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 902389,
             "HTML" : 65523,
@@ -1575,13 +1577,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 186,
           "watchers"      : 0,
-          "size"          : 726,
+          "size"          : 835,
           "collaborators" : 39,
           "stars"         : 0,
           "forks"         : 6,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 56823,
+            "TypeScript" : 57430,
             "CSS" : 70303,
             "HTML" : 2995,
             "JavaScript" : 8994
@@ -1591,13 +1593,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 696,
         "watchers"      : 16,
-        "size"          : 6302,
+        "size"          : 6415,
         "collaborators" : 121,
         "stars"         : 16,
         "forks"         : 36,
-        "openIssues"    : 5,
+        "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 975099,
+          "TypeScript" : 975706,
           "HTML" : 69811,
           "CSS" : 97088,
           "JavaScript" : 17542
@@ -1629,7 +1631,7 @@
           "collaborators" : 41,
           "stars"         : 7,
           "forks"         : 14,
-          "openIssues"    : 6,
+          "openIssues"    : 8,
           "languages"     : {
             "TypeScript" : 287245,
             "CSS" : 10741,
@@ -1645,7 +1647,7 @@
         "collaborators" : 41,
         "stars"         : 7,
         "forks"         : 14,
-        "openIssues"    : 6,
+        "openIssues"    : 8,
         "languages"     : {
           "TypeScript" : 287245,
           "CSS" : 10741,
@@ -1706,11 +1708,11 @@
           "name"          : "plexus-interop",
           "description"   : "Plexus Interop open source project hosted by the Fintech Open Source Foundation",
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
-          "heat"          : 750,
-          "watchers"      : 245,
+          "heat"          : 752,
+          "watchers"      : 246,
           "size"          : 8892,
           "collaborators" : 10,
-          "stars"         : 245,
+          "stars"         : 246,
           "forks"         : 44,
           "openIssues"    : 0,
           "languages"     : {
@@ -1742,11 +1744,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 805,
-        "watchers"      : 246,
+        "heat"          : 807,
+        "watchers"      : 247,
         "size"          : 9648,
         "collaborators" : 17,
-        "stars"         : 246,
+        "stars"         : 247,
         "forks"         : 49,
         "openIssues"    : 4,
         "languages"     : {
@@ -3234,11 +3236,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 100,
           "watchers"      : 10,
-          "size"          : 723,
+          "size"          : 876,
           "collaborators" : 5,
           "stars"         : 10,
           "forks"         : 12,
-          "openIssues"    : 13,
+          "openIssues"    : 14,
           "languages"     : {
             "JavaScript" : 82020
           }
@@ -3247,11 +3249,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 100,
         "watchers"      : 10,
-        "size"          : 723,
+        "size"          : 876,
         "collaborators" : 5,
         "stars"         : 10,
         "forks"         : 12,
-        "openIssues"    : 13,
+        "openIssues"    : 14,
         "languages"     : {
           "JavaScript" : 82020
         }
@@ -4237,11 +4239,11 @@
           "name"          : "App-Integrations-Universal",
           "description"   : "Universal Webhook Integration",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Universal",
-          "heat"          : 91,
-          "watchers"      : 2,
+          "heat"          : 93,
+          "watchers"      : 3,
           "size"          : 986,
           "collaborators" : 13,
-          "stars"         : 2,
+          "stars"         : 3,
           "forks"         : 7,
           "openIssues"    : 3,
           "languages"     : {
@@ -4253,11 +4255,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 91,
-        "watchers"      : 2,
+        "heat"          : 93,
+        "watchers"      : 3,
         "size"          : 986,
         "collaborators" : 13,
-        "stars"         : 2,
+        "stars"         : 3,
         "forks"         : 7,
         "openIssues"    : 3,
         "languages"     : {
@@ -4691,7 +4693,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 349,
           "watchers"      : 38,
-          "size"          : 35906,
+          "size"          : 35907,
           "collaborators" : 7,
           "stars"         : 38,
           "forks"         : 49,
@@ -4807,7 +4809,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 595,
         "watchers"      : 45,
-        "size"          : 45710,
+        "size"          : 45711,
         "collaborators" : 40,
         "stars"         : 45,
         "forks"         : 69,
@@ -4919,30 +4921,30 @@
           "gitHubURL"     : "https://github.com/finos/greenkey-asrtoolkit",
           "heat"          : 139,
           "watchers"      : 6,
-          "size"          : 430,
+          "size"          : 450,
           "collaborators" : 28,
           "stars"         : 6,
           "forks"         : 3,
           "openIssues"    : 2,
           "languages"     : {
             "Dockerfile" : 679,
-            "Shell" : 58,
-            "Python" : 82763
+            "Shell" : 59,
+            "Python" : 83870
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 139,
         "watchers"      : 6,
-        "size"          : 430,
+        "size"          : 450,
         "collaborators" : 28,
         "stars"         : 6,
         "forks"         : 3,
         "openIssues"    : 2,
         "languages"     : {
           "Dockerfile" : 679,
-          "Shell" : 58,
-          "Python" : 82763
+          "Shell" : 59,
+          "Python" : 83870
         }
       }
     },
@@ -5053,7 +5055,7 @@
           "gitHubURL"     : "https://github.com/finos/voice-metadata-standard",
           "heat"          : 171,
           "watchers"      : 4,
-          "size"          : 81,
+          "size"          : 83,
           "collaborators" : 32,
           "stars"         : 4,
           "forks"         : 7,
@@ -5063,7 +5065,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 171,
         "watchers"      : 4,
-        "size"          : 81,
+        "size"          : 83,
         "collaborators" : 32,
         "stars"         : 4,
         "forks"         : 7,
