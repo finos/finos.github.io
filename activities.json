@@ -13,15 +13,15 @@
           "name"          : "datahelix",
           "description"   : "The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for the purpose of testing and validation",
           "gitHubURL"     : "https://github.com/finos/datahelix",
-          "heat"          : 228,
+          "heat"          : 233,
           "watchers"      : 28,
-          "size"          : 12247,
+          "size"          : 12294,
           "collaborators" : 28,
           "stars"         : 28,
-          "forks"         : 12,
-          "openIssues"    : 59,
+          "forks"         : 13,
+          "openIssues"    : 61,
           "languages"     : {
-            "Java" : 1538875,
+            "Java" : 1538885,
             "Dockerfile" : 581,
             "Shell" : 1945,
             "Gherkin" : 539370
@@ -29,15 +29,15 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 228,
+        "heat"          : 233,
         "watchers"      : 28,
-        "size"          : 12247,
+        "size"          : 12294,
         "collaborators" : 28,
         "stars"         : 28,
-        "forks"         : 12,
-        "openIssues"    : 59,
+        "forks"         : 13,
+        "openIssues"    : 61,
         "languages"     : {
-          "Java" : 1538875,
+          "Java" : 1538885,
           "Dockerfile" : 581,
           "Shell" : 1945,
           "Gherkin" : 539370
@@ -226,11 +226,11 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4916,
-          "watchers"      : 2020,
-          "size"          : 20321,
+          "heat"          : 4920,
+          "watchers"      : 2022,
+          "size"          : 20346,
           "collaborators" : 34,
-          "stars"         : 2020,
+          "stars"         : 2022,
           "forks"         : 148,
           "openIssues"    : 25,
           "languages"     : {
@@ -249,11 +249,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4916,
-        "watchers"      : 2020,
-        "size"          : 20321,
+        "heat"          : 4920,
+        "watchers"      : 2022,
+        "size"          : 20346,
         "collaborators" : 34,
-        "stars"         : 2020,
+        "stars"         : 2022,
         "forks"         : 148,
         "openIssues"    : 25,
         "languages"     : {
@@ -847,7 +847,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 138,
           "watchers"      : 3,
-          "size"          : 2308,
+          "size"          : 2310,
           "collaborators" : 28,
           "stars"         : 3,
           "forks"         : 4,
@@ -948,7 +948,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1440,
         "watchers"      : 14,
-        "size"          : 34730,
+        "size"          : 34732,
         "collaborators" : 328,
         "stars"         : 14,
         "forks"         : 20,
@@ -1110,22 +1110,22 @@
           "name"          : "cloud-service-certification",
           "description"   : "Cloud Service Certification Working Group",
           "gitHubURL"     : "https://github.com/finos/cloud-service-certification",
-          "heat"          : 139,
+          "heat"          : 144,
           "watchers"      : 5,
           "size"          : 622,
           "collaborators" : 31,
           "stars"         : 5,
-          "forks"         : 1,
+          "forks"         : 2,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 139,
+        "heat"          : 144,
         "watchers"      : 5,
         "size"          : 622,
         "collaborators" : 31,
         "stars"         : 5,
-        "forks"         : 1,
+        "forks"         : 2,
         "openIssues"    : 0
       },
       "mailingLists"       : [
@@ -1399,15 +1399,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 639,
           "watchers"      : 94,
-          "size"          : 4010,
+          "size"          : 4008,
           "collaborators" : 39,
           "stars"         : 94,
           "forks"         : 59,
-          "openIssues"    : 18,
+          "openIssues"    : 19,
           "languages"     : {
             "TypeScript" : 614367,
             "HTML" : 11245,
-            "JavaScript" : 328018
+            "JavaScript" : 328322
           }
         },
         {
@@ -1416,13 +1416,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 355,
           "watchers"      : 15,
-          "size"          : 4092,
+          "size"          : 4100,
           "collaborators" : 40,
           "stars"         : 15,
           "forks"         : 33,
           "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 440800,
+            "TypeScript" : 441682,
             "HTML" : 2432,
             "JavaScript" : 11378,
             "Python" : 2150
@@ -1466,16 +1466,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1411,
         "watchers"      : 115,
-        "size"          : 9777,
+        "size"          : 9783,
         "collaborators" : 159,
         "stars"         : 115,
         "forks"         : 109,
-        "openIssues"    : 25,
+        "openIssues"    : 26,
         "languages"     : {
-          "TypeScript" : 1475599,
+          "TypeScript" : 1476481,
           "HTML" : 20357,
           "CSS" : 52615,
-          "JavaScript" : 349441,
+          "JavaScript" : 349745,
           "Python" : 2150
         }
       }
@@ -1577,7 +1577,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 186,
           "watchers"      : 0,
-          "size"          : 835,
+          "size"          : 836,
           "collaborators" : 39,
           "stars"         : 0,
           "forks"         : 6,
@@ -1593,7 +1593,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 696,
         "watchers"      : 16,
-        "size"          : 6415,
+        "size"          : 6416,
         "collaborators" : 121,
         "stars"         : 16,
         "forks"         : 36,
@@ -1625,15 +1625,15 @@
           "name"          : "notifications-service",
           "description"   : "Notifications Desktop Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
-          "heat"          : 248,
+          "heat"          : 253,
           "watchers"      : 7,
-          "size"          : 8939,
+          "size"          : 8946,
           "collaborators" : 41,
           "stars"         : 7,
-          "forks"         : 14,
-          "openIssues"    : 7,
+          "forks"         : 15,
+          "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 288903,
+            "TypeScript" : 294216,
             "CSS" : 10741,
             "HTML" : 3224,
             "JavaScript" : 3981
@@ -1641,15 +1641,15 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 248,
+        "heat"          : 253,
         "watchers"      : 7,
-        "size"          : 8939,
+        "size"          : 8946,
         "collaborators" : 41,
         "stars"         : 7,
-        "forks"         : 14,
-        "openIssues"    : 7,
+        "forks"         : 15,
+        "openIssues"    : 5,
         "languages"     : {
-          "TypeScript" : 288903,
+          "TypeScript" : 294216,
           "CSS" : 10741,
           "HTML" : 3224,
           "JavaScript" : 3981
@@ -1733,11 +1733,11 @@
           "gitHubURL"     : "https://github.com/finos-plexus/finos-plexus.github.io",
           "heat"          : 55,
           "watchers"      : 1,
-          "size"          : 756,
+          "size"          : 905,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 5,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 21599
           }
@@ -1746,11 +1746,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 807,
         "watchers"      : 247,
-        "size"          : 9648,
+        "size"          : 9797,
         "collaborators" : 17,
         "stars"         : 247,
         "forks"         : 49,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 1198023,
           "C#" : 1755830,
@@ -3236,7 +3236,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 100,
           "watchers"      : 10,
-          "size"          : 876,
+          "size"          : 1035,
           "collaborators" : 5,
           "stars"         : 10,
           "forks"         : 12,
@@ -3249,7 +3249,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 100,
         "watchers"      : 10,
-        "size"          : 876,
+        "size"          : 1035,
         "collaborators" : 5,
         "stars"         : 10,
         "forks"         : 12,
@@ -3679,13 +3679,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 1859,
+          "size"          : 1889,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 1007424,
+            "Java" : 1007405,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3725,13 +3725,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 103,
         "watchers"      : 0,
-        "size"          : 2105,
+        "size"          : 2135,
         "collaborators" : 17,
         "stars"         : 0,
         "forks"         : 7,
         "openIssues"    : 3,
         "languages"     : {
-          "Java" : 1030662,
+          "Java" : 1030643,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -4655,7 +4655,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-super-pom",
           "heat"          : 36,
           "watchers"      : 1,
-          "size"          : 64,
+          "size"          : 70,
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 2,
@@ -4665,7 +4665,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 84,
         "watchers"      : 1,
-        "size"          : 531,
+        "size"          : 537,
         "collaborators" : 13,
         "stars"         : 1,
         "forks"         : 6,
