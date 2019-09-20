@@ -15,32 +15,32 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 233,
           "watchers"      : 28,
-          "size"          : 12294,
+          "size"          : 12384,
           "collaborators" : 28,
           "stars"         : 28,
           "forks"         : 13,
-          "openIssues"    : 61,
+          "openIssues"    : 56,
           "languages"     : {
-            "Java" : 1538885,
+            "Java" : 1548651,
             "Dockerfile" : 581,
             "Shell" : 1945,
-            "Gherkin" : 539370
+            "Gherkin" : 525742
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 233,
         "watchers"      : 28,
-        "size"          : 12294,
+        "size"          : 12384,
         "collaborators" : 28,
         "stars"         : 28,
         "forks"         : 13,
-        "openIssues"    : 61,
+        "openIssues"    : 56,
         "languages"     : {
-          "Java" : 1538885,
+          "Java" : 1548651,
           "Dockerfile" : 581,
           "Shell" : 1945,
-          "Gherkin" : 539370
+          "Gherkin" : 525742
         }
       }
     },
@@ -226,13 +226,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4920,
-          "watchers"      : 2022,
-          "size"          : 20346,
+          "heat"          : 4927,
+          "watchers"      : 2023,
+          "size"          : 20720,
           "collaborators" : 34,
-          "stars"         : 2022,
-          "forks"         : 148,
-          "openIssues"    : 25,
+          "stars"         : 2023,
+          "forks"         : 149,
+          "openIssues"    : 27,
           "languages"     : {
             "TypeScript" : 28207,
             "Dockerfile" : 23406,
@@ -241,7 +241,7 @@
             "C" : 3505,
             "CMake" : 27630,
             "Makefile" : 1602,
-            "JavaScript" : 1004814,
+            "JavaScript" : 1004790,
             "HTML" : 29449,
             "Jupyter Notebook" : 18453481,
             "Python" : 149829
@@ -249,13 +249,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4920,
-        "watchers"      : 2022,
-        "size"          : 20346,
+        "heat"          : 4927,
+        "watchers"      : 2023,
+        "size"          : 20720,
         "collaborators" : 34,
-        "stars"         : 2022,
-        "forks"         : 148,
-        "openIssues"    : 25,
+        "stars"         : 2023,
+        "forks"         : 149,
+        "openIssues"    : 27,
         "languages"     : {
           "TypeScript" : 28207,
           "Dockerfile" : 23406,
@@ -264,7 +264,7 @@
           "C" : 3505,
           "CMake" : 27630,
           "Makefile" : 1602,
-          "JavaScript" : 1004814,
+          "JavaScript" : 1004790,
           "HTML" : 29449,
           "Jupyter Notebook" : 18453481,
           "Python" : 149829
@@ -322,11 +322,11 @@
           "gitHubURL"     : "https://github.com/FDC3/fdc3",
           "heat"          : 351,
           "watchers"      : 23,
-          "size"          : 2816,
+          "size"          : 2817,
           "collaborators" : 45,
           "stars"         : 23,
           "forks"         : 25,
-          "openIssues"    : 13,
+          "openIssues"    : 12,
           "languages"     : {
             "TypeScript" : 13533,
             "HTML" : 1858006,
@@ -350,11 +350,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 529,
         "watchers"      : 26,
-        "size"          : 5030,
+        "size"          : 5031,
         "collaborators" : 88,
         "stars"         : 26,
         "forks"         : 25,
-        "openIssues"    : 13,
+        "openIssues"    : 12,
         "languages"     : {
           "TypeScript" : 13533,
           "HTML" : 1858006,
@@ -847,7 +847,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 138,
           "watchers"      : 3,
-          "size"          : 2310,
+          "size"          : 2333,
           "collaborators" : 28,
           "stars"         : 3,
           "forks"         : 4,
@@ -948,7 +948,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1440,
         "watchers"      : 14,
-        "size"          : 34732,
+        "size"          : 34755,
         "collaborators" : 328,
         "stars"         : 14,
         "forks"         : 20,
@@ -1399,30 +1399,30 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 639,
           "watchers"      : 94,
-          "size"          : 4008,
+          "size"          : 4050,
           "collaborators" : 39,
           "stars"         : 94,
           "forks"         : 59,
           "openIssues"    : 19,
           "languages"     : {
-            "TypeScript" : 614367,
+            "TypeScript" : 617323,
             "HTML" : 11245,
-            "JavaScript" : 328322
+            "JavaScript" : 328671
           }
         },
         {
           "name"          : "js-adapter",
           "description"   : "Hadouken Node Adapter",
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
-          "heat"          : 355,
+          "heat"          : 360,
           "watchers"      : 15,
-          "size"          : 4100,
+          "size"          : 4093,
           "collaborators" : 40,
           "stars"         : 15,
-          "forks"         : 33,
+          "forks"         : 34,
           "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 441682,
+            "TypeScript" : 442669,
             "HTML" : 2432,
             "JavaScript" : 11378,
             "Python" : 2150
@@ -1464,18 +1464,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1411,
+        "heat"          : 1416,
         "watchers"      : 115,
-        "size"          : 9783,
+        "size"          : 9818,
         "collaborators" : 159,
         "stars"         : 115,
-        "forks"         : 109,
+        "forks"         : 110,
         "openIssues"    : 26,
         "languages"     : {
-          "TypeScript" : 1476481,
+          "TypeScript" : 1480424,
           "HTML" : 20357,
           "CSS" : 52615,
-          "JavaScript" : 349745,
+          "JavaScript" : 350094,
           "Python" : 2150
         }
       }
@@ -1497,11 +1497,11 @@
           "name"          : "symphony-of",
           "description"   : "OpenFin Sym Integration",
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
-          "heat"          : 310,
-          "watchers"      : 22,
+          "heat"          : 312,
+          "watchers"      : 23,
           "size"          : 14610,
           "collaborators" : 44,
-          "stars"         : 22,
+          "stars"         : 23,
           "forks"         : 18,
           "openIssues"    : 4,
           "languages"     : {
@@ -1512,11 +1512,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 310,
-        "watchers"      : 22,
+        "heat"          : 312,
+        "watchers"      : 23,
         "size"          : 14610,
         "collaborators" : 44,
-        "stars"         : 22,
+        "stars"         : 23,
         "forks"         : 18,
         "openIssues"    : 4,
         "languages"     : {
@@ -1545,7 +1545,7 @@
           "collaborators" : 41,
           "stars"         : 16,
           "forks"         : 26,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 902389,
             "HTML" : 65523,
@@ -1597,7 +1597,7 @@
         "collaborators" : 121,
         "stars"         : 16,
         "forks"         : 36,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 975706,
           "HTML" : 69811,
@@ -1627,32 +1627,32 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 253,
           "watchers"      : 7,
-          "size"          : 8946,
+          "size"          : 9008,
           "collaborators" : 41,
           "stars"         : 7,
           "forks"         : 15,
-          "openIssues"    : 5,
+          "openIssues"    : 9,
           "languages"     : {
-            "TypeScript" : 294216,
-            "CSS" : 10741,
-            "HTML" : 3224,
-            "JavaScript" : 3981
+            "TypeScript" : 324893,
+            "CSS" : 23839,
+            "HTML" : 3509,
+            "JavaScript" : 3868
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 253,
         "watchers"      : 7,
-        "size"          : 8946,
+        "size"          : 9008,
         "collaborators" : 41,
         "stars"         : 7,
         "forks"         : 15,
-        "openIssues"    : 5,
+        "openIssues"    : 9,
         "languages"     : {
-          "TypeScript" : 294216,
-          "CSS" : 10741,
-          "HTML" : 3224,
-          "JavaScript" : 3981
+          "TypeScript" : 324893,
+          "CSS" : 23839,
+          "HTML" : 3509,
+          "JavaScript" : 3868
         }
       }
     },
@@ -2968,13 +2968,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 35,
           "watchers"      : 0,
-          "size"          : 674,
+          "size"          : 686,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 522608,
+            "Java" : 522835,
             "FreeMarker" : 133060,
             "JavaScript" : 13681
           }
@@ -2998,13 +2998,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 65,
         "watchers"      : 0,
-        "size"          : 955,
+        "size"          : 967,
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 5,
         "openIssues"    : 2,
         "languages"     : {
-          "Java" : 570699,
+          "Java" : 570926,
           "FreeMarker" : 133060,
           "JavaScript" : 13681
         }
@@ -3236,7 +3236,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 100,
           "watchers"      : 10,
-          "size"          : 1035,
+          "size"          : 1187,
           "collaborators" : 5,
           "stars"         : 10,
           "forks"         : 12,
@@ -3249,7 +3249,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 100,
         "watchers"      : 10,
-        "size"          : 1035,
+        "size"          : 1187,
         "collaborators" : 5,
         "stars"         : 10,
         "forks"         : 12,
@@ -3679,13 +3679,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 1889,
+          "size"          : 1902,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 1007405,
+            "Java" : 1008459,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3725,13 +3725,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 103,
         "watchers"      : 0,
-        "size"          : 2135,
+        "size"          : 2148,
         "collaborators" : 17,
         "stars"         : 0,
         "forks"         : 7,
         "openIssues"    : 3,
         "languages"     : {
-          "Java" : 1030643,
+          "Java" : 1031697,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
