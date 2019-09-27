@@ -15,7 +15,7 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 233,
           "watchers"      : 28,
-          "size"          : 12597,
+          "size"          : 12617,
           "collaborators" : 28,
           "stars"         : 28,
           "forks"         : 13,
@@ -31,7 +31,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 233,
         "watchers"      : 28,
-        "size"          : 12597,
+        "size"          : 12617,
         "collaborators" : 28,
         "stars"         : 28,
         "forks"         : 13,
@@ -226,13 +226,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4971,
-          "watchers"      : 2040,
-          "size"          : 18580,
+          "heat"          : 4973,
+          "watchers"      : 2041,
+          "size"          : 18601,
           "collaborators" : 34,
-          "stars"         : 2040,
+          "stars"         : 2041,
           "forks"         : 151,
-          "openIssues"    : 27,
+          "openIssues"    : 28,
           "languages"     : {
             "TypeScript" : 28207,
             "Dockerfile" : 23625,
@@ -248,13 +248,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4971,
-        "watchers"      : 2040,
-        "size"          : 18580,
+        "heat"          : 4973,
+        "watchers"      : 2041,
+        "size"          : 18601,
         "collaborators" : 34,
-        "stars"         : 2040,
+        "stars"         : 2041,
         "forks"         : 151,
-        "openIssues"    : 27,
+        "openIssues"    : 28,
         "languages"     : {
           "TypeScript" : 28207,
           "Dockerfile" : 23625,
@@ -775,11 +775,11 @@
           "name"          : "finos-parent-pom",
           "description"   : "A Maven Parent POM that provide common build and release features using the Symphony Software Foundation Infrastructure",
           "gitHubURL"     : "https://github.com/finos/finos-parent-pom",
-          "heat"          : 125,
-          "watchers"      : 1,
+          "heat"          : 127,
+          "watchers"      : 2,
           "size"          : 78,
           "collaborators" : 27,
-          "stars"         : 1,
+          "stars"         : 2,
           "forks"         : 3,
           "openIssues"    : 1
         },
@@ -845,7 +845,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 143,
           "watchers"      : 3,
-          "size"          : 2385,
+          "size"          : 2407,
           "collaborators" : 28,
           "stars"         : 3,
           "forks"         : 5,
@@ -862,11 +862,11 @@
           "gitHubURL"     : "https://github.com/finos/metadata-tool",
           "heat"          : 148,
           "watchers"      : 3,
-          "size"          : 262,
+          "size"          : 290,
           "collaborators" : 28,
           "stars"         : 3,
           "forks"         : 6,
-          "openIssues"    : 5,
+          "openIssues"    : 3,
           "languages"     : {
             "FreeMarker" : 21837,
             "Clojure" : 95928
@@ -878,11 +878,11 @@
           "gitHubURL"     : "https://github.com/finos/project-blueprint",
           "heat"          : 138,
           "watchers"      : 3,
-          "size"          : 32,
+          "size"          : 36,
           "collaborators" : 28,
           "stars"         : 3,
           "forks"         : 4,
-          "openIssues"    : 2
+          "openIssues"    : 0
         },
         {
           "name"          : "reports-job",
@@ -944,13 +944,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1472,
-        "watchers"      : 15,
-        "size"          : 34810,
+        "heat"          : 1474,
+        "watchers"      : 16,
+        "size"          : 34864,
         "collaborators" : 328,
-        "stars"         : 15,
+        "stars"         : 16,
         "forks"         : 26,
-        "openIssues"    : 24,
+        "openIssues"    : 20,
         "languages"     : {
           "Java" : 12202,
           "Shell" : 28084,
@@ -1397,15 +1397,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
           "heat"          : 644,
           "watchers"      : 94,
-          "size"          : 4266,
+          "size"          : 4345,
           "collaborators" : 39,
           "stars"         : 94,
           "forks"         : 60,
-          "openIssues"    : 20,
+          "openIssues"    : 13,
           "languages"     : {
-            "TypeScript" : 624524,
+            "TypeScript" : 629383,
             "HTML" : 15171,
-            "JavaScript" : 345705
+            "JavaScript" : 343198
           }
         },
         {
@@ -1414,13 +1414,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
           "heat"          : 365,
           "watchers"      : 15,
-          "size"          : 4102,
+          "size"          : 4114,
           "collaborators" : 40,
           "stars"         : 15,
           "forks"         : 35,
-          "openIssues"    : 8,
+          "openIssues"    : 6,
           "languages"     : {
-            "TypeScript" : 442685,
+            "TypeScript" : 442779,
             "HTML" : 2432,
             "JavaScript" : 11378,
             "Python" : 2150
@@ -1430,13 +1430,13 @@
           "name"          : "fdc3-service",
           "description"   : "FDC3 Service for OpenFin",
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
-          "heat"          : 264,
-          "watchers"      : 5,
+          "heat"          : 266,
+          "watchers"      : 6,
           "size"          : 1746,
           "collaborators" : 41,
-          "stars"         : 5,
+          "stars"         : 6,
           "forks"         : 18,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 420432,
             "CSS" : 52615,
@@ -1462,18 +1462,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1441,
-        "watchers"      : 115,
-        "size"          : 10164,
+        "heat"          : 1443,
+        "watchers"      : 116,
+        "size"          : 10255,
         "collaborators" : 159,
-        "stars"         : 115,
+        "stars"         : 116,
         "forks"         : 115,
-        "openIssues"    : 37,
+        "openIssues"    : 29,
         "languages"     : {
-          "TypeScript" : 1487641,
+          "TypeScript" : 1492594,
           "HTML" : 24283,
           "CSS" : 52615,
-          "JavaScript" : 367128,
+          "JavaScript" : 364621,
           "Python" : 2150
         }
       }
@@ -1625,14 +1625,14 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 258,
           "watchers"      : 7,
-          "size"          : 9136,
+          "size"          : 9242,
           "collaborators" : 41,
           "stars"         : 7,
           "forks"         : 16,
           "openIssues"    : 9,
           "languages"     : {
-            "TypeScript" : 373034,
-            "CSS" : 23984,
+            "TypeScript" : 373147,
+            "CSS" : 24084,
             "HTML" : 3509,
             "JavaScript" : 3868
           }
@@ -1641,14 +1641,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 258,
         "watchers"      : 7,
-        "size"          : 9136,
+        "size"          : 9242,
         "collaborators" : 41,
         "stars"         : 7,
         "forks"         : 16,
         "openIssues"    : 9,
         "languages"     : {
-          "TypeScript" : 373034,
-          "CSS" : 23984,
+          "TypeScript" : 373147,
+          "CSS" : 24084,
           "HTML" : 3509,
           "JavaScript" : 3868
         }
@@ -1670,21 +1670,21 @@
           "name"          : "zero-downtime-trading-web-ux",
           "description"   : "Showcases how the OpenFin API, in conjunction with the ODP OpenShift Infrastructure and APIs, can create a powerful experience to live-reload an app and swap its environment from production to UAT",
           "gitHubURL"     : "https://github.com/HadoukenIO/zero-downtime-trading-web-ux",
-          "heat"          : 183,
-          "watchers"      : 2,
+          "heat"          : 185,
+          "watchers"      : 3,
           "size"          : 17,
           "collaborators" : 41,
-          "stars"         : 2,
+          "stars"         : 3,
           "forks"         : 3,
           "openIssues"    : 3
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 183,
-        "watchers"      : 2,
+        "heat"          : 185,
+        "watchers"      : 3,
         "size"          : 17,
         "collaborators" : 41,
-        "stars"         : 2,
+        "stars"         : 3,
         "forks"         : 3,
         "openIssues"    : 3
       }
@@ -3390,11 +3390,11 @@
           "name"          : "python-symphony",
           "description"   : "An importable class that provides methods and objects for interacting with the Symphony Agent API from python",
           "gitHubURL"     : "https://github.com/symphonyoss/python-symphony",
-          "heat"          : 112,
-          "watchers"      : 16,
+          "heat"          : 110,
+          "watchers"      : 15,
           "size"          : 181,
           "collaborators" : 5,
-          "stars"         : 16,
+          "stars"         : 15,
           "forks"         : 12,
           "openIssues"    : 8,
           "languages"     : {
@@ -3422,11 +3422,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 147,
-        "watchers"      : 16,
+        "heat"          : 145,
+        "watchers"      : 15,
         "size"          : 226,
         "collaborators" : 10,
-        "stars"         : 16,
+        "stars"         : 15,
         "forks"         : 15,
         "openIssues"    : 9,
         "languages"     : {
@@ -4691,13 +4691,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 354,
           "watchers"      : 38,
-          "size"          : 35964,
+          "size"          : 35927,
           "collaborators" : 7,
           "stars"         : 38,
           "forks"         : 50,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 436245,
+            "TypeScript" : 437242,
             "CSS" : 24884,
             "Shell" : 9929,
             "Batchfile" : 3768,
@@ -4807,13 +4807,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 625,
         "watchers"      : 45,
-        "size"          : 45778,
+        "size"          : 45741,
         "collaborators" : 40,
         "stars"         : 45,
         "forks"         : 75,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
-          "TypeScript" : 568172,
+          "TypeScript" : 569169,
           "C#" : 25902,
           "Shell" : 9929,
           "C++" : 35850,
