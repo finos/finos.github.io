@@ -226,15 +226,15 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 4982,
-          "watchers"      : 2041,
-          "size"          : 18664,
+          "heat"          : 4986,
+          "watchers"      : 2043,
+          "size"          : 18671,
           "collaborators" : 35,
-          "stars"         : 2041,
+          "stars"         : 2043,
           "forks"         : 152,
-          "openIssues"    : 27,
+          "openIssues"    : 26,
           "languages"     : {
-            "TypeScript" : 28207,
+            "TypeScript" : 28362,
             "Dockerfile" : 23625,
             "C++" : 1110690,
             "CSS" : 75386,
@@ -248,15 +248,15 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4982,
-        "watchers"      : 2041,
-        "size"          : 18664,
+        "heat"          : 4986,
+        "watchers"      : 2043,
+        "size"          : 18671,
         "collaborators" : 35,
-        "stars"         : 2041,
+        "stars"         : 2043,
         "forks"         : 152,
-        "openIssues"    : 27,
+        "openIssues"    : 26,
         "languages"     : {
-          "TypeScript" : 28207,
+          "TypeScript" : 28362,
           "Dockerfile" : 23625,
           "C++" : 1110690,
           "CSS" : 75386,
@@ -845,7 +845,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 147,
           "watchers"      : 3,
-          "size"          : 2410,
+          "size"          : 2432,
           "collaborators" : 29,
           "stars"         : 3,
           "forks"         : 5,
@@ -946,7 +946,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1522,
         "watchers"      : 16,
-        "size"          : 34867,
+        "size"          : 34889,
         "collaborators" : 340,
         "stars"         : 16,
         "forks"         : 26,
@@ -3234,11 +3234,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 100,
           "watchers"      : 10,
-          "size"          : 1490,
+          "size"          : 1792,
           "collaborators" : 5,
           "stars"         : 10,
           "forks"         : 12,
-          "openIssues"    : 15,
+          "openIssues"    : 16,
           "languages"     : {
             "JavaScript" : 82020
           }
@@ -3247,11 +3247,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 100,
         "watchers"      : 10,
-        "size"          : 1490,
+        "size"          : 1792,
         "collaborators" : 5,
         "stars"         : 10,
         "forks"         : 12,
-        "openIssues"    : 15,
+        "openIssues"    : 16,
         "languages"     : {
           "JavaScript" : 82020
         }
