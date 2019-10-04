@@ -13,34 +13,34 @@
           "name"          : "datahelix",
           "description"   : "The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for the purpose of testing and validation",
           "gitHubURL"     : "https://github.com/finos/datahelix",
-          "heat"          : 261,
+          "heat"          : 266,
           "watchers"      : 29,
-          "size"          : 12802,
+          "size"          : 12896,
           "collaborators" : 32,
           "stars"         : 29,
-          "forks"         : 15,
-          "openIssues"    : 61,
+          "forks"         : 16,
+          "openIssues"    : 63,
           "languages"     : {
-            "Java" : 1446157,
+            "Java" : 1459605,
             "Dockerfile" : 581,
             "Shell" : 1945,
-            "Gherkin" : 464244
+            "Gherkin" : 458715
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 261,
+        "heat"          : 266,
         "watchers"      : 29,
-        "size"          : 12802,
+        "size"          : 12896,
         "collaborators" : 32,
         "stars"         : 29,
-        "forks"         : 15,
-        "openIssues"    : 61,
+        "forks"         : 16,
+        "openIssues"    : 63,
         "languages"     : {
-          "Java" : 1446157,
+          "Java" : 1459605,
           "Dockerfile" : 581,
           "Shell" : 1945,
-          "Gherkin" : 464244
+          "Gherkin" : 458715
         }
       }
     },
@@ -226,13 +226,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5015,
-          "watchers"      : 2049,
-          "size"          : 18702,
+          "heat"          : 5022,
+          "watchers"      : 2050,
+          "size"          : 18718,
           "collaborators" : 38,
-          "stars"         : 2049,
-          "forks"         : 153,
-          "openIssues"    : 25,
+          "stars"         : 2050,
+          "forks"         : 154,
+          "openIssues"    : 26,
           "languages"     : {
             "TypeScript" : 28362,
             "Dockerfile" : 23625,
@@ -241,20 +241,20 @@
             "C" : 3505,
             "CMake" : 27682,
             "Makefile" : 1602,
-            "JavaScript" : 1020777,
+            "JavaScript" : 1021352,
             "HTML" : 31496,
             "Python" : 217684
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5015,
-        "watchers"      : 2049,
-        "size"          : 18702,
+        "heat"          : 5022,
+        "watchers"      : 2050,
+        "size"          : 18718,
         "collaborators" : 38,
-        "stars"         : 2049,
-        "forks"         : 153,
-        "openIssues"    : 25,
+        "stars"         : 2050,
+        "forks"         : 154,
+        "openIssues"    : 26,
         "languages"     : {
           "TypeScript" : 28362,
           "Dockerfile" : 23625,
@@ -263,7 +263,7 @@
           "C" : 3505,
           "CMake" : 27682,
           "Makefile" : 1602,
-          "JavaScript" : 1020777,
+          "JavaScript" : 1021352,
           "HTML" : 31496,
           "Python" : 217684
         }
@@ -845,7 +845,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 159,
           "watchers"      : 3,
-          "size"          : 2458,
+          "size"          : 2483,
           "collaborators" : 32,
           "stars"         : 3,
           "forks"         : 5,
@@ -946,7 +946,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1666,
         "watchers"      : 16,
-        "size"          : 34915,
+        "size"          : 34940,
         "collaborators" : 376,
         "stars"         : 16,
         "forks"         : 26,
@@ -1395,15 +1395,15 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 648,
-          "watchers"      : 96,
-          "size"          : 4300,
+          "heat"          : 646,
+          "watchers"      : 95,
+          "size"          : 4433,
           "collaborators" : 39,
-          "stars"         : 96,
+          "stars"         : 95,
           "forks"         : 60,
-          "openIssues"    : 15,
+          "openIssues"    : 21,
           "languages"     : {
-            "TypeScript" : 629383,
+            "TypeScript" : 629569,
             "HTML" : 15171,
             "JavaScript" : 343198
           }
@@ -1418,7 +1418,7 @@
           "collaborators" : 40,
           "stars"         : 16,
           "forks"         : 35,
-          "openIssues"    : 7,
+          "openIssues"    : 9,
           "languages"     : {
             "TypeScript" : 444004,
             "HTML" : 2432,
@@ -1432,13 +1432,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 266,
           "watchers"      : 6,
-          "size"          : 1668,
+          "size"          : 1682,
           "collaborators" : 41,
           "stars"         : 6,
           "forks"         : 18,
           "openIssues"    : 9,
           "languages"     : {
-            "TypeScript" : 420446,
+            "TypeScript" : 426538,
             "CSS" : 52640,
             "HTML" : 6191,
             "JavaScript" : 5730
@@ -1462,15 +1462,15 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1449,
-        "watchers"      : 119,
-        "size"          : 10143,
+        "heat"          : 1447,
+        "watchers"      : 118,
+        "size"          : 10290,
         "collaborators" : 159,
-        "stars"         : 119,
+        "stars"         : 118,
         "forks"         : 115,
-        "openIssues"    : 34,
+        "openIssues"    : 42,
         "languages"     : {
-          "TypeScript" : 1493833,
+          "TypeScript" : 1500111,
           "HTML" : 24283,
           "CSS" : 52640,
           "JavaScript" : 364621,
@@ -1495,11 +1495,11 @@
           "name"          : "symphony-of",
           "description"   : "OpenFin Sym Integration",
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
-          "heat"          : 317,
-          "watchers"      : 23,
+          "heat"          : 315,
+          "watchers"      : 22,
           "size"          : 14610,
           "collaborators" : 44,
-          "stars"         : 23,
+          "stars"         : 22,
           "forks"         : 19,
           "openIssues"    : 6,
           "languages"     : {
@@ -1510,11 +1510,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 317,
-        "watchers"      : 23,
+        "heat"          : 315,
+        "watchers"      : 22,
         "size"          : 14610,
         "collaborators" : 44,
-        "stars"         : 23,
+        "stars"         : 22,
         "forks"         : 19,
         "openIssues"    : 6,
         "languages"     : {
@@ -3677,7 +3677,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 49,
           "watchers"      : 0,
-          "size"          : 1911,
+          "size"          : 1914,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 5,
@@ -3723,7 +3723,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 118,
         "watchers"      : 0,
-        "size"          : 2142,
+        "size"          : 2145,
         "collaborators" : 17,
         "stars"         : 0,
         "forks"         : 10,
@@ -4379,7 +4379,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
           "heat"          : 142,
           "watchers"      : 5,
-          "size"          : 535,
+          "size"          : 533,
           "collaborators" : 8,
           "stars"         : 5,
           "forks"         : 20,
@@ -4392,7 +4392,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 142,
         "watchers"      : 5,
-        "size"          : 535,
+        "size"          : 533,
         "collaborators" : 8,
         "stars"         : 5,
         "forks"         : 20,
