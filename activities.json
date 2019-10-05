@@ -226,13 +226,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5022,
-          "watchers"      : 2050,
-          "size"          : 18718,
+          "heat"          : 5024,
+          "watchers"      : 2051,
+          "size"          : 18729,
           "collaborators" : 38,
-          "stars"         : 2050,
+          "stars"         : 2051,
           "forks"         : 154,
-          "openIssues"    : 26,
+          "openIssues"    : 25,
           "languages"     : {
             "TypeScript" : 28362,
             "Dockerfile" : 23625,
@@ -241,20 +241,20 @@
             "C" : 3505,
             "CMake" : 27682,
             "Makefile" : 1602,
-            "JavaScript" : 1021352,
+            "JavaScript" : 1022765,
             "HTML" : 31496,
             "Python" : 217684
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5022,
-        "watchers"      : 2050,
-        "size"          : 18718,
+        "heat"          : 5024,
+        "watchers"      : 2051,
+        "size"          : 18729,
         "collaborators" : 38,
-        "stars"         : 2050,
+        "stars"         : 2051,
         "forks"         : 154,
-        "openIssues"    : 26,
+        "openIssues"    : 25,
         "languages"     : {
           "TypeScript" : 28362,
           "Dockerfile" : 23625,
@@ -263,7 +263,7 @@
           "C" : 3505,
           "CMake" : 27682,
           "Makefile" : 1602,
-          "JavaScript" : 1021352,
+          "JavaScript" : 1022765,
           "HTML" : 31496,
           "Python" : 217684
         }
@@ -3234,7 +3234,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 100,
           "watchers"      : 10,
-          "size"          : 2556,
+          "size"          : 2708,
           "collaborators" : 5,
           "stars"         : 10,
           "forks"         : 12,
@@ -3247,7 +3247,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 100,
         "watchers"      : 10,
-        "size"          : 2556,
+        "size"          : 2708,
         "collaborators" : 5,
         "stars"         : 10,
         "forks"         : 12,
