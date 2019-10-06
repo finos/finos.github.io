@@ -232,7 +232,7 @@
           "collaborators" : 38,
           "stars"         : 2051,
           "forks"         : 154,
-          "openIssues"    : 25,
+          "openIssues"    : 26,
           "languages"     : {
             "TypeScript" : 28362,
             "Dockerfile" : 23625,
@@ -254,7 +254,7 @@
         "collaborators" : 38,
         "stars"         : 2051,
         "forks"         : 154,
-        "openIssues"    : 25,
+        "openIssues"    : 26,
         "languages"     : {
           "TypeScript" : 28362,
           "Dockerfile" : 23625,
@@ -845,7 +845,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 159,
           "watchers"      : 3,
-          "size"          : 2483,
+          "size"          : 2508,
           "collaborators" : 32,
           "stars"         : 3,
           "forks"         : 5,
@@ -946,7 +946,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1666,
         "watchers"      : 16,
-        "size"          : 34940,
+        "size"          : 34965,
         "collaborators" : 376,
         "stars"         : 16,
         "forks"         : 26,
@@ -1395,12 +1395,12 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 646,
-          "watchers"      : 95,
+          "heat"          : 653,
+          "watchers"      : 96,
           "size"          : 4433,
           "collaborators" : 39,
-          "stars"         : 95,
-          "forks"         : 60,
+          "stars"         : 96,
+          "forks"         : 61,
           "openIssues"    : 21,
           "languages"     : {
             "TypeScript" : 629569,
@@ -1462,12 +1462,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1447,
-        "watchers"      : 118,
+        "heat"          : 1454,
+        "watchers"      : 119,
         "size"          : 10290,
         "collaborators" : 159,
-        "stars"         : 118,
-        "forks"         : 115,
+        "stars"         : 119,
+        "forks"         : 116,
         "openIssues"    : 42,
         "languages"     : {
           "TypeScript" : 1500111,
@@ -2966,7 +2966,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 35,
           "watchers"      : 0,
-          "size"          : 691,
+          "size"          : 704,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 3,
@@ -2996,7 +2996,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 70,
         "watchers"      : 0,
-        "size"          : 975,
+        "size"          : 988,
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 6,
@@ -3677,7 +3677,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 49,
           "watchers"      : 0,
-          "size"          : 1914,
+          "size"          : 1964,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 5,
@@ -3723,7 +3723,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 118,
         "watchers"      : 0,
-        "size"          : 2145,
+        "size"          : 2195,
         "collaborators" : 17,
         "stars"         : 0,
         "forks"         : 10,
@@ -4638,13 +4638,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-common",
           "heat"          : 48,
           "watchers"      : 0,
-          "size"          : 469,
+          "size"          : 493,
           "collaborators" : 7,
           "stars"         : 0,
           "forks"         : 4,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 434612
+            "Java" : 437541
           }
         },
         {
@@ -4663,13 +4663,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 89,
         "watchers"      : 1,
-        "size"          : 539,
+        "size"          : 563,
         "collaborators" : 13,
         "stars"         : 1,
         "forks"         : 7,
         "openIssues"    : 2,
         "languages"     : {
-          "Java" : 434612
+          "Java" : 437541
         }
       }
     },
