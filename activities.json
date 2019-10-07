@@ -19,7 +19,7 @@
           "collaborators" : 32,
           "stars"         : 29,
           "forks"         : 16,
-          "openIssues"    : 63,
+          "openIssues"    : 62,
           "languages"     : {
             "Java" : 1459605,
             "Dockerfile" : 581,
@@ -35,7 +35,7 @@
         "collaborators" : 32,
         "stars"         : 29,
         "forks"         : 16,
-        "openIssues"    : 63,
+        "openIssues"    : 62,
         "languages"     : {
           "Java" : 1459605,
           "Dockerfile" : 581,
@@ -228,11 +228,11 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 5024,
           "watchers"      : 2051,
-          "size"          : 18729,
+          "size"          : 18752,
           "collaborators" : 38,
           "stars"         : 2051,
           "forks"         : 154,
-          "openIssues"    : 26,
+          "openIssues"    : 27,
           "languages"     : {
             "TypeScript" : 28362,
             "Dockerfile" : 23625,
@@ -250,11 +250,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 5024,
         "watchers"      : 2051,
-        "size"          : 18729,
+        "size"          : 18752,
         "collaborators" : 38,
         "stars"         : 2051,
         "forks"         : 154,
-        "openIssues"    : 26,
+        "openIssues"    : 27,
         "languages"     : {
           "TypeScript" : 28362,
           "Dockerfile" : 23625,
@@ -741,7 +741,7 @@
           "collaborators" : 31,
           "stars"         : 31,
           "forks"         : 11,
-          "openIssues"    : 18,
+          "openIssues"    : 19,
           "languages"     : {
             "Shell" : 155,
             "JavaScript" : 46388
@@ -755,7 +755,7 @@
         "collaborators" : 31,
         "stars"         : 31,
         "forks"         : 11,
-        "openIssues"    : 18,
+        "openIssues"    : 19,
         "languages"     : {
           "Shell" : 155,
           "JavaScript" : 46388
@@ -845,7 +845,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 159,
           "watchers"      : 3,
-          "size"          : 2508,
+          "size"          : 2507,
           "collaborators" : 32,
           "stars"         : 3,
           "forks"         : 5,
@@ -946,7 +946,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1666,
         "watchers"      : 16,
-        "size"          : 34965,
+        "size"          : 34964,
         "collaborators" : 376,
         "stars"         : 16,
         "forks"         : 26,
@@ -1220,7 +1220,7 @@
           "collaborators" : 32,
           "stars"         : 2,
           "forks"         : 5,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 7075,
             "CSS" : 3722,
@@ -1236,7 +1236,7 @@
         "collaborators" : 32,
         "stars"         : 2,
         "forks"         : 5,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 7075,
           "CSS" : 3722,
@@ -3234,11 +3234,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 100,
           "watchers"      : 10,
-          "size"          : 2708,
+          "size"          : 2861,
           "collaborators" : 5,
           "stars"         : 10,
           "forks"         : 12,
-          "openIssues"    : 17,
+          "openIssues"    : 18,
           "languages"     : {
             "JavaScript" : 82020
           }
@@ -3247,11 +3247,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 100,
         "watchers"      : 10,
-        "size"          : 2708,
+        "size"          : 2861,
         "collaborators" : 5,
         "stars"         : 10,
         "forks"         : 12,
-        "openIssues"    : 17,
+        "openIssues"    : 18,
         "languages"     : {
           "JavaScript" : 82020
         }
