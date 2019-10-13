@@ -228,11 +228,11 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 5043,
           "watchers"      : 2058,
-          "size"          : 18806,
+          "size"          : 18808,
           "collaborators" : 38,
           "stars"         : 2058,
           "forks"         : 155,
-          "openIssues"    : 29,
+          "openIssues"    : 27,
           "languages"     : {
             "TypeScript" : 24298,
             "Dockerfile" : 24616,
@@ -250,11 +250,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 5043,
         "watchers"      : 2058,
-        "size"          : 18806,
+        "size"          : 18808,
         "collaborators" : 38,
         "stars"         : 2058,
         "forks"         : 155,
-        "openIssues"    : 29,
+        "openIssues"    : 27,
         "languages"     : {
           "TypeScript" : 24298,
           "Dockerfile" : 24616,
@@ -1395,11 +1395,11 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 657,
-          "watchers"      : 96,
+          "heat"          : 659,
+          "watchers"      : 97,
           "size"          : 4457,
           "collaborators" : 40,
-          "stars"         : 96,
+          "stars"         : 97,
           "forks"         : 61,
           "openIssues"    : 22,
           "languages"     : {
@@ -1462,11 +1462,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1470,
-        "watchers"      : 119,
+        "heat"          : 1472,
+        "watchers"      : 120,
         "size"          : 10390,
         "collaborators" : 163,
-        "stars"         : 119,
+        "stars"         : 120,
         "forks"         : 116,
         "openIssues"    : 45,
         "languages"     : {
@@ -2966,14 +2966,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 35,
           "watchers"      : 0,
-          "size"          : 709,
+          "size"          : 735,
           "collaborators" : 5,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 522835,
-            "FreeMarker" : 133060,
+            "Java" : 525508,
+            "FreeMarker" : 133041,
             "JavaScript" : 13681
           }
         },
@@ -2996,14 +2996,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 70,
         "watchers"      : 0,
-        "size"          : 995,
+        "size"          : 1021,
         "collaborators" : 10,
         "stars"         : 0,
         "forks"         : 6,
         "openIssues"    : 3,
         "languages"     : {
-          "Java" : 570926,
-          "FreeMarker" : 133060,
+          "Java" : 573599,
+          "FreeMarker" : 133041,
           "JavaScript" : 13681
         }
       }
@@ -3234,7 +3234,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 100,
           "watchers"      : 10,
-          "size"          : 3166,
+          "size"          : 3317,
           "collaborators" : 5,
           "stars"         : 10,
           "forks"         : 12,
@@ -3247,7 +3247,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 100,
         "watchers"      : 10,
-        "size"          : 3166,
+        "size"          : 3317,
         "collaborators" : 5,
         "stars"         : 10,
         "forks"         : 12,
@@ -3453,11 +3453,11 @@
           "name"          : "ContainerJS",
           "description"   : "ContainerJS provides an abstraction layer over multiple HTML5 containers (OpenFin, Electron, Browser), that follows the Symphony Desktop APIs",
           "gitHubURL"     : "https://github.com/symphonyoss/ContainerJS",
-          "heat"          : 157,
-          "watchers"      : 29,
+          "heat"          : 159,
+          "watchers"      : 30,
           "size"          : 650,
           "collaborators" : 11,
-          "stars"         : 29,
+          "stars"         : 30,
           "forks"         : 11,
           "openIssues"    : 26,
           "languages"     : {
@@ -3471,11 +3471,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 157,
-        "watchers"      : 29,
+        "heat"          : 159,
+        "watchers"      : 30,
         "size"          : 650,
         "collaborators" : 11,
-        "stars"         : 29,
+        "stars"         : 30,
         "forks"         : 11,
         "openIssues"    : 26,
         "languages"     : {
@@ -3675,11 +3675,11 @@
           "name"          : "fugue",
           "description"   : "Kubenetes Base Cloud Platform Abstraction",
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
-          "heat"          : 49,
-          "watchers"      : 0,
-          "size"          : 1961,
+          "heat"          : 51,
+          "watchers"      : 1,
+          "size"          : 1966,
           "collaborators" : 6,
-          "stars"         : 0,
+          "stars"         : 1,
           "forks"         : 5,
           "openIssues"    : 2,
           "languages"     : {
@@ -3721,11 +3721,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 118,
-        "watchers"      : 0,
-        "size"          : 2192,
+        "heat"          : 120,
+        "watchers"      : 1,
+        "size"          : 2197,
         "collaborators" : 17,
-        "stars"         : 0,
+        "stars"         : 1,
         "forks"         : 10,
         "openIssues"    : 5,
         "languages"     : {
@@ -4963,11 +4963,11 @@
           "name"          : "greenkey-discovery-sdk",
           "description"   : "Speed up business workflows through custom 'voice skills' and text (NLP) interpreters",
           "gitHubURL"     : "https://github.com/finos/greenkey-discovery-sdk",
-          "heat"          : 155,
-          "watchers"      : 4,
+          "heat"          : 157,
+          "watchers"      : 5,
           "size"          : 46215,
           "collaborators" : 33,
-          "stars"         : 4,
+          "stars"         : 5,
           "forks"         : 3,
           "openIssues"    : 3,
           "languages"     : {
@@ -4977,11 +4977,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 155,
-        "watchers"      : 4,
+        "heat"          : 157,
+        "watchers"      : 5,
         "size"          : 46215,
         "collaborators" : 33,
-        "stars"         : 4,
+        "stars"         : 5,
         "forks"         : 3,
         "openIssues"    : 3,
         "languages"     : {
@@ -5007,11 +5007,11 @@
           "name"          : "greenkey-voice-sdk",
           "description"   : "Voice-enable your front-end apps with instant intercoms",
           "gitHubURL"     : "https://github.com/finos/greenkey-voice-sdk",
-          "heat"          : 144,
-          "watchers"      : 1,
+          "heat"          : 146,
+          "watchers"      : 2,
           "size"          : 323,
           "collaborators" : 33,
-          "stars"         : 1,
+          "stars"         : 2,
           "forks"         : 2,
           "openIssues"    : 0,
           "languages"     : {
@@ -5020,11 +5020,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 144,
-        "watchers"      : 1,
+        "heat"          : 146,
+        "watchers"      : 2,
         "size"          : 323,
         "collaborators" : 33,
-        "stars"         : 1,
+        "stars"         : 2,
         "forks"         : 2,
         "openIssues"    : 0,
         "languages"     : {
