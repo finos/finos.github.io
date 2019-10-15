@@ -98,10 +98,11 @@
       "programName"          : "Data Technologies",
       "programShortName"     : "Data Tech",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/DT/overview",
-      "activityName"         : "Digital Rights Management Working Group",
-      "type"                 : "WORKING_GROUP",
-      "state"                : "ARCHIVED",
+      "activityName"         : "Digital Rights Management Project",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
       "contributionDate"     : "2019-03-12",
+      "releaseDate"          : "2019-10-11",
       "archiveDate"          : "2019-08-12",
       "tags"                 : [
         "digital-rights-management"
@@ -140,10 +141,11 @@
       "programName"          : "Data Technologies",
       "programShortName"     : "Data Tech",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/DT/overview",
-      "activityName"         : "kdb+ Working Group",
-      "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
+      "activityName"         : "kdb+ Project",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
       "contributionDate"     : "2018-07-11",
+      "releaseDate"          : "2019-10-11",
       "tags"                 : [
         "kdb+"
       ],
@@ -195,10 +197,11 @@
       "programName"          : "Data Technologies",
       "programShortName"     : "Data Tech",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/DT/overview",
-      "activityName"         : "Security Reference Data",
-      "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
+      "activityName"         : "Security Reference Data Project",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
       "contributionDate"     : "2018-11-05",
+      "releaseDate"          : "2019-10-11",
       "mailingLists"       : [
         {
           "emailAddress"  : "data-tech-sec-ref@finos.org",
@@ -226,46 +229,46 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5051,
-          "watchers"      : 2062,
-          "size"          : 18828,
+          "heat"          : 5053,
+          "watchers"      : 2063,
+          "size"          : 18878,
           "collaborators" : 38,
-          "stars"         : 2062,
+          "stars"         : 2063,
           "forks"         : 155,
-          "openIssues"    : 30,
+          "openIssues"    : 29,
           "languages"     : {
-            "TypeScript" : 24298,
+            "TypeScript" : 25003,
             "Dockerfile" : 24616,
             "C++" : 1119736,
             "CSS" : 75386,
             "C" : 4588,
             "CMake" : 41750,
             "Makefile" : 1602,
-            "JavaScript" : 1017095,
+            "JavaScript" : 1017094,
             "HTML" : 33870,
-            "Python" : 227119
+            "Python" : 235796
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5051,
-        "watchers"      : 2062,
-        "size"          : 18828,
+        "heat"          : 5053,
+        "watchers"      : 2063,
+        "size"          : 18878,
         "collaborators" : 38,
-        "stars"         : 2062,
+        "stars"         : 2063,
         "forks"         : 155,
-        "openIssues"    : 30,
+        "openIssues"    : 29,
         "languages"     : {
-          "TypeScript" : 24298,
+          "TypeScript" : 25003,
           "Dockerfile" : 24616,
           "C++" : 1119736,
           "CSS" : 75386,
           "C" : 4588,
           "CMake" : 41750,
           "Makefile" : 1602,
-          "JavaScript" : 1017095,
+          "JavaScript" : 1017094,
           "HTML" : 33870,
-          "Python" : 227119
+          "Python" : 235796
         }
       }
     },
@@ -845,7 +848,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 159,
           "watchers"      : 3,
-          "size"          : 2581,
+          "size"          : 2582,
           "collaborators" : 32,
           "stars"         : 3,
           "forks"         : 5,
@@ -946,7 +949,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1666,
         "watchers"      : 16,
-        "size"          : 35055,
+        "size"          : 35056,
         "collaborators" : 376,
         "stars"         : 16,
         "forks"         : 26,
@@ -1032,46 +1035,11 @@
       "programName"          : "Financial Delivery Accelerator",
       "programShortName"     : "FDX",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
-      "activityName"         : "Reference FOSS Policy",
+      "activityName"         : "Foundation Catalogue Project",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
-      "contributionDate"     : "2018-05-28",
-      "tags"                 : [
-        "policy",
-        "reference"
-      ],
-      "gitHubRepos"          : [
-        {
-          "name"          : "reference-foss-policy",
-          "description"   : "Reference FOSS Policy for Financial Services Institutions",
-          "gitHubURL"     : "https://github.com/finos/reference-foss-policy",
-          "heat"          : 140,
-          "watchers"      : 3,
-          "size"          : 88,
-          "collaborators" : 31,
-          "stars"         : 3,
-          "forks"         : 2,
-          "openIssues"    : 3
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 140,
-        "watchers"      : 3,
-        "size"          : 88,
-        "collaborators" : 31,
-        "stars"         : 3,
-        "forks"         : 2,
-        "openIssues"    : 3
-      }
-    },
-    {
-      "programName"          : "Financial Delivery Accelerator",
-      "programShortName"     : "FDX",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
-      "activityName"         : "Foundation Catalogue WG",
-      "type"                 : "WORKING_GROUP",
-      "state"                : "ARCHIVED",
+      "state"                : "RELEASED",
       "contributionDate"     : "2018-04-24",
+      "releaseDate"          : "2019-10-11",
       "archiveDate"          : "2018-10-23",
       "mailingLists"       : [
         {
@@ -1099,10 +1067,11 @@
       "programName"          : "Financial Delivery Accelerator",
       "programShortName"     : "FDX",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
-      "activityName"         : "Cloud Service Certification WG",
-      "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
+      "activityName"         : "Cloud Service Certification Project",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
       "contributionDate"     : "2019-02-26",
+      "releaseDate"          : "2019-10-11",
       "gitHubRepos"          : [
         {
           "name"          : "cloud-service-certification",
@@ -1137,10 +1106,11 @@
       "programName"          : "Financial Delivery Accelerator",
       "programShortName"     : "FDX",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
-      "activityName"         : "Developer Experience WG",
-      "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
+      "activityName"         : "Developer Experience Project",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
       "contributionDate"     : "2018-04-24",
+      "releaseDate"          : "2019-10-11",
       "mailingLists"       : [
         {
           "emailAddress"  : "fdx-developer-experience@finos.org",
@@ -1152,10 +1122,11 @@
       "programName"          : "Financial Delivery Accelerator",
       "programShortName"     : "FDX",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
-      "activityName"         : "ODP WG",
-      "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
+      "activityName"         : "ODP Project",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
       "contributionDate"     : "2018-04-24",
+      "releaseDate"          : "2019-10-11",
       "gitHubRepos"          : [
         {
           "name"          : "odp-test",
@@ -1190,10 +1161,11 @@
       "programName"          : "Financial Delivery Accelerator",
       "programShortName"     : "FDX",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
-      "activityName"         : "Open source readiness WG",
-      "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
+      "activityName"         : "Open source readiness Project",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
       "contributionDate"     : "2018-04-24",
+      "releaseDate"          : "2019-10-11",
       "mailingLists"       : [
         {
           "emailAddress"  : "osr@finos.org",
@@ -1202,13 +1174,50 @@
       ]
     },
     {
+      "programName"          : "Financial Delivery Accelerator",
+      "programShortName"     : "FDX",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
+      "activityName"         : "Reference FOSS Policy",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-05-28",
+      "tags"                 : [
+        "policy",
+        "reference"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "reference-foss-policy",
+          "description"   : "Reference FOSS Policy for Financial Services Institutions",
+          "gitHubURL"     : "https://github.com/finos/reference-foss-policy",
+          "heat"          : 140,
+          "watchers"      : 3,
+          "size"          : 88,
+          "collaborators" : 31,
+          "stars"         : 3,
+          "forks"         : 2,
+          "openIssues"    : 3
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 140,
+        "watchers"      : 3,
+        "size"          : 88,
+        "collaborators" : 31,
+        "stars"         : 3,
+        "forks"         : 2,
+        "openIssues"    : 3
+      }
+    },
+    {
       "programName"          : "Financial Objects",
       "programShortName"     : "Financial Objects",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FO/overview",
-      "activityName"         : "Financial Objects WG",
-      "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
+      "activityName"         : "Financial Objects Project",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
       "contributionDate"     : "2018-04-24",
+      "releaseDate"          : "2019-10-11",
       "gitHubRepos"          : [
         {
           "name"          : "finos-fo",
@@ -1255,8 +1264,8 @@
       "programName"          : "Financial Objects",
       "programShortName"     : "Financial Objects",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FO/overview",
-      "activityName"         : "Financial Objects Standardization WG",
-      "type"                 : "WORKING_GROUP",
+      "activityName"         : "Financial Objects Standardization PROJECT",
+      "type"                 : "PROJECT",
       "state"                : "ARCHIVED",
       "contributionDate"     : "2016-02-08",
       "archiveDate"          : "2018-05-14",
@@ -1706,10 +1715,10 @@
           "name"          : "plexus-interop",
           "description"   : "Plexus Interop open source project hosted by the Fintech Open Source Foundation",
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
-          "heat"          : 761,
+          "heat"          : 765,
           "watchers"      : 246,
           "size"          : 9098,
-          "collaborators" : 11,
+          "collaborators" : 12,
           "stars"         : 246,
           "forks"         : 45,
           "openIssues"    : 0,
@@ -1729,10 +1738,10 @@
           "name"          : "finos-plexus.github.io",
           "description"   : "",
           "gitHubURL"     : "https://github.com/finos-plexus/finos-plexus.github.io",
-          "heat"          : 64,
+          "heat"          : 68,
           "watchers"      : 1,
           "size"          : 905,
-          "collaborators" : 8,
+          "collaborators" : 9,
           "stars"         : 1,
           "forks"         : 6,
           "openIssues"    : 4,
@@ -1742,10 +1751,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 825,
+        "heat"          : 833,
         "watchers"      : 247,
         "size"          : 10003,
-        "collaborators" : 19,
+        "collaborators" : 21,
         "stars"         : 247,
         "forks"         : 51,
         "openIssues"    : 4,
@@ -1766,10 +1775,11 @@
       "programName"          : "Plexus",
       "programShortName"     : "Plexus",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/PLX/overview",
-      "activityName"         : "Desktop Interoperability WG",
-      "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
+      "activityName"         : "Desktop Interoperability Project",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
       "contributionDate"     : "2018-04-24",
+      "releaseDate"          : "2019-10-11",
       "mailingLists"       : [
         {
           "emailAddress"  : "plx-desktop-interop-api@finos.org",
@@ -1785,8 +1795,8 @@
       "programName"          : "Plexus",
       "programShortName"     : "Plexus",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/PLX/overview",
-      "activityName"         : "Interoperability Use Case Validation WG",
-      "type"                 : "WORKING_GROUP",
+      "activityName"         : "Interoperability Use Case Validation Project",
+      "type"                 : "PROJECT",
       "state"                : "ARCHIVED",
       "contributionDate"     : "2018-04-24",
       "archiveDate"          : "2018-11-13"
@@ -3274,12 +3284,12 @@
           "name"          : "symphony-java-client",
           "description"   : "Java client library for Symphony",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-client",
-          "heat"          : 272,
+          "heat"          : 277,
           "watchers"      : 35,
           "size"          : 2452,
           "collaborators" : 8,
           "stars"         : 35,
-          "forks"         : 34,
+          "forks"         : 35,
           "openIssues"    : 14,
           "languages"     : {
             "Java" : 695383,
@@ -3319,12 +3329,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 472,
+        "heat"          : 477,
         "watchers"      : 58,
         "size"          : 3515,
         "collaborators" : 19,
         "stars"         : 58,
-        "forks"         : 56,
+        "forks"         : 57,
         "openIssues"    : 19,
         "languages"     : {
           "Java" : 718953,
@@ -4689,12 +4699,12 @@
           "name"          : "SymphonyElectron",
           "description"   : "A desktop client for the Symphony Collaboration Platform built using Electron",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 359,
+          "heat"          : 364,
           "watchers"      : 38,
           "size"          : 35981,
           "collaborators" : 7,
           "stars"         : 38,
-          "forks"         : 51,
+          "forks"         : 52,
           "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 438641,
@@ -4805,12 +4815,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 632,
+        "heat"          : 637,
         "watchers"      : 46,
         "size"          : 45800,
         "collaborators" : 40,
         "stars"         : 46,
-        "forks"         : 76,
+        "forks"         : 77,
         "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 570568,
