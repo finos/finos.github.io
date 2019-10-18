@@ -13,34 +13,34 @@
           "name"          : "datahelix",
           "description"   : "The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for the purpose of testing and validation",
           "gitHubURL"     : "https://github.com/finos/datahelix",
-          "heat"          : 297,
+          "heat"          : 302,
           "watchers"      : 30,
-          "size"          : 13252,
+          "size"          : 13350,
           "collaborators" : 38,
           "stars"         : 30,
-          "forks"         : 17,
-          "openIssues"    : 65,
+          "forks"         : 18,
+          "openIssues"    : 68,
           "languages"     : {
-            "Java" : 1469157,
+            "Java" : 1491298,
             "Dockerfile" : 581,
             "Shell" : 1945,
-            "Gherkin" : 351924
+            "Gherkin" : 349093
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 297,
+        "heat"          : 302,
         "watchers"      : 30,
-        "size"          : 13252,
+        "size"          : 13350,
         "collaborators" : 38,
         "stars"         : 30,
-        "forks"         : 17,
-        "openIssues"    : 65,
+        "forks"         : 18,
+        "openIssues"    : 68,
         "languages"     : {
-          "Java" : 1469157,
+          "Java" : 1491298,
           "Dockerfile" : 581,
           "Shell" : 1945,
-          "Gherkin" : 351924
+          "Gherkin" : 349093
         }
       }
     },
@@ -231,7 +231,7 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 5096,
           "watchers"      : 2065,
-          "size"          : 18918,
+          "size"          : 18914,
           "collaborators" : 44,
           "stars"         : 2065,
           "forks"         : 158,
@@ -240,20 +240,20 @@
             "TypeScript" : 25003,
             "Dockerfile" : 24616,
             "C++" : 1119736,
-            "CSS" : 75386,
+            "CSS" : 75407,
             "C" : 4588,
             "CMake" : 41750,
             "Makefile" : 1602,
-            "JavaScript" : 1017094,
+            "JavaScript" : 1017032,
             "HTML" : 33870,
-            "Python" : 235796
+            "Python" : 237339
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 5096,
         "watchers"      : 2065,
-        "size"          : 18918,
+        "size"          : 18914,
         "collaborators" : 44,
         "stars"         : 2065,
         "forks"         : 158,
@@ -262,13 +262,13 @@
           "TypeScript" : 25003,
           "Dockerfile" : 24616,
           "C++" : 1119736,
-          "CSS" : 75386,
+          "CSS" : 75407,
           "C" : 4588,
           "CMake" : 41750,
           "Makefile" : 1602,
-          "JavaScript" : 1017094,
+          "JavaScript" : 1017032,
           "HTML" : 33870,
-          "Python" : 235796
+          "Python" : 237339
         }
       }
     },
@@ -327,7 +327,7 @@
           "collaborators" : 45,
           "stars"         : 25,
           "forks"         : 25,
-          "openIssues"    : 15,
+          "openIssues"    : 16,
           "languages"     : {
             "TypeScript" : 12747,
             "HTML" : 1858006,
@@ -355,7 +355,7 @@
         "collaborators" : 88,
         "stars"         : 28,
         "forks"         : 26,
-        "openIssues"    : 17,
+        "openIssues"    : 18,
         "languages"     : {
           "TypeScript" : 12747,
           "HTML" : 1858006,
@@ -848,7 +848,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 183,
           "watchers"      : 3,
-          "size"          : 2608,
+          "size"          : 2631,
           "collaborators" : 38,
           "stars"         : 3,
           "forks"         : 5,
@@ -865,11 +865,11 @@
           "gitHubURL"     : "https://github.com/finos/metadata-tool",
           "heat"          : 188,
           "watchers"      : 3,
-          "size"          : 315,
+          "size"          : 328,
           "collaborators" : 38,
           "stars"         : 3,
           "forks"         : 6,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "FreeMarker" : 21837,
             "Clojure" : 95928
@@ -949,11 +949,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1954,
         "watchers"      : 16,
-        "size"          : 35090,
+        "size"          : 35126,
         "collaborators" : 448,
         "stars"         : 16,
         "forks"         : 26,
-        "openIssues"    : 21,
+        "openIssues"    : 22,
         "languages"     : {
           "Java" : 12202,
           "Shell" : 28084,
@@ -1077,23 +1077,23 @@
           "name"          : "cloud-service-certification",
           "description"   : "Cloud Service Certification Working Group",
           "gitHubURL"     : "https://github.com/finos/cloud-service-certification",
-          "heat"          : 199,
+          "heat"          : 204,
           "watchers"      : 5,
-          "size"          : 932,
+          "size"          : 1164,
           "collaborators" : 41,
           "stars"         : 5,
-          "forks"         : 5,
-          "openIssues"    : 0
+          "forks"         : 6,
+          "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 199,
+        "heat"          : 204,
         "watchers"      : 5,
-        "size"          : 932,
+        "size"          : 1164,
         "collaborators" : 41,
         "stars"         : 5,
-        "forks"         : 5,
-        "openIssues"    : 0
+        "forks"         : 6,
+        "openIssues"    : 1
       },
       "mailingLists"       : [
         {
@@ -1404,13 +1404,13 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 659,
+          "heat"          : 654,
           "watchers"      : 97,
-          "size"          : 4496,
+          "size"          : 4546,
           "collaborators" : 40,
           "stars"         : 97,
-          "forks"         : 61,
-          "openIssues"    : 23,
+          "forks"         : 60,
+          "openIssues"    : 24,
           "languages"     : {
             "TypeScript" : 629860,
             "HTML" : 15171,
@@ -1445,7 +1445,7 @@
           "collaborators" : 42,
           "stars"         : 6,
           "forks"         : 18,
-          "openIssues"    : 5,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 495236,
             "CSS" : 29619,
@@ -1471,13 +1471,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1477,
+        "heat"          : 1472,
         "watchers"      : 120,
-        "size"          : 10466,
+        "size"          : 10516,
         "collaborators" : 163,
         "stars"         : 120,
-        "forks"         : 117,
-        "openIssues"    : 41,
+        "forks"         : 116,
+        "openIssues"    : 44,
         "languages"     : {
           "TypeScript" : 1575858,
           "HTML" : 24524,
@@ -3244,11 +3244,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 100,
           "watchers"      : 10,
-          "size"          : 3470,
+          "size"          : 3619,
           "collaborators" : 5,
           "stars"         : 10,
           "forks"         : 12,
-          "openIssues"    : 20,
+          "openIssues"    : 21,
           "languages"     : {
             "JavaScript" : 82020
           }
@@ -3257,11 +3257,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 100,
         "watchers"      : 10,
-        "size"          : 3470,
+        "size"          : 3619,
         "collaborators" : 5,
         "stars"         : 10,
         "forks"         : 12,
-        "openIssues"    : 20,
+        "openIssues"    : 21,
         "languages"     : {
           "JavaScript" : 82020
         }
@@ -4393,7 +4393,7 @@
           "collaborators" : 8,
           "stars"         : 5,
           "forks"         : 20,
-          "openIssues"    : 6,
+          "openIssues"    : 8,
           "languages"     : {
             "Java" : 785747
           }
@@ -4406,7 +4406,7 @@
         "collaborators" : 8,
         "stars"         : 5,
         "forks"         : 20,
-        "openIssues"    : 6,
+        "openIssues"    : 8,
         "languages"     : {
           "Java" : 785747
         }
@@ -4648,13 +4648,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/S2-common",
           "heat"          : 48,
           "watchers"      : 0,
-          "size"          : 498,
+          "size"          : 515,
           "collaborators" : 7,
           "stars"         : 0,
           "forks"         : 4,
           "openIssues"    : 1,
           "languages"     : {
-            "Java" : 437541
+            "Java" : 439003
           }
         },
         {
@@ -4673,13 +4673,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 89,
         "watchers"      : 1,
-        "size"          : 568,
+        "size"          : 585,
         "collaborators" : 13,
         "stars"         : 1,
         "forks"         : 7,
         "openIssues"    : 2,
         "languages"     : {
-          "Java" : 437541
+          "Java" : 439003
         }
       }
     },
