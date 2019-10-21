@@ -15,13 +15,13 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 302,
           "watchers"      : 30,
-          "size"          : 13350,
+          "size"          : 13289,
           "collaborators" : 38,
           "stars"         : 30,
           "forks"         : 18,
-          "openIssues"    : 68,
+          "openIssues"    : 73,
           "languages"     : {
-            "Java" : 1491298,
+            "Java" : 1486480,
             "Dockerfile" : 581,
             "Shell" : 1945,
             "Gherkin" : 349093
@@ -31,13 +31,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 302,
         "watchers"      : 30,
-        "size"          : 13350,
+        "size"          : 13289,
         "collaborators" : 38,
         "stars"         : 30,
         "forks"         : 18,
-        "openIssues"    : 68,
+        "openIssues"    : 73,
         "languages"     : {
-          "Java" : 1491298,
+          "Java" : 1486480,
           "Dockerfile" : 581,
           "Shell" : 1945,
           "Gherkin" : 349093
@@ -59,7 +59,7 @@
           "gitHubURL"     : "https://github.com/finos/exodus",
           "heat"          : 170,
           "watchers"      : 4,
-          "size"          : 9000,
+          "size"          : 9603,
           "collaborators" : 38,
           "stars"         : 4,
           "forks"         : 2,
@@ -78,7 +78,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 170,
         "watchers"      : 4,
-        "size"          : 9000,
+        "size"          : 9603,
         "collaborators" : 38,
         "stars"         : 4,
         "forks"         : 2,
@@ -229,46 +229,46 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5096,
-          "watchers"      : 2065,
-          "size"          : 18946,
+          "heat"          : 5104,
+          "watchers"      : 2069,
+          "size"          : 19254,
           "collaborators" : 44,
-          "stars"         : 2065,
+          "stars"         : 2069,
           "forks"         : 158,
           "openIssues"    : 29,
           "languages"     : {
-            "TypeScript" : 25003,
+            "TypeScript" : 25288,
             "Dockerfile" : 24616,
-            "C++" : 1119736,
-            "CSS" : 75407,
+            "C++" : 1123296,
+            "CSS" : 75430,
             "C" : 4588,
-            "CMake" : 41750,
+            "CMake" : 43665,
             "Makefile" : 1602,
-            "JavaScript" : 1017032,
-            "HTML" : 33870,
-            "Python" : 237339
+            "JavaScript" : 1019319,
+            "HTML" : 33871,
+            "Python" : 240328
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5096,
-        "watchers"      : 2065,
-        "size"          : 18946,
+        "heat"          : 5104,
+        "watchers"      : 2069,
+        "size"          : 19254,
         "collaborators" : 44,
-        "stars"         : 2065,
+        "stars"         : 2069,
         "forks"         : 158,
         "openIssues"    : 29,
         "languages"     : {
-          "TypeScript" : 25003,
+          "TypeScript" : 25288,
           "Dockerfile" : 24616,
-          "C++" : 1119736,
-          "CSS" : 75407,
+          "C++" : 1123296,
+          "CSS" : 75430,
           "C" : 4588,
-          "CMake" : 41750,
+          "CMake" : 43665,
           "Makefile" : 1602,
-          "JavaScript" : 1017032,
-          "HTML" : 33870,
-          "Python" : 237339
+          "JavaScript" : 1019319,
+          "HTML" : 33871,
+          "Python" : 240328
         }
       }
     },
@@ -321,11 +321,11 @@
           "name"          : "FDC3",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/fdc3",
-          "heat"          : 355,
-          "watchers"      : 25,
+          "heat"          : 357,
+          "watchers"      : 26,
           "size"          : 2837,
           "collaborators" : 45,
-          "stars"         : 25,
+          "stars"         : 26,
           "forks"         : 25,
           "openIssues"    : 16,
           "languages"     : {
@@ -349,11 +349,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 538,
-        "watchers"      : 28,
+        "heat"          : 540,
+        "watchers"      : 29,
         "size"          : 5051,
         "collaborators" : 88,
-        "stars"         : 28,
+        "stars"         : 29,
         "forks"         : 26,
         "openIssues"    : 18,
         "languages"     : {
@@ -744,7 +744,7 @@
           "collaborators" : 37,
           "stars"         : 31,
           "forks"         : 11,
-          "openIssues"    : 20,
+          "openIssues"    : 19,
           "languages"     : {
             "Shell" : 155,
             "JavaScript" : 46388
@@ -758,7 +758,7 @@
         "collaborators" : 37,
         "stars"         : 31,
         "forks"         : 11,
-        "openIssues"    : 20,
+        "openIssues"    : 19,
         "languages"     : {
           "Shell" : 155,
           "JavaScript" : 46388
@@ -848,7 +848,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 183,
           "watchers"      : 3,
-          "size"          : 2633,
+          "size"          : 2655,
           "collaborators" : 38,
           "stars"         : 3,
           "forks"         : 5,
@@ -865,7 +865,7 @@
           "gitHubURL"     : "https://github.com/finos/metadata-tool",
           "heat"          : 188,
           "watchers"      : 3,
-          "size"          : 328,
+          "size"          : 330,
           "collaborators" : 38,
           "stars"         : 3,
           "forks"         : 6,
@@ -879,12 +879,12 @@
           "name"          : "project-blueprint",
           "description"   : "Project blueprint for new Fintech Open Source Foundation hosted projects.",
           "gitHubURL"     : "https://github.com/finos/project-blueprint",
-          "heat"          : 178,
+          "heat"          : 183,
           "watchers"      : 3,
           "size"          : 36,
           "collaborators" : 38,
           "stars"         : 3,
-          "forks"         : 4,
+          "forks"         : 5,
           "openIssues"    : 0
         },
         {
@@ -947,12 +947,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1954,
+        "heat"          : 1959,
         "watchers"      : 16,
-        "size"          : 35128,
+        "size"          : 35152,
         "collaborators" : 448,
         "stars"         : 16,
-        "forks"         : 26,
+        "forks"         : 27,
         "openIssues"    : 22,
         "languages"     : {
           "Java" : 12202,
@@ -1075,7 +1075,7 @@
       "gitHubRepos"          : [
         {
           "name"          : "cloud-service-certification",
-          "description"   : "Cloud Service Certification Working Group",
+          "description"   : "Cloud Service Certification Project",
           "gitHubURL"     : "https://github.com/finos/cloud-service-certification",
           "heat"          : 204,
           "watchers"      : 5,
@@ -1083,7 +1083,7 @@
           "collaborators" : 41,
           "stars"         : 5,
           "forks"         : 6,
-          "openIssues"    : 1
+          "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
@@ -1093,7 +1093,7 @@
         "collaborators" : 41,
         "stars"         : 5,
         "forks"         : 6,
-        "openIssues"    : 1
+        "openIssues"    : 2
       },
       "mailingLists"       : [
         {
@@ -1317,12 +1317,12 @@
           "name"          : "app-template",
           "description"   : "A simple unopinionated Hadouken application template.",
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
-          "heat"          : 309,
+          "heat"          : 314,
           "watchers"      : 17,
           "size"          : 338,
           "collaborators" : 40,
           "stars"         : 17,
-          "forks"         : 23,
+          "forks"         : 24,
           "openIssues"    : 3,
           "languages"     : {
             "CSS" : 704,
@@ -1332,12 +1332,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 309,
+        "heat"          : 314,
         "watchers"      : 17,
         "size"          : 338,
         "collaborators" : 40,
         "stars"         : 17,
-        "forks"         : 23,
+        "forks"         : 24,
         "openIssues"    : 3,
         "languages"     : {
           "CSS" : 704,
@@ -1410,7 +1410,7 @@
           "collaborators" : 40,
           "stars"         : 97,
           "forks"         : 60,
-          "openIssues"    : 24,
+          "openIssues"    : 23,
           "languages"     : {
             "TypeScript" : 629860,
             "HTML" : 15171,
@@ -1477,7 +1477,7 @@
         "collaborators" : 163,
         "stars"         : 120,
         "forks"         : 116,
-        "openIssues"    : 44,
+        "openIssues"    : 43,
         "languages"     : {
           "TypeScript" : 1575858,
           "HTML" : 24524,
@@ -3284,11 +3284,11 @@
           "name"          : "symphony-java-client",
           "description"   : "Java client library for Symphony",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-client",
-          "heat"          : 277,
-          "watchers"      : 35,
+          "heat"          : 279,
+          "watchers"      : 36,
           "size"          : 2452,
           "collaborators" : 8,
-          "stars"         : 35,
+          "stars"         : 36,
           "forks"         : 35,
           "openIssues"    : 14,
           "languages"     : {
@@ -3329,11 +3329,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 477,
-        "watchers"      : 58,
+        "heat"          : 479,
+        "watchers"      : 59,
         "size"          : 3515,
         "collaborators" : 19,
-        "stars"         : 58,
+        "stars"         : 59,
         "forks"         : 57,
         "openIssues"    : 19,
         "languages"     : {
@@ -4701,7 +4701,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 379,
           "watchers"      : 38,
-          "size"          : 35985,
+          "size"          : 35986,
           "collaborators" : 7,
           "stars"         : 38,
           "forks"         : 55,
@@ -4769,13 +4769,13 @@
           "name"          : "ScreenSnippet",
           "description"   : "Screen snippet utility for Windows.",
           "gitHubURL"     : "https://github.com/symphonyoss/ScreenSnippet",
-          "heat"          : 74,
+          "heat"          : 78,
           "watchers"      : 2,
-          "size"          : 148,
-          "collaborators" : 5,
+          "size"          : 154,
+          "collaborators" : 6,
           "stars"         : 2,
           "forks"         : 10,
-          "openIssues"    : 2,
+          "openIssues"    : 0,
           "languages"     : {
             "C#" : 18229
           }
@@ -4815,13 +4815,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 652,
+        "heat"          : 656,
         "watchers"      : 46,
-        "size"          : 45804,
-        "collaborators" : 40,
+        "size"          : 45811,
+        "collaborators" : 41,
         "stars"         : 46,
         "forks"         : 80,
-        "openIssues"    : 3,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 570666,
           "C#" : 25902,
