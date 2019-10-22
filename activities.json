@@ -15,32 +15,32 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 302,
           "watchers"      : 30,
-          "size"          : 13289,
+          "size"          : 13354,
           "collaborators" : 38,
           "stars"         : 30,
           "forks"         : 18,
-          "openIssues"    : 73,
+          "openIssues"    : 70,
           "languages"     : {
-            "Java" : 1486480,
+            "Java" : 1496330,
             "Dockerfile" : 581,
             "Shell" : 1945,
-            "Gherkin" : 349093
+            "Gherkin" : 349668
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 302,
         "watchers"      : 30,
-        "size"          : 13289,
+        "size"          : 13354,
         "collaborators" : 38,
         "stars"         : 30,
         "forks"         : 18,
-        "openIssues"    : 73,
+        "openIssues"    : 70,
         "languages"     : {
-          "Java" : 1486480,
+          "Java" : 1496330,
           "Dockerfile" : 581,
           "Shell" : 1945,
-          "Gherkin" : 349093
+          "Gherkin" : 349668
         }
       }
     },
@@ -229,20 +229,20 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5104,
-          "watchers"      : 2069,
-          "size"          : 19254,
+          "heat"          : 5117,
+          "watchers"      : 2073,
+          "size"          : 19139,
           "collaborators" : 44,
-          "stars"         : 2069,
-          "forks"         : 158,
-          "openIssues"    : 29,
+          "stars"         : 2073,
+          "forks"         : 159,
+          "openIssues"    : 28,
           "languages"     : {
             "TypeScript" : 25288,
             "Dockerfile" : 24616,
             "C++" : 1123296,
             "CSS" : 75430,
             "C" : 4588,
-            "CMake" : 43665,
+            "CMake" : 44124,
             "Makefile" : 1602,
             "JavaScript" : 1019319,
             "HTML" : 33871,
@@ -251,20 +251,20 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5104,
-        "watchers"      : 2069,
-        "size"          : 19254,
+        "heat"          : 5117,
+        "watchers"      : 2073,
+        "size"          : 19139,
         "collaborators" : 44,
-        "stars"         : 2069,
-        "forks"         : 158,
-        "openIssues"    : 29,
+        "stars"         : 2073,
+        "forks"         : 159,
+        "openIssues"    : 28,
         "languages"     : {
           "TypeScript" : 25288,
           "Dockerfile" : 24616,
           "C++" : 1123296,
           "CSS" : 75430,
           "C" : 4588,
-          "CMake" : 43665,
+          "CMake" : 44124,
           "Makefile" : 1602,
           "JavaScript" : 1019319,
           "HTML" : 33871,
@@ -848,7 +848,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 183,
           "watchers"      : 3,
-          "size"          : 2655,
+          "size"          : 2657,
           "collaborators" : 38,
           "stars"         : 3,
           "forks"         : 5,
@@ -949,7 +949,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1959,
         "watchers"      : 16,
-        "size"          : 35152,
+        "size"          : 35154,
         "collaborators" : 448,
         "stars"         : 16,
         "forks"         : 27,
@@ -1445,7 +1445,7 @@
           "collaborators" : 42,
           "stars"         : 6,
           "forks"         : 18,
-          "openIssues"    : 7,
+          "openIssues"    : 9,
           "languages"     : {
             "TypeScript" : 495236,
             "CSS" : 29619,
@@ -1477,7 +1477,7 @@
         "collaborators" : 163,
         "stars"         : 120,
         "forks"         : 116,
-        "openIssues"    : 43,
+        "openIssues"    : 45,
         "languages"     : {
           "TypeScript" : 1575858,
           "HTML" : 24524,
@@ -1584,32 +1584,32 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 195,
           "watchers"      : 0,
-          "size"          : 432,
+          "size"          : 559,
           "collaborators" : 40,
           "stars"         : 0,
           "forks"         : 7,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 57523,
+            "TypeScript" : 58637,
             "CSS" : 70303,
             "HTML" : 2995,
-            "JavaScript" : 8994
+            "JavaScript" : 9306
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 721,
         "watchers"      : 15,
-        "size"          : 6043,
+        "size"          : 6170,
         "collaborators" : 124,
         "stars"         : 15,
         "forks"         : 39,
-        "openIssues"    : 7,
+        "openIssues"    : 6,
         "languages"     : {
-          "TypeScript" : 973814,
+          "TypeScript" : 974928,
           "HTML" : 69811,
           "CSS" : 97088,
-          "JavaScript" : 18792
+          "JavaScript" : 19104
         }
       },
       "mailingLists"       : [
@@ -1638,7 +1638,7 @@
           "collaborators" : 42,
           "stars"         : 7,
           "forks"         : 16,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 384781,
             "CSS" : 24084,
@@ -1654,7 +1654,7 @@
         "collaborators" : 42,
         "stars"         : 7,
         "forks"         : 16,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 384781,
           "CSS" : 24084,
@@ -3244,7 +3244,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 100,
           "watchers"      : 10,
-          "size"          : 3771,
+          "size"          : 4076,
           "collaborators" : 5,
           "stars"         : 10,
           "forks"         : 12,
@@ -3257,7 +3257,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 100,
         "watchers"      : 10,
-        "size"          : 3771,
+        "size"          : 4076,
         "collaborators" : 5,
         "stars"         : 10,
         "forks"         : 12,
@@ -3687,13 +3687,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 51,
           "watchers"      : 1,
-          "size"          : 1966,
+          "size"          : 2024,
           "collaborators" : 6,
           "stars"         : 1,
           "forks"         : 5,
           "openIssues"    : 2,
           "languages"     : {
-            "Java" : 1046307,
+            "Java" : 1044650,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3733,13 +3733,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 120,
         "watchers"      : 1,
-        "size"          : 2197,
+        "size"          : 2255,
         "collaborators" : 17,
         "stars"         : 1,
         "forks"         : 10,
         "openIssues"    : 5,
         "languages"     : {
-          "Java" : 1069545,
+          "Java" : 1067888,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -4699,12 +4699,12 @@
           "name"          : "SymphonyElectron",
           "description"   : "A desktop client for the Symphony Collaboration Platform built using Electron",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 379,
+          "heat"          : 384,
           "watchers"      : 38,
           "size"          : 35986,
           "collaborators" : 7,
           "stars"         : 38,
-          "forks"         : 55,
+          "forks"         : 56,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 438739,
@@ -4815,12 +4815,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 656,
+        "heat"          : 661,
         "watchers"      : 46,
         "size"          : 45811,
         "collaborators" : 41,
         "stars"         : 46,
-        "forks"         : 80,
+        "forks"         : 81,
         "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 570666,
@@ -5061,23 +5061,23 @@
           "name"          : "voice-metadata-standard",
           "description"   : "This is a project from FINOS Voice program to define a standard for call metadata.",
           "gitHubURL"     : "https://github.com/finos/voice-metadata-standard",
-          "heat"          : 211,
-          "watchers"      : 4,
+          "heat"          : 218,
+          "watchers"      : 5,
           "size"          : 82,
           "collaborators" : 42,
-          "stars"         : 4,
-          "forks"         : 7,
-          "openIssues"    : 8
+          "stars"         : 5,
+          "forks"         : 8,
+          "openIssues"    : 9
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 211,
-        "watchers"      : 4,
+        "heat"          : 218,
+        "watchers"      : 5,
         "size"          : 82,
         "collaborators" : 42,
-        "stars"         : 4,
-        "forks"         : 7,
-        "openIssues"    : 8
+        "stars"         : 5,
+        "forks"         : 8,
+        "openIssues"    : 9
       },
       "mailingLists"       : [
         {
