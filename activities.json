@@ -15,32 +15,32 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 302,
           "watchers"      : 30,
-          "size"          : 13354,
+          "size"          : 13372,
           "collaborators" : 38,
           "stars"         : 30,
           "forks"         : 18,
-          "openIssues"    : 70,
+          "openIssues"    : 73,
           "languages"     : {
-            "Java" : 1496330,
+            "Java" : 1542139,
             "Dockerfile" : 581,
             "Shell" : 1945,
-            "Gherkin" : 349668
+            "Gherkin" : 349526
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 302,
         "watchers"      : 30,
-        "size"          : 13354,
+        "size"          : 13372,
         "collaborators" : 38,
         "stars"         : 30,
         "forks"         : 18,
-        "openIssues"    : 70,
+        "openIssues"    : 73,
         "languages"     : {
-          "Java" : 1496330,
+          "Java" : 1542139,
           "Dockerfile" : 581,
           "Shell" : 1945,
-          "Gherkin" : 349668
+          "Gherkin" : 349526
         }
       }
     },
@@ -229,13 +229,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5117,
-          "watchers"      : 2073,
-          "size"          : 19139,
+          "heat"          : 5121,
+          "watchers"      : 2075,
+          "size"          : 19147,
           "collaborators" : 44,
-          "stars"         : 2073,
+          "stars"         : 2075,
           "forks"         : 159,
-          "openIssues"    : 28,
+          "openIssues"    : 27,
           "languages"     : {
             "TypeScript" : 25288,
             "Dockerfile" : 24616,
@@ -244,20 +244,20 @@
             "C" : 4588,
             "CMake" : 44124,
             "Makefile" : 1602,
-            "JavaScript" : 1019319,
+            "JavaScript" : 1021123,
             "HTML" : 33871,
             "Python" : 240328
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5117,
-        "watchers"      : 2073,
-        "size"          : 19139,
+        "heat"          : 5121,
+        "watchers"      : 2075,
+        "size"          : 19147,
         "collaborators" : 44,
-        "stars"         : 2073,
+        "stars"         : 2075,
         "forks"         : 159,
-        "openIssues"    : 28,
+        "openIssues"    : 27,
         "languages"     : {
           "TypeScript" : 25288,
           "Dockerfile" : 24616,
@@ -266,7 +266,7 @@
           "C" : 4588,
           "CMake" : 44124,
           "Makefile" : 1602,
-          "JavaScript" : 1019319,
+          "JavaScript" : 1021123,
           "HTML" : 33871,
           "Python" : 240328
         }
@@ -848,7 +848,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 183,
           "watchers"      : 3,
-          "size"          : 2657,
+          "size"          : 2679,
           "collaborators" : 38,
           "stars"         : 3,
           "forks"         : 5,
@@ -949,7 +949,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1959,
         "watchers"      : 16,
-        "size"          : 35154,
+        "size"          : 35176,
         "collaborators" : 448,
         "stars"         : 16,
         "forks"         : 27,
@@ -1421,11 +1421,11 @@
           "name"          : "js-adapter",
           "description"   : "Hadouken Node Adapter",
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
-          "heat"          : 376,
-          "watchers"      : 16,
+          "heat"          : 378,
+          "watchers"      : 17,
           "size"          : 4145,
           "collaborators" : 41,
-          "stars"         : 16,
+          "stars"         : 17,
           "forks"         : 36,
           "openIssues"    : 10,
           "languages"     : {
@@ -1471,11 +1471,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1472,
-        "watchers"      : 120,
+        "heat"          : 1474,
+        "watchers"      : 121,
         "size"          : 10516,
         "collaborators" : 163,
-        "stars"         : 120,
+        "stars"         : 121,
         "forks"         : 116,
         "openIssues"    : 45,
         "languages"     : {
@@ -1582,12 +1582,12 @@
           "name"          : "service-tooling",
           "description"   : "Openfin Service Tooling",
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
-          "heat"          : 195,
+          "heat"          : 200,
           "watchers"      : 0,
           "size"          : 559,
           "collaborators" : 40,
           "stars"         : 0,
-          "forks"         : 7,
+          "forks"         : 8,
           "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 58637,
@@ -1598,12 +1598,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 721,
+        "heat"          : 726,
         "watchers"      : 15,
         "size"          : 6170,
         "collaborators" : 124,
         "stars"         : 15,
-        "forks"         : 39,
+        "forks"         : 40,
         "openIssues"    : 6,
         "languages"     : {
           "TypeScript" : 974928,
@@ -1634,13 +1634,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 262,
           "watchers"      : 7,
-          "size"          : 9355,
+          "size"          : 9505,
           "collaborators" : 42,
           "stars"         : 7,
           "forks"         : 16,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 384781,
+            "TypeScript" : 385860,
             "CSS" : 24084,
             "HTML" : 3509,
             "JavaScript" : 3868
@@ -1650,13 +1650,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 262,
         "watchers"      : 7,
-        "size"          : 9355,
+        "size"          : 9505,
         "collaborators" : 42,
         "stars"         : 7,
         "forks"         : 16,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 384781,
+          "TypeScript" : 385860,
           "CSS" : 24084,
           "HTML" : 3509,
           "JavaScript" : 3868
@@ -4699,15 +4699,15 @@
           "name"          : "SymphonyElectron",
           "description"   : "A desktop client for the Symphony Collaboration Platform built using Electron",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 384,
-          "watchers"      : 38,
-          "size"          : 35986,
+          "heat"          : 386,
+          "watchers"      : 39,
+          "size"          : 35990,
           "collaborators" : 7,
-          "stars"         : 38,
+          "stars"         : 39,
           "forks"         : 56,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 438739,
+            "TypeScript" : 438904,
             "CSS" : 24960,
             "Shell" : 9929,
             "Batchfile" : 3768,
@@ -4815,15 +4815,15 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 661,
-        "watchers"      : 46,
-        "size"          : 45811,
+        "heat"          : 663,
+        "watchers"      : 47,
+        "size"          : 45815,
         "collaborators" : 41,
-        "stars"         : 46,
+        "stars"         : 47,
         "forks"         : 81,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 570666,
+          "TypeScript" : 570831,
           "C#" : 25902,
           "Shell" : 9929,
           "C++" : 35850,
@@ -5063,21 +5063,21 @@
           "gitHubURL"     : "https://github.com/finos/voice-metadata-standard",
           "heat"          : 218,
           "watchers"      : 5,
-          "size"          : 82,
+          "size"          : 86,
           "collaborators" : 42,
           "stars"         : 5,
           "forks"         : 8,
-          "openIssues"    : 9
+          "openIssues"    : 8
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 218,
         "watchers"      : 5,
-        "size"          : 82,
+        "size"          : 86,
         "collaborators" : 42,
         "stars"         : 5,
         "forks"         : 8,
-        "openIssues"    : 9
+        "openIssues"    : 8
       },
       "mailingLists"       : [
         {
