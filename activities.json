@@ -229,13 +229,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5126,
-          "watchers"      : 2078,
-          "size"          : 19946,
+          "heat"          : 5132,
+          "watchers"      : 2081,
+          "size"          : 19965,
           "collaborators" : 45,
-          "stars"         : 2078,
+          "stars"         : 2081,
           "forks"         : 158,
-          "openIssues"    : 26,
+          "openIssues"    : 25,
           "languages"     : {
             "TypeScript" : 46583,
             "Dockerfile" : 24616,
@@ -251,13 +251,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5126,
-        "watchers"      : 2078,
-        "size"          : 19946,
+        "heat"          : 5132,
+        "watchers"      : 2081,
+        "size"          : 19965,
         "collaborators" : 45,
-        "stars"         : 2078,
+        "stars"         : 2081,
         "forks"         : 158,
-        "openIssues"    : 26,
+        "openIssues"    : 25,
         "languages"     : {
           "TypeScript" : 46583,
           "Dockerfile" : 24616,
@@ -848,7 +848,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 187,
           "watchers"      : 3,
-          "size"          : 2704,
+          "size"          : 2708,
           "collaborators" : 39,
           "stars"         : 3,
           "forks"         : 5,
@@ -949,7 +949,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2007,
         "watchers"      : 16,
-        "size"          : 35201,
+        "size"          : 35205,
         "collaborators" : 460,
         "stars"         : 16,
         "forks"         : 27,
@@ -3244,7 +3244,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 100,
           "watchers"      : 10,
-          "size"          : 4380,
+          "size"          : 4689,
           "collaborators" : 5,
           "stars"         : 10,
           "forks"         : 12,
@@ -3257,7 +3257,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 100,
         "watchers"      : 10,
-        "size"          : 4380,
+        "size"          : 4689,
         "collaborators" : 5,
         "stars"         : 10,
         "forks"         : 12,
@@ -4975,28 +4975,28 @@
           "gitHubURL"     : "https://github.com/finos/greenkey-discovery-sdk",
           "heat"          : 185,
           "watchers"      : 5,
-          "size"          : 46105,
+          "size"          : 46116,
           "collaborators" : 40,
           "stars"         : 5,
           "forks"         : 3,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "Shell" : 802,
-            "Python" : 42554
+            "Python" : 44685
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 185,
         "watchers"      : 5,
-        "size"          : 46105,
+        "size"          : 46116,
         "collaborators" : 40,
         "stars"         : 5,
         "forks"         : 3,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
           "Shell" : 802,
-          "Python" : 42554
+          "Python" : 44685
         }
       }
     },
@@ -5067,7 +5067,7 @@
           "collaborators" : 43,
           "stars"         : 21,
           "forks"         : 8,
-          "openIssues"    : 8
+          "openIssues"    : 9
         }
       ],
       "cumulativeGitHubStats" : {
@@ -5077,7 +5077,7 @@
         "collaborators" : 43,
         "stars"         : 21,
         "forks"         : 8,
-        "openIssues"    : 8
+        "openIssues"    : 9
       },
       "mailingLists"       : [
         {
