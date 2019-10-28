@@ -15,32 +15,32 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 306,
           "watchers"      : 30,
-          "size"          : 13468,
+          "size"          : 13445,
           "collaborators" : 39,
           "stars"         : 30,
           "forks"         : 18,
           "openIssues"    : 75,
           "languages"     : {
-            "Java" : 1576165,
+            "Java" : 1578999,
             "Dockerfile" : 581,
             "Shell" : 1945,
-            "Gherkin" : 338678
+            "Gherkin" : 338681
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 306,
         "watchers"      : 30,
-        "size"          : 13468,
+        "size"          : 13445,
         "collaborators" : 39,
         "stars"         : 30,
         "forks"         : 18,
         "openIssues"    : 75,
         "languages"     : {
-          "Java" : 1576165,
+          "Java" : 1578999,
           "Dockerfile" : 581,
           "Shell" : 1945,
-          "Gherkin" : 338678
+          "Gherkin" : 338681
         }
       }
     },
@@ -160,7 +160,7 @@
           "collaborators" : 39,
           "stars"         : 7,
           "forks"         : 5,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "HiveQL" : 54,
             "q" : 19777,
@@ -177,7 +177,7 @@
         "collaborators" : 39,
         "stars"         : 7,
         "forks"         : 5,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "HiveQL" : 54,
           "q" : 19777,
@@ -229,13 +229,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5132,
-          "watchers"      : 2081,
-          "size"          : 19965,
+          "heat"          : 5144,
+          "watchers"      : 2087,
+          "size"          : 19402,
           "collaborators" : 45,
-          "stars"         : 2081,
+          "stars"         : 2087,
           "forks"         : 158,
-          "openIssues"    : 25,
+          "openIssues"    : 27,
           "languages"     : {
             "TypeScript" : 46583,
             "Dockerfile" : 24616,
@@ -251,13 +251,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5132,
-        "watchers"      : 2081,
-        "size"          : 19965,
+        "heat"          : 5144,
+        "watchers"      : 2087,
+        "size"          : 19402,
         "collaborators" : 45,
-        "stars"         : 2081,
+        "stars"         : 2087,
         "forks"         : 158,
-        "openIssues"    : 25,
+        "openIssues"    : 27,
         "languages"     : {
           "TypeScript" : 46583,
           "Dockerfile" : 24616,
@@ -321,11 +321,11 @@
           "name"          : "FDC3",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/fdc3",
-          "heat"          : 357,
-          "watchers"      : 26,
+          "heat"          : 359,
+          "watchers"      : 27,
           "size"          : 2837,
           "collaborators" : 45,
-          "stars"         : 26,
+          "stars"         : 27,
           "forks"         : 25,
           "openIssues"    : 16,
           "languages"     : {
@@ -349,11 +349,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 540,
-        "watchers"      : 29,
+        "heat"          : 542,
+        "watchers"      : 30,
         "size"          : 5051,
         "collaborators" : 88,
-        "stars"         : 29,
+        "stars"         : 30,
         "forks"         : 26,
         "openIssues"    : 18,
         "languages"     : {
@@ -848,7 +848,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 187,
           "watchers"      : 3,
-          "size"          : 2708,
+          "size"          : 2728,
           "collaborators" : 39,
           "stars"         : 3,
           "forks"         : 5,
@@ -949,7 +949,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2007,
         "watchers"      : 16,
-        "size"          : 35205,
+        "size"          : 35225,
         "collaborators" : 460,
         "stars"         : 16,
         "forks"         : 27,
@@ -1441,13 +1441,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 270,
           "watchers"      : 6,
-          "size"          : 1787,
+          "size"          : 1794,
           "collaborators" : 42,
           "stars"         : 6,
           "forks"         : 18,
-          "openIssues"    : 11,
+          "openIssues"    : 8,
           "languages"     : {
-            "TypeScript" : 495667,
+            "TypeScript" : 500776,
             "CSS" : 29619,
             "HTML" : 6432,
             "JavaScript" : 5733
@@ -1473,13 +1473,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1474,
         "watchers"      : 121,
-        "size"          : 10528,
+        "size"          : 10535,
         "collaborators" : 163,
         "stars"         : 121,
         "forks"         : 116,
-        "openIssues"    : 47,
+        "openIssues"    : 44,
         "languages"     : {
-          "TypeScript" : 1576289,
+          "TypeScript" : 1581398,
           "HTML" : 24524,
           "CSS" : 29619,
           "JavaScript" : 366446,
@@ -1721,7 +1721,7 @@
           "collaborators" : 12,
           "stars"         : 246,
           "forks"         : 45,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 1176424,
             "C#" : 1758955,
@@ -1757,7 +1757,7 @@
         "collaborators" : 21,
         "stars"         : 247,
         "forks"         : 52,
-        "openIssues"    : 5,
+        "openIssues"    : 6,
         "languages"     : {
           "TypeScript" : 1198023,
           "C#" : 1758955,
@@ -1989,12 +1989,12 @@
           "name"          : "bot-sym-browser",
           "description"   : "This bot allows you to browse the Internet and certain “Contexts”, while making it look like you’re doing work.",
           "gitHubURL"     : "https://github.com/symphonyoss/bot-sym-browser",
-          "heat"          : 34,
+          "heat"          : 39,
           "watchers"      : 0,
           "size"          : 36,
           "collaborators" : 6,
           "stars"         : 0,
-          "forks"         : 2,
+          "forks"         : 3,
           "openIssues"    : 1,
           "languages"     : {
             "Java" : 94237
@@ -2002,12 +2002,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 34,
+        "heat"          : 39,
         "watchers"      : 0,
         "size"          : 36,
         "collaborators" : 6,
         "stars"         : 0,
-        "forks"         : 2,
+        "forks"         : 3,
         "openIssues"    : 1,
         "languages"     : {
           "Java" : 94237
@@ -3244,7 +3244,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 100,
           "watchers"      : 10,
-          "size"          : 4689,
+          "size"          : 4842,
           "collaborators" : 5,
           "stars"         : 10,
           "forks"         : 12,
@@ -3257,7 +3257,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 100,
         "watchers"      : 10,
-        "size"          : 4689,
+        "size"          : 4842,
         "collaborators" : 5,
         "stars"         : 10,
         "forks"         : 12,
@@ -4701,7 +4701,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 386,
           "watchers"      : 39,
-          "size"          : 36006,
+          "size"          : 36007,
           "collaborators" : 7,
           "stars"         : 39,
           "forks"         : 56,
@@ -4817,7 +4817,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 663,
         "watchers"      : 47,
-        "size"          : 45831,
+        "size"          : 45832,
         "collaborators" : 41,
         "stars"         : 47,
         "forks"         : 81,
