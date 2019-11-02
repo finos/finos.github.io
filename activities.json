@@ -229,12 +229,12 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5166,
-          "watchers"      : 2093,
-          "size"          : 19705,
+          "heat"          : 5160,
+          "watchers"      : 2095,
+          "size"          : 22667,
           "collaborators" : 45,
-          "stars"         : 2093,
-          "forks"         : 160,
+          "stars"         : 2095,
+          "forks"         : 158,
           "openIssues"    : 27,
           "languages"     : {
             "TypeScript" : 47455,
@@ -251,12 +251,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5166,
-        "watchers"      : 2093,
-        "size"          : 19705,
+        "heat"          : 5160,
+        "watchers"      : 2095,
+        "size"          : 22667,
         "collaborators" : 45,
-        "stars"         : 2093,
-        "forks"         : 160,
+        "stars"         : 2095,
+        "forks"         : 158,
         "openIssues"    : 27,
         "languages"     : {
           "TypeScript" : 47455,
@@ -848,7 +848,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 187,
           "watchers"      : 3,
-          "size"          : 2779,
+          "size"          : 2783,
           "collaborators" : 39,
           "stars"         : 3,
           "forks"         : 5,
@@ -949,7 +949,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2007,
         "watchers"      : 16,
-        "size"          : 35276,
+        "size"          : 35280,
         "collaborators" : 460,
         "stars"         : 16,
         "forks"         : 27,
@@ -1132,22 +1132,22 @@
           "name"          : "odp-test",
           "description"   : "Testing accessibility to FINOS Infrastructure",
           "gitHubURL"     : "https://github.com/finos/odp-test",
-          "heat"          : 167,
+          "heat"          : 172,
           "watchers"      : 0,
           "size"          : 9,
           "collaborators" : 38,
           "stars"         : 0,
-          "forks"         : 3,
+          "forks"         : 4,
           "openIssues"    : 6
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 167,
+        "heat"          : 172,
         "watchers"      : 0,
         "size"          : 9,
         "collaborators" : 38,
         "stars"         : 0,
-        "forks"         : 3,
+        "forks"         : 4,
         "openIssues"    : 6
       },
       "mailingLists"       : [
@@ -1319,11 +1319,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
           "heat"          : 314,
           "watchers"      : 17,
-          "size"          : 338,
+          "size"          : 354,
           "collaborators" : 40,
           "stars"         : 17,
           "forks"         : 24,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "CSS" : 704,
             "HTML" : 703,
@@ -1334,11 +1334,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 314,
         "watchers"      : 17,
-        "size"          : 338,
+        "size"          : 354,
         "collaborators" : 40,
         "stars"         : 17,
         "forks"         : 24,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "CSS" : 704,
           "HTML" : 703,
@@ -1404,13 +1404,13 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 656,
-          "watchers"      : 98,
-          "size"          : 4546,
+          "heat"          : 658,
+          "watchers"      : 99,
+          "size"          : 4615,
           "collaborators" : 40,
-          "stars"         : 98,
+          "stars"         : 99,
           "forks"         : 60,
-          "openIssues"    : 23,
+          "openIssues"    : 24,
           "languages"     : {
             "TypeScript" : 629860,
             "HTML" : 15171,
@@ -1471,13 +1471,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1483,
-        "watchers"      : 123,
-        "size"          : 10535,
+        "heat"          : 1485,
+        "watchers"      : 124,
+        "size"          : 10604,
         "collaborators" : 163,
-        "stars"         : 123,
+        "stars"         : 124,
         "forks"         : 117,
-        "openIssues"    : 48,
+        "openIssues"    : 49,
         "languages"     : {
           "TypeScript" : 1581398,
           "HTML" : 24524,
@@ -1740,11 +1740,11 @@
           "gitHubURL"     : "https://github.com/finos-plexus/finos-plexus.github.io",
           "heat"          : 69,
           "watchers"      : 1,
-          "size"          : 905,
+          "size"          : 967,
           "collaborators" : 8,
           "stars"         : 1,
           "forks"         : 7,
-          "openIssues"    : 5,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 21599
           }
@@ -1753,11 +1753,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 830,
         "watchers"      : 247,
-        "size"          : 7880,
+        "size"          : 7942,
         "collaborators" : 19,
         "stars"         : 247,
         "forks"         : 52,
-        "openIssues"    : 5,
+        "openIssues"    : 6,
         "languages"     : {
           "TypeScript" : 1201532,
           "C#" : 1758955,
@@ -3244,11 +3244,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 100,
           "watchers"      : 10,
-          "size"          : 5299,
+          "size"          : 5763,
           "collaborators" : 5,
           "stars"         : 10,
           "forks"         : 12,
-          "openIssues"    : 21,
+          "openIssues"    : 22,
           "languages"     : {
             "JavaScript" : 82020
           }
@@ -3257,11 +3257,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 100,
         "watchers"      : 10,
-        "size"          : 5299,
+        "size"          : 5763,
         "collaborators" : 5,
         "stars"         : 10,
         "forks"         : 12,
-        "openIssues"    : 21,
+        "openIssues"    : 22,
         "languages"     : {
           "JavaScript" : 82020
         }
