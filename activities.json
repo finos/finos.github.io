@@ -15,32 +15,32 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 314,
           "watchers"      : 30,
-          "size"          : 13650,
+          "size"          : 13836,
           "collaborators" : 41,
           "stars"         : 30,
           "forks"         : 18,
-          "openIssues"    : 74,
+          "openIssues"    : 67,
           "languages"     : {
-            "Java" : 1588678,
+            "Java" : 1600120,
             "Dockerfile" : 581,
             "Shell" : 1945,
-            "Gherkin" : 341442
+            "Gherkin" : 347528
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 314,
         "watchers"      : 30,
-        "size"          : 13650,
+        "size"          : 13836,
         "collaborators" : 41,
         "stars"         : 30,
         "forks"         : 18,
-        "openIssues"    : 74,
+        "openIssues"    : 67,
         "languages"     : {
-          "Java" : 1588678,
+          "Java" : 1600120,
           "Dockerfile" : 581,
           "Shell" : 1945,
-          "Gherkin" : 341442
+          "Gherkin" : 347528
         }
       }
     },
@@ -229,13 +229,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5175,
-          "watchers"      : 2096,
-          "size"          : 46331,
+          "heat"          : 5184,
+          "watchers"      : 2098,
+          "size"          : 46370,
           "collaborators" : 47,
-          "stars"         : 2096,
-          "forks"         : 159,
-          "openIssues"    : 26,
+          "stars"         : 2098,
+          "forks"         : 160,
+          "openIssues"    : 27,
           "languages"     : {
             "TypeScript" : 47861,
             "Dockerfile" : 27562,
@@ -251,13 +251,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5175,
-        "watchers"      : 2096,
-        "size"          : 46331,
+        "heat"          : 5184,
+        "watchers"      : 2098,
+        "size"          : 46370,
         "collaborators" : 47,
-        "stars"         : 2096,
-        "forks"         : 159,
-        "openIssues"    : 26,
+        "stars"         : 2098,
+        "forks"         : 160,
+        "openIssues"    : 27,
         "languages"     : {
           "TypeScript" : 47861,
           "Dockerfile" : 27562,
@@ -738,13 +738,13 @@
           "name"          : "cla-bot",
           "description"   : "cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).",
           "gitHubURL"     : "https://github.com/finos/cla-bot",
-          "heat"          : 277,
+          "heat"          : 282,
           "watchers"      : 31,
           "size"          : 1042,
           "collaborators" : 40,
           "stars"         : 31,
-          "forks"         : 11,
-          "openIssues"    : 16,
+          "forks"         : 12,
+          "openIssues"    : 17,
           "languages"     : {
             "Shell" : 155,
             "JavaScript" : 49861
@@ -752,13 +752,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 277,
+        "heat"          : 282,
         "watchers"      : 31,
         "size"          : 1042,
         "collaborators" : 40,
         "stars"         : 31,
-        "forks"         : 11,
-        "openIssues"    : 16,
+        "forks"         : 12,
+        "openIssues"    : 17,
         "languages"     : {
           "Shell" : 155,
           "JavaScript" : 49861
@@ -807,11 +807,11 @@
           "name"          : "certificate-toolbox",
           "description"   : "A collection of command-line tools to generate PKI Signing Certificates and X.509 Identity Certificates",
           "gitHubURL"     : "https://github.com/finos/certificate-toolbox",
-          "heat"          : 169,
-          "watchers"      : 2,
+          "heat"          : 171,
+          "watchers"      : 3,
           "size"          : 14,
           "collaborators" : 40,
-          "stars"         : 2,
+          "stars"         : 3,
           "forks"         : 1,
           "openIssues"    : 2,
           "languages"     : {
@@ -848,7 +848,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 197,
           "watchers"      : 4,
-          "size"          : 2298,
+          "size"          : 2302,
           "collaborators" : 41,
           "stars"         : 4,
           "forks"         : 5,
@@ -947,11 +947,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 2110,
-        "watchers"      : 17,
-        "size"          : 34804,
+        "heat"          : 2112,
+        "watchers"      : 18,
+        "size"          : 34808,
         "collaborators" : 484,
-        "stars"         : 17,
+        "stars"         : 18,
         "forks"         : 28,
         "openIssues"    : 27,
         "languages"     : {
@@ -1077,23 +1077,23 @@
           "name"          : "cloud-service-certification",
           "description"   : "Cloud Service Certification Project",
           "gitHubURL"     : "https://github.com/finos/cloud-service-certification",
-          "heat"          : 211,
+          "heat"          : 216,
           "watchers"      : 5,
           "size"          : 1207,
           "collaborators" : 44,
           "stars"         : 5,
-          "forks"         : 5,
-          "openIssues"    : 1
+          "forks"         : 6,
+          "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 211,
+        "heat"          : 216,
         "watchers"      : 5,
         "size"          : 1207,
         "collaborators" : 44,
         "stars"         : 5,
-        "forks"         : 5,
-        "openIssues"    : 1
+        "forks"         : 6,
+        "openIssues"    : 2
       },
       "mailingLists"       : [
         {
@@ -1441,13 +1441,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 270,
           "watchers"      : 6,
-          "size"          : 1907,
+          "size"          : 2009,
           "collaborators" : 42,
           "stars"         : 6,
           "forks"         : 18,
           "openIssues"    : 8,
           "languages"     : {
-            "TypeScript" : 532283,
+            "TypeScript" : 548308,
             "CSS" : 29619,
             "HTML" : 6432,
             "JavaScript" : 5733
@@ -1473,13 +1473,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1485,
         "watchers"      : 124,
-        "size"          : 10717,
+        "size"          : 10819,
         "collaborators" : 163,
         "stars"         : 124,
         "forks"         : 117,
         "openIssues"    : 36,
         "languages"     : {
-          "TypeScript" : 1612905,
+          "TypeScript" : 1628930,
           "HTML" : 24524,
           "CSS" : 29619,
           "JavaScript" : 366446,
@@ -4710,14 +4710,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 396,
           "watchers"      : 40,
-          "size"          : 36040,
+          "size"          : 36057,
           "collaborators" : 9,
           "stars"         : 40,
           "forks"         : 56,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 439003,
-            "CSS" : 24743,
+            "TypeScript" : 442137,
+            "CSS" : 24727,
             "Shell" : 9929,
             "Batchfile" : 3768,
             "JavaScript" : 2541,
@@ -4826,17 +4826,17 @@
       "cumulativeGitHubStats" : {
         "heat"          : 721,
         "watchers"      : 48,
-        "size"          : 45865,
+        "size"          : 45882,
         "collaborators" : 55,
         "stars"         : 48,
         "forks"         : 81,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 570930,
+          "TypeScript" : 574064,
           "C#" : 25902,
           "Shell" : 9929,
           "C++" : 35850,
-          "CSS" : 24743,
+          "CSS" : 24727,
           "C" : 1364,
           "Batchfile" : 3768,
           "JavaScript" : 128485,
@@ -4984,28 +4984,28 @@
           "gitHubURL"     : "https://github.com/finos/greenkey-discovery-sdk",
           "heat"          : 193,
           "watchers"      : 5,
-          "size"          : 46133,
+          "size"          : 46160,
           "collaborators" : 42,
           "stars"         : 5,
           "forks"         : 3,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Shell" : 893,
-            "Python" : 47563
+            "Python" : 51783
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 193,
         "watchers"      : 5,
-        "size"          : 46133,
+        "size"          : 46160,
         "collaborators" : 42,
         "stars"         : 5,
         "forks"         : 3,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "Shell" : 893,
-          "Python" : 47563
+          "Python" : 51783
         }
       }
     },
