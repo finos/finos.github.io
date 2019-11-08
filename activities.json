@@ -15,32 +15,32 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 314,
           "watchers"      : 30,
-          "size"          : 13836,
+          "size"          : 13917,
           "collaborators" : 41,
           "stars"         : 30,
           "forks"         : 18,
-          "openIssues"    : 67,
+          "openIssues"    : 59,
           "languages"     : {
-            "Java" : 1600120,
+            "Java" : 1564032,
             "Dockerfile" : 581,
-            "Shell" : 1945,
-            "Gherkin" : 347528
+            "Shell" : 2497,
+            "Gherkin" : 349174
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 314,
         "watchers"      : 30,
-        "size"          : 13836,
+        "size"          : 13917,
         "collaborators" : 41,
         "stars"         : 30,
         "forks"         : 18,
-        "openIssues"    : 67,
+        "openIssues"    : 59,
         "languages"     : {
-          "Java" : 1600120,
+          "Java" : 1564032,
           "Dockerfile" : 581,
-          "Shell" : 1945,
-          "Gherkin" : 347528
+          "Shell" : 2497,
+          "Gherkin" : 349174
         }
       }
     },
@@ -59,7 +59,7 @@
           "gitHubURL"     : "https://github.com/finos/exodus",
           "heat"          : 182,
           "watchers"      : 4,
-          "size"          : 9603,
+          "size"          : 9614,
           "collaborators" : 41,
           "stars"         : 4,
           "forks"         : 2,
@@ -78,7 +78,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 182,
         "watchers"      : 4,
-        "size"          : 9603,
+        "size"          : 9614,
         "collaborators" : 41,
         "stars"         : 4,
         "forks"         : 2,
@@ -229,13 +229,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5184,
-          "watchers"      : 2098,
-          "size"          : 46370,
+          "heat"          : 5186,
+          "watchers"      : 2099,
+          "size"          : 46398,
           "collaborators" : 47,
-          "stars"         : 2098,
+          "stars"         : 2099,
           "forks"         : 160,
-          "openIssues"    : 27,
+          "openIssues"    : 30,
           "languages"     : {
             "TypeScript" : 47861,
             "Dockerfile" : 27562,
@@ -251,13 +251,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5184,
-        "watchers"      : 2098,
-        "size"          : 46370,
+        "heat"          : 5186,
+        "watchers"      : 2099,
+        "size"          : 46398,
         "collaborators" : 47,
-        "stars"         : 2098,
+        "stars"         : 2099,
         "forks"         : 160,
-        "openIssues"    : 27,
+        "openIssues"    : 30,
         "languages"     : {
           "TypeScript" : 47861,
           "Dockerfile" : 27562,
@@ -836,11 +836,11 @@
           "gitHubURL"     : "https://github.com/finos/clabot-test-prod",
           "heat"          : 160,
           "watchers"      : 0,
-          "size"          : 5,
+          "size"          : 6,
           "collaborators" : 40,
           "stars"         : 0,
           "forks"         : 0,
-          "openIssues"    : 2
+          "openIssues"    : 5
         },
         {
           "name"          : "finos.github.io",
@@ -848,7 +848,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 197,
           "watchers"      : 4,
-          "size"          : 2302,
+          "size"          : 2323,
           "collaborators" : 41,
           "stars"         : 4,
           "forks"         : 5,
@@ -949,11 +949,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2112,
         "watchers"      : 18,
-        "size"          : 34808,
+        "size"          : 34830,
         "collaborators" : 484,
         "stars"         : 18,
         "forks"         : 28,
-        "openIssues"    : 27,
+        "openIssues"    : 30,
         "languages"     : {
           "Java" : 12202,
           "Shell" : 28084,
@@ -1225,13 +1225,13 @@
           "gitHubURL"     : "https://github.com/finos/finos-fo",
           "heat"          : 193,
           "watchers"      : 2,
-          "size"          : 1597,
+          "size"          : 1606,
           "collaborators" : 41,
           "stars"         : 2,
           "forks"         : 5,
           "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 7075,
+            "TypeScript" : 6803,
             "CSS" : 3722,
             "Shell" : 2410,
             "JavaScript" : 21933
@@ -1241,13 +1241,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 193,
         "watchers"      : 2,
-        "size"          : 1597,
+        "size"          : 1606,
         "collaborators" : 41,
         "stars"         : 2,
         "forks"         : 5,
         "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 7075,
+          "TypeScript" : 6803,
           "CSS" : 3722,
           "Shell" : 2410,
           "JavaScript" : 21933
@@ -1441,11 +1441,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 270,
           "watchers"      : 6,
-          "size"          : 2009,
+          "size"          : 2010,
           "collaborators" : 42,
           "stars"         : 6,
           "forks"         : 18,
-          "openIssues"    : 8,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 548308,
             "CSS" : 29619,
@@ -1473,11 +1473,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1485,
         "watchers"      : 124,
-        "size"          : 10819,
+        "size"          : 10820,
         "collaborators" : 163,
         "stars"         : 124,
         "forks"         : 117,
-        "openIssues"    : 36,
+        "openIssues"    : 35,
         "languages"     : {
           "TypeScript" : 1628930,
           "HTML" : 24524,
@@ -1638,7 +1638,7 @@
           "collaborators" : 42,
           "stars"         : 7,
           "forks"         : 16,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 385860,
             "CSS" : 24084,
@@ -1654,7 +1654,7 @@
         "collaborators" : 42,
         "stars"         : 7,
         "forks"         : 16,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "TypeScript" : 385860,
           "CSS" : 24084,
@@ -1724,11 +1724,11 @@
           "name"          : "plexus-interop",
           "description"   : "Plexus Interop open source project hosted by the Fintech Open Source Foundation",
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
-          "heat"          : 759,
-          "watchers"      : 245,
+          "heat"          : 757,
+          "watchers"      : 244,
           "size"          : 6975,
           "collaborators" : 11,
-          "stars"         : 245,
+          "stars"         : 244,
           "forks"         : 45,
           "openIssues"    : 0,
           "languages"     : {
@@ -1760,11 +1760,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 828,
-        "watchers"      : 246,
+        "heat"          : 826,
+        "watchers"      : 245,
         "size"          : 7942,
         "collaborators" : 19,
-        "stars"         : 246,
+        "stars"         : 245,
         "forks"         : 52,
         "openIssues"    : 6,
         "languages"     : {
@@ -4708,12 +4708,12 @@
           "name"          : "SymphonyElectron",
           "description"   : "A desktop client for the Symphony Collaboration Platform built using Electron",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 396,
+          "heat"          : 401,
           "watchers"      : 40,
           "size"          : 36057,
           "collaborators" : 9,
           "stars"         : 40,
-          "forks"         : 56,
+          "forks"         : 57,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 442137,
@@ -4824,12 +4824,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 721,
+        "heat"          : 726,
         "watchers"      : 48,
         "size"          : 45882,
         "collaborators" : 55,
         "stars"         : 48,
-        "forks"         : 81,
+        "forks"         : 82,
         "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 574064,
@@ -4984,28 +4984,28 @@
           "gitHubURL"     : "https://github.com/finos/greenkey-discovery-sdk",
           "heat"          : 193,
           "watchers"      : 5,
-          "size"          : 46160,
+          "size"          : 46167,
           "collaborators" : 42,
           "stars"         : 5,
           "forks"         : 3,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
             "Shell" : 893,
-            "Python" : 51783
+            "Python" : 52059
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 193,
         "watchers"      : 5,
-        "size"          : 46160,
+        "size"          : 46167,
         "collaborators" : 42,
         "stars"         : 5,
         "forks"         : 3,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
           "Shell" : 893,
-          "Python" : 51783
+          "Python" : 52059
         }
       }
     },
