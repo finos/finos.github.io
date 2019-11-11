@@ -15,32 +15,32 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 314,
           "watchers"      : 30,
-          "size"          : 13917,
+          "size"          : 13925,
           "collaborators" : 41,
           "stars"         : 30,
           "forks"         : 18,
           "openIssues"    : 59,
           "languages"     : {
-            "Java" : 1564032,
+            "Java" : 1569365,
             "Dockerfile" : 581,
             "Shell" : 2497,
-            "Gherkin" : 349174
+            "Gherkin" : 349182
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 314,
         "watchers"      : 30,
-        "size"          : 13917,
+        "size"          : 13925,
         "collaborators" : 41,
         "stars"         : 30,
         "forks"         : 18,
         "openIssues"    : 59,
         "languages"     : {
-          "Java" : 1564032,
+          "Java" : 1569365,
           "Dockerfile" : 581,
           "Shell" : 2497,
-          "Gherkin" : 349174
+          "Gherkin" : 349182
         }
       }
     },
@@ -231,44 +231,44 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 5186,
           "watchers"      : 2099,
-          "size"          : 46405,
+          "size"          : 46393,
           "collaborators" : 47,
           "stars"         : 2099,
           "forks"         : 160,
-          "openIssues"    : 33,
+          "openIssues"    : 26,
           "languages"     : {
-            "TypeScript" : 47861,
+            "TypeScript" : 48480,
             "Dockerfile" : 27562,
-            "C++" : 1150948,
+            "C++" : 1151956,
             "CSS" : 89205,
             "C" : 4588,
             "CMake" : 46025,
             "Makefile" : 1602,
-            "JavaScript" : 1067092,
+            "JavaScript" : 1068484,
             "HTML" : 33556,
-            "Python" : 305479
+            "Python" : 317487
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 5186,
         "watchers"      : 2099,
-        "size"          : 46405,
+        "size"          : 46393,
         "collaborators" : 47,
         "stars"         : 2099,
         "forks"         : 160,
-        "openIssues"    : 33,
+        "openIssues"    : 26,
         "languages"     : {
-          "TypeScript" : 47861,
+          "TypeScript" : 48480,
           "Dockerfile" : 27562,
-          "C++" : 1150948,
+          "C++" : 1151956,
           "CSS" : 89205,
           "C" : 4588,
           "CMake" : 46025,
           "Makefile" : 1602,
-          "JavaScript" : 1067092,
+          "JavaScript" : 1068484,
           "HTML" : 33556,
-          "Python" : 305479
+          "Python" : 317487
         }
       }
     },
@@ -740,28 +740,28 @@
           "gitHubURL"     : "https://github.com/finos/cla-bot",
           "heat"          : 282,
           "watchers"      : 31,
-          "size"          : 1042,
+          "size"          : 1035,
           "collaborators" : 40,
           "stars"         : 31,
           "forks"         : 12,
-          "openIssues"    : 17,
+          "openIssues"    : 18,
           "languages"     : {
             "Shell" : 155,
-            "JavaScript" : 49861
+            "JavaScript" : 49877
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 282,
         "watchers"      : 31,
-        "size"          : 1042,
+        "size"          : 1035,
         "collaborators" : 40,
         "stars"         : 31,
         "forks"         : 12,
-        "openIssues"    : 17,
+        "openIssues"    : 18,
         "languages"     : {
           "Shell" : 155,
-          "JavaScript" : 49861
+          "JavaScript" : 49877
         }
       }
     },
@@ -848,7 +848,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 197,
           "watchers"      : 4,
-          "size"          : 2327,
+          "size"          : 2347,
           "collaborators" : 41,
           "stars"         : 4,
           "forks"         : 5,
@@ -949,7 +949,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2112,
         "watchers"      : 18,
-        "size"          : 34834,
+        "size"          : 34854,
         "collaborators" : 484,
         "stars"         : 18,
         "forks"         : 28,
@@ -1166,6 +1166,29 @@
       "state"                : "RELEASED",
       "contributionDate"     : "2018-04-24",
       "releaseDate"          : "2019-10-11",
+      "gitHubRepos"          : [
+        {
+          "name"          : "osr-checklists",
+          "description"   : "Checklists for key components and processes of open source programs",
+          "gitHubURL"     : "https://github.com/finos/osr-checklists",
+          "heat"          : 164,
+          "watchers"      : 0,
+          "size"          : 26,
+          "collaborators" : 41,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 1
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 164,
+        "watchers"      : 0,
+        "size"          : 26,
+        "collaborators" : 41,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 1
+      },
       "mailingLists"       : [
         {
           "emailAddress"  : "osr@finos.org",
@@ -4714,9 +4737,9 @@
           "collaborators" : 9,
           "stars"         : 40,
           "forks"         : 57,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 442137,
+            "TypeScript" : 442447,
             "CSS" : 24727,
             "Shell" : 9929,
             "Batchfile" : 3768,
@@ -4830,9 +4853,9 @@
         "collaborators" : 55,
         "stars"         : 48,
         "forks"         : 82,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 574064,
+          "TypeScript" : 574374,
           "C#" : 25902,
           "Shell" : 9929,
           "C++" : 35850,
