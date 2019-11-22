@@ -15,7 +15,7 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 316,
           "watchers"      : 31,
-          "size"          : 14733,
+          "size"          : 14511,
           "collaborators" : 41,
           "stars"         : 31,
           "forks"         : 18,
@@ -31,7 +31,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 316,
         "watchers"      : 31,
-        "size"          : 14733,
+        "size"          : 14511,
         "collaborators" : 41,
         "stars"         : 31,
         "forks"         : 18,
@@ -229,11 +229,11 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5218,
-          "watchers"      : 2110,
-          "size"          : 46684,
+          "heat"          : 5220,
+          "watchers"      : 2111,
+          "size"          : 46685,
           "collaborators" : 47,
-          "stars"         : 2110,
+          "stars"         : 2111,
           "forks"         : 162,
           "openIssues"    : 31,
           "languages"     : {
@@ -251,11 +251,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5218,
-        "watchers"      : 2110,
-        "size"          : 46684,
+        "heat"          : 5220,
+        "watchers"      : 2111,
+        "size"          : 46685,
         "collaborators" : 47,
-        "stars"         : 2110,
+        "stars"         : 2111,
         "forks"         : 162,
         "openIssues"    : 31,
         "languages"     : {
@@ -321,10 +321,10 @@
           "name"          : "FDC3",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/fdc3",
-          "heat"          : 371,
+          "heat"          : 375,
           "watchers"      : 27,
           "size"          : 2837,
-          "collaborators" : 48,
+          "collaborators" : 49,
           "stars"         : 27,
           "forks"         : 25,
           "openIssues"    : 19,
@@ -349,10 +349,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 566,
+        "heat"          : 570,
         "watchers"      : 30,
         "size"          : 5051,
-        "collaborators" : 94,
+        "collaborators" : 95,
         "stars"         : 30,
         "forks"         : 26,
         "openIssues"    : 21,
@@ -740,7 +740,7 @@
           "gitHubURL"     : "https://github.com/finos/cla-bot",
           "heat"          : 282,
           "watchers"      : 31,
-          "size"          : 1048,
+          "size"          : 1050,
           "collaborators" : 40,
           "stars"         : 31,
           "forks"         : 12,
@@ -754,7 +754,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 282,
         "watchers"      : 31,
-        "size"          : 1048,
+        "size"          : 1050,
         "collaborators" : 40,
         "stars"         : 31,
         "forks"         : 12,
@@ -848,7 +848,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 197,
           "watchers"      : 4,
-          "size"          : 2448,
+          "size"          : 2453,
           "collaborators" : 41,
           "stars"         : 4,
           "forks"         : 5,
@@ -949,7 +949,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2112,
         "watchers"      : 18,
-        "size"          : 34950,
+        "size"          : 34955,
         "collaborators" : 484,
         "stars"         : 18,
         "forks"         : 28,
@@ -1077,22 +1077,22 @@
           "name"          : "cloud-service-certification",
           "description"   : "Cloud Service Certification Project",
           "gitHubURL"     : "https://github.com/finos/cloud-service-certification",
-          "heat"          : 218,
+          "heat"          : 223,
           "watchers"      : 6,
           "size"          : 1290,
           "collaborators" : 44,
           "stars"         : 6,
-          "forks"         : 6,
+          "forks"         : 7,
           "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 218,
+        "heat"          : 223,
         "watchers"      : 6,
         "size"          : 1290,
         "collaborators" : 44,
         "stars"         : 6,
-        "forks"         : 6,
+        "forks"         : 7,
         "openIssues"    : 2
       },
       "mailingLists"       : [
@@ -1464,15 +1464,15 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 271,
           "watchers"      : 6,
-          "size"          : 2009,
+          "size"          : 2163,
           "collaborators" : 41,
           "stars"         : 6,
           "forks"         : 19,
-          "openIssues"    : 9,
+          "openIssues"    : 7,
           "languages"     : {
-            "TypeScript" : 581401,
+            "TypeScript" : 576207,
             "CSS" : 29619,
-            "HTML" : 6432,
+            "HTML" : 6427,
             "JavaScript" : 5926
           }
         },
@@ -1496,14 +1496,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1474,
         "watchers"      : 124,
-        "size"          : 10819,
+        "size"          : 10973,
         "collaborators" : 159,
         "stars"         : 124,
         "forks"         : 118,
-        "openIssues"    : 37,
+        "openIssues"    : 35,
         "languages"     : {
-          "TypeScript" : 1662023,
-          "HTML" : 24524,
+          "TypeScript" : 1656829,
+          "HTML" : 24519,
           "CSS" : 29619,
           "JavaScript" : 366639,
           "Python" : 2150
@@ -1657,13 +1657,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 258,
           "watchers"      : 7,
-          "size"          : 9773,
+          "size"          : 9775,
           "collaborators" : 41,
           "stars"         : 7,
           "forks"         : 16,
-          "openIssues"    : 5,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 390369,
+            "TypeScript" : 387623,
             "CSS" : 24084,
             "HTML" : 3509,
             "JavaScript" : 3896
@@ -1673,13 +1673,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 258,
         "watchers"      : 7,
-        "size"          : 9773,
+        "size"          : 9775,
         "collaborators" : 41,
         "stars"         : 7,
         "forks"         : 16,
-        "openIssues"    : 5,
+        "openIssues"    : 4,
         "languages"     : {
-          "TypeScript" : 390369,
+          "TypeScript" : 387623,
           "CSS" : 24084,
           "HTML" : 3509,
           "JavaScript" : 3896
@@ -1772,11 +1772,11 @@
           "gitHubURL"     : "https://github.com/finos-plexus/finos-plexus.github.io",
           "heat"          : 69,
           "watchers"      : 1,
-          "size"          : 1024,
+          "size"          : 1204,
           "collaborators" : 8,
           "stars"         : 1,
           "forks"         : 7,
-          "openIssues"    : 7,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 21599
           }
@@ -1785,11 +1785,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 826,
         "watchers"      : 245,
-        "size"          : 8131,
+        "size"          : 8311,
         "collaborators" : 19,
         "stars"         : 245,
         "forks"         : 52,
-        "openIssues"    : 7,
+        "openIssues"    : 6,
         "languages"     : {
           "TypeScript" : 1201532,
           "C#" : 1758955,
@@ -3152,23 +3152,23 @@
           "name"          : "symphony-api-spec",
           "description"   : "Swagger definitions for Symphony LLC public REST API ",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
-          "heat"          : 157,
+          "heat"          : 166,
           "watchers"      : 8,
           "size"          : 265,
-          "collaborators" : 9,
+          "collaborators" : 10,
           "stars"         : 8,
-          "forks"         : 21,
-          "openIssues"    : 2
+          "forks"         : 22,
+          "openIssues"    : 3
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 157,
+        "heat"          : 166,
         "watchers"      : 8,
         "size"          : 265,
-        "collaborators" : 9,
+        "collaborators" : 10,
         "stars"         : 8,
-        "forks"         : 21,
-        "openIssues"    : 2
+        "forks"         : 22,
+        "openIssues"    : 3
       }
     },
     {
@@ -3274,11 +3274,11 @@
           "name"          : "hubot-symphony",
           "description"   : "Hubot adapter for Symphony",
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
-          "heat"          : 99,
-          "watchers"      : 10,
-          "size"          : 2188,
+          "heat"          : 97,
+          "watchers"      : 9,
+          "size"          : 2342,
           "collaborators" : 6,
-          "stars"         : 10,
+          "stars"         : 9,
           "forks"         : 11,
           "openIssues"    : 23,
           "languages"     : {
@@ -3287,11 +3287,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 99,
-        "watchers"      : 10,
-        "size"          : 2188,
+        "heat"          : 97,
+        "watchers"      : 9,
+        "size"          : 2342,
         "collaborators" : 6,
-        "stars"         : 10,
+        "stars"         : 9,
         "forks"         : 11,
         "openIssues"    : 23,
         "languages"     : {
@@ -3616,11 +3616,11 @@
           "name"          : "extension-api-examples",
           "description"   : "Examples on how to use the extension API",
           "gitHubURL"     : "https://github.com/symphonyoss/extension-api-examples",
-          "heat"          : 194,
-          "watchers"      : 13,
+          "heat"          : 196,
+          "watchers"      : 14,
           "size"          : 1056,
           "collaborators" : 7,
-          "stars"         : 13,
+          "stars"         : 14,
           "forks"         : 28,
           "openIssues"    : 15,
           "languages"     : {
@@ -3643,11 +3643,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 440,
-        "watchers"      : 26,
+        "heat"          : 442,
+        "watchers"      : 27,
         "size"          : 3900,
         "collaborators" : 37,
-        "stars"         : 26,
+        "stars"         : 27,
         "forks"         : 48,
         "openIssues"    : 38,
         "languages"     : {
@@ -3719,13 +3719,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 55,
           "watchers"      : 1,
-          "size"          : 2051,
+          "size"          : 2072,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 5,
           "openIssues"    : 3,
           "languages"     : {
-            "Java" : 1091264,
+            "Java" : 1098854,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3765,13 +3765,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 137,
         "watchers"      : 1,
-        "size"          : 2285,
+        "size"          : 2306,
         "collaborators" : 20,
         "stars"         : 1,
         "forks"         : 11,
         "openIssues"    : 8,
         "languages"     : {
-          "Java" : 1114502,
+          "Java" : 1122092,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -4731,15 +4731,15 @@
           "name"          : "SymphonyElectron",
           "description"   : "A desktop client for the Symphony Collaboration Platform built using Electron",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 415,
+          "heat"          : 420,
           "watchers"      : 40,
-          "size"          : 36053,
+          "size"          : 36059,
           "collaborators" : 10,
           "stars"         : 40,
-          "forks"         : 59,
-          "openIssues"    : 2,
+          "forks"         : 60,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 445809,
+            "TypeScript" : 445843,
             "CSS" : 24899,
             "Shell" : 9929,
             "Batchfile" : 3768,
@@ -4847,15 +4847,15 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 764,
+        "heat"          : 769,
         "watchers"      : 48,
-        "size"          : 45879,
+        "size"          : 45885,
         "collaborators" : 62,
         "stars"         : 48,
-        "forks"         : 84,
-        "openIssues"    : 3,
+        "forks"         : 85,
+        "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 577736,
+          "TypeScript" : 577770,
           "C#" : 25902,
           "Shell" : 9929,
           "C++" : 35850,
@@ -5007,28 +5007,28 @@
           "gitHubURL"     : "https://github.com/finos/greenkey-discovery-sdk",
           "heat"          : 193,
           "watchers"      : 5,
-          "size"          : 46178,
+          "size"          : 46189,
           "collaborators" : 42,
           "stars"         : 5,
           "forks"         : 3,
           "openIssues"    : 1,
           "languages"     : {
             "Shell" : 893,
-            "Python" : 51442
+            "Python" : 53058
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 193,
         "watchers"      : 5,
-        "size"          : 46178,
+        "size"          : 46189,
         "collaborators" : 42,
         "stars"         : 5,
         "forks"         : 3,
         "openIssues"    : 1,
         "languages"     : {
           "Shell" : 893,
-          "Python" : 51442
+          "Python" : 53058
         }
       }
     },
