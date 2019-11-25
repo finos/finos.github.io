@@ -848,7 +848,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 197,
           "watchers"      : 4,
-          "size"          : 2477,
+          "size"          : 2498,
           "collaborators" : 41,
           "stars"         : 4,
           "forks"         : 5,
@@ -949,7 +949,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2112,
         "watchers"      : 18,
-        "size"          : 34979,
+        "size"          : 35000,
         "collaborators" : 484,
         "stars"         : 18,
         "forks"         : 28,
@@ -1605,13 +1605,13 @@
           "name"          : "service-tooling",
           "description"   : "Openfin Service Tooling",
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
-          "heat"          : 196,
+          "heat"          : 201,
           "watchers"      : 0,
           "size"          : 683,
           "collaborators" : 39,
           "stars"         : 0,
-          "forks"         : 8,
-          "openIssues"    : 3,
+          "forks"         : 9,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 58637,
             "CSS" : 70303,
@@ -1621,13 +1621,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 724,
+        "heat"          : 729,
         "watchers"      : 15,
         "size"          : 6455,
         "collaborators" : 121,
         "stars"         : 15,
-        "forks"         : 42,
-        "openIssues"    : 11,
+        "forks"         : 43,
+        "openIssues"    : 12,
         "languages"     : {
           "TypeScript" : 975281,
           "HTML" : 69811,
@@ -1734,6 +1734,55 @@
       "programName"          : "Plexus",
       "programShortName"     : "Plexus",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/PLX/overview",
+      "activityName"         : "Desktop Interoperability Project",
+      "type"                 : "PROJECT",
+      "state"                : "RELEASED",
+      "contributionDate"     : "2018-04-24",
+      "releaseDate"          : "2019-10-11",
+      "gitHubRepos"          : [
+        {
+          "name"          : "finos-plexus.github.io",
+          "description"   : "",
+          "gitHubURL"     : "https://github.com/finos-plexus/finos-plexus.github.io",
+          "heat"          : 69,
+          "watchers"      : 1,
+          "size"          : 1204,
+          "collaborators" : 8,
+          "stars"         : 1,
+          "forks"         : 7,
+          "openIssues"    : 6,
+          "languages"     : {
+            "TypeScript" : 21599
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 69,
+        "watchers"      : 1,
+        "size"          : 1204,
+        "collaborators" : 8,
+        "stars"         : 1,
+        "forks"         : 7,
+        "openIssues"    : 6,
+        "languages"     : {
+          "TypeScript" : 21599
+        }
+      },
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "plx-desktop-interop-api@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/plx-desktop-interop-api"
+        },
+        {
+          "emailAddress"  : "plx-desktop-interop@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/plx-desktop-interop"
+        }
+      ]
+    },
+    {
+      "programName"          : "Plexus",
+      "programShortName"     : "Plexus",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/PLX/overview",
       "activityName"         : "Plexus Interop",
       "type"                 : "PROJECT",
       "state"                : "INCUBATING",
@@ -1765,33 +1814,18 @@
             "JavaScript" : 1032331,
             "HTML" : 12786
           }
-        },
-        {
-          "name"          : "finos-plexus.github.io",
-          "description"   : "",
-          "gitHubURL"     : "https://github.com/finos-plexus/finos-plexus.github.io",
-          "heat"          : 69,
-          "watchers"      : 1,
-          "size"          : 1204,
-          "collaborators" : 8,
-          "stars"         : 1,
-          "forks"         : 7,
-          "openIssues"    : 6,
-          "languages"     : {
-            "TypeScript" : 21599
-          }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 826,
-        "watchers"      : 245,
-        "size"          : 8311,
-        "collaborators" : 19,
-        "stars"         : 245,
-        "forks"         : 52,
-        "openIssues"    : 6,
+        "heat"          : 757,
+        "watchers"      : 244,
+        "size"          : 7107,
+        "collaborators" : 11,
+        "stars"         : 244,
+        "forks"         : 45,
+        "openIssues"    : 0,
         "languages"     : {
-          "TypeScript" : 1201532,
+          "TypeScript" : 1179933,
           "C#" : 1758955,
           "Xtend" : 221790,
           "Java" : 78616,
@@ -1802,26 +1836,6 @@
           "HTML" : 12786
         }
       }
-    },
-    {
-      "programName"          : "Plexus",
-      "programShortName"     : "Plexus",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/PLX/overview",
-      "activityName"         : "Desktop Interoperability Project",
-      "type"                 : "PROJECT",
-      "state"                : "RELEASED",
-      "contributionDate"     : "2018-04-24",
-      "releaseDate"          : "2019-10-11",
-      "mailingLists"       : [
-        {
-          "emailAddress"  : "plx-desktop-interop-api@finos.org",
-          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/plx-desktop-interop-api"
-        },
-        {
-          "emailAddress"  : "plx-desktop-interop@finos.org",
-          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/plx-desktop-interop"
-        }
-      ]
     },
     {
       "programName"          : "Plexus",
@@ -3276,7 +3290,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 97,
           "watchers"      : 9,
-          "size"          : 3108,
+          "size"          : 3263,
           "collaborators" : 6,
           "stars"         : 9,
           "forks"         : 11,
@@ -3289,7 +3303,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 97,
         "watchers"      : 9,
-        "size"          : 3108,
+        "size"          : 3263,
         "collaborators" : 6,
         "stars"         : 9,
         "forks"         : 11,
