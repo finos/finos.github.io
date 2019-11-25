@@ -231,44 +231,44 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 5228,
           "watchers"      : 2115,
-          "size"          : 46868,
+          "size"          : 46889,
           "collaborators" : 47,
           "stars"         : 2115,
           "forks"         : 162,
-          "openIssues"    : 27,
+          "openIssues"    : 26,
           "languages"     : {
-            "TypeScript" : 49177,
+            "TypeScript" : 50296,
             "Dockerfile" : 27562,
             "C++" : 1155094,
             "CSS" : 89804,
             "C" : 4588,
             "CMake" : 46025,
             "Makefile" : 1602,
-            "JavaScript" : 1092490,
+            "JavaScript" : 1094591,
             "HTML" : 34190,
-            "Python" : 340798
+            "Python" : 345645
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 5228,
         "watchers"      : 2115,
-        "size"          : 46868,
+        "size"          : 46889,
         "collaborators" : 47,
         "stars"         : 2115,
         "forks"         : 162,
-        "openIssues"    : 27,
+        "openIssues"    : 26,
         "languages"     : {
-          "TypeScript" : 49177,
+          "TypeScript" : 50296,
           "Dockerfile" : 27562,
           "C++" : 1155094,
           "CSS" : 89804,
           "C" : 4588,
           "CMake" : 46025,
           "Makefile" : 1602,
-          "JavaScript" : 1092490,
+          "JavaScript" : 1094591,
           "HTML" : 34190,
-          "Python" : 340798
+          "Python" : 345645
         }
       }
     },
@@ -848,7 +848,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 197,
           "watchers"      : 4,
-          "size"          : 2473,
+          "size"          : 2477,
           "collaborators" : 41,
           "stars"         : 4,
           "forks"         : 5,
@@ -949,7 +949,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2112,
         "watchers"      : 18,
-        "size"          : 34975,
+        "size"          : 34979,
         "collaborators" : 484,
         "stars"         : 18,
         "forks"         : 28,
@@ -3276,7 +3276,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 97,
           "watchers"      : 9,
-          "size"          : 2650,
+          "size"          : 3108,
           "collaborators" : 6,
           "stars"         : 9,
           "forks"         : 11,
@@ -3289,7 +3289,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 97,
         "watchers"      : 9,
-        "size"          : 2650,
+        "size"          : 3108,
         "collaborators" : 6,
         "stars"         : 9,
         "forks"         : 11,
