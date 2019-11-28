@@ -15,13 +15,13 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 328,
           "watchers"      : 32,
-          "size"          : 14678,
+          "size"          : 14698,
           "collaborators" : 41,
           "stars"         : 32,
           "forks"         : 20,
-          "openIssues"    : 52,
+          "openIssues"    : 50,
           "languages"     : {
-            "Java" : 1655407,
+            "Java" : 1666540,
             "Dockerfile" : 581,
             "Shell" : 2725,
             "Gherkin" : 389437
@@ -31,13 +31,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 328,
         "watchers"      : 32,
-        "size"          : 14678,
+        "size"          : 14698,
         "collaborators" : 41,
         "stars"         : 32,
         "forks"         : 20,
-        "openIssues"    : 52,
+        "openIssues"    : 50,
         "languages"     : {
-          "Java" : 1655407,
+          "Java" : 1666540,
           "Dockerfile" : 581,
           "Shell" : 2725,
           "Gherkin" : 389437
@@ -231,44 +231,44 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 5260,
           "watchers"      : 2126,
-          "size"          : 46920,
+          "size"          : 46930,
           "collaborators" : 47,
           "stars"         : 2126,
           "forks"         : 164,
-          "openIssues"    : 28,
+          "openIssues"    : 26,
           "languages"     : {
-            "TypeScript" : 50296,
+            "TypeScript" : 50385,
             "Dockerfile" : 27562,
-            "C++" : 1155094,
+            "C++" : 1155112,
             "CSS" : 89804,
             "C" : 4588,
             "CMake" : 46025,
             "Makefile" : 1602,
             "JavaScript" : 1094591,
             "HTML" : 34190,
-            "Python" : 345645
+            "Python" : 350433
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 5260,
         "watchers"      : 2126,
-        "size"          : 46920,
+        "size"          : 46930,
         "collaborators" : 47,
         "stars"         : 2126,
         "forks"         : 164,
-        "openIssues"    : 28,
+        "openIssues"    : 26,
         "languages"     : {
-          "TypeScript" : 50296,
+          "TypeScript" : 50385,
           "Dockerfile" : 27562,
-          "C++" : 1155094,
+          "C++" : 1155112,
           "CSS" : 89804,
           "C" : 4588,
           "CMake" : 46025,
           "Makefile" : 1602,
           "JavaScript" : 1094591,
           "HTML" : 34190,
-          "Python" : 345645
+          "Python" : 350433
         }
       }
     },
@@ -848,7 +848,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 197,
           "watchers"      : 4,
-          "size"          : 2502,
+          "size"          : 2523,
           "collaborators" : 41,
           "stars"         : 4,
           "forks"         : 5,
@@ -863,12 +863,12 @@
           "name"          : "metadata-tool",
           "description"   : "A command line tool for performing various tasks with Fintech Open Source Foundation (FINOS) metadata.",
           "gitHubURL"     : "https://github.com/finos/metadata-tool",
-          "heat"          : 200,
+          "heat"          : 205,
           "watchers"      : 3,
           "size"          : 323,
           "collaborators" : 41,
           "stars"         : 3,
-          "forks"         : 6,
+          "forks"         : 7,
           "openIssues"    : 6,
           "languages"     : {
             "FreeMarker" : 21837,
@@ -947,12 +947,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 2112,
+        "heat"          : 2117,
         "watchers"      : 18,
-        "size"          : 35004,
+        "size"          : 35025,
         "collaborators" : 484,
         "stars"         : 18,
-        "forks"         : 28,
+        "forks"         : 29,
         "openIssues"    : 32,
         "languages"     : {
           "Java" : 12202,
@@ -1083,7 +1083,7 @@
           "collaborators" : 44,
           "stars"         : 7,
           "forks"         : 7,
-          "openIssues"    : 3
+          "openIssues"    : 5
         }
       ],
       "cumulativeGitHubStats" : {
@@ -1093,7 +1093,7 @@
         "collaborators" : 44,
         "stars"         : 7,
         "forks"         : 7,
-        "openIssues"    : 3
+        "openIssues"    : 5
       },
       "mailingLists"       : [
         {
@@ -1464,13 +1464,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 271,
           "watchers"      : 6,
-          "size"          : 2181,
+          "size"          : 2195,
           "collaborators" : 41,
           "stars"         : 6,
           "forks"         : 19,
-          "openIssues"    : 6,
+          "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 575995,
+            "TypeScript" : 588985,
             "CSS" : 29619,
             "HTML" : 6427,
             "JavaScript" : 5926
@@ -1496,13 +1496,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1474,
         "watchers"      : 124,
-        "size"          : 10991,
+        "size"          : 11005,
         "collaborators" : 159,
         "stars"         : 124,
         "forks"         : 118,
-        "openIssues"    : 34,
+        "openIssues"    : 33,
         "languages"     : {
-          "TypeScript" : 1656617,
+          "TypeScript" : 1669607,
           "HTML" : 24519,
           "CSS" : 29619,
           "JavaScript" : 366639,
@@ -3166,23 +3166,23 @@
           "name"          : "symphony-api-spec",
           "description"   : "Swagger definitions for Symphony LLC public REST API ",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
-          "heat"          : 170,
+          "heat"          : 166,
           "watchers"      : 8,
-          "size"          : 281,
-          "collaborators" : 11,
+          "size"          : 327,
+          "collaborators" : 10,
           "stars"         : 8,
           "forks"         : 22,
-          "openIssues"    : 1
+          "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 170,
+        "heat"          : 166,
         "watchers"      : 8,
-        "size"          : 281,
-        "collaborators" : 11,
+        "size"          : 327,
+        "collaborators" : 10,
         "stars"         : 8,
         "forks"         : 22,
-        "openIssues"    : 1
+        "openIssues"    : 0
       }
     },
     {
@@ -4745,13 +4745,13 @@
           "name"          : "SymphonyElectron",
           "description"   : "A desktop client for the Symphony Collaboration Platform built using Electron",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 420,
+          "heat"          : 425,
           "watchers"      : 40,
           "size"          : 36154,
           "collaborators" : 10,
           "stars"         : 40,
-          "forks"         : 60,
-          "openIssues"    : 1,
+          "forks"         : 61,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 445925,
             "CSS" : 24899,
@@ -4861,13 +4861,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 769,
+        "heat"          : 774,
         "watchers"      : 48,
         "size"          : 45980,
         "collaborators" : 62,
         "stars"         : 48,
-        "forks"         : 85,
-        "openIssues"    : 2,
+        "forks"         : 86,
+        "openIssues"    : 3,
         "languages"     : {
           "TypeScript" : 577852,
           "C#" : 25902,
@@ -4973,32 +4973,32 @@
           "name"          : "greenkey-asrtoolkit",
           "description"   : "A collection of useful tools for handling speech recognition data",
           "gitHubURL"     : "https://github.com/finos/greenkey-asrtoolkit",
-          "heat"          : 196,
+          "heat"          : 201,
           "watchers"      : 6,
-          "size"          : 452,
+          "size"          : 453,
           "collaborators" : 41,
           "stars"         : 6,
-          "forks"         : 4,
+          "forks"         : 5,
           "openIssues"    : 1,
           "languages"     : {
             "Dockerfile" : 679,
             "Shell" : 59,
-            "Python" : 83884
+            "Python" : 83885
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 196,
+        "heat"          : 201,
         "watchers"      : 6,
-        "size"          : 452,
+        "size"          : 453,
         "collaborators" : 41,
         "stars"         : 6,
-        "forks"         : 4,
+        "forks"         : 5,
         "openIssues"    : 1,
         "languages"     : {
           "Dockerfile" : 679,
           "Shell" : 59,
-          "Python" : 83884
+          "Python" : 83885
         }
       }
     },
@@ -5019,13 +5019,13 @@
           "name"          : "greenkey-discovery-sdk",
           "description"   : "Speed up business workflows through custom 'voice skills' and text (NLP) interpreters",
           "gitHubURL"     : "https://github.com/finos/greenkey-discovery-sdk",
-          "heat"          : 193,
+          "heat"          : 198,
           "watchers"      : 5,
           "size"          : 46194,
           "collaborators" : 42,
           "stars"         : 5,
-          "forks"         : 3,
-          "openIssues"    : 1,
+          "forks"         : 4,
+          "openIssues"    : 2,
           "languages"     : {
             "Shell" : 893,
             "Python" : 53901
@@ -5033,13 +5033,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 193,
+        "heat"          : 198,
         "watchers"      : 5,
         "size"          : 46194,
         "collaborators" : 42,
         "stars"         : 5,
-        "forks"         : 3,
-        "openIssues"    : 1,
+        "forks"         : 4,
+        "openIssues"    : 2,
         "languages"     : {
           "Shell" : 893,
           "Python" : 53901
