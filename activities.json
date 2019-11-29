@@ -15,11 +15,11 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 328,
           "watchers"      : 32,
-          "size"          : 14698,
+          "size"          : 14694,
           "collaborators" : 41,
           "stars"         : 32,
           "forks"         : 20,
-          "openIssues"    : 50,
+          "openIssues"    : 52,
           "languages"     : {
             "Java" : 1666540,
             "Dockerfile" : 581,
@@ -31,11 +31,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 328,
         "watchers"      : 32,
-        "size"          : 14698,
+        "size"          : 14694,
         "collaborators" : 41,
         "stars"         : 32,
         "forks"         : 20,
-        "openIssues"    : 50,
+        "openIssues"    : 52,
         "languages"     : {
           "Java" : 1666540,
           "Dockerfile" : 581,
@@ -229,13 +229,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5260,
-          "watchers"      : 2126,
-          "size"          : 46930,
+          "heat"          : 5262,
+          "watchers"      : 2127,
+          "size"          : 46955,
           "collaborators" : 47,
-          "stars"         : 2126,
+          "stars"         : 2127,
           "forks"         : 164,
-          "openIssues"    : 26,
+          "openIssues"    : 27,
           "languages"     : {
             "TypeScript" : 50385,
             "Dockerfile" : 27562,
@@ -251,13 +251,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5260,
-        "watchers"      : 2126,
-        "size"          : 46930,
+        "heat"          : 5262,
+        "watchers"      : 2127,
+        "size"          : 46955,
         "collaborators" : 47,
-        "stars"         : 2126,
+        "stars"         : 2127,
         "forks"         : 164,
-        "openIssues"    : 26,
+        "openIssues"    : 27,
         "languages"     : {
           "TypeScript" : 50385,
           "Dockerfile" : 27562,
@@ -848,7 +848,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 197,
           "watchers"      : 4,
-          "size"          : 2523,
+          "size"          : 2527,
           "collaborators" : 41,
           "stars"         : 4,
           "forks"         : 5,
@@ -949,7 +949,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2117,
         "watchers"      : 18,
-        "size"          : 35025,
+        "size"          : 35029,
         "collaborators" : 484,
         "stars"         : 18,
         "forks"         : 29,
@@ -1083,7 +1083,7 @@
           "collaborators" : 44,
           "stars"         : 7,
           "forks"         : 7,
-          "openIssues"    : 5
+          "openIssues"    : 6
         }
       ],
       "cumulativeGitHubStats" : {
@@ -1093,7 +1093,7 @@
         "collaborators" : 44,
         "stars"         : 7,
         "forks"         : 7,
-        "openIssues"    : 5
+        "openIssues"    : 6
       },
       "mailingLists"       : [
         {
@@ -1802,7 +1802,7 @@
           "collaborators" : 11,
           "stars"         : 244,
           "forks"         : 45,
-          "openIssues"    : 0,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 1179933,
             "C#" : 1758955,
@@ -1823,7 +1823,7 @@
         "collaborators" : 11,
         "stars"         : 244,
         "forks"         : 45,
-        "openIssues"    : 0,
+        "openIssues"    : 7,
         "languages"     : {
           "TypeScript" : 1179933,
           "C#" : 1758955,
@@ -4745,13 +4745,13 @@
           "name"          : "SymphonyElectron",
           "description"   : "A desktop client for the Symphony Collaboration Platform built using Electron",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 425,
+          "heat"          : 430,
           "watchers"      : 40,
           "size"          : 36154,
           "collaborators" : 10,
           "stars"         : 40,
-          "forks"         : 61,
-          "openIssues"    : 2,
+          "forks"         : 62,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 445925,
             "CSS" : 24899,
@@ -4861,13 +4861,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 774,
+        "heat"          : 779,
         "watchers"      : 48,
         "size"          : 45980,
         "collaborators" : 62,
         "stars"         : 48,
-        "forks"         : 86,
-        "openIssues"    : 3,
+        "forks"         : 87,
+        "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 577852,
           "C#" : 25902,
