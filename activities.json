@@ -696,11 +696,11 @@
           "name"          : "bot-github-chatops",
           "description"   : "A Symphony bot that uses ChatOps techniques to allow a firm employee to interact in a compliant manner with GitHub issues and PRs",
           "gitHubURL"     : "https://github.com/finos/bot-github-chatops",
-          "heat"          : 193,
-          "watchers"      : 7,
+          "heat"          : 195,
+          "watchers"      : 8,
           "size"          : 396,
           "collaborators" : 41,
-          "stars"         : 7,
+          "stars"         : 8,
           "forks"         : 3,
           "openIssues"    : 14,
           "languages"     : {
@@ -711,11 +711,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 193,
-        "watchers"      : 7,
+        "heat"          : 195,
+        "watchers"      : 8,
         "size"          : 396,
         "collaborators" : 41,
-        "stars"         : 7,
+        "stars"         : 8,
         "forks"         : 3,
         "openIssues"    : 14,
         "languages"     : {
@@ -848,7 +848,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 197,
           "watchers"      : 4,
-          "size"          : 2548,
+          "size"          : 2552,
           "collaborators" : 41,
           "stars"         : 4,
           "forks"         : 5,
@@ -949,7 +949,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2117,
         "watchers"      : 18,
-        "size"          : 35050,
+        "size"          : 35054,
         "collaborators" : 484,
         "stars"         : 18,
         "forks"         : 29,
@@ -1444,12 +1444,12 @@
           "name"          : "js-adapter",
           "description"   : "Hadouken Node Adapter",
           "gitHubURL"     : "https://github.com/HadoukenIO/js-adapter",
-          "heat"          : 381,
+          "heat"          : 386,
           "watchers"      : 18,
           "size"          : 4145,
           "collaborators" : 40,
           "stars"         : 18,
-          "forks"         : 37,
+          "forks"         : 38,
           "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 450762,
@@ -1494,12 +1494,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1474,
+        "heat"          : 1479,
         "watchers"      : 124,
         "size"          : 10931,
         "collaborators" : 159,
         "stars"         : 124,
-        "forks"         : 118,
+        "forks"         : 119,
         "openIssues"    : 33,
         "languages"     : {
           "TypeScript" : 1669607,
@@ -3290,7 +3290,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 97,
           "watchers"      : 9,
-          "size"          : 3416,
+          "size"          : 3571,
           "collaborators" : 6,
           "stars"         : 9,
           "forks"         : 11,
@@ -3303,7 +3303,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 97,
         "watchers"      : 9,
-        "size"          : 3416,
+        "size"          : 3571,
         "collaborators" : 6,
         "stars"         : 9,
         "forks"         : 11,
@@ -4439,7 +4439,7 @@
           "collaborators" : 9,
           "stars"         : 5,
           "forks"         : 20,
-          "openIssues"    : 7,
+          "openIssues"    : 6,
           "languages"     : {
             "Java" : 795566
           }
@@ -4452,7 +4452,7 @@
         "collaborators" : 9,
         "stars"         : 5,
         "forks"         : 20,
-        "openIssues"    : 7,
+        "openIssues"    : 6,
         "languages"     : {
           "Java" : 795566
         }
