@@ -231,44 +231,44 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 5274,
           "watchers"      : 2128,
-          "size"          : 47000,
+          "size"          : 47023,
           "collaborators" : 47,
           "stars"         : 2128,
           "forks"         : 166,
-          "openIssues"    : 25,
+          "openIssues"    : 24,
           "languages"     : {
-            "TypeScript" : 50385,
+            "TypeScript" : 50549,
             "Dockerfile" : 27562,
             "C++" : 1155112,
             "CSS" : 89804,
             "C" : 4588,
             "CMake" : 46025,
             "Makefile" : 1602,
-            "JavaScript" : 1094591,
+            "JavaScript" : 1096538,
             "HTML" : 34190,
-            "Python" : 350433
+            "Python" : 353432
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 5274,
         "watchers"      : 2128,
-        "size"          : 47000,
+        "size"          : 47023,
         "collaborators" : 47,
         "stars"         : 2128,
         "forks"         : 166,
-        "openIssues"    : 25,
+        "openIssues"    : 24,
         "languages"     : {
-          "TypeScript" : 50385,
+          "TypeScript" : 50549,
           "Dockerfile" : 27562,
           "C++" : 1155112,
           "CSS" : 89804,
           "C" : 4588,
           "CMake" : 46025,
           "Makefile" : 1602,
-          "JavaScript" : 1094591,
+          "JavaScript" : 1096538,
           "HTML" : 34190,
-          "Python" : 350433
+          "Python" : 353432
         }
       }
     },
@@ -848,7 +848,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 197,
           "watchers"      : 4,
-          "size"          : 2552,
+          "size"          : 2573,
           "collaborators" : 41,
           "stars"         : 4,
           "forks"         : 5,
@@ -949,7 +949,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2117,
         "watchers"      : 18,
-        "size"          : 35054,
+        "size"          : 35075,
         "collaborators" : 484,
         "stars"         : 18,
         "forks"         : 29,
@@ -3022,14 +3022,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 44,
           "watchers"      : 0,
-          "size"          : 777,
+          "size"          : 789,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 4,
           "openIssues"    : 2,
           "languages"     : {
             "Java" : 527723,
-            "FreeMarker" : 133201,
+            "FreeMarker" : 133227,
             "JavaScript" : 13681
           }
         },
@@ -3052,14 +3052,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 83,
         "watchers"      : 0,
-        "size"          : 1063,
+        "size"          : 1075,
         "collaborators" : 12,
         "stars"         : 0,
         "forks"         : 7,
         "openIssues"    : 5,
         "languages"     : {
           "Java" : 575814,
-          "FreeMarker" : 133201,
+          "FreeMarker" : 133227,
           "JavaScript" : 13681
         }
       }
@@ -3733,13 +3733,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 55,
           "watchers"      : 1,
-          "size"          : 2082,
+          "size"          : 2097,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 5,
           "openIssues"    : 3,
           "languages"     : {
-            "Java" : 1100209,
+            "Java" : 1106585,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3779,13 +3779,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 137,
         "watchers"      : 1,
-        "size"          : 2316,
+        "size"          : 2331,
         "collaborators" : 20,
         "stars"         : 1,
         "forks"         : 11,
         "openIssues"    : 8,
         "languages"     : {
-          "Java" : 1123447,
+          "Java" : 1129823,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -4751,9 +4751,9 @@
           "collaborators" : 10,
           "stars"         : 40,
           "forks"         : 62,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 446177,
+            "TypeScript" : 446168,
             "CSS" : 24899,
             "Shell" : 9929,
             "Batchfile" : 3768,
@@ -4867,9 +4867,9 @@
         "collaborators" : 62,
         "stars"         : 48,
         "forks"         : 87,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 578104,
+          "TypeScript" : 578095,
           "C#" : 25902,
           "Shell" : 9929,
           "C++" : 35850,
