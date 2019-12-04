@@ -15,13 +15,13 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 328,
           "watchers"      : 32,
-          "size"          : 14689,
+          "size"          : 14714,
           "collaborators" : 41,
           "stars"         : 32,
           "forks"         : 20,
-          "openIssues"    : 49,
+          "openIssues"    : 46,
           "languages"     : {
-            "Java" : 1670374,
+            "Java" : 1675141,
             "Dockerfile" : 581,
             "Shell" : 2725,
             "Gherkin" : 389437
@@ -31,13 +31,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 328,
         "watchers"      : 32,
-        "size"          : 14689,
+        "size"          : 14714,
         "collaborators" : 41,
         "stars"         : 32,
         "forks"         : 20,
-        "openIssues"    : 49,
+        "openIssues"    : 46,
         "languages"     : {
-          "Java" : 1670374,
+          "Java" : 1675141,
           "Dockerfile" : 581,
           "Shell" : 2725,
           "Gherkin" : 389437
@@ -229,13 +229,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5278,
-          "watchers"      : 2130,
-          "size"          : 46990,
+          "heat"          : 5280,
+          "watchers"      : 2131,
+          "size"          : 47095,
           "collaborators" : 47,
-          "stars"         : 2130,
+          "stars"         : 2131,
           "forks"         : 166,
-          "openIssues"    : 24,
+          "openIssues"    : 27,
           "languages"     : {
             "TypeScript" : 50549,
             "Dockerfile" : 27562,
@@ -251,13 +251,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5278,
-        "watchers"      : 2130,
-        "size"          : 46990,
+        "heat"          : 5280,
+        "watchers"      : 2131,
+        "size"          : 47095,
         "collaborators" : 47,
-        "stars"         : 2130,
+        "stars"         : 2131,
         "forks"         : 166,
-        "openIssues"    : 24,
+        "openIssues"    : 27,
         "languages"     : {
           "TypeScript" : 50549,
           "Dockerfile" : 27562,
@@ -321,18 +321,18 @@
           "name"          : "FDC3",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/fdc3",
-          "heat"          : 375,
+          "heat"          : 380,
           "watchers"      : 27,
-          "size"          : 2837,
+          "size"          : 3340,
           "collaborators" : 49,
           "stars"         : 27,
-          "forks"         : 25,
-          "openIssues"    : 21,
+          "forks"         : 26,
+          "openIssues"    : 22,
           "languages"     : {
             "TypeScript" : 12747,
             "HTML" : 1858006,
             "CSS" : 3201,
-            "JavaScript" : 23124
+            "JavaScript" : 24141
           }
         },
         {
@@ -349,18 +349,18 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 570,
+        "heat"          : 575,
         "watchers"      : 30,
-        "size"          : 5051,
+        "size"          : 5554,
         "collaborators" : 95,
         "stars"         : 30,
-        "forks"         : 26,
-        "openIssues"    : 23,
+        "forks"         : 27,
+        "openIssues"    : 24,
         "languages"     : {
           "TypeScript" : 12747,
           "HTML" : 1858006,
           "CSS" : 3201,
-          "JavaScript" : 23124
+          "JavaScript" : 24141
         }
       }
     },
@@ -740,7 +740,7 @@
           "gitHubURL"     : "https://github.com/finos/cla-bot",
           "heat"          : 282,
           "watchers"      : 31,
-          "size"          : 1050,
+          "size"          : 1059,
           "collaborators" : 40,
           "stars"         : 31,
           "forks"         : 12,
@@ -754,7 +754,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 282,
         "watchers"      : 31,
-        "size"          : 1050,
+        "size"          : 1059,
         "collaborators" : 40,
         "stars"         : 31,
         "forks"         : 12,
@@ -828,7 +828,7 @@
           "collaborators" : 40,
           "stars"         : 0,
           "forks"         : 0,
-          "openIssues"    : 4
+          "openIssues"    : 5
         },
         {
           "name"          : "clabot-test-prod",
@@ -836,11 +836,11 @@
           "gitHubURL"     : "https://github.com/finos/clabot-test-prod",
           "heat"          : 160,
           "watchers"      : 0,
-          "size"          : 6,
+          "size"          : 8,
           "collaborators" : 40,
           "stars"         : 0,
           "forks"         : 0,
-          "openIssues"    : 5
+          "openIssues"    : 7
         },
         {
           "name"          : "finos.github.io",
@@ -848,7 +848,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 197,
           "watchers"      : 4,
-          "size"          : 2598,
+          "size"          : 2602,
           "collaborators" : 41,
           "stars"         : 4,
           "forks"         : 5,
@@ -865,7 +865,7 @@
           "gitHubURL"     : "https://github.com/finos/metadata-tool",
           "heat"          : 205,
           "watchers"      : 3,
-          "size"          : 323,
+          "size"          : 289,
           "collaborators" : 41,
           "stars"         : 3,
           "forks"         : 7,
@@ -949,11 +949,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2117,
         "watchers"      : 18,
-        "size"          : 35100,
+        "size"          : 35072,
         "collaborators" : 484,
         "stars"         : 18,
         "forks"         : 29,
-        "openIssues"    : 31,
+        "openIssues"    : 34,
         "languages"     : {
           "Java" : 12202,
           "Shell" : 28084,
@@ -4747,14 +4747,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 435,
           "watchers"      : 40,
-          "size"          : 36284,
+          "size"          : 36300,
           "collaborators" : 10,
           "stars"         : 40,
           "forks"         : 63,
           "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 450107,
-            "CSS" : 24899,
+            "TypeScript" : 450154,
+            "CSS" : 24879,
             "Shell" : 9929,
             "Batchfile" : 3768,
             "JavaScript" : 2541,
@@ -4877,7 +4877,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/ScreenShareIndicatorFrame",
           "heat"          : 37,
           "watchers"      : 0,
-          "size"          : 19,
+          "size"          : 20,
           "collaborators" : 8,
           "stars"         : 0,
           "forks"         : 1,
@@ -4890,17 +4890,17 @@
       "cumulativeGitHubStats" : {
         "heat"          : 854,
         "watchers"      : 48,
-        "size"          : 46140,
+        "size"          : 46157,
         "collaborators" : 77,
         "stars"         : 48,
         "forks"         : 90,
         "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 582034,
+          "TypeScript" : 582081,
           "C#" : 25902,
           "Shell" : 9929,
           "C++" : 35850,
-          "CSS" : 24899,
+          "CSS" : 24879,
           "C" : 10851,
           "Batchfile" : 3768,
           "JavaScript" : 128485,
@@ -5048,11 +5048,11 @@
           "gitHubURL"     : "https://github.com/finos/greenkey-discovery-sdk",
           "heat"          : 198,
           "watchers"      : 5,
-          "size"          : 46198,
+          "size"          : 46200,
           "collaborators" : 42,
           "stars"         : 5,
           "forks"         : 4,
-          "openIssues"    : 2,
+          "openIssues"    : 4,
           "languages"     : {
             "Shell" : 893,
             "Python" : 53901
@@ -5062,11 +5062,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 198,
         "watchers"      : 5,
-        "size"          : 46198,
+        "size"          : 46200,
         "collaborators" : 42,
         "stars"         : 5,
         "forks"         : 4,
-        "openIssues"    : 2,
+        "openIssues"    : 4,
         "languages"     : {
           "Shell" : 893,
           "Python" : 53901
