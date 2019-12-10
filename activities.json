@@ -15,7 +15,7 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 342,
           "watchers"      : 32,
-          "size"          : 14722,
+          "size"          : 14723,
           "collaborators" : 42,
           "stars"         : 32,
           "forks"         : 22,
@@ -31,7 +31,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 342,
         "watchers"      : 32,
-        "size"          : 14722,
+        "size"          : 14723,
         "collaborators" : 42,
         "stars"         : 32,
         "forks"         : 22,
@@ -229,46 +229,46 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5296,
-          "watchers"      : 2137,
-          "size"          : 47012,
+          "heat"          : 5307,
+          "watchers"      : 2140,
+          "size"          : 47039,
           "collaborators" : 48,
-          "stars"         : 2137,
-          "forks"         : 166,
-          "openIssues"    : 25,
+          "stars"         : 2140,
+          "forks"         : 167,
+          "openIssues"    : 24,
           "languages"     : {
             "TypeScript" : 57416,
             "Dockerfile" : 27562,
-            "C++" : 1157285,
+            "C++" : 1160250,
             "CSS" : 89890,
             "C" : 4588,
             "CMake" : 46025,
             "Makefile" : 1602,
-            "JavaScript" : 1101044,
+            "JavaScript" : 1110129,
             "HTML" : 34190,
-            "Python" : 379294
+            "Python" : 397082
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5296,
-        "watchers"      : 2137,
-        "size"          : 47012,
+        "heat"          : 5307,
+        "watchers"      : 2140,
+        "size"          : 47039,
         "collaborators" : 48,
-        "stars"         : 2137,
-        "forks"         : 166,
-        "openIssues"    : 25,
+        "stars"         : 2140,
+        "forks"         : 167,
+        "openIssues"    : 24,
         "languages"     : {
           "TypeScript" : 57416,
           "Dockerfile" : 27562,
-          "C++" : 1157285,
+          "C++" : 1160250,
           "CSS" : 89890,
           "C" : 4588,
           "CMake" : 46025,
           "Makefile" : 1602,
-          "JavaScript" : 1101044,
+          "JavaScript" : 1110129,
           "HTML" : 34190,
-          "Python" : 379294
+          "Python" : 397082
         }
       }
     },
@@ -327,7 +327,7 @@
           "collaborators" : 41,
           "stars"         : 27,
           "forks"         : 26,
-          "openIssues"    : 19,
+          "openIssues"    : 20,
           "languages"     : {
             "TypeScript" : 12747,
             "HTML" : 1858006,
@@ -355,7 +355,7 @@
         "collaborators" : 87,
         "stars"         : 30,
         "forks"         : 27,
-        "openIssues"    : 21,
+        "openIssues"    : 22,
         "languages"     : {
           "TypeScript" : 12747,
           "HTML" : 1858006,
@@ -848,7 +848,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 201,
           "watchers"      : 4,
-          "size"          : 2649,
+          "size"          : 2652,
           "collaborators" : 42,
           "stars"         : 4,
           "forks"         : 5,
@@ -949,7 +949,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2165,
         "watchers"      : 18,
-        "size"          : 35119,
+        "size"          : 35122,
         "collaborators" : 496,
         "stars"         : 18,
         "forks"         : 29,
@@ -1248,11 +1248,11 @@
           "gitHubURL"     : "https://github.com/finos/finos-fo",
           "heat"          : 202,
           "watchers"      : 2,
-          "size"          : 1606,
+          "size"          : 1615,
           "collaborators" : 42,
           "stars"         : 2,
           "forks"         : 6,
-          "openIssues"    : 7,
+          "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 6803,
             "CSS" : 3722,
@@ -1264,11 +1264,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 202,
         "watchers"      : 2,
-        "size"          : 1606,
+        "size"          : 1615,
         "collaborators" : 42,
         "stars"         : 2,
         "forks"         : 6,
-        "openIssues"    : 7,
+        "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 6803,
           "CSS" : 3722,
@@ -1468,7 +1468,7 @@
           "collaborators" : 41,
           "stars"         : 6,
           "forks"         : 19,
-          "openIssues"    : 8,
+          "openIssues"    : 9,
           "languages"     : {
             "TypeScript" : 588985,
             "CSS" : 29619,
@@ -1500,7 +1500,7 @@
         "collaborators" : 159,
         "stars"         : 124,
         "forks"         : 119,
-        "openIssues"    : 36,
+        "openIssues"    : 37,
         "languages"     : {
           "TypeScript" : 1669607,
           "HTML" : 24519,
@@ -1607,7 +1607,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 201,
           "watchers"      : 0,
-          "size"          : 689,
+          "size"          : 690,
           "collaborators" : 39,
           "stars"         : 0,
           "forks"         : 9,
@@ -1623,7 +1623,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 729,
         "watchers"      : 15,
-        "size"          : 6461,
+        "size"          : 6462,
         "collaborators" : 121,
         "stars"         : 15,
         "forks"         : 43,
@@ -3766,20 +3766,20 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 177,
+          "size"          : 182,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 3,
           "languages"     : {
-            "Groovy" : 301007
+            "Groovy" : 301008
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 137,
         "watchers"      : 1,
-        "size"          : 2389,
+        "size"          : 2394,
         "collaborators" : 20,
         "stars"         : 1,
         "forks"         : 11,
@@ -3789,7 +3789,7 @@
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
-          "Groovy" : 301007
+          "Groovy" : 301008
         }
       }
     },
@@ -4751,7 +4751,7 @@
           "collaborators" : 10,
           "stars"         : 40,
           "forks"         : 63,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 452283,
             "CSS" : 24879,
@@ -4894,7 +4894,7 @@
         "collaborators" : 77,
         "stars"         : 48,
         "forks"         : 90,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "TypeScript" : 584210,
           "C#" : 25902,
