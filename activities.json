@@ -100,9 +100,8 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/DT/overview",
       "activityName"         : "Digital Rights Management Project",
       "type"                 : "PROJECT",
-      "state"                : "RELEASED",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2019-03-12",
-      "releaseDate"          : "2019-10-11",
       "archiveDate"          : "2019-08-12",
       "tags"                 : [
         "digital-rights-management"
@@ -143,9 +142,8 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/DT/overview",
       "activityName"         : "kdb+ Project",
       "type"                 : "PROJECT",
-      "state"                : "RELEASED",
+      "state"                : "INCUBATING",
       "contributionDate"     : "2018-07-11",
-      "releaseDate"          : "2019-10-11",
       "tags"                 : [
         "kdb+"
       ],
@@ -199,9 +197,8 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/DT/overview",
       "activityName"         : "Security Reference Data Project",
       "type"                 : "PROJECT",
-      "state"                : "RELEASED",
+      "state"                : "INCUBATING",
       "contributionDate"     : "2018-11-05",
-      "releaseDate"          : "2019-10-11",
       "mailingLists"       : [
         {
           "emailAddress"  : "data-tech-sec-ref@finos.org",
@@ -229,13 +226,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5307,
-          "watchers"      : 2140,
-          "size"          : 47039,
+          "heat"          : 5304,
+          "watchers"      : 2141,
+          "size"          : 47080,
           "collaborators" : 48,
-          "stars"         : 2140,
-          "forks"         : 167,
-          "openIssues"    : 24,
+          "stars"         : 2141,
+          "forks"         : 166,
+          "openIssues"    : 26,
           "languages"     : {
             "TypeScript" : 57416,
             "Dockerfile" : 27562,
@@ -251,13 +248,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5307,
-        "watchers"      : 2140,
-        "size"          : 47039,
+        "heat"          : 5304,
+        "watchers"      : 2141,
+        "size"          : 47080,
         "collaborators" : 48,
-        "stars"         : 2140,
-        "forks"         : 167,
-        "openIssues"    : 24,
+        "stars"         : 2141,
+        "forks"         : 166,
+        "openIssues"    : 26,
         "languages"     : {
           "TypeScript" : 57416,
           "Dockerfile" : 27562,
@@ -327,7 +324,7 @@
           "collaborators" : 41,
           "stars"         : 27,
           "forks"         : 26,
-          "openIssues"    : 20,
+          "openIssues"    : 19,
           "languages"     : {
             "TypeScript" : 12747,
             "HTML" : 1858006,
@@ -355,7 +352,7 @@
         "collaborators" : 87,
         "stars"         : 30,
         "forks"         : 27,
-        "openIssues"    : 22,
+        "openIssues"    : 21,
         "languages"     : {
           "TypeScript" : 12747,
           "HTML" : 1858006,
@@ -848,7 +845,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 201,
           "watchers"      : 4,
-          "size"          : 2652,
+          "size"          : 2674,
           "collaborators" : 42,
           "stars"         : 4,
           "forks"         : 5,
@@ -949,7 +946,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2165,
         "watchers"      : 18,
-        "size"          : 35122,
+        "size"          : 35144,
         "collaborators" : 496,
         "stars"         : 18,
         "forks"         : 29,
@@ -1037,9 +1034,8 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
       "activityName"         : "Foundation Catalogue Project",
       "type"                 : "PROJECT",
-      "state"                : "RELEASED",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2018-04-24",
-      "releaseDate"          : "2019-10-11",
       "archiveDate"          : "2018-10-23",
       "mailingLists"       : [
         {
@@ -1069,9 +1065,8 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
       "activityName"         : "Cloud Service Certification Project",
       "type"                 : "PROJECT",
-      "state"                : "RELEASED",
+      "state"                : "INCUBATING",
       "contributionDate"     : "2019-02-26",
-      "releaseDate"          : "2019-10-11",
       "gitHubRepos"          : [
         {
           "name"          : "cloud-service-certification",
@@ -1108,9 +1103,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
       "activityName"         : "Developer Experience Project",
       "type"                 : "PROJECT",
-      "state"                : "RELEASED",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2018-04-24",
-      "releaseDate"          : "2019-10-11",
+      "archiveDate"          : "2019-11-19",
       "mailingLists"       : [
         {
           "emailAddress"  : "fdx-developer-experience@finos.org",
@@ -1124,32 +1119,8 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
       "activityName"         : "ODP Project",
       "type"                 : "PROJECT",
-      "state"                : "RELEASED",
+      "state"                : "INCUBATING",
       "contributionDate"     : "2018-04-24",
-      "releaseDate"          : "2019-10-11",
-      "gitHubRepos"          : [
-        {
-          "name"          : "odp-test",
-          "description"   : "Testing accessibility to FINOS Infrastructure",
-          "gitHubURL"     : "https://github.com/finos/odp-test",
-          "heat"          : 212,
-          "watchers"      : 14,
-          "size"          : 9,
-          "collaborators" : 41,
-          "stars"         : 14,
-          "forks"         : 4,
-          "openIssues"    : 6
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 212,
-        "watchers"      : 14,
-        "size"          : 9,
-        "collaborators" : 41,
-        "stars"         : 14,
-        "forks"         : 4,
-        "openIssues"    : 6
-      },
       "mailingLists"       : [
         {
           "emailAddress"  : "fdx-odp@finos.org",
@@ -1163,9 +1134,8 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
       "activityName"         : "Open source readiness Project",
       "type"                 : "PROJECT",
-      "state"                : "RELEASED",
+      "state"                : "INCUBATING",
       "contributionDate"     : "2018-04-24",
-      "releaseDate"          : "2019-10-11",
       "gitHubRepos"          : [
         {
           "name"          : "osr-checklists",
@@ -1238,9 +1208,8 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FO/overview",
       "activityName"         : "Financial Objects Project",
       "type"                 : "PROJECT",
-      "state"                : "RELEASED",
+      "state"                : "INCUBATING",
       "contributionDate"     : "2018-04-24",
-      "releaseDate"          : "2019-10-11",
       "gitHubRepos"          : [
         {
           "name"          : "finos-fo",
@@ -1464,13 +1433,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 271,
           "watchers"      : 6,
-          "size"          : 2139,
+          "size"          : 2169,
           "collaborators" : 41,
           "stars"         : 6,
           "forks"         : 19,
-          "openIssues"    : 9,
+          "openIssues"    : 7,
           "languages"     : {
-            "TypeScript" : 588985,
+            "TypeScript" : 609802,
             "CSS" : 29619,
             "HTML" : 6427,
             "JavaScript" : 5926
@@ -1496,13 +1465,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1479,
         "watchers"      : 124,
-        "size"          : 10949,
+        "size"          : 10979,
         "collaborators" : 159,
         "stars"         : 124,
         "forks"         : 119,
-        "openIssues"    : 37,
+        "openIssues"    : 35,
         "languages"     : {
-          "TypeScript" : 1669607,
+          "TypeScript" : 1690424,
           "HTML" : 24519,
           "CSS" : 29619,
           "JavaScript" : 366639,
@@ -1661,7 +1630,7 @@
           "collaborators" : 41,
           "stars"         : 7,
           "forks"         : 16,
-          "openIssues"    : 5,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 387623,
             "CSS" : 24084,
@@ -1677,7 +1646,7 @@
         "collaborators" : 41,
         "stars"         : 7,
         "forks"         : 16,
-        "openIssues"    : 5,
+        "openIssues"    : 6,
         "languages"     : {
           "TypeScript" : 387623,
           "CSS" : 24084,
@@ -3172,7 +3141,7 @@
           "collaborators" : 10,
           "stars"         : 8,
           "forks"         : 22,
-          "openIssues"    : 0
+          "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
@@ -3182,7 +3151,7 @@
         "collaborators" : 10,
         "stars"         : 8,
         "forks"         : 22,
-        "openIssues"    : 0
+        "openIssues"    : 1
       }
     },
     {
@@ -3733,13 +3702,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 55,
           "watchers"      : 1,
-          "size"          : 2155,
+          "size"          : 2176,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 5,
           "openIssues"    : 3,
           "languages"     : {
-            "Java" : 1147315,
+            "Java" : 1149352,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3779,13 +3748,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 137,
         "watchers"      : 1,
-        "size"          : 2394,
+        "size"          : 2415,
         "collaborators" : 20,
         "stars"         : 1,
         "forks"         : 11,
         "openIssues"    : 8,
         "languages"     : {
-          "Java" : 1170553,
+          "Java" : 1172590,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -4747,13 +4716,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 435,
           "watchers"      : 40,
-          "size"          : 36447,
+          "size"          : 36463,
           "collaborators" : 10,
           "stars"         : 40,
           "forks"         : 63,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 452283,
+            "TypeScript" : 454526,
             "CSS" : 24879,
             "Shell" : 9929,
             "Batchfile" : 3768,
@@ -4890,13 +4859,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 854,
         "watchers"      : 48,
-        "size"          : 46304,
+        "size"          : 46320,
         "collaborators" : 77,
         "stars"         : 48,
         "forks"         : 90,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
-          "TypeScript" : 584210,
+          "TypeScript" : 586453,
           "C#" : 25902,
           "Shell" : 9929,
           "C++" : 35850,
@@ -4994,7 +4963,7 @@
       "type"                 : "PROJECT",
       "state"                : "RELEASED",
       "contributionDate"     : "2018-10-08",
-      "releaseDate"          : "2018-11-02",
+      "releaseDate"          : "2019-09-12",
       "gitHubRepos"          : [
         {
           "name"          : "greenkey-asrtoolkit",
@@ -5006,7 +4975,7 @@
           "collaborators" : 42,
           "stars"         : 6,
           "forks"         : 5,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "Dockerfile" : 679,
             "Shell" : 59,
@@ -5021,7 +4990,7 @@
         "collaborators" : 42,
         "stars"         : 6,
         "forks"         : 5,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "Dockerfile" : 679,
           "Shell" : 59,
@@ -5037,7 +5006,7 @@
       "type"                 : "PROJECT",
       "state"                : "RELEASED",
       "contributionDate"     : "2018-08-20",
-      "releaseDate"          : "2018-08-21",
+      "releaseDate"          : "2019-09-12",
       "tags"                 : [
         "rest api client"
       ],
