@@ -226,12 +226,12 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5321,
-          "watchers"      : 2147,
+          "heat"          : 5337,
+          "watchers"      : 2150,
           "size"          : 47188,
           "collaborators" : 48,
-          "stars"         : 2147,
-          "forks"         : 167,
+          "stars"         : 2150,
+          "forks"         : 169,
           "openIssues"    : 28,
           "languages"     : {
             "TypeScript" : 58703,
@@ -248,12 +248,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5321,
-        "watchers"      : 2147,
+        "heat"          : 5337,
+        "watchers"      : 2150,
         "size"          : 47188,
         "collaborators" : 48,
-        "stars"         : 2147,
-        "forks"         : 167,
+        "stars"         : 2150,
+        "forks"         : 169,
         "openIssues"    : 28,
         "languages"     : {
           "TypeScript" : 58703,
@@ -320,7 +320,7 @@
           "gitHubURL"     : "https://github.com/FDC3/fdc3",
           "heat"          : 348,
           "watchers"      : 27,
-          "size"          : 3588,
+          "size"          : 3589,
           "collaborators" : 41,
           "stars"         : 27,
           "forks"         : 26,
@@ -329,7 +329,7 @@
             "TypeScript" : 12747,
             "HTML" : 1858006,
             "CSS" : 3463,
-            "JavaScript" : 23843
+            "JavaScript" : 23827
           }
         },
         {
@@ -348,7 +348,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 543,
         "watchers"      : 30,
-        "size"          : 5802,
+        "size"          : 5803,
         "collaborators" : 87,
         "stars"         : 30,
         "forks"         : 27,
@@ -357,7 +357,7 @@
           "TypeScript" : 12747,
           "HTML" : 1858006,
           "CSS" : 3463,
-          "JavaScript" : 23843
+          "JavaScript" : 23827
         }
       }
     },
@@ -845,7 +845,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 201,
           "watchers"      : 4,
-          "size"          : 2702,
+          "size"          : 2724,
           "collaborators" : 42,
           "stars"         : 4,
           "forks"         : 5,
@@ -946,7 +946,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2167,
         "watchers"      : 19,
-        "size"          : 35172,
+        "size"          : 35194,
         "collaborators" : 496,
         "stars"         : 19,
         "forks"         : 29,
@@ -1765,12 +1765,12 @@
           "name"          : "plexus-interop",
           "description"   : "Plexus Interop open source project hosted by the Fintech Open Source Foundation",
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
-          "heat"          : 766,
+          "heat"          : 761,
           "watchers"      : 244,
           "size"          : 7107,
           "collaborators" : 12,
           "stars"         : 244,
-          "forks"         : 46,
+          "forks"         : 45,
           "openIssues"    : 9,
           "languages"     : {
             "TypeScript" : 1179933,
@@ -1786,12 +1786,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 766,
+        "heat"          : 761,
         "watchers"      : 244,
         "size"          : 7107,
         "collaborators" : 12,
         "stars"         : 244,
-        "forks"         : 46,
+        "forks"         : 45,
         "openIssues"    : 9,
         "languages"     : {
           "TypeScript" : 1179933,
