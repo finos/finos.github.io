@@ -19,7 +19,7 @@
           "collaborators" : 43,
           "stars"         : 32,
           "forks"         : 23,
-          "openIssues"    : 47,
+          "openIssues"    : 45,
           "languages"     : {
             "Java" : 1675334,
             "Dockerfile" : 581,
@@ -35,7 +35,7 @@
         "collaborators" : 43,
         "stars"         : 32,
         "forks"         : 23,
-        "openIssues"    : 47,
+        "openIssues"    : 45,
         "languages"     : {
           "Java" : 1675334,
           "Dockerfile" : 581,
@@ -226,45 +226,45 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5341,
-          "watchers"      : 2150,
-          "size"          : 47338,
+          "heat"          : 5352,
+          "watchers"      : 2153,
+          "size"          : 47372,
           "collaborators" : 49,
-          "stars"         : 2150,
-          "forks"         : 169,
-          "openIssues"    : 28,
+          "stars"         : 2153,
+          "forks"         : 170,
+          "openIssues"    : 26,
           "languages"     : {
-            "TypeScript" : 58703,
+            "TypeScript" : 59187,
             "Dockerfile" : 27562,
             "C++" : 1161450,
-            "CSS" : 91234,
+            "CSS" : 91361,
             "C" : 4588,
             "CMake" : 46373,
             "Makefile" : 1602,
-            "JavaScript" : 1119031,
-            "HTML" : 34148,
+            "JavaScript" : 1127570,
+            "HTML" : 35086,
             "Python" : 415792
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5341,
-        "watchers"      : 2150,
-        "size"          : 47338,
+        "heat"          : 5352,
+        "watchers"      : 2153,
+        "size"          : 47372,
         "collaborators" : 49,
-        "stars"         : 2150,
-        "forks"         : 169,
-        "openIssues"    : 28,
+        "stars"         : 2153,
+        "forks"         : 170,
+        "openIssues"    : 26,
         "languages"     : {
-          "TypeScript" : 58703,
+          "TypeScript" : 59187,
           "Dockerfile" : 27562,
           "C++" : 1161450,
-          "CSS" : 91234,
+          "CSS" : 91361,
           "C" : 4588,
           "CMake" : 46373,
           "Makefile" : 1602,
-          "JavaScript" : 1119031,
-          "HTML" : 34148,
+          "JavaScript" : 1127570,
+          "HTML" : 35086,
           "Python" : 415792
         }
       }
@@ -318,11 +318,11 @@
           "name"          : "FDC3",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/fdc3",
-          "heat"          : 352,
-          "watchers"      : 27,
+          "heat"          : 354,
+          "watchers"      : 28,
           "size"          : 3589,
           "collaborators" : 42,
-          "stars"         : 27,
+          "stars"         : 28,
           "forks"         : 26,
           "openIssues"    : 18,
           "languages"     : {
@@ -346,11 +346,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 547,
-        "watchers"      : 30,
+        "heat"          : 549,
+        "watchers"      : 31,
         "size"          : 5803,
         "collaborators" : 88,
-        "stars"         : 30,
+        "stars"         : 31,
         "forks"         : 27,
         "openIssues"    : 20,
         "languages"     : {
@@ -845,7 +845,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 205,
           "watchers"      : 4,
-          "size"          : 2727,
+          "size"          : 2750,
           "collaborators" : 43,
           "stars"         : 4,
           "forks"         : 5,
@@ -946,7 +946,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2215,
         "watchers"      : 19,
-        "size"          : 35197,
+        "size"          : 35220,
         "collaborators" : 508,
         "stars"         : 19,
         "forks"         : 29,
@@ -1309,11 +1309,11 @@
           "name"          : "app-template",
           "description"   : "A simple unopinionated Hadouken application template.",
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
-          "heat"          : 310,
-          "watchers"      : 17,
+          "heat"          : 312,
+          "watchers"      : 18,
           "size"          : 354,
           "collaborators" : 39,
-          "stars"         : 17,
+          "stars"         : 18,
           "forks"         : 24,
           "openIssues"    : 4,
           "languages"     : {
@@ -1324,11 +1324,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 310,
-        "watchers"      : 17,
+        "heat"          : 312,
+        "watchers"      : 18,
         "size"          : 354,
         "collaborators" : 39,
-        "stars"         : 17,
+        "stars"         : 18,
         "forks"         : 24,
         "openIssues"    : 4,
         "languages"     : {
@@ -1433,11 +1433,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 271,
           "watchers"      : 6,
-          "size"          : 2201,
+          "size"          : 2211,
           "collaborators" : 41,
           "stars"         : 6,
           "forks"         : 19,
-          "openIssues"    : 6,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 609802,
             "CSS" : 29619,
@@ -1465,11 +1465,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1479,
         "watchers"      : 124,
-        "size"          : 11011,
+        "size"          : 11021,
         "collaborators" : 159,
         "stars"         : 124,
         "forks"         : 119,
-        "openIssues"    : 34,
+        "openIssues"    : 33,
         "languages"     : {
           "TypeScript" : 1690424,
           "HTML" : 24519,
@@ -2991,13 +2991,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 44,
           "watchers"      : 0,
-          "size"          : 812,
+          "size"          : 821,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 4,
           "openIssues"    : 2,
           "languages"     : {
-            "Java" : 527376,
+            "Java" : 527416,
             "FreeMarker" : 133275,
             "JavaScript" : 13681
           }
@@ -3021,13 +3021,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 83,
         "watchers"      : 0,
-        "size"          : 1098,
+        "size"          : 1107,
         "collaborators" : 12,
         "stars"         : 0,
         "forks"         : 7,
         "openIssues"    : 5,
         "languages"     : {
-          "Java" : 575467,
+          "Java" : 575507,
           "FreeMarker" : 133275,
           "JavaScript" : 13681
         }
@@ -3135,23 +3135,23 @@
           "name"          : "symphony-api-spec",
           "description"   : "Swagger definitions for Symphony LLC public REST API ",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
-          "heat"          : 166,
+          "heat"          : 171,
           "watchers"      : 8,
           "size"          : 327,
           "collaborators" : 10,
           "stars"         : 8,
-          "forks"         : 22,
-          "openIssues"    : 1
+          "forks"         : 23,
+          "openIssues"    : 3
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 166,
+        "heat"          : 171,
         "watchers"      : 8,
         "size"          : 327,
         "collaborators" : 10,
         "stars"         : 8,
-        "forks"         : 22,
-        "openIssues"    : 1
+        "forks"         : 23,
+        "openIssues"    : 3
       }
     },
     {
@@ -3702,7 +3702,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 55,
           "watchers"      : 1,
-          "size"          : 2222,
+          "size"          : 2230,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 5,
@@ -3748,7 +3748,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 137,
         "watchers"      : 1,
-        "size"          : 2461,
+        "size"          : 2469,
         "collaborators" : 20,
         "stars"         : 1,
         "forks"         : 11,
@@ -3974,12 +3974,12 @@
           "name"          : "App-Integrations-Github",
           "description"   : "GitHub Integration",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Github",
-          "heat"          : 90,
-          "watchers"      : 2,
+          "heat"          : 97,
+          "watchers"      : 3,
           "size"          : 1594,
           "collaborators" : 14,
-          "stars"         : 2,
-          "forks"         : 6,
+          "stars"         : 3,
+          "forks"         : 7,
           "openIssues"    : 5,
           "languages"     : {
             "Java" : 123428,
@@ -3990,12 +3990,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 90,
-        "watchers"      : 2,
+        "heat"          : 97,
+        "watchers"      : 3,
         "size"          : 1594,
         "collaborators" : 14,
-        "stars"         : 2,
-        "forks"         : 6,
+        "stars"         : 3,
+        "forks"         : 7,
         "openIssues"    : 5,
         "languages"     : {
           "Java" : 123428,
@@ -4716,18 +4716,18 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 435,
           "watchers"      : 40,
-          "size"          : 36323,
+          "size"          : 36460,
           "collaborators" : 10,
           "stars"         : 40,
           "forks"         : 63,
           "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 454290,
+            "TypeScript" : 455694,
             "CSS" : 24879,
             "Shell" : 11321,
             "Batchfile" : 4014,
             "JavaScript" : 2541,
-            "HTML" : 31793,
+            "HTML" : 32305,
             "Objective_C" : 7347
           }
         },
@@ -4801,11 +4801,16 @@
           "gitHubURL"     : "https://github.com/symphonyoss/ScreenSnippet2",
           "heat"          : 37,
           "watchers"      : 0,
-          "size"          : 13,
+          "size"          : 93,
           "collaborators" : 8,
           "stars"         : 0,
           "forks"         : 1,
-          "openIssues"    : 1
+          "openIssues"    : 0,
+          "languages"     : {
+            "C++" : 5020,
+            "Objective_C" : 429,
+            "C" : 38324
+          }
         },
         {
           "name"          : "SwiftSearch",
@@ -4859,22 +4864,22 @@
       "cumulativeGitHubStats" : {
         "heat"          : 858,
         "watchers"      : 48,
-        "size"          : 46182,
+        "size"          : 46399,
         "collaborators" : 78,
         "stars"         : 48,
         "forks"         : 90,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 586217,
+          "TypeScript" : 587621,
           "C#" : 25902,
           "Shell" : 11321,
-          "C++" : 35850,
+          "C++" : 40870,
           "CSS" : 24879,
-          "C" : 10851,
+          "C" : 49175,
           "Batchfile" : 4014,
           "JavaScript" : 128485,
-          "Objective_C" : 7347,
-          "HTML" : 33257,
+          "Objective_C" : 7776,
+          "HTML" : 33769,
           "Python" : 921
         }
       }
