@@ -226,12 +226,12 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5369,
-          "watchers"      : 2157,
+          "heat"          : 5376,
+          "watchers"      : 2158,
           "size"          : 47373,
           "collaborators" : 50,
-          "stars"         : 2157,
-          "forks"         : 171,
+          "stars"         : 2158,
+          "forks"         : 172,
           "openIssues"    : 25,
           "languages"     : {
             "TypeScript" : 59187,
@@ -248,12 +248,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5369,
-        "watchers"      : 2157,
+        "heat"          : 5376,
+        "watchers"      : 2158,
         "size"          : 47373,
         "collaborators" : 50,
-        "stars"         : 2157,
-        "forks"         : 171,
+        "stars"         : 2158,
+        "forks"         : 172,
         "openIssues"    : 25,
         "languages"     : {
           "TypeScript" : 59187,
@@ -695,7 +695,7 @@
           "gitHubURL"     : "https://github.com/finos/bot-github-chatops",
           "heat"          : 207,
           "watchers"      : 8,
-          "size"          : 402,
+          "size"          : 406,
           "collaborators" : 44,
           "stars"         : 8,
           "forks"         : 3,
@@ -703,14 +703,14 @@
           "languages"     : {
             "Shell" : 1435,
             "FreeMarker" : 7551,
-            "Clojure" : 52462
+            "Clojure" : 52461
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 207,
         "watchers"      : 8,
-        "size"          : 402,
+        "size"          : 406,
         "collaborators" : 44,
         "stars"         : 8,
         "forks"         : 3,
@@ -718,7 +718,7 @@
         "languages"     : {
           "Shell" : 1435,
           "FreeMarker" : 7551,
-          "Clojure" : 52462
+          "Clojure" : 52461
         }
       }
     },
@@ -1072,22 +1072,22 @@
           "name"          : "cloud-service-certification",
           "description"   : "Cloud Service Certification Project",
           "gitHubURL"     : "https://github.com/finos/cloud-service-certification",
-          "heat"          : 239,
+          "heat"          : 244,
           "watchers"      : 8,
           "size"          : 1295,
           "collaborators" : 47,
           "stars"         : 8,
-          "forks"         : 7,
+          "forks"         : 8,
           "openIssues"    : 5
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 239,
+        "heat"          : 244,
         "watchers"      : 8,
         "size"          : 1295,
         "collaborators" : 47,
         "stars"         : 8,
-        "forks"         : 7,
+        "forks"         : 8,
         "openIssues"    : 5
       },
       "mailingLists"       : [
@@ -3296,7 +3296,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 102,
           "watchers"      : 9,
-          "size"          : 4032,
+          "size"          : 4347,
           "collaborators" : 6,
           "stars"         : 9,
           "forks"         : 12,
@@ -3309,7 +3309,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 102,
         "watchers"      : 9,
-        "size"          : 4032,
+        "size"          : 4347,
         "collaborators" : 6,
         "stars"         : 9,
         "forks"         : 12,
