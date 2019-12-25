@@ -59,7 +59,7 @@
           "gitHubURL"     : "https://github.com/finos/exodus",
           "heat"          : 194,
           "watchers"      : 4,
-          "size"          : 9614,
+          "size"          : 10884,
           "collaborators" : 44,
           "stars"         : 4,
           "forks"         : 2,
@@ -78,7 +78,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 194,
         "watchers"      : 4,
-        "size"          : 9614,
+        "size"          : 10884,
         "collaborators" : 44,
         "stars"         : 4,
         "forks"         : 2,
@@ -226,12 +226,12 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5376,
-          "watchers"      : 2158,
+          "heat"          : 5385,
+          "watchers"      : 2160,
           "size"          : 47373,
           "collaborators" : 50,
-          "stars"         : 2158,
-          "forks"         : 172,
+          "stars"         : 2160,
+          "forks"         : 173,
           "openIssues"    : 25,
           "languages"     : {
             "TypeScript" : 59187,
@@ -248,12 +248,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5376,
-        "watchers"      : 2158,
+        "heat"          : 5385,
+        "watchers"      : 2160,
         "size"          : 47373,
         "collaborators" : 50,
-        "stars"         : 2158,
-        "forks"         : 172,
+        "stars"         : 2160,
+        "forks"         : 173,
         "openIssues"    : 25,
         "languages"     : {
           "TypeScript" : 59187,
@@ -845,7 +845,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 209,
           "watchers"      : 4,
-          "size"          : 2803,
+          "size"          : 2828,
           "collaborators" : 44,
           "stars"         : 4,
           "forks"         : 5,
@@ -946,7 +946,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2263,
         "watchers"      : 19,
-        "size"          : 35285,
+        "size"          : 35310,
         "collaborators" : 520,
         "stars"         : 19,
         "forks"         : 29,
@@ -3296,11 +3296,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 102,
           "watchers"      : 9,
-          "size"          : 4347,
+          "size"          : 4505,
           "collaborators" : 6,
           "stars"         : 9,
           "forks"         : 12,
-          "openIssues"    : 25,
+          "openIssues"    : 26,
           "languages"     : {
             "JavaScript" : 82020
           }
@@ -3309,11 +3309,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 102,
         "watchers"      : 9,
-        "size"          : 4347,
+        "size"          : 4505,
         "collaborators" : 6,
         "stars"         : 9,
         "forks"         : 12,
-        "openIssues"    : 25,
+        "openIssues"    : 26,
         "languages"     : {
           "JavaScript" : 82020
         }
@@ -3341,7 +3341,7 @@
           "collaborators" : 9,
           "stars"         : 36,
           "forks"         : 36,
-          "openIssues"    : 17,
+          "openIssues"    : 18,
           "languages"     : {
             "Java" : 695383,
             "Shell" : 1987
@@ -3357,7 +3357,7 @@
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 9,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "Shell" : 1938
           }
@@ -3386,7 +3386,7 @@
         "collaborators" : 22,
         "stars"         : 59,
         "forks"         : 59,
-        "openIssues"    : 23,
+        "openIssues"    : 25,
         "languages"     : {
           "Java" : 718953,
           "Shell" : 4382
@@ -3924,7 +3924,7 @@
           "collaborators" : 16,
           "stars"         : 3,
           "forks"         : 13,
-          "openIssues"    : 5,
+          "openIssues"    : 6,
           "languages"     : {
             "Java" : 730159
           }
@@ -3939,7 +3939,7 @@
           "collaborators" : 15,
           "stars"         : 5,
           "forks"         : 12,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "Java" : 1171760,
             "Shell" : 1724,
@@ -3985,7 +3985,7 @@
         "collaborators" : 52,
         "stars"         : 9,
         "forks"         : 32,
-        "openIssues"    : 14,
+        "openIssues"    : 16,
         "languages"     : {
           "Java" : 1901919,
           "Shell" : 1724,
@@ -4762,18 +4762,18 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 435,
           "watchers"      : 40,
-          "size"          : 36549,
+          "size"          : 36570,
           "collaborators" : 10,
           "stars"         : 40,
           "forks"         : 63,
           "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 455694,
+            "TypeScript" : 458719,
             "CSS" : 24879,
             "Shell" : 11321,
             "Batchfile" : 4014,
             "JavaScript" : 2541,
-            "HTML" : 32305,
+            "HTML" : 32997,
             "Objective_C" : 7347
           }
         },
@@ -4910,13 +4910,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 858,
         "watchers"      : 48,
-        "size"          : 46495,
+        "size"          : 46516,
         "collaborators" : 78,
         "stars"         : 48,
         "forks"         : 90,
         "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 587621,
+          "TypeScript" : 590646,
           "C#" : 25902,
           "Shell" : 11321,
           "C++" : 41200,
@@ -4925,7 +4925,7 @@
           "Batchfile" : 4014,
           "JavaScript" : 128485,
           "Objective_C" : 7776,
-          "HTML" : 33769,
+          "HTML" : 34461,
           "Python" : 921
         }
       }
