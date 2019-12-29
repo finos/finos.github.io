@@ -318,13 +318,13 @@
           "name"          : "FDC3",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/fdc3",
-          "heat"          : 363,
-          "watchers"      : 28,
-          "size"          : 3600,
+          "heat"          : 365,
+          "watchers"      : 29,
+          "size"          : 3604,
           "collaborators" : 43,
-          "stars"         : 28,
+          "stars"         : 29,
           "forks"         : 27,
-          "openIssues"    : 19,
+          "openIssues"    : 18,
           "languages"     : {
             "TypeScript" : 12747,
             "HTML" : 1858006,
@@ -346,13 +346,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 558,
-        "watchers"      : 31,
-        "size"          : 5814,
+        "heat"          : 560,
+        "watchers"      : 32,
+        "size"          : 5818,
         "collaborators" : 89,
-        "stars"         : 31,
+        "stars"         : 32,
         "forks"         : 28,
-        "openIssues"    : 21,
+        "openIssues"    : 20,
         "languages"     : {
           "TypeScript" : 12747,
           "HTML" : 1858006,
@@ -1792,11 +1792,11 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 761,
           "watchers"      : 244,
-          "size"          : 7121,
+          "size"          : 7245,
           "collaborators" : 12,
           "stars"         : 244,
           "forks"         : 45,
-          "openIssues"    : 10,
+          "openIssues"    : 11,
           "languages"     : {
             "TypeScript" : 1179933,
             "C#" : 1758955,
@@ -1813,11 +1813,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 761,
         "watchers"      : 244,
-        "size"          : 7121,
+        "size"          : 7245,
         "collaborators" : 12,
         "stars"         : 244,
         "forks"         : 45,
-        "openIssues"    : 10,
+        "openIssues"    : 11,
         "languages"     : {
           "TypeScript" : 1179933,
           "C#" : 1758955,
@@ -3174,23 +3174,23 @@
           "name"          : "symphony-api-spec",
           "description"   : "Swagger definitions for Symphony LLC public REST API ",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
-          "heat"          : 175,
+          "heat"          : 184,
           "watchers"      : 8,
           "size"          : 328,
-          "collaborators" : 11,
+          "collaborators" : 12,
           "stars"         : 8,
-          "forks"         : 23,
-          "openIssues"    : 0
+          "forks"         : 24,
+          "openIssues"    : 1
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 175,
+        "heat"          : 184,
         "watchers"      : 8,
         "size"          : 328,
-        "collaborators" : 11,
+        "collaborators" : 12,
         "stars"         : 8,
-        "forks"         : 23,
-        "openIssues"    : 0
+        "forks"         : 24,
+        "openIssues"    : 1
       }
     },
     {
