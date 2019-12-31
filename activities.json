@@ -226,46 +226,46 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5409,
-          "watchers"      : 2167,
-          "size"          : 47373,
+          "heat"          : 5415,
+          "watchers"      : 2170,
+          "size"          : 47378,
           "collaborators" : 50,
-          "stars"         : 2167,
+          "stars"         : 2170,
           "forks"         : 175,
-          "openIssues"    : 25,
+          "openIssues"    : 23,
           "languages"     : {
             "TypeScript" : 59187,
             "Dockerfile" : 34106,
-            "C++" : 1161450,
-            "CSS" : 92821,
+            "C++" : 1190767,
+            "CSS" : 92976,
             "C" : 4588,
-            "CMake" : 60846,
+            "CMake" : 60894,
             "Makefile" : 1602,
-            "JavaScript" : 1127656,
-            "HTML" : 35086,
-            "Python" : 414421
+            "JavaScript" : 1131273,
+            "HTML" : 37501,
+            "Python" : 439858
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5409,
-        "watchers"      : 2167,
-        "size"          : 47373,
+        "heat"          : 5415,
+        "watchers"      : 2170,
+        "size"          : 47378,
         "collaborators" : 50,
-        "stars"         : 2167,
+        "stars"         : 2170,
         "forks"         : 175,
-        "openIssues"    : 25,
+        "openIssues"    : 23,
         "languages"     : {
           "TypeScript" : 59187,
           "Dockerfile" : 34106,
-          "C++" : 1161450,
-          "CSS" : 92821,
+          "C++" : 1190767,
+          "CSS" : 92976,
           "C" : 4588,
-          "CMake" : 60846,
+          "CMake" : 60894,
           "Makefile" : 1602,
-          "JavaScript" : 1127656,
-          "HTML" : 35086,
-          "Python" : 414421
+          "JavaScript" : 1131273,
+          "HTML" : 37501,
+          "Python" : 439858
         }
       }
     },
@@ -847,7 +847,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 209,
           "watchers"      : 4,
-          "size"          : 2853,
+          "size"          : 2877,
           "collaborators" : 44,
           "stars"         : 4,
           "forks"         : 5,
@@ -948,7 +948,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2263,
         "watchers"      : 19,
-        "size"          : 35335,
+        "size"          : 35359,
         "collaborators" : 520,
         "stars"         : 19,
         "forks"         : 29,
@@ -3131,11 +3131,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-click2dial",
           "heat"          : 50,
           "watchers"      : 1,
-          "size"          : 62,
+          "size"          : 83,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 4,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "HTML" : 2076,
             "CSS" : 1018,
@@ -3146,11 +3146,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 50,
         "watchers"      : 1,
-        "size"          : 62,
+        "size"          : 83,
         "collaborators" : 7,
         "stars"         : 1,
         "forks"         : 4,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "HTML" : 2076,
           "CSS" : 1018,
@@ -3180,7 +3180,7 @@
           "collaborators" : 12,
           "stars"         : 8,
           "forks"         : 24,
-          "openIssues"    : 1
+          "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
@@ -3190,7 +3190,7 @@
         "collaborators" : 12,
         "stars"         : 8,
         "forks"         : 24,
-        "openIssues"    : 1
+        "openIssues"    : 0
       }
     },
     {
@@ -4764,7 +4764,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 435,
           "watchers"      : 40,
-          "size"          : 36570,
+          "size"          : 36523,
           "collaborators" : 10,
           "stars"         : 40,
           "forks"         : 63,
@@ -4772,8 +4772,8 @@
           "languages"     : {
             "TypeScript" : 458719,
             "CSS" : 24879,
-            "Shell" : 11321,
-            "Batchfile" : 4014,
+            "Shell" : 11997,
+            "Batchfile" : 4046,
             "JavaScript" : 2541,
             "HTML" : 32997,
             "Objective_C" : 7347
@@ -4912,7 +4912,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 858,
         "watchers"      : 48,
-        "size"          : 46516,
+        "size"          : 46469,
         "collaborators" : 78,
         "stars"         : 48,
         "forks"         : 90,
@@ -4920,11 +4920,11 @@
         "languages"     : {
           "TypeScript" : 590646,
           "C#" : 25902,
-          "Shell" : 11321,
+          "Shell" : 11997,
           "C++" : 41200,
           "CSS" : 24879,
           "C" : 49583,
-          "Batchfile" : 4014,
+          "Batchfile" : 4046,
           "JavaScript" : 128485,
           "Objective_C" : 7776,
           "HTML" : 34461,
