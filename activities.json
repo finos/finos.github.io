@@ -226,12 +226,12 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5419,
-          "watchers"      : 2172,
+          "heat"          : 5426,
+          "watchers"      : 2173,
           "size"          : 47382,
           "collaborators" : 50,
-          "stars"         : 2172,
-          "forks"         : 175,
+          "stars"         : 2173,
+          "forks"         : 176,
           "openIssues"    : 23,
           "languages"     : {
             "TypeScript" : 59187,
@@ -248,12 +248,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5419,
-        "watchers"      : 2172,
+        "heat"          : 5426,
+        "watchers"      : 2173,
         "size"          : 47382,
         "collaborators" : 50,
-        "stars"         : 2172,
-        "forks"         : 175,
+        "stars"         : 2173,
+        "forks"         : 176,
         "openIssues"    : 23,
         "languages"     : {
           "TypeScript" : 59187,
@@ -694,11 +694,11 @@
           "name"          : "bot-github-chatops",
           "description"   : "A Symphony bot that uses ChatOps techniques to allow a firm employee to interact in a compliant manner with GitHub issues and PRs",
           "gitHubURL"     : "https://github.com/finos/bot-github-chatops",
-          "heat"          : 207,
-          "watchers"      : 8,
+          "heat"          : 209,
+          "watchers"      : 9,
           "size"          : 406,
           "collaborators" : 44,
-          "stars"         : 8,
+          "stars"         : 9,
           "forks"         : 3,
           "openIssues"    : 14,
           "languages"     : {
@@ -709,11 +709,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 207,
-        "watchers"      : 8,
+        "heat"          : 209,
+        "watchers"      : 9,
         "size"          : 406,
         "collaborators" : 44,
-        "stars"         : 8,
+        "stars"         : 9,
         "forks"         : 3,
         "openIssues"    : 14,
         "languages"     : {
@@ -847,7 +847,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 209,
           "watchers"      : 4,
-          "size"          : 2349,
+          "size"          : 2373,
           "collaborators" : 44,
           "stars"         : 4,
           "forks"         : 5,
@@ -948,7 +948,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2263,
         "watchers"      : 19,
-        "size"          : 34831,
+        "size"          : 34855,
         "collaborators" : 520,
         "stars"         : 19,
         "forks"         : 29,
@@ -1074,21 +1074,21 @@
           "name"          : "cloud-service-certification",
           "description"   : "Cloud Service Certification Project",
           "gitHubURL"     : "https://github.com/finos/cloud-service-certification",
-          "heat"          : 244,
-          "watchers"      : 8,
+          "heat"          : 246,
+          "watchers"      : 9,
           "size"          : 1295,
           "collaborators" : 47,
-          "stars"         : 8,
+          "stars"         : 9,
           "forks"         : 8,
           "openIssues"    : 5
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 244,
-        "watchers"      : 8,
+        "heat"          : 246,
+        "watchers"      : 9,
         "size"          : 1295,
         "collaborators" : 47,
-        "stars"         : 8,
+        "stars"         : 9,
         "forks"         : 8,
         "openIssues"    : 5
       },
@@ -3343,7 +3343,7 @@
           "collaborators" : 9,
           "stars"         : 36,
           "forks"         : 36,
-          "openIssues"    : 18,
+          "openIssues"    : 17,
           "languages"     : {
             "Java" : 695383,
             "Shell" : 1987
@@ -3359,7 +3359,7 @@
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 9,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
             "Shell" : 1938
           }
@@ -3388,7 +3388,7 @@
         "collaborators" : 22,
         "stars"         : 59,
         "forks"         : 59,
-        "openIssues"    : 25,
+        "openIssues"    : 23,
         "languages"     : {
           "Java" : 718953,
           "Shell" : 4382
@@ -4656,7 +4656,7 @@
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Java" : 102080,
             "Shell" : 1056
@@ -4685,7 +4685,7 @@
         "collaborators" : 19,
         "stars"         : 1,
         "forks"         : 12,
-        "openIssues"    : 5,
+        "openIssues"    : 6,
         "languages"     : {
           "Java" : 448339,
           "Shell" : 3517,
