@@ -19,7 +19,7 @@
           "collaborators" : 44,
           "stars"         : 32,
           "forks"         : 24,
-          "openIssues"    : 45,
+          "openIssues"    : 46,
           "languages"     : {
             "Java" : 1675334,
             "Dockerfile" : 581,
@@ -35,7 +35,7 @@
         "collaborators" : 44,
         "stars"         : 32,
         "forks"         : 24,
-        "openIssues"    : 45,
+        "openIssues"    : 46,
         "languages"     : {
           "Java" : 1675334,
           "Dockerfile" : 581,
@@ -226,44 +226,44 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5426,
-          "watchers"      : 2173,
-          "size"          : 47382,
+          "heat"          : 5428,
+          "watchers"      : 2174,
+          "size"          : 47678,
           "collaborators" : 50,
-          "stars"         : 2173,
+          "stars"         : 2174,
           "forks"         : 176,
-          "openIssues"    : 23,
+          "openIssues"    : 21,
           "languages"     : {
-            "TypeScript" : 59187,
+            "TypeScript" : 65629,
             "Dockerfile" : 34106,
             "C++" : 1190767,
-            "CSS" : 92976,
+            "CSS" : 97205,
             "C" : 4588,
             "CMake" : 60894,
             "Makefile" : 1602,
-            "JavaScript" : 1131273,
+            "JavaScript" : 1137482,
             "HTML" : 37501,
             "Python" : 439858
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5426,
-        "watchers"      : 2173,
-        "size"          : 47382,
+        "heat"          : 5428,
+        "watchers"      : 2174,
+        "size"          : 47678,
         "collaborators" : 50,
-        "stars"         : 2173,
+        "stars"         : 2174,
         "forks"         : 176,
-        "openIssues"    : 23,
+        "openIssues"    : 21,
         "languages"     : {
-          "TypeScript" : 59187,
+          "TypeScript" : 65629,
           "Dockerfile" : 34106,
           "C++" : 1190767,
-          "CSS" : 92976,
+          "CSS" : 97205,
           "C" : 4588,
           "CMake" : 60894,
           "Makefile" : 1602,
-          "JavaScript" : 1131273,
+          "JavaScript" : 1137482,
           "HTML" : 37501,
           "Python" : 439858
         }
@@ -847,7 +847,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 209,
           "watchers"      : 4,
-          "size"          : 2373,
+          "size"          : 2374,
           "collaborators" : 44,
           "stars"         : 4,
           "forks"         : 5,
@@ -948,7 +948,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2263,
         "watchers"      : 19,
-        "size"          : 34855,
+        "size"          : 34856,
         "collaborators" : 520,
         "stars"         : 19,
         "forks"         : 29,
@@ -982,11 +982,11 @@
           "name"          : "OSLC-handbook",
           "description"   : "A data store and handbook of practical information about complying with the most common open source licenses.",
           "gitHubURL"     : "https://github.com/finos/OSLC-handbook",
-          "heat"          : 417,
-          "watchers"      : 78,
+          "heat"          : 419,
+          "watchers"      : 79,
           "size"          : 509,
           "collaborators" : 44,
-          "stars"         : 78,
+          "stars"         : 79,
           "forks"         : 17,
           "openIssues"    : 7,
           "languages"     : {
@@ -1014,11 +1014,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 603,
-        "watchers"      : 78,
+        "heat"          : 605,
+        "watchers"      : 79,
         "size"          : 1633,
         "collaborators" : 88,
-        "stars"         : 78,
+        "stars"         : 79,
         "forks"         : 19,
         "openIssues"    : 9,
         "languages"     : {
@@ -1565,11 +1565,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
           "heat"          : 339,
           "watchers"      : 15,
-          "size"          : 5554,
+          "size"          : 5555,
           "collaborators" : 41,
           "stars"         : 15,
           "forks"         : 29,
-          "openIssues"    : 7,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 900757,
             "HTML" : 65523,
@@ -1617,11 +1617,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 729,
         "watchers"      : 15,
-        "size"          : 6390,
+        "size"          : 6391,
         "collaborators" : 121,
         "stars"         : 15,
         "forks"         : 43,
-        "openIssues"    : 13,
+        "openIssues"    : 12,
         "languages"     : {
           "TypeScript" : 976666,
           "HTML" : 69811,
@@ -3174,20 +3174,20 @@
           "name"          : "symphony-api-spec",
           "description"   : "Swagger definitions for Symphony LLC public REST API ",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
-          "heat"          : 184,
+          "heat"          : 188,
           "watchers"      : 8,
           "size"          : 328,
-          "collaborators" : 12,
+          "collaborators" : 13,
           "stars"         : 8,
           "forks"         : 24,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 184,
+        "heat"          : 188,
         "watchers"      : 8,
         "size"          : 328,
-        "collaborators" : 12,
+        "collaborators" : 13,
         "stars"         : 8,
         "forks"         : 24,
         "openIssues"    : 0
@@ -3298,7 +3298,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 102,
           "watchers"      : 9,
-          "size"          : 4505,
+          "size"          : 4658,
           "collaborators" : 6,
           "stars"         : 9,
           "forks"         : 12,
@@ -3311,7 +3311,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 102,
         "watchers"      : 9,
-        "size"          : 4505,
+        "size"          : 4658,
         "collaborators" : 6,
         "stars"         : 9,
         "forks"         : 12,
@@ -4764,7 +4764,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 435,
           "watchers"      : 40,
-          "size"          : 36523,
+          "size"          : 36939,
           "collaborators" : 10,
           "stars"         : 40,
           "forks"         : 63,
@@ -4912,7 +4912,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 858,
         "watchers"      : 48,
-        "size"          : 46469,
+        "size"          : 46885,
         "collaborators" : 78,
         "stars"         : 48,
         "forks"         : 90,
@@ -5071,28 +5071,28 @@
           "gitHubURL"     : "https://github.com/finos/greenkey-discovery-sdk",
           "heat"          : 215,
           "watchers"      : 5,
-          "size"          : 46202,
+          "size"          : 46211,
           "collaborators" : 45,
           "stars"         : 5,
           "forks"         : 5,
           "openIssues"    : 1,
           "languages"     : {
             "Shell" : 893,
-            "Python" : 54027
+            "Python" : 56465
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 215,
         "watchers"      : 5,
-        "size"          : 46202,
+        "size"          : 46211,
         "collaborators" : 45,
         "stars"         : 5,
         "forks"         : 5,
         "openIssues"    : 1,
         "languages"     : {
           "Shell" : 893,
-          "Python" : 54027
+          "Python" : 56465
         }
       }
     },
