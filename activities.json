@@ -226,11 +226,11 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5428,
-          "watchers"      : 2174,
+          "heat"          : 5430,
+          "watchers"      : 2175,
           "size"          : 47678,
           "collaborators" : 50,
-          "stars"         : 2174,
+          "stars"         : 2175,
           "forks"         : 176,
           "openIssues"    : 21,
           "languages"     : {
@@ -248,11 +248,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5428,
-        "watchers"      : 2174,
+        "heat"          : 5430,
+        "watchers"      : 2175,
         "size"          : 47678,
         "collaborators" : 50,
-        "stars"         : 2174,
+        "stars"         : 2175,
         "forks"         : 176,
         "openIssues"    : 21,
         "languages"     : {
@@ -847,7 +847,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 209,
           "watchers"      : 4,
-          "size"          : 2374,
+          "size"          : 2399,
           "collaborators" : 44,
           "stars"         : 4,
           "forks"         : 5,
@@ -948,7 +948,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2263,
         "watchers"      : 19,
-        "size"          : 34856,
+        "size"          : 34881,
         "collaborators" : 520,
         "stars"         : 19,
         "forks"         : 29,
@@ -1334,12 +1334,12 @@
           "name"          : "app-template",
           "description"   : "A simple unopinionated Hadouken application template.",
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
-          "heat"          : 312,
+          "heat"          : 317,
           "watchers"      : 18,
           "size"          : 354,
           "collaborators" : 39,
           "stars"         : 18,
-          "forks"         : 24,
+          "forks"         : 25,
           "openIssues"    : 4,
           "languages"     : {
             "CSS" : 704,
@@ -1349,12 +1349,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 312,
+        "heat"          : 317,
         "watchers"      : 18,
         "size"          : 354,
         "collaborators" : 39,
         "stars"         : 18,
-        "forks"         : 24,
+        "forks"         : 25,
         "openIssues"    : 4,
         "languages"     : {
           "CSS" : 704,
