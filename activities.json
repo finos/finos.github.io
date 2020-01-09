@@ -19,7 +19,7 @@
           "collaborators" : 45,
           "stars"         : 32,
           "forks"         : 25,
-          "openIssues"    : 45,
+          "openIssues"    : 44,
           "languages"     : {
             "Java" : 1675334,
             "Dockerfile" : 581,
@@ -35,7 +35,7 @@
         "collaborators" : 45,
         "stars"         : 32,
         "forks"         : 25,
-        "openIssues"    : 45,
+        "openIssues"    : 44,
         "languages"     : {
           "Java" : 1675334,
           "Dockerfile" : 581,
@@ -1462,7 +1462,7 @@
           "collaborators" : 41,
           "stars"         : 6,
           "forks"         : 20,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 690763,
             "CSS" : 29619,
@@ -1494,7 +1494,7 @@
         "collaborators" : 159,
         "stars"         : 124,
         "forks"         : 122,
-        "openIssues"    : 34,
+        "openIssues"    : 35,
         "languages"     : {
           "TypeScript" : 1771385,
           "HTML" : 24682,
