@@ -13,13 +13,13 @@
           "name"          : "datahelix",
           "description"   : "The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for the purpose of testing and validation",
           "gitHubURL"     : "https://github.com/finos/datahelix",
-          "heat"          : 364,
+          "heat"          : 369,
           "watchers"      : 32,
-          "size"          : 14732,
+          "size"          : 14734,
           "collaborators" : 45,
           "stars"         : 32,
-          "forks"         : 24,
-          "openIssues"    : 49,
+          "forks"         : 25,
+          "openIssues"    : 45,
           "languages"     : {
             "Java" : 1675334,
             "Dockerfile" : 581,
@@ -29,13 +29,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 364,
+        "heat"          : 369,
         "watchers"      : 32,
-        "size"          : 14732,
+        "size"          : 14734,
         "collaborators" : 45,
         "stars"         : 32,
-        "forks"         : 24,
-        "openIssues"    : 49,
+        "forks"         : 25,
+        "openIssues"    : 45,
         "languages"     : {
           "Java" : 1675334,
           "Dockerfile" : 581,
@@ -226,46 +226,46 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5434,
-          "watchers"      : 2175,
-          "size"          : 47437,
+          "heat"          : 5443,
+          "watchers"      : 2177,
+          "size"          : 47879,
           "collaborators" : 51,
-          "stars"         : 2175,
-          "forks"         : 176,
-          "openIssues"    : 22,
+          "stars"         : 2177,
+          "forks"         : 177,
+          "openIssues"    : 24,
           "languages"     : {
             "TypeScript" : 65629,
             "Dockerfile" : 34106,
-            "C++" : 1190767,
+            "C++" : 1191360,
             "CSS" : 97205,
             "C" : 4588,
             "CMake" : 60894,
             "Makefile" : 1602,
-            "JavaScript" : 1137482,
-            "HTML" : 37501,
-            "Python" : 439858
+            "JavaScript" : 1138029,
+            "HTML" : 38980,
+            "Python" : 457536
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5434,
-        "watchers"      : 2175,
-        "size"          : 47437,
+        "heat"          : 5443,
+        "watchers"      : 2177,
+        "size"          : 47879,
         "collaborators" : 51,
-        "stars"         : 2175,
-        "forks"         : 176,
-        "openIssues"    : 22,
+        "stars"         : 2177,
+        "forks"         : 177,
+        "openIssues"    : 24,
         "languages"     : {
           "TypeScript" : 65629,
           "Dockerfile" : 34106,
-          "C++" : 1190767,
+          "C++" : 1191360,
           "CSS" : 97205,
           "C" : 4588,
           "CMake" : 60894,
           "Makefile" : 1602,
-          "JavaScript" : 1137482,
-          "HTML" : 37501,
-          "Python" : 439858
+          "JavaScript" : 1138029,
+          "HTML" : 38980,
+          "Python" : 457536
         }
       }
     },
@@ -324,7 +324,7 @@
           "collaborators" : 44,
           "stars"         : 29,
           "forks"         : 28,
-          "openIssues"    : 19,
+          "openIssues"    : 22,
           "languages"     : {
             "TypeScript" : 12747,
             "HTML" : 1858006,
@@ -352,7 +352,7 @@
         "collaborators" : 90,
         "stars"         : 32,
         "forks"         : 29,
-        "openIssues"    : 21,
+        "openIssues"    : 24,
         "languages"     : {
           "TypeScript" : 12747,
           "HTML" : 1858006,
@@ -738,11 +738,11 @@
           "gitHubURL"     : "https://github.com/finos/cla-bot",
           "heat"          : 298,
           "watchers"      : 31,
-          "size"          : 1059,
+          "size"          : 1061,
           "collaborators" : 44,
           "stars"         : 31,
           "forks"         : 12,
-          "openIssues"    : 21,
+          "openIssues"    : 22,
           "languages"     : {
             "Shell" : 155,
             "JavaScript" : 49861
@@ -752,11 +752,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 298,
         "watchers"      : 31,
-        "size"          : 1059,
+        "size"          : 1061,
         "collaborators" : 44,
         "stars"         : 31,
         "forks"         : 12,
-        "openIssues"    : 21,
+        "openIssues"    : 22,
         "languages"     : {
           "Shell" : 155,
           "JavaScript" : 49861
@@ -847,7 +847,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 213,
           "watchers"      : 4,
-          "size"          : 2399,
+          "size"          : 2425,
           "collaborators" : 45,
           "stars"         : 4,
           "forks"         : 5,
@@ -948,7 +948,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2311,
         "watchers"      : 19,
-        "size"          : 34881,
+        "size"          : 34907,
         "collaborators" : 532,
         "stars"         : 19,
         "forks"         : 29,
@@ -1134,7 +1134,7 @@
           "collaborators" : 44,
           "stars"         : 14,
           "forks"         : 5,
-          "openIssues"    : 5
+          "openIssues"    : 6
         }
       ],
       "cumulativeGitHubStats" : {
@@ -1144,7 +1144,7 @@
         "collaborators" : 44,
         "stars"         : 14,
         "forks"         : 5,
-        "openIssues"    : 5
+        "openIssues"    : 6
       },
       "mailingLists"       : [
         {
@@ -1208,22 +1208,22 @@
           "name"          : "reference-foss-policy",
           "description"   : "Reference FOSS Policy for Financial Services Institutions",
           "gitHubURL"     : "https://github.com/finos/reference-foss-policy",
-          "heat"          : 192,
+          "heat"          : 197,
           "watchers"      : 3,
           "size"          : 88,
           "collaborators" : 44,
           "stars"         : 3,
-          "forks"         : 2,
+          "forks"         : 3,
           "openIssues"    : 4
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 192,
+        "heat"          : 197,
         "watchers"      : 3,
         "size"          : 88,
         "collaborators" : 44,
         "stars"         : 3,
-        "forks"         : 2,
+        "forks"         : 3,
         "openIssues"    : 4
       }
     },
@@ -1458,16 +1458,16 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 276,
           "watchers"      : 6,
-          "size"          : 2211,
+          "size"          : 2236,
           "collaborators" : 41,
           "stars"         : 6,
           "forks"         : 20,
-          "openIssues"    : 7,
+          "openIssues"    : 6,
           "languages"     : {
-            "TypeScript" : 609802,
+            "TypeScript" : 690763,
             "CSS" : 29619,
-            "HTML" : 6427,
-            "JavaScript" : 5926
+            "HTML" : 6590,
+            "JavaScript" : 6060
           }
         },
         {
@@ -1490,16 +1490,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1494,
         "watchers"      : 124,
-        "size"          : 11021,
+        "size"          : 11046,
         "collaborators" : 159,
         "stars"         : 124,
         "forks"         : 122,
-        "openIssues"    : 35,
+        "openIssues"    : 34,
         "languages"     : {
-          "TypeScript" : 1690424,
-          "HTML" : 24519,
+          "TypeScript" : 1771385,
+          "HTML" : 24682,
           "CSS" : 29619,
-          "JavaScript" : 366639,
+          "JavaScript" : 366773,
           "Python" : 2150
         }
       }
@@ -2363,8 +2363,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "Helpdesk Bot",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2016-05-27",
+      "archiveDate"          : "2020-01-02",
       "tags"                 : [
         "bot"
       ],
@@ -3028,14 +3029,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 44,
           "watchers"      : 0,
-          "size"          : 833,
+          "size"          : 836,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 4,
           "openIssues"    : 2,
           "languages"     : {
             "Java" : 527421,
-            "FreeMarker" : 133275,
+            "FreeMarker" : 133155,
             "JavaScript" : 13681
           }
         },
@@ -3058,14 +3059,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 83,
         "watchers"      : 0,
-        "size"          : 1119,
+        "size"          : 1122,
         "collaborators" : 12,
         "stars"         : 0,
         "forks"         : 7,
         "openIssues"    : 5,
         "languages"     : {
           "Java" : 575512,
-          "FreeMarker" : 133275,
+          "FreeMarker" : 133155,
           "JavaScript" : 13681
         }
       }
@@ -3174,22 +3175,22 @@
           "name"          : "symphony-api-spec",
           "description"   : "Swagger definitions for Symphony LLC public REST API ",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
-          "heat"          : 188,
+          "heat"          : 193,
           "watchers"      : 8,
-          "size"          : 328,
+          "size"          : 352,
           "collaborators" : 13,
           "stars"         : 8,
-          "forks"         : 24,
+          "forks"         : 25,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 188,
+        "heat"          : 193,
         "watchers"      : 8,
-        "size"          : 328,
+        "size"          : 352,
         "collaborators" : 13,
         "stars"         : 8,
-        "forks"         : 24,
+        "forks"         : 25,
         "openIssues"    : 0
       }
     },
@@ -3298,7 +3299,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 102,
           "watchers"      : 9,
-          "size"          : 4658,
+          "size"          : 4963,
           "collaborators" : 6,
           "stars"         : 9,
           "forks"         : 12,
@@ -3311,7 +3312,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 102,
         "watchers"      : 9,
-        "size"          : 4658,
+        "size"          : 4963,
         "collaborators" : 6,
         "stars"         : 9,
         "forks"         : 12,
@@ -3559,8 +3560,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "Documentation and Examples",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2016-06-16",
+      "archiveDate"          : "2020-01-02",
       "tags"                 : [
         "documentation",
         "example",
@@ -3743,13 +3745,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 55,
           "watchers"      : 1,
-          "size"          : 2240,
+          "size"          : 2247,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 5,
           "openIssues"    : 3,
           "languages"     : {
-            "Java" : 1162057,
+            "Java" : 1162673,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3789,13 +3791,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 137,
         "watchers"      : 1,
-        "size"          : 2479,
+        "size"          : 2486,
         "collaborators" : 20,
         "stars"         : 1,
         "forks"         : 11,
         "openIssues"    : 8,
         "languages"     : {
-          "Java" : 1185295,
+          "Java" : 1185911,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -4764,13 +4766,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 435,
           "watchers"      : 40,
-          "size"          : 36939,
+          "size"          : 36969,
           "collaborators" : 10,
           "stars"         : 40,
           "forks"         : 63,
           "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 458719,
+            "TypeScript" : 460982,
             "CSS" : 24879,
             "Shell" : 11997,
             "Batchfile" : 4046,
@@ -4912,13 +4914,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 858,
         "watchers"      : 48,
-        "size"          : 46885,
+        "size"          : 46915,
         "collaborators" : 78,
         "stars"         : 48,
         "forks"         : 90,
         "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 590646,
+          "TypeScript" : 592909,
           "C#" : 25902,
           "Shell" : 11997,
           "C++" : 41200,
@@ -5025,30 +5027,30 @@
           "gitHubURL"     : "https://github.com/finos/greenkey-asrtoolkit",
           "heat"          : 219,
           "watchers"      : 7,
-          "size"          : 453,
+          "size"          : 470,
           "collaborators" : 45,
           "stars"         : 7,
           "forks"         : 5,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
             "Dockerfile" : 679,
             "Shell" : 59,
-            "Python" : 83885
+            "Python" : 86349
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 219,
         "watchers"      : 7,
-        "size"          : 453,
+        "size"          : 470,
         "collaborators" : 45,
         "stars"         : 7,
         "forks"         : 5,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
           "Dockerfile" : 679,
           "Shell" : 59,
-          "Python" : 83885
+          "Python" : 86349
         }
       }
     },
