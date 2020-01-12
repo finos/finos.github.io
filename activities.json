@@ -13,13 +13,13 @@
           "name"          : "datahelix",
           "description"   : "The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for the purpose of testing and validation",
           "gitHubURL"     : "https://github.com/finos/datahelix",
-          "heat"          : 381,
-          "watchers"      : 32,
-          "size"          : 14785,
+          "heat"          : 383,
+          "watchers"      : 33,
+          "size"          : 14804,
           "collaborators" : 48,
-          "stars"         : 32,
+          "stars"         : 33,
           "forks"         : 25,
-          "openIssues"    : 39,
+          "openIssues"    : 37,
           "languages"     : {
             "Java" : 1675347,
             "Dockerfile" : 581,
@@ -29,13 +29,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 381,
-        "watchers"      : 32,
-        "size"          : 14785,
+        "heat"          : 383,
+        "watchers"      : 33,
+        "size"          : 14804,
         "collaborators" : 48,
-        "stars"         : 32,
+        "stars"         : 33,
         "forks"         : 25,
-        "openIssues"    : 39,
+        "openIssues"    : 37,
         "languages"     : {
           "Java" : 1675347,
           "Dockerfile" : 581,
@@ -226,11 +226,11 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5457,
-          "watchers"      : 2178,
-          "size"          : 47609,
+          "heat"          : 5471,
+          "watchers"      : 2185,
+          "size"          : 47622,
           "collaborators" : 54,
-          "stars"         : 2178,
+          "stars"         : 2185,
           "forks"         : 177,
           "openIssues"    : 23,
           "languages"     : {
@@ -248,11 +248,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5457,
-        "watchers"      : 2178,
-        "size"          : 47609,
+        "heat"          : 5471,
+        "watchers"      : 2185,
+        "size"          : 47622,
         "collaborators" : 54,
-        "stars"         : 2178,
+        "stars"         : 2185,
         "forks"         : 177,
         "openIssues"    : 23,
         "languages"     : {
@@ -325,7 +325,7 @@
           "collaborators" : 47,
           "stars"         : 29,
           "forks"         : 28,
-          "openIssues"    : 23,
+          "openIssues"    : 24,
           "languages"     : {
             "TypeScript" : 12747,
             "HTML" : 1858006,
@@ -353,7 +353,7 @@
         "collaborators" : 93,
         "stars"         : 32,
         "forks"         : 29,
-        "openIssues"    : 25,
+        "openIssues"    : 26,
         "languages"     : {
           "TypeScript" : 12747,
           "HTML" : 1858006,
@@ -744,7 +744,7 @@
           "collaborators" : 47,
           "stars"         : 31,
           "forks"         : 12,
-          "openIssues"    : 22,
+          "openIssues"    : 23,
           "languages"     : {
             "Shell" : 155,
             "JavaScript" : 49861
@@ -758,7 +758,7 @@
         "collaborators" : 47,
         "stars"         : 31,
         "forks"         : 12,
-        "openIssues"    : 22,
+        "openIssues"    : 23,
         "languages"     : {
           "Shell" : 155,
           "JavaScript" : 49861
@@ -849,7 +849,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 225,
           "watchers"      : 4,
-          "size"          : 2449,
+          "size"          : 2451,
           "collaborators" : 48,
           "stars"         : 4,
           "forks"         : 5,
@@ -950,7 +950,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2455,
         "watchers"      : 19,
-        "size"          : 34931,
+        "size"          : 34933,
         "collaborators" : 568,
         "stars"         : 19,
         "forks"         : 29,
@@ -1137,7 +1137,7 @@
           "collaborators" : 47,
           "stars"         : 14,
           "forks"         : 5,
-          "openIssues"    : 6
+          "openIssues"    : 7
         }
       ],
       "cumulativeGitHubStats" : {
@@ -1147,7 +1147,7 @@
         "collaborators" : 47,
         "stars"         : 14,
         "forks"         : 5,
-        "openIssues"    : 6
+        "openIssues"    : 7
       },
       "mailingLists"       : [
         {
@@ -1609,7 +1609,7 @@
           "collaborators" : 39,
           "stars"         : 0,
           "forks"         : 9,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 60022,
             "CSS" : 70303,
@@ -1625,7 +1625,7 @@
         "collaborators" : 121,
         "stars"         : 15,
         "forks"         : 43,
-        "openIssues"    : 13,
+        "openIssues"    : 14,
         "languages"     : {
           "TypeScript" : 976666,
           "HTML" : 69811,
@@ -1655,14 +1655,14 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 258,
           "watchers"      : 7,
-          "size"          : 9498,
+          "size"          : 9514,
           "collaborators" : 41,
           "stars"         : 7,
           "forks"         : 16,
-          "openIssues"    : 7,
+          "openIssues"    : 6,
           "languages"     : {
-            "TypeScript" : 387628,
-            "CSS" : 24084,
+            "TypeScript" : 395522,
+            "CSS" : 24096,
             "HTML" : 3509,
             "JavaScript" : 3896
           }
@@ -1671,14 +1671,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 258,
         "watchers"      : 7,
-        "size"          : 9498,
+        "size"          : 9514,
         "collaborators" : 41,
         "stars"         : 7,
         "forks"         : 16,
-        "openIssues"    : 7,
+        "openIssues"    : 6,
         "languages"     : {
-          "TypeScript" : 387628,
-          "CSS" : 24084,
+          "TypeScript" : 395522,
+          "CSS" : 24096,
           "HTML" : 3509,
           "JavaScript" : 3896
         }
@@ -1741,26 +1741,26 @@
           "name"          : "finos-plexus.github.io",
           "description"   : "",
           "gitHubURL"     : "https://github.com/finos-plexus/finos-plexus.github.io",
-          "heat"          : 73,
+          "heat"          : 78,
           "watchers"      : 1,
           "size"          : 1205,
           "collaborators" : 9,
           "stars"         : 1,
-          "forks"         : 7,
-          "openIssues"    : 5,
+          "forks"         : 8,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 21599
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 73,
+        "heat"          : 78,
         "watchers"      : 1,
         "size"          : 1205,
         "collaborators" : 9,
         "stars"         : 1,
-        "forks"         : 7,
-        "openIssues"    : 5,
+        "forks"         : 8,
+        "openIssues"    : 6,
         "languages"     : {
           "TypeScript" : 21599
         }
@@ -1795,7 +1795,7 @@
           "collaborators" : 12,
           "stars"         : 244,
           "forks"         : 45,
-          "openIssues"    : 10,
+          "openIssues"    : 8,
           "languages"     : {
             "TypeScript" : 1179933,
             "C#" : 1758955,
@@ -1816,7 +1816,7 @@
         "collaborators" : 12,
         "stars"         : 244,
         "forks"         : 45,
-        "openIssues"    : 10,
+        "openIssues"    : 8,
         "languages"     : {
           "TypeScript" : 1179933,
           "C#" : 1758955,
@@ -2861,7 +2861,7 @@
           "collaborators" : 5,
           "stars"         : 4,
           "forks"         : 5,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "Dockerfile" : 401,
             "Shell" : 1098,
@@ -2876,7 +2876,7 @@
         "collaborators" : 5,
         "stars"         : 4,
         "forks"         : 5,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "Dockerfile" : 401,
           "Shell" : 1098,
@@ -3302,11 +3302,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 102,
           "watchers"      : 9,
-          "size"          : 5276,
+          "size"          : 5437,
           "collaborators" : 6,
           "stars"         : 9,
           "forks"         : 12,
-          "openIssues"    : 26,
+          "openIssues"    : 25,
           "languages"     : {
             "JavaScript" : 82020
           }
@@ -3315,11 +3315,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 102,
         "watchers"      : 9,
-        "size"          : 5276,
+        "size"          : 5437,
         "collaborators" : 6,
         "stars"         : 9,
         "forks"         : 12,
-        "openIssues"    : 26,
+        "openIssues"    : 25,
         "languages"     : {
           "JavaScript" : 82020
         }
@@ -3347,7 +3347,7 @@
           "collaborators" : 9,
           "stars"         : 36,
           "forks"         : 36,
-          "openIssues"    : 17,
+          "openIssues"    : 16,
           "languages"     : {
             "Java" : 695383,
             "Shell" : 1987
@@ -3363,7 +3363,7 @@
           "collaborators" : 7,
           "stars"         : 2,
           "forks"         : 9,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
             "Shell" : 1938
           }
@@ -3392,7 +3392,7 @@
         "collaborators" : 22,
         "stars"         : 59,
         "forks"         : 59,
-        "openIssues"    : 23,
+        "openIssues"    : 21,
         "languages"     : {
           "Java" : 718953,
           "Shell" : 4382
@@ -3931,7 +3931,7 @@
           "collaborators" : 16,
           "stars"         : 3,
           "forks"         : 13,
-          "openIssues"    : 6,
+          "openIssues"    : 5,
           "languages"     : {
             "Java" : 730159
           }
@@ -3946,7 +3946,7 @@
           "collaborators" : 15,
           "stars"         : 5,
           "forks"         : 12,
-          "openIssues"    : 5,
+          "openIssues"    : 4,
           "languages"     : {
             "Java" : 1171760,
             "Shell" : 1724,
@@ -3992,7 +3992,7 @@
         "collaborators" : 52,
         "stars"         : 9,
         "forks"         : 32,
-        "openIssues"    : 16,
+        "openIssues"    : 14,
         "languages"     : {
           "Java" : 1901919,
           "Shell" : 1724,
@@ -4769,7 +4769,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 435,
           "watchers"      : 40,
-          "size"          : 36969,
+          "size"          : 36973,
           "collaborators" : 10,
           "stars"         : 40,
           "forks"         : 63,
@@ -4854,15 +4854,15 @@
           "gitHubURL"     : "https://github.com/symphonyoss/ScreenSnippet2",
           "heat"          : 37,
           "watchers"      : 0,
-          "size"          : 172,
+          "size"          : 184,
           "collaborators" : 8,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "C++" : 6513,
+            "C++" : 7769,
             "Objective_C" : 429,
-            "C" : 44532
+            "C" : 44648
           }
         },
         {
@@ -4917,7 +4917,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 858,
         "watchers"      : 48,
-        "size"          : 46987,
+        "size"          : 47003,
         "collaborators" : 78,
         "stars"         : 48,
         "forks"         : 90,
@@ -4926,9 +4926,9 @@
           "TypeScript" : 592909,
           "C#" : 25902,
           "Shell" : 11997,
-          "C++" : 42363,
+          "C++" : 43619,
           "CSS" : 24879,
-          "C" : 55383,
+          "C" : 55499,
           "Batchfile" : 4046,
           "JavaScript" : 128485,
           "Objective_C" : 7776,
