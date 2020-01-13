@@ -241,7 +241,7 @@
             "C" : 4588,
             "CMake" : 60894,
             "Makefile" : 1602,
-            "JavaScript" : 1138029,
+            "JavaScript" : 1143830,
             "HTML" : 38980,
             "Python" : 457536
           }
@@ -263,7 +263,7 @@
           "C" : 4588,
           "CMake" : 60894,
           "Makefile" : 1602,
-          "JavaScript" : 1138029,
+          "JavaScript" : 1143830,
           "HTML" : 38980,
           "Python" : 457536
         }
@@ -849,7 +849,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 225,
           "watchers"      : 4,
-          "size"          : 2501,
+          "size"          : 2525,
           "collaborators" : 48,
           "stars"         : 4,
           "forks"         : 5,
@@ -866,7 +866,7 @@
           "gitHubURL"     : "https://github.com/finos/metadata-tool",
           "heat"          : 233,
           "watchers"      : 3,
-          "size"          : 292,
+          "size"          : 295,
           "collaborators" : 48,
           "stars"         : 3,
           "forks"         : 7,
@@ -950,7 +950,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2455,
         "watchers"      : 19,
-        "size"          : 34986,
+        "size"          : 35013,
         "collaborators" : 568,
         "stars"         : 19,
         "forks"         : 29,
@@ -2312,8 +2312,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "Group Maker/Checker Bot",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2018-01-04",
+      "archiveDate"          : "2020-01-13",
       "tags"                 : [
         "bot"
       ],
@@ -2322,12 +2323,12 @@
           "name"          : "GroupID",
           "description"   : "Symphony GroupID repository",
           "gitHubURL"     : "https://github.com/symphonyoss/GroupID",
-          "heat"          : 59,
+          "heat"          : 64,
           "watchers"      : 0,
           "size"          : 24573,
           "collaborators" : 11,
           "stars"         : 0,
-          "forks"         : 3,
+          "forks"         : 4,
           "openIssues"    : 1,
           "languages"     : {
             "Java" : 735956,
@@ -2339,12 +2340,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 59,
+        "heat"          : 64,
         "watchers"      : 0,
         "size"          : 24573,
         "collaborators" : 11,
         "stars"         : 0,
-        "forks"         : 3,
+        "forks"         : 4,
         "openIssues"    : 1,
         "languages"     : {
           "Java" : 735956,
