@@ -849,7 +849,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 225,
           "watchers"      : 4,
-          "size"          : 2476,
+          "size"          : 2501,
           "collaborators" : 48,
           "stars"         : 4,
           "forks"         : 5,
@@ -866,14 +866,14 @@
           "gitHubURL"     : "https://github.com/finos/metadata-tool",
           "heat"          : 233,
           "watchers"      : 3,
-          "size"          : 287,
+          "size"          : 292,
           "collaborators" : 48,
           "stars"         : 3,
           "forks"         : 7,
-          "openIssues"    : 5,
+          "openIssues"    : 4,
           "languages"     : {
             "FreeMarker" : 21965,
-            "Clojure" : 91381
+            "Clojure" : 92879
           }
         },
         {
@@ -950,11 +950,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2455,
         "watchers"      : 19,
-        "size"          : 34956,
+        "size"          : 34986,
         "collaborators" : 568,
         "stars"         : 19,
         "forks"         : 29,
-        "openIssues"    : 35,
+        "openIssues"    : 34,
         "languages"     : {
           "Java" : 12202,
           "Shell" : 28084,
@@ -963,7 +963,7 @@
           "HTML" : 6901,
           "FreeMarker" : 21965,
           "Python" : 7381,
-          "Clojure" : 92579
+          "Clojure" : 94077
         }
       }
     },
@@ -1691,7 +1691,36 @@
       "activityName"         : "OpenFin React Hooks",
       "type"                 : "PROJECT",
       "state"                : "INCUBATING",
-      "contributionDate"     : "2019-11-05"
+      "contributionDate"     : "2019-11-05",
+      "gitHubRepos"          : [
+        {
+          "name"          : "openfin-react-hooks",
+          "description"   : "A collection of React Hooks built on top of the Openfin API - from Scott Logic",
+          "gitHubURL"     : "https://github.com/finos/openfin-react-hooks",
+          "heat"          : 299,
+          "watchers"      : 18,
+          "size"          : 606,
+          "collaborators" : 47,
+          "stars"         : 18,
+          "forks"         : 15,
+          "openIssues"    : 14,
+          "languages"     : {
+            "TypeScript" : 37132
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 299,
+        "watchers"      : 18,
+        "size"          : 606,
+        "collaborators" : 47,
+        "stars"         : 18,
+        "forks"         : 15,
+        "openIssues"    : 14,
+        "languages"     : {
+          "TypeScript" : 37132
+        }
+      }
     },
     {
       "programName"          : "Hadouken",
@@ -5089,28 +5118,28 @@
           "gitHubURL"     : "https://github.com/finos/greenkey-discovery-sdk",
           "heat"          : 231,
           "watchers"      : 5,
-          "size"          : 46216,
+          "size"          : 46226,
           "collaborators" : 49,
           "stars"         : 5,
           "forks"         : 5,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
             "Shell" : 893,
-            "Python" : 56465
+            "Python" : 63083
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 231,
         "watchers"      : 5,
-        "size"          : 46216,
+        "size"          : 46226,
         "collaborators" : 49,
         "stars"         : 5,
         "forks"         : 5,
-        "openIssues"    : 2,
+        "openIssues"    : 1,
         "languages"     : {
           "Shell" : 893,
-          "Python" : 56465
+          "Python" : 63083
         }
       }
     },
@@ -5133,7 +5162,7 @@
           "gitHubURL"     : "https://github.com/finos/greenkey-voice-sdk",
           "heat"          : 210,
           "watchers"      : 2,
-          "size"          : 325,
+          "size"          : 326,
           "collaborators" : 49,
           "stars"         : 2,
           "forks"         : 2,
@@ -5146,7 +5175,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 210,
         "watchers"      : 2,
-        "size"          : 325,
+        "size"          : 326,
         "collaborators" : 49,
         "stars"         : 2,
         "forks"         : 2,
