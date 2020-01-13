@@ -15,11 +15,11 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 383,
           "watchers"      : 33,
-          "size"          : 14804,
+          "size"          : 14809,
           "collaborators" : 48,
           "stars"         : 33,
           "forks"         : 25,
-          "openIssues"    : 37,
+          "openIssues"    : 40,
           "languages"     : {
             "Java" : 1675347,
             "Dockerfile" : 581,
@@ -31,11 +31,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 383,
         "watchers"      : 33,
-        "size"          : 14804,
+        "size"          : 14809,
         "collaborators" : 48,
         "stars"         : 33,
         "forks"         : 25,
-        "openIssues"    : 37,
+        "openIssues"    : 40,
         "languages"     : {
           "Java" : 1675347,
           "Dockerfile" : 581,
@@ -226,11 +226,11 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5473,
-          "watchers"      : 2186,
-          "size"          : 47622,
+          "heat"          : 5475,
+          "watchers"      : 2187,
+          "size"          : 47639,
           "collaborators" : 54,
-          "stars"         : 2186,
+          "stars"         : 2187,
           "forks"         : 177,
           "openIssues"    : 25,
           "languages"     : {
@@ -248,11 +248,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5473,
-        "watchers"      : 2186,
-        "size"          : 47622,
+        "heat"          : 5475,
+        "watchers"      : 2187,
+        "size"          : 47639,
         "collaborators" : 54,
-        "stars"         : 2186,
+        "stars"         : 2187,
         "forks"         : 177,
         "openIssues"    : 25,
         "languages"     : {
@@ -849,7 +849,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 225,
           "watchers"      : 4,
-          "size"          : 2475,
+          "size"          : 2476,
           "collaborators" : 48,
           "stars"         : 4,
           "forks"         : 5,
@@ -866,7 +866,7 @@
           "gitHubURL"     : "https://github.com/finos/metadata-tool",
           "heat"          : 233,
           "watchers"      : 3,
-          "size"          : 289,
+          "size"          : 287,
           "collaborators" : 48,
           "stars"         : 3,
           "forks"         : 7,
@@ -950,7 +950,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2455,
         "watchers"      : 19,
-        "size"          : 34957,
+        "size"          : 34956,
         "collaborators" : 568,
         "stars"         : 19,
         "forks"         : 29,
@@ -1249,7 +1249,7 @@
           "collaborators" : 48,
           "stars"         : 4,
           "forks"         : 7,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 6803,
             "CSS" : 3722,
@@ -1265,7 +1265,7 @@
         "collaborators" : 48,
         "stars"         : 4,
         "forks"         : 7,
-        "openIssues"    : 0,
+        "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 6803,
           "CSS" : 3722,
@@ -2749,8 +2749,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "Symfuny Chat Bot",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2017-05-04",
+      "releaseDate"          : "2020-01-02",
       "tags"                 : [
         "bot"
       ],
@@ -3021,8 +3022,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "Canon",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2018-02-12",
+      "releaseDate"          : "2020-01-02",
       "tags"                 : [
         "library"
       ],
@@ -3169,8 +3171,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "REST API Specification",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2017-05-04",
+      "releaseDate"          : "2020-01-02",
       "tags"                 : [
         "rest api client"
       ],
@@ -3246,8 +3249,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "Symphony .NET Client",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2016-05-17",
+      "releaseDate"          : "2020-01-02",
       "tags"                 : [
         "rest api client"
       ],
@@ -3289,8 +3293,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "Symphony Hubot Client",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2016-07-05",
+      "releaseDate"          : "2016-11-29",
       "tags"                 : [
         "hubot",
         "rest api client"
@@ -3331,8 +3336,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "Symphony Java Client",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2016-06-06",
+      "releaseDate"          : "2017-03-10",
       "tags"                 : [
         "rest api client"
       ],
@@ -3736,8 +3742,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "Fugue",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2018-02-08",
+      "releaseDate"          : "2020-01-02",
       "tags"                 : [
         "library"
       ],
@@ -3914,8 +3921,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "Integration Bridge",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2016-12-21",
+      "releaseDate"          : "2017-06-12",
       "tags"                 : [
         "integration",
         "library"
@@ -4399,8 +4407,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "JCurl",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2017-06-06",
+      "releaseDate"          : "2020-01-02",
       "tags"                 : [
         "developer productivity",
         "utility"
@@ -4443,8 +4452,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "MessageML Utilities",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2017-05-19",
+      "releaseDate"          : "2020-01-02",
       "tags"                 : [
         "library"
       ],
@@ -4453,12 +4463,12 @@
           "name"          : "messageml-utils",
           "description"   : "MessageML parser",
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
-          "heat"          : 146,
+          "heat"          : 155,
           "watchers"      : 5,
-          "size"          : 553,
-          "collaborators" : 9,
+          "size"          : 560,
+          "collaborators" : 10,
           "stars"         : 5,
-          "forks"         : 20,
+          "forks"         : 21,
           "openIssues"    : 6,
           "languages"     : {
             "Java" : 795566
@@ -4466,12 +4476,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 146,
+        "heat"          : 155,
         "watchers"      : 5,
-        "size"          : 553,
-        "collaborators" : 9,
+        "size"          : 560,
+        "collaborators" : 10,
         "stars"         : 5,
-        "forks"         : 20,
+        "forks"         : 21,
         "openIssues"    : 6,
         "languages"     : {
           "Java" : 795566
@@ -4627,8 +4637,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "REST API Tools",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2017-09-12",
+      "releaseDate"          : "2020-01-02",
       "tags"                 : [
         "developer productivity",
         "utility"
@@ -4704,8 +4715,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "S2 Common Components",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2017-09-20",
+      "releaseDate"          : "2020-01-02",
       "tags"                 : [
         "library"
       ],
@@ -4757,8 +4769,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "Symphony Electron",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2016-11-28",
+      "releaseDate"          : "2020-01-02",
       "tags"                 : [
         "desktop technology"
       ],
@@ -4854,13 +4867,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/ScreenSnippet2",
           "heat"          : 37,
           "watchers"      : 0,
-          "size"          : 184,
+          "size"          : 188,
           "collaborators" : 8,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "C++" : 7769,
+            "C++" : 7873,
             "Objective_C" : 429,
             "C" : 44648
           }
@@ -4917,7 +4930,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 858,
         "watchers"      : 48,
-        "size"          : 47003,
+        "size"          : 47007,
         "collaborators" : 78,
         "stars"         : 48,
         "forks"         : 90,
@@ -4926,7 +4939,7 @@
           "TypeScript" : 592909,
           "C#" : 25902,
           "Shell" : 11997,
-          "C++" : 43619,
+          "C++" : 43723,
           "CSS" : 24879,
           "C" : 55499,
           "Batchfile" : 4046,
