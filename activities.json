@@ -5093,7 +5093,7 @@
           "collaborators" : 49,
           "stars"         : 5,
           "forks"         : 5,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "Shell" : 893,
             "Python" : 56465
@@ -5107,7 +5107,7 @@
         "collaborators" : 49,
         "stars"         : 5,
         "forks"         : 5,
-        "openIssues"    : 1,
+        "openIssues"    : 2,
         "languages"     : {
           "Shell" : 893,
           "Python" : 56465
@@ -5137,9 +5137,9 @@
           "collaborators" : 49,
           "stars"         : 2,
           "forks"         : 2,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
-            "JavaScript" : 7824
+            "JavaScript" : 7833
           }
         }
       ],
@@ -5150,9 +5150,9 @@
         "collaborators" : 49,
         "stars"         : 2,
         "forks"         : 2,
-        "openIssues"    : 1,
+        "openIssues"    : 0,
         "languages"     : {
-          "JavaScript" : 7824
+          "JavaScript" : 7833
         }
       },
       "mailingLists"       : [
