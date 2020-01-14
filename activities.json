@@ -13,12 +13,12 @@
           "name"          : "datahelix",
           "description"   : "The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for the purpose of testing and validation",
           "gitHubURL"     : "https://github.com/finos/datahelix",
-          "heat"          : 383,
+          "heat"          : 378,
           "watchers"      : 33,
-          "size"          : 14809,
+          "size"          : 14827,
           "collaborators" : 48,
           "stars"         : 33,
-          "forks"         : 25,
+          "forks"         : 24,
           "openIssues"    : 40,
           "languages"     : {
             "Java" : 1675347,
@@ -29,12 +29,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 383,
+        "heat"          : 378,
         "watchers"      : 33,
-        "size"          : 14809,
+        "size"          : 14827,
         "collaborators" : 48,
         "stars"         : 33,
-        "forks"         : 25,
+        "forks"         : 24,
         "openIssues"    : 40,
         "languages"     : {
           "Java" : 1675347,
@@ -228,7 +228,7 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 5475,
           "watchers"      : 2187,
-          "size"          : 47639,
+          "size"          : 47651,
           "collaborators" : 54,
           "stars"         : 2187,
           "forks"         : 177,
@@ -250,7 +250,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 5475,
         "watchers"      : 2187,
-        "size"          : 47639,
+        "size"          : 47651,
         "collaborators" : 54,
         "stars"         : 2187,
         "forks"         : 177,
@@ -849,7 +849,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 225,
           "watchers"      : 4,
-          "size"          : 2525,
+          "size"          : 2526,
           "collaborators" : 48,
           "stars"         : 4,
           "forks"         : 5,
@@ -880,12 +880,12 @@
           "name"          : "project-blueprint",
           "description"   : "Project blueprint for new Fintech Open Source Foundation hosted projects.",
           "gitHubURL"     : "https://github.com/finos/project-blueprint",
-          "heat"          : 230,
+          "heat"          : 225,
           "watchers"      : 4,
           "size"          : 42,
           "collaborators" : 48,
           "stars"         : 4,
-          "forks"         : 6,
+          "forks"         : 5,
           "openIssues"    : 0
         },
         {
@@ -948,12 +948,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 2455,
+        "heat"          : 2450,
         "watchers"      : 19,
-        "size"          : 35013,
+        "size"          : 35014,
         "collaborators" : 568,
         "stars"         : 19,
-        "forks"         : 29,
+        "forks"         : 28,
         "openIssues"    : 34,
         "languages"     : {
           "Java" : 12202,
@@ -1605,11 +1605,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 201,
           "watchers"      : 0,
-          "size"          : 690,
+          "size"          : 691,
           "collaborators" : 39,
           "stars"         : 0,
           "forks"         : 9,
-          "openIssues"    : 5,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 60022,
             "CSS" : 70303,
@@ -1621,11 +1621,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 729,
         "watchers"      : 15,
-        "size"          : 6391,
+        "size"          : 6392,
         "collaborators" : 121,
         "stars"         : 15,
         "forks"         : 43,
-        "openIssues"    : 14,
+        "openIssues"    : 13,
         "languages"     : {
           "TypeScript" : 976666,
           "HTML" : 69811,
@@ -1659,7 +1659,7 @@
           "collaborators" : 41,
           "stars"         : 7,
           "forks"         : 16,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 395522,
             "CSS" : 24096,
@@ -1675,7 +1675,7 @@
         "collaborators" : 41,
         "stars"         : 7,
         "forks"         : 16,
-        "openIssues"    : 6,
+        "openIssues"    : 7,
         "languages"     : {
           "TypeScript" : 395522,
           "CSS" : 24096,
@@ -1699,26 +1699,26 @@
           "gitHubURL"     : "https://github.com/finos/openfin-react-hooks",
           "heat"          : 299,
           "watchers"      : 18,
-          "size"          : 606,
+          "size"          : 465,
           "collaborators" : 47,
           "stars"         : 18,
           "forks"         : 15,
-          "openIssues"    : 14,
+          "openIssues"    : 13,
           "languages"     : {
-            "TypeScript" : 37132
+            "TypeScript" : 37555
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 299,
         "watchers"      : 18,
-        "size"          : 606,
+        "size"          : 465,
         "collaborators" : 47,
         "stars"         : 18,
         "forks"         : 15,
-        "openIssues"    : 14,
+        "openIssues"    : 13,
         "languages"     : {
-          "TypeScript" : 37132
+          "TypeScript" : 37555
         }
       }
     },
@@ -1770,10 +1770,10 @@
           "name"          : "finos-plexus.github.io",
           "description"   : "",
           "gitHubURL"     : "https://github.com/finos-plexus/finos-plexus.github.io",
-          "heat"          : 78,
+          "heat"          : 82,
           "watchers"      : 1,
           "size"          : 1205,
-          "collaborators" : 9,
+          "collaborators" : 10,
           "stars"         : 1,
           "forks"         : 8,
           "openIssues"    : 6,
@@ -1783,10 +1783,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 78,
+        "heat"          : 82,
         "watchers"      : 1,
         "size"          : 1205,
-        "collaborators" : 9,
+        "collaborators" : 10,
         "stars"         : 1,
         "forks"         : 8,
         "openIssues"    : 6,
@@ -1818,13 +1818,13 @@
           "name"          : "plexus-interop",
           "description"   : "Plexus Interop open source project hosted by the Fintech Open Source Foundation",
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
-          "heat"          : 761,
+          "heat"          : 765,
           "watchers"      : 244,
-          "size"          : 7245,
-          "collaborators" : 12,
+          "size"          : 7867,
+          "collaborators" : 13,
           "stars"         : 244,
           "forks"         : 45,
-          "openIssues"    : 8,
+          "openIssues"    : 10,
           "languages"     : {
             "TypeScript" : 1179933,
             "C#" : 1758955,
@@ -1839,13 +1839,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 761,
+        "heat"          : 765,
         "watchers"      : 244,
-        "size"          : 7245,
-        "collaborators" : 12,
+        "size"          : 7867,
+        "collaborators" : 13,
         "stars"         : 244,
         "forks"         : 45,
-        "openIssues"    : 8,
+        "openIssues"    : 10,
         "languages"     : {
           "TypeScript" : 1179933,
           "C#" : 1758955,
@@ -4810,15 +4810,15 @@
           "name"          : "SymphonyElectron",
           "description"   : "A desktop client for the Symphony Collaboration Platform built using Electron",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 435,
+          "heat"          : 440,
           "watchers"      : 40,
-          "size"          : 36973,
+          "size"          : 36398,
           "collaborators" : 10,
           "stars"         : 40,
-          "forks"         : 63,
-          "openIssues"    : 1,
+          "forks"         : 64,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 460982,
+            "TypeScript" : 461145,
             "CSS" : 24879,
             "Shell" : 11997,
             "Batchfile" : 4046,
@@ -4958,15 +4958,15 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 858,
+        "heat"          : 863,
         "watchers"      : 48,
-        "size"          : 47007,
+        "size"          : 46432,
         "collaborators" : 78,
         "stars"         : 48,
-        "forks"         : 90,
-        "openIssues"    : 2,
+        "forks"         : 91,
+        "openIssues"    : 5,
         "languages"     : {
-          "TypeScript" : 592909,
+          "TypeScript" : 593072,
           "C#" : 25902,
           "Shell" : 11997,
           "C++" : 43723,
