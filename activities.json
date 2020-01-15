@@ -15,13 +15,13 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 378,
           "watchers"      : 33,
-          "size"          : 14827,
+          "size"          : 14820,
           "collaborators" : 48,
           "stars"         : 33,
           "forks"         : 24,
-          "openIssues"    : 40,
+          "openIssues"    : 39,
           "languages"     : {
-            "Java" : 1675347,
+            "Java" : 1712966,
             "Dockerfile" : 581,
             "Shell" : 2725,
             "Gherkin" : 389437
@@ -31,13 +31,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 378,
         "watchers"      : 33,
-        "size"          : 14827,
+        "size"          : 14820,
         "collaborators" : 48,
         "stars"         : 33,
         "forks"         : 24,
-        "openIssues"    : 40,
+        "openIssues"    : 39,
         "languages"     : {
-          "Java" : 1675347,
+          "Java" : 1712966,
           "Dockerfile" : 581,
           "Shell" : 2725,
           "Gherkin" : 389437
@@ -226,46 +226,46 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5475,
-          "watchers"      : 2187,
-          "size"          : 47651,
+          "heat"          : 5482,
+          "watchers"      : 2188,
+          "size"          : 47653,
           "collaborators" : 54,
-          "stars"         : 2187,
-          "forks"         : 177,
-          "openIssues"    : 25,
+          "stars"         : 2188,
+          "forks"         : 178,
+          "openIssues"    : 21,
           "languages"     : {
-            "TypeScript" : 65629,
+            "TypeScript" : 65288,
             "Dockerfile" : 34106,
-            "C++" : 1191360,
+            "C++" : 1191942,
             "CSS" : 97205,
             "C" : 4588,
             "CMake" : 60894,
             "Makefile" : 1602,
-            "JavaScript" : 1143830,
+            "JavaScript" : 1148437,
             "HTML" : 38980,
-            "Python" : 457536
+            "Python" : 487258
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5475,
-        "watchers"      : 2187,
-        "size"          : 47651,
+        "heat"          : 5482,
+        "watchers"      : 2188,
+        "size"          : 47653,
         "collaborators" : 54,
-        "stars"         : 2187,
-        "forks"         : 177,
-        "openIssues"    : 25,
+        "stars"         : 2188,
+        "forks"         : 178,
+        "openIssues"    : 21,
         "languages"     : {
-          "TypeScript" : 65629,
+          "TypeScript" : 65288,
           "Dockerfile" : 34106,
-          "C++" : 1191360,
+          "C++" : 1191942,
           "CSS" : 97205,
           "C" : 4588,
           "CMake" : 60894,
           "Makefile" : 1602,
-          "JavaScript" : 1143830,
+          "JavaScript" : 1148437,
           "HTML" : 38980,
-          "Python" : 457536
+          "Python" : 487258
         }
       }
     },
@@ -731,8 +731,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
       "activityName"         : "CLA Bot",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2019-02-22",
+      "releaseDate"          : "2020-01-15",
       "gitHubRepos"          : [
         {
           "name"          : "cla-bot",
@@ -849,7 +850,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 225,
           "watchers"      : 4,
-          "size"          : 2526,
+          "size"          : 2551,
           "collaborators" : 48,
           "stars"         : 4,
           "forks"         : 5,
@@ -950,7 +951,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2450,
         "watchers"      : 19,
-        "size"          : 35014,
+        "size"          : 35039,
         "collaborators" : 568,
         "stars"         : 19,
         "forks"         : 28,
@@ -1465,7 +1466,7 @@
           "collaborators" : 41,
           "stars"         : 6,
           "forks"         : 20,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 611115,
             "CSS" : 29619,
@@ -1497,7 +1498,7 @@
         "collaborators" : 159,
         "stars"         : 124,
         "forks"         : 122,
-        "openIssues"    : 34,
+        "openIssues"    : 35,
         "languages"     : {
           "TypeScript" : 1691737,
           "HTML" : 24519,
@@ -1605,32 +1606,32 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 201,
           "watchers"      : 0,
-          "size"          : 691,
+          "size"          : 527,
           "collaborators" : 39,
           "stars"         : 0,
           "forks"         : 9,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 60022,
+            "TypeScript" : 68907,
             "CSS" : 70303,
             "HTML" : 2995,
-            "JavaScript" : 9548
+            "JavaScript" : 9896
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 729,
         "watchers"      : 15,
-        "size"          : 6392,
+        "size"          : 6228,
         "collaborators" : 121,
         "stars"         : 15,
         "forks"         : 43,
-        "openIssues"    : 13,
+        "openIssues"    : 12,
         "languages"     : {
-          "TypeScript" : 976666,
+          "TypeScript" : 985551,
           "HTML" : 69811,
           "CSS" : 97088,
-          "JavaScript" : 19346
+          "JavaScript" : 19694
         }
       },
       "mailingLists"       : [
@@ -1697,26 +1698,26 @@
           "name"          : "openfin-react-hooks",
           "description"   : "A collection of React Hooks built on top of the Openfin API - from Scott Logic",
           "gitHubURL"     : "https://github.com/finos/openfin-react-hooks",
-          "heat"          : 299,
+          "heat"          : 304,
           "watchers"      : 18,
           "size"          : 465,
           "collaborators" : 47,
           "stars"         : 18,
-          "forks"         : 15,
-          "openIssues"    : 13,
+          "forks"         : 16,
+          "openIssues"    : 14,
           "languages"     : {
             "TypeScript" : 37555
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 299,
+        "heat"          : 304,
         "watchers"      : 18,
         "size"          : 465,
         "collaborators" : 47,
         "stars"         : 18,
-        "forks"         : 15,
-        "openIssues"    : 13,
+        "forks"         : 16,
+        "openIssues"    : 14,
         "languages"     : {
           "TypeScript" : 37555
         }
@@ -1820,7 +1821,7 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 765,
           "watchers"      : 244,
-          "size"          : 7867,
+          "size"          : 8112,
           "collaborators" : 13,
           "stars"         : 244,
           "forks"         : 45,
@@ -1841,7 +1842,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 765,
         "watchers"      : 244,
-        "size"          : 7867,
+        "size"          : 8112,
         "collaborators" : 13,
         "stars"         : 244,
         "forks"         : 45,
@@ -3082,7 +3083,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon-example",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 286,
+          "size"          : 298,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
@@ -3095,7 +3096,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 83,
         "watchers"      : 0,
-        "size"          : 1145,
+        "size"          : 1157,
         "collaborators" : 12,
         "stars"         : 0,
         "forks"         : 7,
@@ -4449,10 +4450,10 @@
           "name"          : "JCurl",
           "description"   : "JSON-aware curl (1) in Java",
           "gitHubURL"     : "https://github.com/symphonyoss/JCurl",
-          "heat"          : 153,
+          "heat"          : 157,
           "watchers"      : 15,
           "size"          : 75,
-          "collaborators" : 7,
+          "collaborators" : 8,
           "stars"         : 15,
           "forks"         : 19,
           "openIssues"    : 12,
@@ -4463,10 +4464,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 153,
+        "heat"          : 157,
         "watchers"      : 15,
         "size"          : 75,
-        "collaborators" : 7,
+        "collaborators" : 8,
         "stars"         : 15,
         "forks"         : 19,
         "openIssues"    : 12,
@@ -4493,10 +4494,10 @@
           "name"          : "messageml-utils",
           "description"   : "MessageML parser",
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
-          "heat"          : 155,
+          "heat"          : 159,
           "watchers"      : 5,
           "size"          : 560,
-          "collaborators" : 10,
+          "collaborators" : 11,
           "stars"         : 5,
           "forks"         : 21,
           "openIssues"    : 6,
@@ -4506,10 +4507,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 155,
+        "heat"          : 159,
         "watchers"      : 5,
         "size"          : 560,
-        "collaborators" : 10,
+        "collaborators" : 11,
         "stars"         : 5,
         "forks"         : 21,
         "openIssues"    : 6,
@@ -4810,15 +4811,15 @@
           "name"          : "SymphonyElectron",
           "description"   : "A desktop client for the Symphony Collaboration Platform built using Electron",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 440,
+          "heat"          : 445,
           "watchers"      : 40,
-          "size"          : 36398,
+          "size"          : 36400,
           "collaborators" : 10,
           "stars"         : 40,
-          "forks"         : 64,
-          "openIssues"    : 4,
+          "forks"         : 65,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 461145,
+            "TypeScript" : 462201,
             "CSS" : 24879,
             "Shell" : 11997,
             "Batchfile" : 4046,
@@ -4958,15 +4959,15 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 863,
+        "heat"          : 868,
         "watchers"      : 48,
-        "size"          : 46432,
+        "size"          : 46434,
         "collaborators" : 78,
         "stars"         : 48,
-        "forks"         : 91,
-        "openIssues"    : 5,
+        "forks"         : 92,
+        "openIssues"    : 2,
         "languages"     : {
-          "TypeScript" : 593072,
+          "TypeScript" : 594128,
           "C#" : 25902,
           "Shell" : 11997,
           "C++" : 43723,
