@@ -226,11 +226,11 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5557,
-          "watchers"      : 2208,
+          "heat"          : 5559,
+          "watchers"      : 2209,
           "size"          : 47800,
           "collaborators" : 59,
-          "stars"         : 2208,
+          "stars"         : 2209,
           "forks"         : 181,
           "openIssues"    : 27,
           "languages"     : {
@@ -248,11 +248,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5557,
-        "watchers"      : 2208,
+        "heat"          : 5559,
+        "watchers"      : 2209,
         "size"          : 47800,
         "collaborators" : 59,
-        "stars"         : 2208,
+        "stars"         : 2209,
         "forks"         : 181,
         "openIssues"    : 27,
         "languages"     : {
@@ -1704,7 +1704,7 @@
           "collaborators" : 52,
           "stars"         : 19,
           "forks"         : 17,
-          "openIssues"    : 17,
+          "openIssues"    : 18,
           "languages"     : {
             "TypeScript" : 37639
           }
@@ -1717,7 +1717,7 @@
         "collaborators" : 52,
         "stars"         : 19,
         "forks"         : 17,
-        "openIssues"    : 17,
+        "openIssues"    : 18,
         "languages"     : {
           "TypeScript" : 37639
         }
@@ -3338,7 +3338,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 102,
           "watchers"      : 9,
-          "size"          : 6353,
+          "size"          : 6506,
           "collaborators" : 6,
           "stars"         : 9,
           "forks"         : 12,
@@ -3351,7 +3351,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 102,
         "watchers"      : 9,
-        "size"          : 6353,
+        "size"          : 6506,
         "collaborators" : 6,
         "stars"         : 9,
         "forks"         : 12,
