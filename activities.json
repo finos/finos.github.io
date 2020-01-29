@@ -13,11 +13,11 @@
           "name"          : "datahelix",
           "description"   : "The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for the purpose of testing and validation",
           "gitHubURL"     : "https://github.com/finos/datahelix",
-          "heat"          : 400,
-          "watchers"      : 34,
-          "size"          : 14883,
+          "heat"          : 402,
+          "watchers"      : 35,
+          "size"          : 14885,
           "collaborators" : 53,
-          "stars"         : 34,
+          "stars"         : 35,
           "forks"         : 24,
           "openIssues"    : 33,
           "languages"     : {
@@ -29,11 +29,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 400,
-        "watchers"      : 34,
-        "size"          : 14883,
+        "heat"          : 402,
+        "watchers"      : 35,
+        "size"          : 14885,
         "collaborators" : 53,
-        "stars"         : 34,
+        "stars"         : 35,
         "forks"         : 24,
         "openIssues"    : 33,
         "languages"     : {
@@ -226,46 +226,46 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5559,
-          "watchers"      : 2209,
-          "size"          : 47800,
+          "heat"          : 5565,
+          "watchers"      : 2212,
+          "size"          : 48057,
           "collaborators" : 59,
-          "stars"         : 2209,
+          "stars"         : 2212,
           "forks"         : 181,
-          "openIssues"    : 27,
+          "openIssues"    : 26,
           "languages"     : {
-            "TypeScript" : 65288,
+            "TypeScript" : 35377,
             "Dockerfile" : 34106,
             "C++" : 1191942,
-            "CSS" : 97205,
+            "CSS" : 94569,
             "C" : 4588,
             "CMake" : 60894,
             "Makefile" : 1602,
-            "JavaScript" : 1148437,
-            "HTML" : 38980,
-            "Python" : 487258
+            "JavaScript" : 1178503,
+            "HTML" : 39776,
+            "Python" : 487651
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5559,
-        "watchers"      : 2209,
-        "size"          : 47800,
+        "heat"          : 5565,
+        "watchers"      : 2212,
+        "size"          : 48057,
         "collaborators" : 59,
-        "stars"         : 2209,
+        "stars"         : 2212,
         "forks"         : 181,
-        "openIssues"    : 27,
+        "openIssues"    : 26,
         "languages"     : {
-          "TypeScript" : 65288,
+          "TypeScript" : 35377,
           "Dockerfile" : 34106,
           "C++" : 1191942,
-          "CSS" : 97205,
+          "CSS" : 94569,
           "C" : 4588,
           "CMake" : 60894,
           "Makefile" : 1602,
-          "JavaScript" : 1148437,
-          "HTML" : 38980,
-          "Python" : 487258
+          "JavaScript" : 1178503,
+          "HTML" : 39776,
+          "Python" : 487651
         }
       }
     },
@@ -321,13 +321,13 @@
           "gitHubURL"     : "https://github.com/FDC3/fdc3",
           "heat"          : 410,
           "watchers"      : 31,
-          "size"          : 3468,
+          "size"          : 3508,
           "collaborators" : 52,
           "stars"         : 31,
           "forks"         : 28,
-          "openIssues"    : 23,
+          "openIssues"    : 17,
           "languages"     : {
-            "TypeScript" : 11194,
+            "TypeScript" : 11126,
             "HTML" : 1858006,
             "CSS" : 3463,
             "JavaScript" : 23734
@@ -349,13 +349,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 601,
         "watchers"      : 34,
-        "size"          : 5682,
+        "size"          : 5722,
         "collaborators" : 97,
         "stars"         : 34,
         "forks"         : 29,
-        "openIssues"    : 25,
+        "openIssues"    : 19,
         "languages"     : {
-          "TypeScript" : 11194,
+          "TypeScript" : 11126,
           "HTML" : 1858006,
           "CSS" : 3463,
           "JavaScript" : 23734
@@ -850,7 +850,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 241,
           "watchers"      : 4,
-          "size"          : 2655,
+          "size"          : 2679,
           "collaborators" : 52,
           "stars"         : 4,
           "forks"         : 5,
@@ -951,7 +951,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2682,
         "watchers"      : 19,
-        "size"          : 35143,
+        "size"          : 35167,
         "collaborators" : 626,
         "stars"         : 19,
         "forks"         : 28,
@@ -1134,21 +1134,21 @@
           "gitHubURL"     : "https://github.com/finos/open-developer-platform",
           "heat"          : 261,
           "watchers"      : 14,
-          "size"          : 11,
+          "size"          : 511,
           "collaborators" : 52,
           "stars"         : 14,
           "forks"         : 5,
-          "openIssues"    : 33
+          "openIssues"    : 36
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 261,
         "watchers"      : 14,
-        "size"          : 11,
+        "size"          : 511,
         "collaborators" : 52,
         "stars"         : 14,
         "forks"         : 5,
-        "openIssues"    : 33
+        "openIssues"    : 36
       },
       "mailingLists"       : [
         {
@@ -1244,12 +1244,12 @@
           "name"          : "finos-fo",
           "description"   : "FINOS Financial Objects Program Documentation",
           "gitHubURL"     : "https://github.com/finos/finos-fo",
-          "heat"          : 255,
+          "heat"          : 260,
           "watchers"      : 4,
           "size"          : 1615,
           "collaborators" : 53,
           "stars"         : 4,
-          "forks"         : 7,
+          "forks"         : 8,
           "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 6803,
@@ -1260,12 +1260,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 255,
+        "heat"          : 260,
         "watchers"      : 4,
         "size"          : 1615,
         "collaborators" : 53,
         "stars"         : 4,
-        "forks"         : 7,
+        "forks"         : 8,
         "openIssues"    : 1,
         "languages"     : {
           "TypeScript" : 6803,
@@ -1656,7 +1656,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 254,
           "watchers"      : 7,
-          "size"          : 9705,
+          "size"          : 9714,
           "collaborators" : 40,
           "stars"         : 7,
           "forks"         : 16,
@@ -1672,7 +1672,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 254,
         "watchers"      : 7,
-        "size"          : 9705,
+        "size"          : 9714,
         "collaborators" : 40,
         "stars"         : 7,
         "forks"         : 16,
@@ -1698,28 +1698,28 @@
           "name"          : "openfin-react-hooks",
           "description"   : "A collection of React Hooks built on top of the Openfin API - from Scott Logic",
           "gitHubURL"     : "https://github.com/finos/openfin-react-hooks",
-          "heat"          : 331,
-          "watchers"      : 19,
-          "size"          : 544,
+          "heat"          : 333,
+          "watchers"      : 20,
+          "size"          : 683,
           "collaborators" : 52,
-          "stars"         : 19,
+          "stars"         : 20,
           "forks"         : 17,
-          "openIssues"    : 18,
+          "openIssues"    : 15,
           "languages"     : {
-            "TypeScript" : 37639
+            "TypeScript" : 37636
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 331,
-        "watchers"      : 19,
-        "size"          : 544,
+        "heat"          : 333,
+        "watchers"      : 20,
+        "size"          : 683,
         "collaborators" : 52,
-        "stars"         : 19,
+        "stars"         : 20,
         "forks"         : 17,
-        "openIssues"    : 18,
+        "openIssues"    : 15,
         "languages"     : {
-          "TypeScript" : 37639
+          "TypeScript" : 37636
         }
       }
     },
@@ -1821,11 +1821,11 @@
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
           "heat"          : 770,
           "watchers"      : 244,
-          "size"          : 9290,
+          "size"          : 9310,
           "collaborators" : 13,
           "stars"         : 244,
           "forks"         : 46,
-          "openIssues"    : 8,
+          "openIssues"    : 9,
           "languages"     : {
             "TypeScript" : 1182565,
             "C#" : 2193626,
@@ -1842,11 +1842,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 770,
         "watchers"      : 244,
-        "size"          : 9290,
+        "size"          : 9310,
         "collaborators" : 13,
         "stars"         : 244,
         "forks"         : 46,
-        "openIssues"    : 8,
+        "openIssues"    : 9,
         "languages"     : {
           "TypeScript" : 1182565,
           "C#" : 2193626,
@@ -3338,11 +3338,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 102,
           "watchers"      : 9,
-          "size"          : 6506,
+          "size"          : 7297,
           "collaborators" : 6,
           "stars"         : 9,
           "forks"         : 12,
-          "openIssues"    : 25,
+          "openIssues"    : 26,
           "languages"     : {
             "JavaScript" : 82020
           }
@@ -3351,11 +3351,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 102,
         "watchers"      : 9,
-        "size"          : 6506,
+        "size"          : 7297,
         "collaborators" : 6,
         "stars"         : 9,
         "forks"         : 12,
-        "openIssues"    : 25,
+        "openIssues"    : 26,
         "languages"     : {
           "JavaScript" : 82020
         }
@@ -3786,13 +3786,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 55,
           "watchers"      : 1,
-          "size"          : 2270,
+          "size"          : 2295,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 5,
           "openIssues"    : 3,
           "languages"     : {
-            "Java" : 1163443,
+            "Java" : 1167483,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3832,13 +3832,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 137,
         "watchers"      : 1,
-        "size"          : 2509,
+        "size"          : 2534,
         "collaborators" : 20,
         "stars"         : 1,
         "forks"         : 11,
         "openIssues"    : 8,
         "languages"     : {
-          "Java" : 1186681,
+          "Java" : 1190721,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -4813,13 +4813,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 447,
           "watchers"      : 41,
-          "size"          : 36457,
+          "size"          : 36477,
           "collaborators" : 10,
           "stars"         : 41,
           "forks"         : 65,
-          "openIssues"    : 3,
+          "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 462492,
+            "TypeScript" : 463247,
             "CSS" : 24879,
             "Shell" : 11997,
             "Batchfile" : 4046,
@@ -4961,13 +4961,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 870,
         "watchers"      : 49,
-        "size"          : 46491,
+        "size"          : 46511,
         "collaborators" : 78,
         "stars"         : 49,
         "forks"         : 92,
-        "openIssues"    : 4,
+        "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 594419,
+          "TypeScript" : 595174,
           "C#" : 25902,
           "Shell" : 11997,
           "C++" : 43723,
