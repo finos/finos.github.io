@@ -15,7 +15,7 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 402,
           "watchers"      : 35,
-          "size"          : 14885,
+          "size"          : 14892,
           "collaborators" : 53,
           "stars"         : 35,
           "forks"         : 24,
@@ -31,7 +31,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 402,
         "watchers"      : 35,
-        "size"          : 14885,
+        "size"          : 14892,
         "collaborators" : 53,
         "stars"         : 35,
         "forks"         : 24,
@@ -226,13 +226,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5565,
-          "watchers"      : 2212,
-          "size"          : 48057,
+          "heat"          : 5567,
+          "watchers"      : 2213,
+          "size"          : 48108,
           "collaborators" : 59,
-          "stars"         : 2212,
+          "stars"         : 2213,
           "forks"         : 181,
-          "openIssues"    : 26,
+          "openIssues"    : 23,
           "languages"     : {
             "TypeScript" : 35377,
             "Dockerfile" : 34106,
@@ -248,13 +248,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5565,
-        "watchers"      : 2212,
-        "size"          : 48057,
+        "heat"          : 5567,
+        "watchers"      : 2213,
+        "size"          : 48108,
         "collaborators" : 59,
-        "stars"         : 2212,
+        "stars"         : 2213,
         "forks"         : 181,
-        "openIssues"    : 26,
+        "openIssues"    : 23,
         "languages"     : {
           "TypeScript" : 35377,
           "Dockerfile" : 34106,
@@ -850,7 +850,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 241,
           "watchers"      : 4,
-          "size"          : 2679,
+          "size"          : 2681,
           "collaborators" : 52,
           "stars"         : 4,
           "forks"         : 5,
@@ -951,7 +951,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2682,
         "watchers"      : 19,
-        "size"          : 35167,
+        "size"          : 35169,
         "collaborators" : 626,
         "stars"         : 19,
         "forks"         : 28,
@@ -1466,7 +1466,7 @@
           "collaborators" : 40,
           "stars"         : 7,
           "forks"         : 20,
-          "openIssues"    : 5,
+          "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 618303,
             "CSS" : 29619,
@@ -1498,7 +1498,7 @@
         "collaborators" : 155,
         "stars"         : 125,
         "forks"         : 120,
-        "openIssues"    : 33,
+        "openIssues"    : 34,
         "languages"     : {
           "TypeScript" : 1698925,
           "HTML" : 24519,
@@ -1660,7 +1660,7 @@
           "collaborators" : 40,
           "stars"         : 7,
           "forks"         : 16,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 418416,
             "CSS" : 32986,
@@ -1676,7 +1676,7 @@
         "collaborators" : 40,
         "stars"         : 7,
         "forks"         : 16,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "TypeScript" : 418416,
           "CSS" : 32986,
@@ -1700,26 +1700,26 @@
           "gitHubURL"     : "https://github.com/finos/openfin-react-hooks",
           "heat"          : 333,
           "watchers"      : 20,
-          "size"          : 683,
+          "size"          : 555,
           "collaborators" : 52,
           "stars"         : 20,
           "forks"         : 17,
-          "openIssues"    : 15,
+          "openIssues"    : 14,
           "languages"     : {
-            "TypeScript" : 37636
+            "TypeScript" : 37779
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 333,
         "watchers"      : 20,
-        "size"          : 683,
+        "size"          : 555,
         "collaborators" : 52,
         "stars"         : 20,
         "forks"         : 17,
-        "openIssues"    : 15,
+        "openIssues"    : 14,
         "languages"     : {
-          "TypeScript" : 37636
+          "TypeScript" : 37779
         }
       }
     },
@@ -1825,10 +1825,10 @@
           "collaborators" : 13,
           "stars"         : 244,
           "forks"         : 46,
-          "openIssues"    : 9,
+          "openIssues"    : 8,
           "languages"     : {
             "TypeScript" : 1182565,
-            "C#" : 2193626,
+            "C#" : 2211454,
             "Xtend" : 221711,
             "Java" : 78616,
             "Shell" : 550,
@@ -1846,10 +1846,10 @@
         "collaborators" : 13,
         "stars"         : 244,
         "forks"         : 46,
-        "openIssues"    : 9,
+        "openIssues"    : 8,
         "languages"     : {
           "TypeScript" : 1182565,
-          "C#" : 2193626,
+          "C#" : 2211454,
           "Xtend" : 221711,
           "Java" : 78616,
           "Shell" : 550,
@@ -3819,7 +3819,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-cicd",
           "heat"          : 39,
           "watchers"      : 0,
-          "size"          : 182,
+          "size"          : 204,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 3,
@@ -3832,7 +3832,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 137,
         "watchers"      : 1,
-        "size"          : 2534,
+        "size"          : 2556,
         "collaborators" : 20,
         "stars"         : 1,
         "forks"         : 11,
@@ -4813,13 +4813,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 447,
           "watchers"      : 41,
-          "size"          : 36477,
+          "size"          : 36479,
           "collaborators" : 10,
           "stars"         : 41,
           "forks"         : 65,
           "openIssues"    : 2,
           "languages"     : {
-            "TypeScript" : 463247,
+            "TypeScript" : 463144,
+            "Dockerfile" : 693,
             "CSS" : 24879,
             "Shell" : 11997,
             "Batchfile" : 4046,
@@ -4961,22 +4962,23 @@
       "cumulativeGitHubStats" : {
         "heat"          : 870,
         "watchers"      : 49,
-        "size"          : 46511,
+        "size"          : 46513,
         "collaborators" : 78,
         "stars"         : 49,
         "forks"         : 92,
         "openIssues"    : 3,
         "languages"     : {
-          "TypeScript" : 595174,
           "C#" : 25902,
-          "Shell" : 11997,
           "C++" : 43723,
           "CSS" : 24879,
           "C" : 55499,
-          "Batchfile" : 4046,
-          "JavaScript" : 128485,
           "Objective_C" : 7776,
           "HTML" : 34461,
+          "TypeScript" : 595071,
+          "Dockerfile" : 693,
+          "Shell" : 11997,
+          "Batchfile" : 4046,
+          "JavaScript" : 128485,
           "Python" : 921
         }
       }
@@ -5212,7 +5214,7 @@
           "collaborators" : 56,
           "stars"         : 21,
           "forks"         : 8,
-          "openIssues"    : 8
+          "openIssues"    : 9
         }
       ],
       "cumulativeGitHubStats" : {
@@ -5222,7 +5224,7 @@
         "collaborators" : 56,
         "stars"         : 21,
         "forks"         : 8,
-        "openIssues"    : 8
+        "openIssues"    : 9
       },
       "mailingLists"       : [
         {
