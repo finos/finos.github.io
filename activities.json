@@ -226,46 +226,46 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5571,
-          "watchers"      : 2215,
-          "size"          : 48159,
+          "heat"          : 5573,
+          "watchers"      : 2216,
+          "size"          : 48023,
           "collaborators" : 59,
-          "stars"         : 2215,
+          "stars"         : 2216,
           "forks"         : 181,
-          "openIssues"    : 27,
+          "openIssues"    : 26,
           "languages"     : {
             "TypeScript" : 35377,
             "Dockerfile" : 34106,
             "C++" : 1191942,
-            "CSS" : 94569,
+            "CSS" : 95105,
             "C" : 4588,
             "CMake" : 60894,
             "Makefile" : 1602,
-            "JavaScript" : 1178654,
+            "JavaScript" : 1180005,
             "HTML" : 39776,
-            "Python" : 487651
+            "Python" : 487702
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5571,
-        "watchers"      : 2215,
-        "size"          : 48159,
+        "heat"          : 5573,
+        "watchers"      : 2216,
+        "size"          : 48023,
         "collaborators" : 59,
-        "stars"         : 2215,
+        "stars"         : 2216,
         "forks"         : 181,
-        "openIssues"    : 27,
+        "openIssues"    : 26,
         "languages"     : {
           "TypeScript" : 35377,
           "Dockerfile" : 34106,
           "C++" : 1191942,
-          "CSS" : 94569,
+          "CSS" : 95105,
           "C" : 4588,
           "CMake" : 60894,
           "Makefile" : 1602,
-          "JavaScript" : 1178654,
+          "JavaScript" : 1180005,
           "HTML" : 39776,
-          "Python" : 487651
+          "Python" : 487702
         }
       }
     },
@@ -325,7 +325,7 @@
           "collaborators" : 52,
           "stars"         : 31,
           "forks"         : 29,
-          "openIssues"    : 16,
+          "openIssues"    : 17,
           "languages"     : {
             "TypeScript" : 11126,
             "HTML" : 1858006,
@@ -353,7 +353,7 @@
         "collaborators" : 97,
         "stars"         : 34,
         "forks"         : 30,
-        "openIssues"    : 18,
+        "openIssues"    : 19,
         "languages"     : {
           "TypeScript" : 11126,
           "HTML" : 1858006,
@@ -850,7 +850,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 241,
           "watchers"      : 4,
-          "size"          : 2705,
+          "size"          : 2706,
           "collaborators" : 52,
           "stars"         : 4,
           "forks"         : 5,
@@ -951,7 +951,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2682,
         "watchers"      : 19,
-        "size"          : 35193,
+        "size"          : 35194,
         "collaborators" : 626,
         "stars"         : 19,
         "forks"         : 28,
