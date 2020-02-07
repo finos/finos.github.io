@@ -13,13 +13,13 @@
           "name"          : "datahelix",
           "description"   : "The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for the purpose of testing and validation",
           "gitHubURL"     : "https://github.com/finos/datahelix",
-          "heat"          : 408,
+          "heat"          : 413,
           "watchers"      : 36,
-          "size"          : 14905,
+          "size"          : 14909,
           "collaborators" : 54,
           "stars"         : 36,
-          "forks"         : 24,
-          "openIssues"    : 30,
+          "forks"         : 25,
+          "openIssues"    : 31,
           "languages"     : {
             "Java" : 1573437,
             "Dockerfile" : 581,
@@ -29,13 +29,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 408,
+        "heat"          : 413,
         "watchers"      : 36,
-        "size"          : 14905,
+        "size"          : 14909,
         "collaborators" : 54,
         "stars"         : 36,
-        "forks"         : 24,
-        "openIssues"    : 30,
+        "forks"         : 25,
+        "openIssues"    : 31,
         "languages"     : {
           "Java" : 1573437,
           "Dockerfile" : 581,
@@ -152,11 +152,11 @@
           "name"          : "kdb",
           "description"   : "kdb+ Working Group from FINOS Data Technologies program",
           "gitHubURL"     : "https://github.com/finos/kdb",
-          "heat"          : 299,
-          "watchers"      : 10,
+          "heat"          : 301,
+          "watchers"      : 11,
           "size"          : 74,
           "collaborators" : 56,
-          "stars"         : 10,
+          "stars"         : 11,
           "forks"         : 11,
           "openIssues"    : 0,
           "languages"     : {
@@ -169,11 +169,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 299,
-        "watchers"      : 10,
+        "heat"          : 301,
+        "watchers"      : 11,
         "size"          : 74,
         "collaborators" : 56,
-        "stars"         : 10,
+        "stars"         : 11,
         "forks"         : 11,
         "openIssues"    : 0,
         "languages"     : {
@@ -226,44 +226,44 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5598,
-          "watchers"      : 2224,
-          "size"          : 48166,
+          "heat"          : 5614,
+          "watchers"      : 2227,
+          "size"          : 48243,
           "collaborators" : 60,
-          "stars"         : 2224,
-          "forks"         : 182,
-          "openIssues"    : 28,
+          "stars"         : 2227,
+          "forks"         : 184,
+          "openIssues"    : 27,
           "languages"     : {
             "TypeScript" : 35377,
             "Dockerfile" : 34106,
             "C++" : 1251075,
-            "CSS" : 96493,
+            "CSS" : 96897,
             "C" : 4588,
             "CMake" : 60977,
             "Makefile" : 1602,
-            "JavaScript" : 1294330,
+            "JavaScript" : 1302809,
             "HTML" : 39776,
             "Python" : 489732
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5598,
-        "watchers"      : 2224,
-        "size"          : 48166,
+        "heat"          : 5614,
+        "watchers"      : 2227,
+        "size"          : 48243,
         "collaborators" : 60,
-        "stars"         : 2224,
-        "forks"         : 182,
-        "openIssues"    : 28,
+        "stars"         : 2227,
+        "forks"         : 184,
+        "openIssues"    : 27,
         "languages"     : {
           "TypeScript" : 35377,
           "Dockerfile" : 34106,
           "C++" : 1251075,
-          "CSS" : 96493,
+          "CSS" : 96897,
           "C" : 4588,
           "CMake" : 60977,
           "Makefile" : 1602,
-          "JavaScript" : 1294330,
+          "JavaScript" : 1302809,
           "HTML" : 39776,
           "Python" : 489732
         }
@@ -739,13 +739,13 @@
           "name"          : "cla-bot",
           "description"   : "cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).",
           "gitHubURL"     : "https://github.com/finos/cla-bot",
-          "heat"          : 329,
+          "heat"          : 334,
           "watchers"      : 31,
           "size"          : 1062,
           "collaborators" : 53,
           "stars"         : 31,
-          "forks"         : 11,
-          "openIssues"    : 22,
+          "forks"         : 12,
+          "openIssues"    : 23,
           "languages"     : {
             "Shell" : 155,
             "JavaScript" : 49861
@@ -753,13 +753,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 329,
+        "heat"          : 334,
         "watchers"      : 31,
         "size"          : 1062,
         "collaborators" : 53,
         "stars"         : 31,
-        "forks"         : 11,
-        "openIssues"    : 22,
+        "forks"         : 12,
+        "openIssues"    : 23,
         "languages"     : {
           "Shell" : 155,
           "JavaScript" : 49861
@@ -850,7 +850,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 245,
           "watchers"      : 4,
-          "size"          : 2732,
+          "size"          : 2757,
           "collaborators" : 53,
           "stars"         : 4,
           "forks"         : 5,
@@ -883,11 +883,15 @@
           "gitHubURL"     : "https://github.com/finos/project-blueprint",
           "heat"          : 254,
           "watchers"      : 4,
-          "size"          : 42,
+          "size"          : 18454,
           "collaborators" : 54,
           "stars"         : 4,
           "forks"         : 6,
-          "openIssues"    : 1
+          "openIssues"    : 0,
+          "languages"     : {
+            "CSS" : 3644,
+            "JavaScript" : 17294
+          }
         },
         {
           "name"          : "reports-job",
@@ -951,16 +955,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2735,
         "watchers"      : 19,
-        "size"          : 35220,
+        "size"          : 53657,
         "collaborators" : 638,
         "stars"         : 19,
         "forks"         : 29,
-        "openIssues"    : 35,
+        "openIssues"    : 34,
         "languages"     : {
           "Java" : 12202,
           "Shell" : 28084,
-          "CSS" : 4539,
-          "JavaScript" : 21089,
+          "CSS" : 8183,
+          "JavaScript" : 38383,
           "HTML" : 6901,
           "FreeMarker" : 21965,
           "Python" : 7381,
@@ -1134,30 +1138,30 @@
           "gitHubURL"     : "https://github.com/finos/open-developer-platform",
           "heat"          : 272,
           "watchers"      : 15,
-          "size"          : 765,
+          "size"          : 921,
           "collaborators" : 53,
           "stars"         : 15,
           "forks"         : 6,
-          "openIssues"    : 43,
+          "openIssues"    : 41,
           "languages"     : {
             "CSS" : 3644,
             "Shell" : 940,
-            "JavaScript" : 17362
+            "JavaScript" : 17338
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 272,
         "watchers"      : 15,
-        "size"          : 765,
+        "size"          : 921,
         "collaborators" : 53,
         "stars"         : 15,
         "forks"         : 6,
-        "openIssues"    : 43,
+        "openIssues"    : 41,
         "languages"     : {
           "CSS" : 3644,
           "Shell" : 940,
-          "JavaScript" : 17362
+          "JavaScript" : 17338
         }
       },
       "mailingLists"       : [
@@ -1710,26 +1714,26 @@
           "gitHubURL"     : "https://github.com/finos/openfin-react-hooks",
           "heat"          : 342,
           "watchers"      : 20,
-          "size"          : 566,
+          "size"          : 564,
           "collaborators" : 53,
           "stars"         : 20,
           "forks"         : 18,
           "openIssues"    : 12,
           "languages"     : {
-            "TypeScript" : 43120
+            "TypeScript" : 42482
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 342,
         "watchers"      : 20,
-        "size"          : 566,
+        "size"          : 564,
         "collaborators" : 53,
         "stars"         : 20,
         "forks"         : 18,
         "openIssues"    : 12,
         "languages"     : {
-          "TypeScript" : 43120
+          "TypeScript" : 42482
         }
       }
     },
@@ -1781,10 +1785,10 @@
           "name"          : "finos-plexus.github.io",
           "description"   : "",
           "gitHubURL"     : "https://github.com/finos-plexus/finos-plexus.github.io",
-          "heat"          : 82,
+          "heat"          : 86,
           "watchers"      : 1,
           "size"          : 1205,
-          "collaborators" : 10,
+          "collaborators" : 11,
           "stars"         : 1,
           "forks"         : 8,
           "openIssues"    : 10,
@@ -1794,10 +1798,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 82,
+        "heat"          : 86,
         "watchers"      : 1,
         "size"          : 1205,
-        "collaborators" : 10,
+        "collaborators" : 11,
         "stars"         : 1,
         "forks"         : 8,
         "openIssues"    : 10,
@@ -3076,13 +3080,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 44,
           "watchers"      : 0,
-          "size"          : 978,
+          "size"          : 988,
           "collaborators" : 6,
           "stars"         : 0,
           "forks"         : 4,
           "openIssues"    : 2,
           "languages"     : {
-            "Java" : 528362,
+            "Java" : 528513,
             "FreeMarker" : 133514,
             "JavaScript" : 13681
           }
@@ -3106,13 +3110,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 83,
         "watchers"      : 0,
-        "size"          : 1276,
+        "size"          : 1286,
         "collaborators" : 12,
         "stars"         : 0,
         "forks"         : 7,
         "openIssues"    : 5,
         "languages"     : {
-          "Java" : 576453,
+          "Java" : 576604,
           "FreeMarker" : 133514,
           "JavaScript" : 13681
         }
@@ -3348,7 +3352,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 102,
           "watchers"      : 9,
-          "size"          : 7619,
+          "size"          : 7772,
           "collaborators" : 6,
           "stars"         : 9,
           "forks"         : 12,
@@ -3361,7 +3365,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 102,
         "watchers"      : 9,
-        "size"          : 7619,
+        "size"          : 7772,
         "collaborators" : 6,
         "stars"         : 9,
         "forks"         : 12,
@@ -4823,11 +4827,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 447,
           "watchers"      : 41,
-          "size"          : 36489,
+          "size"          : 36569,
           "collaborators" : 10,
           "stars"         : 41,
           "forks"         : 65,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 463720,
             "Dockerfile" : 693,
@@ -4972,11 +4976,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 870,
         "watchers"      : 49,
-        "size"          : 46523,
+        "size"          : 46603,
         "collaborators" : 78,
         "stars"         : 49,
         "forks"         : 92,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "C#" : 25902,
           "C++" : 43723,
@@ -5084,13 +5088,13 @@
           "name"          : "greenkey-asrtoolkit",
           "description"   : "A collection of useful tools for handling speech recognition data",
           "gitHubURL"     : "https://github.com/finos/greenkey-asrtoolkit",
-          "heat"          : 257,
+          "heat"          : 262,
           "watchers"      : 8,
           "size"          : 497,
           "collaborators" : 54,
           "stars"         : 8,
-          "forks"         : 5,
-          "openIssues"    : 1,
+          "forks"         : 6,
+          "openIssues"    : 2,
           "languages"     : {
             "Dockerfile" : 679,
             "Shell" : 59,
@@ -5099,13 +5103,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 257,
+        "heat"          : 262,
         "watchers"      : 8,
         "size"          : 497,
         "collaborators" : 54,
         "stars"         : 8,
-        "forks"         : 5,
-        "openIssues"    : 1,
+        "forks"         : 6,
+        "openIssues"    : 2,
         "languages"     : {
           "Dockerfile" : 679,
           "Shell" : 59,
@@ -5132,28 +5136,28 @@
           "gitHubURL"     : "https://github.com/finos/greenkey-discovery-sdk",
           "heat"          : 255,
           "watchers"      : 5,
-          "size"          : 46209,
+          "size"          : 46220,
           "collaborators" : 55,
           "stars"         : 5,
           "forks"         : 5,
           "openIssues"    : 1,
           "languages"     : {
             "Shell" : 893,
-            "Python" : 63946
+            "Python" : 63964
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 255,
         "watchers"      : 5,
-        "size"          : 46209,
+        "size"          : 46220,
         "collaborators" : 55,
         "stars"         : 5,
         "forks"         : 5,
         "openIssues"    : 1,
         "languages"     : {
           "Shell" : 893,
-          "Python" : 63946
+          "Python" : 63964
         }
       }
     },
@@ -5224,7 +5228,7 @@
           "collaborators" : 57,
           "stars"         : 21,
           "forks"         : 8,
-          "openIssues"    : 9
+          "openIssues"    : 8
         }
       ],
       "cumulativeGitHubStats" : {
@@ -5234,7 +5238,7 @@
         "collaborators" : 57,
         "stars"         : 21,
         "forks"         : 8,
-        "openIssues"    : 9
+        "openIssues"    : 8
       },
       "mailingLists"       : [
         {
