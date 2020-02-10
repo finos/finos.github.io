@@ -15,11 +15,11 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 413,
           "watchers"      : 36,
-          "size"          : 14909,
+          "size"          : 14913,
           "collaborators" : 54,
           "stars"         : 36,
           "forks"         : 25,
-          "openIssues"    : 31,
+          "openIssues"    : 33,
           "languages"     : {
             "Java" : 1573437,
             "Dockerfile" : 581,
@@ -31,11 +31,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 413,
         "watchers"      : 36,
-        "size"          : 14909,
+        "size"          : 14913,
         "collaborators" : 54,
         "stars"         : 36,
         "forks"         : 25,
-        "openIssues"    : 31,
+        "openIssues"    : 33,
         "languages"     : {
           "Java" : 1573437,
           "Dockerfile" : 581,
@@ -226,45 +226,45 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5627,
-          "watchers"      : 2231,
-          "size"          : 48381,
+          "heat"          : 5631,
+          "watchers"      : 2233,
+          "size"          : 48456,
           "collaborators" : 60,
-          "stars"         : 2231,
+          "stars"         : 2233,
           "forks"         : 185,
-          "openIssues"    : 24,
+          "openIssues"    : 21,
           "languages"     : {
             "TypeScript" : 35377,
             "Dockerfile" : 34106,
             "C++" : 1256392,
-            "CSS" : 96699,
+            "CSS" : 97372,
             "C" : 4588,
             "CMake" : 61936,
             "Makefile" : 1602,
-            "JavaScript" : 1334109,
-            "HTML" : 39776,
+            "JavaScript" : 1356031,
+            "HTML" : 39810,
             "Python" : 489478
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5627,
-        "watchers"      : 2231,
-        "size"          : 48381,
+        "heat"          : 5631,
+        "watchers"      : 2233,
+        "size"          : 48456,
         "collaborators" : 60,
-        "stars"         : 2231,
+        "stars"         : 2233,
         "forks"         : 185,
-        "openIssues"    : 24,
+        "openIssues"    : 21,
         "languages"     : {
           "TypeScript" : 35377,
           "Dockerfile" : 34106,
           "C++" : 1256392,
-          "CSS" : 96699,
+          "CSS" : 97372,
           "C" : 4588,
           "CMake" : 61936,
           "Makefile" : 1602,
-          "JavaScript" : 1334109,
-          "HTML" : 39776,
+          "JavaScript" : 1356031,
+          "HTML" : 39810,
           "Python" : 489478
         }
       }
@@ -1474,11 +1474,11 @@
           "name"          : "fdc3-service",
           "description"   : "FDC3 Service for OpenFin",
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
-          "heat"          : 274,
-          "watchers"      : 7,
+          "heat"          : 276,
+          "watchers"      : 8,
           "size"          : 2307,
           "collaborators" : 40,
-          "stars"         : 7,
+          "stars"         : 8,
           "forks"         : 20,
           "openIssues"    : 5,
           "languages"     : {
@@ -1506,11 +1506,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1470,
-        "watchers"      : 125,
+        "heat"          : 1472,
+        "watchers"      : 126,
         "size"          : 11117,
         "collaborators" : 155,
-        "stars"         : 125,
+        "stars"         : 126,
         "forks"         : 120,
         "openIssues"    : 33,
         "languages"     : {
@@ -1714,11 +1714,11 @@
           "gitHubURL"     : "https://github.com/finos/openfin-react-hooks",
           "heat"          : 342,
           "watchers"      : 20,
-          "size"          : 748,
+          "size"          : 753,
           "collaborators" : 53,
           "stars"         : 20,
           "forks"         : 18,
-          "openIssues"    : 12,
+          "openIssues"    : 11,
           "languages"     : {
             "TypeScript" : 42482
           }
@@ -1727,11 +1727,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 342,
         "watchers"      : 20,
-        "size"          : 748,
+        "size"          : 753,
         "collaborators" : 53,
         "stars"         : 20,
         "forks"         : 18,
-        "openIssues"    : 12,
+        "openIssues"    : 11,
         "languages"     : {
           "TypeScript" : 42482
         }
@@ -3352,7 +3352,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 102,
           "watchers"      : 9,
-          "size"          : 7772,
+          "size"          : 630,
           "collaborators" : 6,
           "stars"         : 9,
           "forks"         : 12,
@@ -3365,7 +3365,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 102,
         "watchers"      : 9,
-        "size"          : 7772,
+        "size"          : 630,
         "collaborators" : 6,
         "stars"         : 9,
         "forks"         : 12,
@@ -4831,7 +4831,7 @@
           "collaborators" : 10,
           "stars"         : 41,
           "forks"         : 65,
-          "openIssues"    : 1,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 463720,
             "Dockerfile" : 693,
@@ -4980,7 +4980,7 @@
         "collaborators" : 78,
         "stars"         : 49,
         "forks"         : 92,
-        "openIssues"    : 2,
+        "openIssues"    : 3,
         "languages"     : {
           "C#" : 25902,
           "C++" : 43723,
