@@ -228,11 +228,11 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 5631,
           "watchers"      : 2233,
-          "size"          : 48456,
+          "size"          : 48263,
           "collaborators" : 60,
           "stars"         : 2233,
           "forks"         : 185,
-          "openIssues"    : 21,
+          "openIssues"    : 22,
           "languages"     : {
             "TypeScript" : 35377,
             "Dockerfile" : 34106,
@@ -250,11 +250,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 5631,
         "watchers"      : 2233,
-        "size"          : 48456,
+        "size"          : 48263,
         "collaborators" : 60,
         "stars"         : 2233,
         "forks"         : 185,
-        "openIssues"    : 21,
+        "openIssues"    : 22,
         "languages"     : {
           "TypeScript" : 35377,
           "Dockerfile" : 34106,
@@ -850,7 +850,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 245,
           "watchers"      : 4,
-          "size"          : 2782,
+          "size"          : 2807,
           "collaborators" : 53,
           "stars"         : 4,
           "forks"         : 5,
@@ -903,7 +903,7 @@
           "collaborators" : 53,
           "stars"         : 2,
           "forks"         : 1,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "Shell" : 1553,
             "Clojure" : 1198
@@ -955,11 +955,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2735,
         "watchers"      : 19,
-        "size"          : 53685,
+        "size"          : 53710,
         "collaborators" : 638,
         "stars"         : 19,
         "forks"         : 29,
-        "openIssues"    : 37,
+        "openIssues"    : 38,
         "languages"     : {
           "Java" : 12202,
           "Shell" : 28253,
@@ -1142,7 +1142,7 @@
           "collaborators" : 53,
           "stars"         : 15,
           "forks"         : 6,
-          "openIssues"    : 42,
+          "openIssues"    : 43,
           "languages"     : {
             "CSS" : 3644,
             "Shell" : 940,
@@ -1157,7 +1157,7 @@
         "collaborators" : 53,
         "stars"         : 15,
         "forks"         : 6,
-        "openIssues"    : 42,
+        "openIssues"    : 43,
         "languages"     : {
           "CSS" : 3644,
           "Shell" : 940,
@@ -1670,14 +1670,14 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
           "heat"          : 254,
           "watchers"      : 7,
-          "size"          : 9697,
+          "size"          : 9855,
           "collaborators" : 40,
           "stars"         : 7,
           "forks"         : 16,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
-            "TypeScript" : 428278,
-            "CSS" : 32986,
+            "TypeScript" : 418517,
+            "CSS" : 28915,
             "HTML" : 3509,
             "JavaScript" : 3896
           }
@@ -1686,14 +1686,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 254,
         "watchers"      : 7,
-        "size"          : 9697,
+        "size"          : 9855,
         "collaborators" : 40,
         "stars"         : 7,
         "forks"         : 16,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
-          "TypeScript" : 428278,
-          "CSS" : 32986,
+          "TypeScript" : 418517,
+          "CSS" : 28915,
           "HTML" : 3509,
           "JavaScript" : 3896
         }
@@ -4917,7 +4917,7 @@
           "collaborators" : 8,
           "stars"         : 0,
           "forks"         : 1,
-          "openIssues"    : 0,
+          "openIssues"    : 1,
           "languages"     : {
             "C++" : 7873,
             "Objective_C" : 429,
@@ -4963,29 +4963,29 @@
           "gitHubURL"     : "https://github.com/symphonyoss/ScreenShareIndicatorFrame",
           "heat"          : 37,
           "watchers"      : 0,
-          "size"          : 20,
+          "size"          : 26,
           "collaborators" : 8,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "C" : 9487
+            "C" : 11294
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 870,
         "watchers"      : 49,
-        "size"          : 46604,
+        "size"          : 46610,
         "collaborators" : 78,
         "stars"         : 49,
         "forks"         : 92,
-        "openIssues"    : 3,
+        "openIssues"    : 4,
         "languages"     : {
           "C#" : 25902,
           "C++" : 43723,
           "CSS" : 24879,
-          "C" : 55499,
+          "C" : 57306,
           "Objective_C" : 7776,
           "HTML" : 34461,
           "TypeScript" : 595647,
