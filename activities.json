@@ -228,7 +228,7 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 5627,
           "watchers"      : 2231,
-          "size"          : 48732,
+          "size"          : 48381,
           "collaborators" : 60,
           "stars"         : 2231,
           "forks"         : 185,
@@ -241,16 +241,16 @@
             "C" : 4588,
             "CMake" : 61936,
             "Makefile" : 1602,
-            "JavaScript" : 1336801,
+            "JavaScript" : 1334109,
             "HTML" : 39776,
-            "Python" : 494942
+            "Python" : 489478
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 5627,
         "watchers"      : 2231,
-        "size"          : 48732,
+        "size"          : 48381,
         "collaborators" : 60,
         "stars"         : 2231,
         "forks"         : 185,
@@ -263,9 +263,9 @@
           "C" : 4588,
           "CMake" : 61936,
           "Makefile" : 1602,
-          "JavaScript" : 1336801,
+          "JavaScript" : 1334109,
           "HTML" : 39776,
-          "Python" : 494942
+          "Python" : 489478
         }
       }
     },
@@ -321,16 +321,16 @@
           "gitHubURL"     : "https://github.com/FDC3/fdc3",
           "heat"          : 421,
           "watchers"      : 32,
-          "size"          : 3522,
+          "size"          : 3708,
           "collaborators" : 53,
           "stars"         : 32,
           "forks"         : 29,
-          "openIssues"    : 19,
+          "openIssues"    : 18,
           "languages"     : {
             "TypeScript" : 11126,
-            "HTML" : 1858006,
+            "HTML" : 1899840,
             "CSS" : 3463,
-            "JavaScript" : 23734
+            "JavaScript" : 23822
           }
         },
         {
@@ -349,16 +349,16 @@
       "cumulativeGitHubStats" : {
         "heat"          : 612,
         "watchers"      : 35,
-        "size"          : 5736,
+        "size"          : 5922,
         "collaborators" : 98,
         "stars"         : 35,
         "forks"         : 30,
-        "openIssues"    : 21,
+        "openIssues"    : 20,
         "languages"     : {
           "TypeScript" : 11126,
-          "HTML" : 1858006,
+          "HTML" : 1899840,
           "CSS" : 3463,
-          "JavaScript" : 23734
+          "JavaScript" : 23822
         }
       }
     },
@@ -850,7 +850,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 245,
           "watchers"      : 4,
-          "size"          : 2757,
+          "size"          : 2782,
           "collaborators" : 53,
           "stars"         : 4,
           "forks"         : 5,
@@ -955,7 +955,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2735,
         "watchers"      : 19,
-        "size"          : 53660,
+        "size"          : 53685,
         "collaborators" : 638,
         "stars"         : 19,
         "forks"         : 29,
@@ -1718,7 +1718,7 @@
           "collaborators" : 53,
           "stars"         : 20,
           "forks"         : 18,
-          "openIssues"    : 13,
+          "openIssues"    : 12,
           "languages"     : {
             "TypeScript" : 42482
           }
@@ -1731,7 +1731,7 @@
         "collaborators" : 53,
         "stars"         : 20,
         "forks"         : 18,
-        "openIssues"    : 13,
+        "openIssues"    : 12,
         "languages"     : {
           "TypeScript" : 42482
         }
