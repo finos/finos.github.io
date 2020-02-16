@@ -15,12 +15,13 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 417,
           "watchers"      : 36,
-          "size"          : 14929,
+          "size"          : 14932,
           "collaborators" : 55,
           "stars"         : 36,
           "forks"         : 25,
-          "openIssues"    : 33,
+          "openIssues"    : 29,
           "languages"     : {
+            "PowerShell" : 2120,
             "Java" : 1573437,
             "Dockerfile" : 581,
             "Shell" : 2725,
@@ -31,12 +32,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 417,
         "watchers"      : 36,
-        "size"          : 14929,
+        "size"          : 14932,
         "collaborators" : 55,
         "stars"         : 36,
         "forks"         : 25,
-        "openIssues"    : 33,
+        "openIssues"    : 29,
         "languages"     : {
+          "PowerShell" : 2120,
           "Java" : 1573437,
           "Dockerfile" : 581,
           "Shell" : 2725,
@@ -226,13 +228,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5657,
-          "watchers"      : 2239,
-          "size"          : 48521,
+          "heat"          : 5661,
+          "watchers"      : 2241,
+          "size"          : 48783,
           "collaborators" : 61,
-          "stars"         : 2239,
+          "stars"         : 2241,
           "forks"         : 187,
-          "openIssues"    : 21,
+          "openIssues"    : 22,
           "languages"     : {
             "TypeScript" : 35935,
             "Dockerfile" : 34106,
@@ -241,20 +243,20 @@
             "C" : 4588,
             "CMake" : 62031,
             "Makefile" : 1602,
-            "JavaScript" : 1344535,
+            "JavaScript" : 1346182,
             "HTML" : 40934,
             "Python" : 490006
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5657,
-        "watchers"      : 2239,
-        "size"          : 48521,
+        "heat"          : 5661,
+        "watchers"      : 2241,
+        "size"          : 48783,
         "collaborators" : 61,
-        "stars"         : 2239,
+        "stars"         : 2241,
         "forks"         : 187,
-        "openIssues"    : 21,
+        "openIssues"    : 22,
         "languages"     : {
           "TypeScript" : 35935,
           "Dockerfile" : 34106,
@@ -263,7 +265,7 @@
           "C" : 4588,
           "CMake" : 62031,
           "Makefile" : 1602,
-          "JavaScript" : 1344535,
+          "JavaScript" : 1346182,
           "HTML" : 40934,
           "Python" : 490006
         }
@@ -850,7 +852,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 249,
           "watchers"      : 4,
-          "size"          : 2833,
+          "size"          : 2860,
           "collaborators" : 54,
           "stars"         : 4,
           "forks"         : 5,
@@ -955,7 +957,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2783,
         "watchers"      : 19,
-        "size"          : 53736,
+        "size"          : 53763,
         "collaborators" : 650,
         "stars"         : 19,
         "forks"         : 29,
@@ -1088,7 +1090,7 @@
           "collaborators" : 56,
           "stars"         : 11,
           "forks"         : 8,
-          "openIssues"    : 6
+          "openIssues"    : 7
         }
       ],
       "cumulativeGitHubStats" : {
@@ -1098,7 +1100,7 @@
         "collaborators" : 56,
         "stars"         : 11,
         "forks"         : 8,
-        "openIssues"    : 6
+        "openIssues"    : 7
       },
       "mailingLists"       : [
         {
@@ -1439,11 +1441,11 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 650,
-          "watchers"      : 99,
+          "heat"          : 652,
+          "watchers"      : 100,
           "size"          : 4615,
           "collaborators" : 38,
-          "stars"         : 99,
+          "stars"         : 100,
           "forks"         : 60,
           "openIssues"    : 22,
           "languages"     : {
@@ -1506,11 +1508,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1472,
-        "watchers"      : 126,
+        "heat"          : 1474,
+        "watchers"      : 127,
         "size"          : 11117,
         "collaborators" : 155,
-        "stars"         : 126,
+        "stars"         : 127,
         "forks"         : 120,
         "openIssues"    : 33,
         "languages"     : {
@@ -1620,13 +1622,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 197,
           "watchers"      : 0,
-          "size"          : 777,
+          "size"          : 786,
           "collaborators" : 38,
           "stars"         : 0,
           "forks"         : 9,
           "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 68907,
+            "TypeScript" : 69132,
             "CSS" : 70303,
             "HTML" : 2995,
             "JavaScript" : 9896
@@ -1636,13 +1638,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 712,
         "watchers"      : 15,
-        "size"          : 6478,
+        "size"          : 6487,
         "collaborators" : 118,
         "stars"         : 15,
         "forks"         : 42,
         "openIssues"    : 12,
         "languages"     : {
-          "TypeScript" : 985551,
+          "TypeScript" : 985776,
           "HTML" : 69811,
           "CSS" : 97088,
           "JavaScript" : 19694
@@ -1839,7 +1841,7 @@
           "collaborators" : 13,
           "stars"         : 244,
           "forks"         : 46,
-          "openIssues"    : 4,
+          "openIssues"    : 5,
           "languages"     : {
             "TypeScript" : 1182565,
             "C#" : 2211629,
@@ -1860,7 +1862,7 @@
         "collaborators" : 13,
         "stars"         : 244,
         "forks"         : 46,
-        "openIssues"    : 4,
+        "openIssues"    : 5,
         "languages"     : {
           "TypeScript" : 1182565,
           "C#" : 2211629,
@@ -3352,7 +3354,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 102,
           "watchers"      : 9,
-          "size"          : 1401,
+          "size"          : 1725,
           "collaborators" : 6,
           "stars"         : 9,
           "forks"         : 12,
@@ -3365,7 +3367,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 102,
         "watchers"      : 9,
-        "size"          : 1401,
+        "size"          : 1725,
         "collaborators" : 6,
         "stars"         : 9,
         "forks"         : 12,
@@ -4825,13 +4827,13 @@
           "name"          : "SymphonyElectron",
           "description"   : "A desktop client for the Symphony Collaboration Platform built using Electron",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 447,
-          "watchers"      : 41,
-          "size"          : 36588,
+          "heat"          : 454,
+          "watchers"      : 42,
+          "size"          : 36656,
           "collaborators" : 10,
-          "stars"         : 41,
-          "forks"         : 65,
-          "openIssues"    : 1,
+          "stars"         : 42,
+          "forks"         : 66,
+          "openIssues"    : 2,
           "languages"     : {
             "TypeScript" : 470870,
             "Dockerfile" : 693,
@@ -4974,13 +4976,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 870,
-        "watchers"      : 49,
-        "size"          : 46637,
+        "heat"          : 877,
+        "watchers"      : 50,
+        "size"          : 46705,
         "collaborators" : 78,
-        "stars"         : 49,
-        "forks"         : 92,
-        "openIssues"    : 2,
+        "stars"         : 50,
+        "forks"         : 93,
+        "openIssues"    : 3,
         "languages"     : {
           "C#" : 25902,
           "C++" : 43723,
