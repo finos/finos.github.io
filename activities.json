@@ -234,7 +234,7 @@
           "collaborators" : 61,
           "stars"         : 2243,
           "forks"         : 187,
-          "openIssues"    : 23,
+          "openIssues"    : 24,
           "languages"     : {
             "TypeScript" : 35935,
             "Dockerfile" : 34106,
@@ -256,7 +256,7 @@
         "collaborators" : 61,
         "stars"         : 2243,
         "forks"         : 187,
-        "openIssues"    : 23,
+        "openIssues"    : 24,
         "languages"     : {
           "TypeScript" : 35935,
           "Dockerfile" : 34106,
@@ -327,7 +327,7 @@
           "collaborators" : 54,
           "stars"         : 33,
           "forks"         : 29,
-          "openIssues"    : 18,
+          "openIssues"    : 19,
           "languages"     : {
             "TypeScript" : 12261,
             "HTML" : 1899840,
@@ -355,7 +355,7 @@
         "collaborators" : 99,
         "stars"         : 36,
         "forks"         : 30,
-        "openIssues"    : 20,
+        "openIssues"    : 21,
         "languages"     : {
           "TypeScript" : 12261,
           "HTML" : 1899840,
@@ -852,7 +852,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 249,
           "watchers"      : 4,
-          "size"          : 2859,
+          "size"          : 2885,
           "collaborators" : 54,
           "stars"         : 4,
           "forks"         : 5,
@@ -957,7 +957,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2783,
         "watchers"      : 19,
-        "size"          : 53762,
+        "size"          : 53788,
         "collaborators" : 650,
         "stars"         : 19,
         "forks"         : 29,
@@ -1716,26 +1716,26 @@
           "gitHubURL"     : "https://github.com/finos/openfin-react-hooks",
           "heat"          : 346,
           "watchers"      : 20,
-          "size"          : 778,
+          "size"          : 763,
           "collaborators" : 54,
           "stars"         : 20,
           "forks"         : 18,
           "openIssues"    : 13,
           "languages"     : {
-            "TypeScript" : 42482
+            "TypeScript" : 42524
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 346,
         "watchers"      : 20,
-        "size"          : 778,
+        "size"          : 763,
         "collaborators" : 54,
         "stars"         : 20,
         "forks"         : 18,
         "openIssues"    : 13,
         "languages"     : {
-          "TypeScript" : 42482
+          "TypeScript" : 42524
         }
       }
     },
@@ -1841,7 +1841,7 @@
           "collaborators" : 13,
           "stars"         : 244,
           "forks"         : 46,
-          "openIssues"    : 5,
+          "openIssues"    : 25,
           "languages"     : {
             "TypeScript" : 1182565,
             "C#" : 2211629,
@@ -1862,7 +1862,7 @@
         "collaborators" : 13,
         "stars"         : 244,
         "forks"         : 46,
-        "openIssues"    : 5,
+        "openIssues"    : 25,
         "languages"     : {
           "TypeScript" : 1182565,
           "C#" : 2211629,
@@ -3354,7 +3354,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 102,
           "watchers"      : 9,
-          "size"          : 2029,
+          "size"          : 2189,
           "collaborators" : 6,
           "stars"         : 9,
           "forks"         : 12,
@@ -3367,7 +3367,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 102,
         "watchers"      : 9,
-        "size"          : 2029,
+        "size"          : 2189,
         "collaborators" : 6,
         "stars"         : 9,
         "forks"         : 12,
@@ -4829,11 +4829,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 454,
           "watchers"      : 42,
-          "size"          : 36656,
+          "size"          : 36872,
           "collaborators" : 10,
           "stars"         : 42,
           "forks"         : 66,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
             "TypeScript" : 470870,
             "Dockerfile" : 693,
@@ -4978,11 +4978,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 877,
         "watchers"      : 50,
-        "size"          : 46705,
+        "size"          : 46921,
         "collaborators" : 78,
         "stars"         : 50,
         "forks"         : 93,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
           "C#" : 25902,
           "C++" : 43723,
