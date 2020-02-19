@@ -15,7 +15,7 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 417,
           "watchers"      : 36,
-          "size"          : 14932,
+          "size"          : 14927,
           "collaborators" : 55,
           "stars"         : 36,
           "forks"         : 25,
@@ -32,7 +32,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 417,
         "watchers"      : 36,
-        "size"          : 14932,
+        "size"          : 14927,
         "collaborators" : 55,
         "stars"         : 36,
         "forks"         : 25,
@@ -228,13 +228,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5665,
-          "watchers"      : 2243,
-          "size"          : 48783,
+          "heat"          : 5667,
+          "watchers"      : 2244,
+          "size"          : 48808,
           "collaborators" : 61,
-          "stars"         : 2243,
+          "stars"         : 2244,
           "forks"         : 187,
-          "openIssues"    : 24,
+          "openIssues"    : 25,
           "languages"     : {
             "TypeScript" : 35935,
             "Dockerfile" : 34106,
@@ -250,13 +250,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5665,
-        "watchers"      : 2243,
-        "size"          : 48783,
+        "heat"          : 5667,
+        "watchers"      : 2244,
+        "size"          : 48808,
         "collaborators" : 61,
-        "stars"         : 2243,
+        "stars"         : 2244,
         "forks"         : 187,
-        "openIssues"    : 24,
+        "openIssues"    : 25,
         "languages"     : {
           "TypeScript" : 35935,
           "Dockerfile" : 34106,
@@ -321,12 +321,12 @@
           "name"          : "FDC3",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/fdc3",
-          "heat"          : 427,
+          "heat"          : 432,
           "watchers"      : 33,
           "size"          : 3761,
           "collaborators" : 54,
           "stars"         : 33,
-          "forks"         : 29,
+          "forks"         : 30,
           "openIssues"    : 19,
           "languages"     : {
             "TypeScript" : 12261,
@@ -349,12 +349,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 618,
+        "heat"          : 623,
         "watchers"      : 36,
         "size"          : 5975,
         "collaborators" : 99,
         "stars"         : 36,
-        "forks"         : 30,
+        "forks"         : 31,
         "openIssues"    : 21,
         "languages"     : {
           "TypeScript" : 12261,
@@ -698,11 +698,11 @@
           "name"          : "bot-github-chatops",
           "description"   : "A Symphony bot that uses ChatOps techniques to allow a firm employee to interact in a compliant manner with GitHub issues and PRs",
           "gitHubURL"     : "https://github.com/finos/bot-github-chatops",
-          "heat"          : 253,
-          "watchers"      : 9,
+          "heat"          : 251,
+          "watchers"      : 8,
           "size"          : 406,
           "collaborators" : 55,
-          "stars"         : 9,
+          "stars"         : 8,
           "forks"         : 3,
           "openIssues"    : 14,
           "languages"     : {
@@ -713,11 +713,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 253,
-        "watchers"      : 9,
+        "heat"          : 251,
+        "watchers"      : 8,
         "size"          : 406,
         "collaborators" : 55,
-        "stars"         : 9,
+        "stars"         : 8,
         "forks"         : 3,
         "openIssues"    : 14,
         "languages"     : {
@@ -852,7 +852,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 249,
           "watchers"      : 4,
-          "size"          : 2885,
+          "size"          : 2884,
           "collaborators" : 54,
           "stars"         : 4,
           "forks"         : 5,
@@ -957,7 +957,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2783,
         "watchers"      : 19,
-        "size"          : 53788,
+        "size"          : 53787,
         "collaborators" : 650,
         "stars"         : 19,
         "forks"         : 29,
@@ -1716,7 +1716,7 @@
           "gitHubURL"     : "https://github.com/finos/openfin-react-hooks",
           "heat"          : 346,
           "watchers"      : 20,
-          "size"          : 763,
+          "size"          : 769,
           "collaborators" : 54,
           "stars"         : 20,
           "forks"         : 18,
@@ -1729,7 +1729,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 346,
         "watchers"      : 20,
-        "size"          : 763,
+        "size"          : 769,
         "collaborators" : 54,
         "stars"         : 20,
         "forks"         : 18,
@@ -1841,7 +1841,7 @@
           "collaborators" : 13,
           "stars"         : 244,
           "forks"         : 46,
-          "openIssues"    : 25,
+          "openIssues"    : 20,
           "languages"     : {
             "TypeScript" : 1182565,
             "C#" : 2211629,
@@ -1862,7 +1862,7 @@
         "collaborators" : 13,
         "stars"         : 244,
         "forks"         : 46,
-        "openIssues"    : 25,
+        "openIssues"    : 20,
         "languages"     : {
           "TypeScript" : 1182565,
           "C#" : 2211629,
@@ -4829,13 +4829,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 454,
           "watchers"      : 42,
-          "size"          : 36872,
+          "size"          : 36887,
           "collaborators" : 10,
           "stars"         : 42,
           "forks"         : 66,
           "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 470870,
+            "TypeScript" : 470986,
             "Dockerfile" : 693,
             "CSS" : 28035,
             "Shell" : 12319,
@@ -4978,7 +4978,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 877,
         "watchers"      : 50,
-        "size"          : 46921,
+        "size"          : 46936,
         "collaborators" : 78,
         "stars"         : 50,
         "forks"         : 93,
@@ -4990,7 +4990,7 @@
           "C" : 59547,
           "Objective_C" : 7776,
           "HTML" : 34461,
-          "TypeScript" : 602797,
+          "TypeScript" : 602913,
           "Dockerfile" : 693,
           "Shell" : 12319,
           "Batchfile" : 4046,
@@ -5138,28 +5138,28 @@
           "gitHubURL"     : "https://github.com/finos/greenkey-discovery-sdk",
           "heat"          : 259,
           "watchers"      : 5,
-          "size"          : 46225,
+          "size"          : 46226,
           "collaborators" : 56,
           "stars"         : 5,
           "forks"         : 5,
           "openIssues"    : 1,
           "languages"     : {
             "Shell" : 893,
-            "Python" : 63284
+            "Python" : 63716
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 259,
         "watchers"      : 5,
-        "size"          : 46225,
+        "size"          : 46226,
         "collaborators" : 56,
         "stars"         : 5,
         "forks"         : 5,
         "openIssues"    : 1,
         "languages"     : {
           "Shell" : 893,
-          "Python" : 63284
+          "Python" : 63716
         }
       }
     },
