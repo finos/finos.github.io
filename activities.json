@@ -228,13 +228,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5673,
-          "watchers"      : 2247,
-          "size"          : 48882,
+          "heat"          : 5677,
+          "watchers"      : 2249,
+          "size"          : 48880,
           "collaborators" : 61,
-          "stars"         : 2247,
+          "stars"         : 2249,
           "forks"         : 187,
-          "openIssues"    : 29,
+          "openIssues"    : 26,
           "languages"     : {
             "TypeScript" : 35935,
             "Dockerfile" : 34106,
@@ -243,20 +243,20 @@
             "C" : 4588,
             "CMake" : 62031,
             "Makefile" : 1602,
-            "JavaScript" : 1346182,
+            "JavaScript" : 1344186,
             "HTML" : 40934,
-            "Python" : 490006
+            "Python" : 491229
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5673,
-        "watchers"      : 2247,
-        "size"          : 48882,
+        "heat"          : 5677,
+        "watchers"      : 2249,
+        "size"          : 48880,
         "collaborators" : 61,
-        "stars"         : 2247,
+        "stars"         : 2249,
         "forks"         : 187,
-        "openIssues"    : 29,
+        "openIssues"    : 26,
         "languages"     : {
           "TypeScript" : 35935,
           "Dockerfile" : 34106,
@@ -265,9 +265,9 @@
           "C" : 4588,
           "CMake" : 62031,
           "Makefile" : 1602,
-          "JavaScript" : 1346182,
+          "JavaScript" : 1344186,
           "HTML" : 40934,
-          "Python" : 490006
+          "Python" : 491229
         }
       }
     },
@@ -323,7 +323,7 @@
           "gitHubURL"     : "https://github.com/FDC3/fdc3",
           "heat"          : 434,
           "watchers"      : 34,
-          "size"          : 3773,
+          "size"          : 3785,
           "collaborators" : 54,
           "stars"         : 34,
           "forks"         : 30,
@@ -351,7 +351,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 625,
         "watchers"      : 37,
-        "size"          : 5987,
+        "size"          : 5999,
         "collaborators" : 99,
         "stars"         : 37,
         "forks"         : 31,
@@ -852,7 +852,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 249,
           "watchers"      : 4,
-          "size"          : 2911,
+          "size"          : 2909,
           "collaborators" : 54,
           "stars"         : 4,
           "forks"         : 5,
@@ -957,7 +957,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2783,
         "watchers"      : 19,
-        "size"          : 53814,
+        "size"          : 53812,
         "collaborators" : 650,
         "stars"         : 19,
         "forks"         : 29,
@@ -1622,13 +1622,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 197,
           "watchers"      : 0,
-          "size"          : 786,
+          "size"          : 790,
           "collaborators" : 38,
           "stars"         : 0,
           "forks"         : 9,
           "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 69132,
+            "TypeScript" : 69136,
             "CSS" : 70303,
             "HTML" : 2995,
             "JavaScript" : 9896
@@ -1638,13 +1638,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 712,
         "watchers"      : 15,
-        "size"          : 6487,
+        "size"          : 6491,
         "collaborators" : 118,
         "stars"         : 15,
         "forks"         : 42,
         "openIssues"    : 12,
         "languages"     : {
-          "TypeScript" : 985776,
+          "TypeScript" : 985780,
           "HTML" : 69811,
           "CSS" : 97088,
           "JavaScript" : 19694
