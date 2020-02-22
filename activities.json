@@ -230,11 +230,11 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 5677,
           "watchers"      : 2249,
-          "size"          : 48880,
+          "size"          : 48768,
           "collaborators" : 61,
           "stars"         : 2249,
           "forks"         : 187,
-          "openIssues"    : 26,
+          "openIssues"    : 29,
           "languages"     : {
             "TypeScript" : 35935,
             "Dockerfile" : 34106,
@@ -243,20 +243,20 @@
             "C" : 4588,
             "CMake" : 62031,
             "Makefile" : 1602,
-            "JavaScript" : 1344186,
+            "JavaScript" : 1344335,
             "HTML" : 40934,
-            "Python" : 491229
+            "Python" : 489239
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 5677,
         "watchers"      : 2249,
-        "size"          : 48880,
+        "size"          : 48768,
         "collaborators" : 61,
         "stars"         : 2249,
         "forks"         : 187,
-        "openIssues"    : 26,
+        "openIssues"    : 29,
         "languages"     : {
           "TypeScript" : 35935,
           "Dockerfile" : 34106,
@@ -265,9 +265,9 @@
           "C" : 4588,
           "CMake" : 62031,
           "Makefile" : 1602,
-          "JavaScript" : 1344186,
+          "JavaScript" : 1344335,
           "HTML" : 40934,
-          "Python" : 491229
+          "Python" : 489239
         }
       }
     },
@@ -852,7 +852,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 249,
           "watchers"      : 4,
-          "size"          : 2909,
+          "size"          : 2936,
           "collaborators" : 54,
           "stars"         : 4,
           "forks"         : 5,
@@ -957,7 +957,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2783,
         "watchers"      : 19,
-        "size"          : 53812,
+        "size"          : 53839,
         "collaborators" : 650,
         "stars"         : 19,
         "forks"         : 29,
@@ -1354,11 +1354,11 @@
           "name"          : "app-template",
           "description"   : "A simple unopinionated Hadouken application template.",
           "gitHubURL"     : "https://github.com/HadoukenIO/app-template",
-          "heat"          : 313,
-          "watchers"      : 18,
+          "heat"          : 315,
+          "watchers"      : 19,
           "size"          : 354,
           "collaborators" : 38,
-          "stars"         : 18,
+          "stars"         : 19,
           "forks"         : 25,
           "openIssues"    : 4,
           "languages"     : {
@@ -1369,11 +1369,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 313,
-        "watchers"      : 18,
+        "heat"          : 315,
+        "watchers"      : 19,
         "size"          : 354,
         "collaborators" : 38,
-        "stars"         : 18,
+        "stars"         : 19,
         "forks"         : 25,
         "openIssues"    : 4,
         "languages"     : {
