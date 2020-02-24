@@ -228,13 +228,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5677,
-          "watchers"      : 2249,
-          "size"          : 48768,
+          "heat"          : 5679,
+          "watchers"      : 2250,
+          "size"          : 48775,
           "collaborators" : 61,
-          "stars"         : 2249,
+          "stars"         : 2250,
           "forks"         : 187,
-          "openIssues"    : 29,
+          "openIssues"    : 33,
           "languages"     : {
             "TypeScript" : 35935,
             "Dockerfile" : 34106,
@@ -250,13 +250,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5677,
-        "watchers"      : 2249,
-        "size"          : 48768,
+        "heat"          : 5679,
+        "watchers"      : 2250,
+        "size"          : 48775,
         "collaborators" : 61,
-        "stars"         : 2249,
+        "stars"         : 2250,
         "forks"         : 187,
-        "openIssues"    : 29,
+        "openIssues"    : 33,
         "languages"     : {
           "TypeScript" : 35935,
           "Dockerfile" : 34106,
@@ -852,7 +852,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 249,
           "watchers"      : 4,
-          "size"          : 2936,
+          "size"          : 2934,
           "collaborators" : 54,
           "stars"         : 4,
           "forks"         : 5,
@@ -957,7 +957,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2783,
         "watchers"      : 19,
-        "size"          : 53839,
+        "size"          : 53837,
         "collaborators" : 650,
         "stars"         : 19,
         "forks"         : 29,
@@ -1441,12 +1441,12 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 652,
-          "watchers"      : 100,
+          "heat"          : 645,
+          "watchers"      : 99,
           "size"          : 4615,
           "collaborators" : 38,
-          "stars"         : 100,
-          "forks"         : 60,
+          "stars"         : 99,
+          "forks"         : 59,
           "openIssues"    : 22,
           "languages"     : {
             "TypeScript" : 629860,
@@ -1508,12 +1508,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1474,
-        "watchers"      : 127,
+        "heat"          : 1467,
+        "watchers"      : 126,
         "size"          : 11117,
         "collaborators" : 155,
-        "stars"         : 127,
-        "forks"         : 120,
+        "stars"         : 126,
+        "forks"         : 119,
         "openIssues"    : 33,
         "languages"     : {
           "TypeScript" : 1700478,
@@ -1716,7 +1716,7 @@
           "gitHubURL"     : "https://github.com/finos/openfin-react-hooks",
           "heat"          : 346,
           "watchers"      : 20,
-          "size"          : 769,
+          "size"          : 796,
           "collaborators" : 54,
           "stars"         : 20,
           "forks"         : 18,
@@ -1729,7 +1729,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 346,
         "watchers"      : 20,
-        "size"          : 769,
+        "size"          : 796,
         "collaborators" : 54,
         "stars"         : 20,
         "forks"         : 18,
@@ -1793,7 +1793,7 @@
           "collaborators" : 11,
           "stars"         : 1,
           "forks"         : 8,
-          "openIssues"    : 10,
+          "openIssues"    : 8,
           "languages"     : {
             "TypeScript" : 21599
           }
@@ -1806,7 +1806,7 @@
         "collaborators" : 11,
         "stars"         : 1,
         "forks"         : 8,
-        "openIssues"    : 10,
+        "openIssues"    : 8,
         "languages"     : {
           "TypeScript" : 21599
         }
@@ -3470,12 +3470,12 @@
           "name"          : "symphony-node-binding",
           "description"   : "A node.js symphony api implementation",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-node-binding",
-          "heat"          : 92,
+          "heat"          : 87,
           "watchers"      : 2,
           "size"          : 22,
           "collaborators" : 7,
           "stars"         : 2,
-          "forks"         : 12,
+          "forks"         : 11,
           "openIssues"    : 7,
           "languages"     : {
             "JavaScript" : 28233
@@ -3483,12 +3483,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 92,
+        "heat"          : 87,
         "watchers"      : 2,
         "size"          : 22,
         "collaborators" : 7,
         "stars"         : 2,
-        "forks"         : 12,
+        "forks"         : 11,
         "openIssues"    : 7,
         "languages"     : {
           "JavaScript" : 28233
