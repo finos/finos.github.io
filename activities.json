@@ -228,46 +228,46 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5679,
-          "watchers"      : 2250,
-          "size"          : 48775,
+          "heat"          : 5683,
+          "watchers"      : 2252,
+          "size"          : 48798,
           "collaborators" : 61,
-          "stars"         : 2250,
+          "stars"         : 2252,
           "forks"         : 187,
-          "openIssues"    : 33,
+          "openIssues"    : 28,
           "languages"     : {
             "TypeScript" : 35935,
             "Dockerfile" : 34106,
-            "C++" : 1256466,
+            "C++" : 1256823,
             "CSS" : 97068,
             "C" : 4588,
             "CMake" : 62031,
             "Makefile" : 1602,
-            "JavaScript" : 1344335,
+            "JavaScript" : 1346556,
             "HTML" : 40934,
-            "Python" : 489239
+            "Python" : 492248
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5679,
-        "watchers"      : 2250,
-        "size"          : 48775,
+        "heat"          : 5683,
+        "watchers"      : 2252,
+        "size"          : 48798,
         "collaborators" : 61,
-        "stars"         : 2250,
+        "stars"         : 2252,
         "forks"         : 187,
-        "openIssues"    : 33,
+        "openIssues"    : 28,
         "languages"     : {
           "TypeScript" : 35935,
           "Dockerfile" : 34106,
-          "C++" : 1256466,
+          "C++" : 1256823,
           "CSS" : 97068,
           "C" : 4588,
           "CMake" : 62031,
           "Makefile" : 1602,
-          "JavaScript" : 1344335,
+          "JavaScript" : 1346556,
           "HTML" : 40934,
-          "Python" : 489239
+          "Python" : 492248
         }
       }
     },
@@ -852,7 +852,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 249,
           "watchers"      : 4,
-          "size"          : 2934,
+          "size"          : 2961,
           "collaborators" : 54,
           "stars"         : 4,
           "forks"         : 5,
@@ -957,7 +957,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2783,
         "watchers"      : 19,
-        "size"          : 53837,
+        "size"          : 53864,
         "collaborators" : 650,
         "stars"         : 19,
         "forks"         : 29,
@@ -1622,7 +1622,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 197,
           "watchers"      : 0,
-          "size"          : 790,
+          "size"          : 791,
           "collaborators" : 38,
           "stars"         : 0,
           "forks"         : 9,
@@ -1638,7 +1638,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 712,
         "watchers"      : 15,
-        "size"          : 6491,
+        "size"          : 6492,
         "collaborators" : 118,
         "stars"         : 15,
         "forks"         : 42,
@@ -1670,12 +1670,12 @@
           "name"          : "notifications-service",
           "description"   : "Notifications Desktop Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/notifications-service",
-          "heat"          : 254,
+          "heat"          : 259,
           "watchers"      : 7,
           "size"          : 9857,
           "collaborators" : 40,
           "stars"         : 7,
-          "forks"         : 16,
+          "forks"         : 17,
           "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 418522,
@@ -1686,12 +1686,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 254,
+        "heat"          : 259,
         "watchers"      : 7,
         "size"          : 9857,
         "collaborators" : 40,
         "stars"         : 7,
-        "forks"         : 16,
+        "forks"         : 17,
         "openIssues"    : 4,
         "languages"     : {
           "TypeScript" : 418522,
@@ -1793,7 +1793,7 @@
           "collaborators" : 11,
           "stars"         : 1,
           "forks"         : 8,
-          "openIssues"    : 8,
+          "openIssues"    : 9,
           "languages"     : {
             "TypeScript" : 21599
           }
@@ -1806,7 +1806,7 @@
         "collaborators" : 11,
         "stars"         : 1,
         "forks"         : 8,
-        "openIssues"    : 8,
+        "openIssues"    : 9,
         "languages"     : {
           "TypeScript" : 21599
         }
@@ -1841,7 +1841,7 @@
           "collaborators" : 13,
           "stars"         : 244,
           "forks"         : 46,
-          "openIssues"    : 20,
+          "openIssues"    : 12,
           "languages"     : {
             "TypeScript" : 1182565,
             "C#" : 2211629,
@@ -1862,7 +1862,7 @@
         "collaborators" : 13,
         "stars"         : 244,
         "forks"         : 46,
-        "openIssues"    : 20,
+        "openIssues"    : 12,
         "languages"     : {
           "TypeScript" : 1182565,
           "C#" : 2211629,
@@ -3354,11 +3354,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 102,
           "watchers"      : 9,
-          "size"          : 2494,
+          "size"          : 2800,
           "collaborators" : 6,
           "stars"         : 9,
           "forks"         : 12,
-          "openIssues"    : 27,
+          "openIssues"    : 28,
           "languages"     : {
             "JavaScript" : 82020
           }
@@ -3367,11 +3367,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 102,
         "watchers"      : 9,
-        "size"          : 2494,
+        "size"          : 2800,
         "collaborators" : 6,
         "stars"         : 9,
         "forks"         : 12,
-        "openIssues"    : 27,
+        "openIssues"    : 28,
         "languages"     : {
           "JavaScript" : 82020
         }
@@ -4827,11 +4827,11 @@
           "name"          : "SymphonyElectron",
           "description"   : "A desktop client for the Symphony Collaboration Platform built using Electron",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 454,
-          "watchers"      : 42,
+          "heat"          : 456,
+          "watchers"      : 43,
           "size"          : 36887,
           "collaborators" : 10,
-          "stars"         : 42,
+          "stars"         : 43,
           "forks"         : 66,
           "openIssues"    : 1,
           "languages"     : {
@@ -4965,30 +4965,31 @@
           "gitHubURL"     : "https://github.com/symphonyoss/ScreenShareIndicatorFrame",
           "heat"          : 37,
           "watchers"      : 0,
-          "size"          : 26,
+          "size"          : 32,
           "collaborators" : 8,
           "stars"         : 0,
           "forks"         : 1,
-          "openIssues"    : 1,
+          "openIssues"    : 0,
           "languages"     : {
+            "Objective_C" : 3152,
             "C" : 11294
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 877,
-        "watchers"      : 50,
-        "size"          : 46936,
+        "heat"          : 879,
+        "watchers"      : 51,
+        "size"          : 46942,
         "collaborators" : 78,
-        "stars"         : 50,
+        "stars"         : 51,
         "forks"         : 93,
-        "openIssues"    : 3,
+        "openIssues"    : 2,
         "languages"     : {
           "C#" : 25902,
           "C++" : 43723,
           "CSS" : 28035,
           "C" : 59547,
-          "Objective_C" : 7776,
+          "Objective_C" : 10928,
           "HTML" : 34461,
           "TypeScript" : 602913,
           "Dockerfile" : 693,
