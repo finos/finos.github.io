@@ -15,7 +15,7 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 417,
           "watchers"      : 36,
-          "size"          : 14927,
+          "size"          : 14922,
           "collaborators" : 55,
           "stars"         : 36,
           "forks"         : 25,
@@ -32,7 +32,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 417,
         "watchers"      : 36,
-        "size"          : 14927,
+        "size"          : 14922,
         "collaborators" : 55,
         "stars"         : 36,
         "forks"         : 25,
@@ -214,8 +214,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/DAV/overview",
       "activityName"         : "Perspective",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2019-04-30",
+      "releaseDate"          : "2020-02-24",
       "tags"                 : [
         "analytics",
         "data-visualization",
@@ -228,46 +229,46 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5678,
-          "watchers"      : 2252,
-          "size"          : 48836,
+          "heat"          : 5687,
+          "watchers"      : 2254,
+          "size"          : 49207,
           "collaborators" : 61,
-          "stars"         : 2252,
-          "forks"         : 186,
-          "openIssues"    : 25,
+          "stars"         : 2254,
+          "forks"         : 187,
+          "openIssues"    : 26,
           "languages"     : {
             "TypeScript" : 35935,
             "Dockerfile" : 34106,
             "C++" : 1197589,
             "CSS" : 97068,
             "C" : 4588,
-            "CMake" : 60549,
+            "CMake" : 60875,
             "Makefile" : 1602,
-            "JavaScript" : 1354116,
+            "JavaScript" : 1354118,
             "HTML" : 40934,
-            "Python" : 496630
+            "Python" : 496684
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5678,
-        "watchers"      : 2252,
-        "size"          : 48836,
+        "heat"          : 5687,
+        "watchers"      : 2254,
+        "size"          : 49207,
         "collaborators" : 61,
-        "stars"         : 2252,
-        "forks"         : 186,
-        "openIssues"    : 25,
+        "stars"         : 2254,
+        "forks"         : 187,
+        "openIssues"    : 26,
         "languages"     : {
           "TypeScript" : 35935,
           "Dockerfile" : 34106,
           "C++" : 1197589,
           "CSS" : 97068,
           "C" : 4588,
-          "CMake" : 60549,
+          "CMake" : 60875,
           "Makefile" : 1602,
-          "JavaScript" : 1354116,
+          "JavaScript" : 1354118,
           "HTML" : 40934,
-          "Python" : 496630
+          "Python" : 496684
         }
       }
     },
@@ -321,13 +322,13 @@
           "name"          : "FDC3",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/fdc3",
-          "heat"          : 434,
-          "watchers"      : 34,
-          "size"          : 3785,
+          "heat"          : 438,
+          "watchers"      : 36,
+          "size"          : 3815,
           "collaborators" : 54,
-          "stars"         : 34,
+          "stars"         : 36,
           "forks"         : 30,
-          "openIssues"    : 22,
+          "openIssues"    : 19,
           "languages"     : {
             "TypeScript" : 12261,
             "HTML" : 1899840,
@@ -349,13 +350,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 625,
-        "watchers"      : 37,
-        "size"          : 5999,
+        "heat"          : 629,
+        "watchers"      : 39,
+        "size"          : 6029,
         "collaborators" : 99,
-        "stars"         : 37,
+        "stars"         : 39,
         "forks"         : 31,
-        "openIssues"    : 24,
+        "openIssues"    : 21,
         "languages"     : {
           "TypeScript" : 12261,
           "HTML" : 1899840,
@@ -852,7 +853,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 249,
           "watchers"      : 4,
-          "size"          : 2960,
+          "size"          : 2987,
           "collaborators" : 54,
           "stars"         : 4,
           "forks"         : 5,
@@ -885,7 +886,7 @@
           "gitHubURL"     : "https://github.com/finos/project-blueprint",
           "heat"          : 258,
           "watchers"      : 4,
-          "size"          : 18465,
+          "size"          : 18466,
           "collaborators" : 55,
           "stars"         : 4,
           "forks"         : 6,
@@ -957,7 +958,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2783,
         "watchers"      : 19,
-        "size"          : 53871,
+        "size"          : 53899,
         "collaborators" : 650,
         "stars"         : 19,
         "forks"         : 29,
@@ -1090,7 +1091,7 @@
           "collaborators" : 56,
           "stars"         : 11,
           "forks"         : 8,
-          "openIssues"    : 7
+          "openIssues"    : 11
         }
       ],
       "cumulativeGitHubStats" : {
@@ -1100,7 +1101,7 @@
         "collaborators" : 56,
         "stars"         : 11,
         "forks"         : 8,
-        "openIssues"    : 7
+        "openIssues"    : 11
       },
       "mailingLists"       : [
         {
@@ -1144,7 +1145,7 @@
           "collaborators" : 54,
           "stars"         : 15,
           "forks"         : 6,
-          "openIssues"    : 46,
+          "openIssues"    : 44,
           "languages"     : {
             "CSS" : 3644,
             "Shell" : 940,
@@ -1159,7 +1160,7 @@
         "collaborators" : 54,
         "stars"         : 15,
         "forks"         : 6,
-        "openIssues"    : 46,
+        "openIssues"    : 44,
         "languages"     : {
           "CSS" : 3644,
           "Shell" : 940,
@@ -1542,12 +1543,12 @@
           "name"          : "symphony-of",
           "description"   : "OpenFin Sym Integration",
           "gitHubURL"     : "https://github.com/HadoukenIO/symphony-of",
-          "heat"          : 311,
+          "heat"          : 306,
           "watchers"      : 22,
           "size"          : 14610,
           "collaborators" : 43,
           "stars"         : 22,
-          "forks"         : 19,
+          "forks"         : 18,
           "openIssues"    : 7,
           "languages"     : {
             "HTML" : 34974,
@@ -1557,12 +1558,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 311,
+        "heat"          : 306,
         "watchers"      : 22,
         "size"          : 14610,
         "collaborators" : 43,
         "stars"         : 22,
-        "forks"         : 19,
+        "forks"         : 18,
         "openIssues"    : 7,
         "languages"     : {
           "HTML" : 34974,
@@ -1716,11 +1717,11 @@
           "gitHubURL"     : "https://github.com/finos/openfin-react-hooks",
           "heat"          : 346,
           "watchers"      : 20,
-          "size"          : 800,
+          "size"          : 835,
           "collaborators" : 54,
           "stars"         : 20,
           "forks"         : 18,
-          "openIssues"    : 10,
+          "openIssues"    : 12,
           "languages"     : {
             "TypeScript" : 44652
           }
@@ -1729,11 +1730,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 346,
         "watchers"      : 20,
-        "size"          : 800,
+        "size"          : 835,
         "collaborators" : 54,
         "stars"         : 20,
         "forks"         : 18,
-        "openIssues"    : 10,
+        "openIssues"    : 12,
         "languages"     : {
           "TypeScript" : 44652
         }
@@ -1835,11 +1836,11 @@
           "name"          : "plexus-interop",
           "description"   : "Plexus Interop open source project hosted by the Fintech Open Source Foundation",
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
-          "heat"          : 770,
-          "watchers"      : 244,
+          "heat"          : 772,
+          "watchers"      : 245,
           "size"          : 9320,
           "collaborators" : 13,
-          "stars"         : 244,
+          "stars"         : 245,
           "forks"         : 46,
           "openIssues"    : 12,
           "languages"     : {
@@ -1856,11 +1857,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 770,
-        "watchers"      : 244,
+        "heat"          : 772,
+        "watchers"      : 245,
         "size"          : 9320,
         "collaborators" : 13,
-        "stars"         : 244,
+        "stars"         : 245,
         "forks"         : 46,
         "openIssues"    : 12,
         "languages"     : {
@@ -3354,11 +3355,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 102,
           "watchers"      : 9,
-          "size"          : 3124,
+          "size"          : 3737,
           "collaborators" : 6,
           "stars"         : 9,
           "forks"         : 12,
-          "openIssues"    : 28,
+          "openIssues"    : 29,
           "languages"     : {
             "JavaScript" : 82020
           }
@@ -3367,11 +3368,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 102,
         "watchers"      : 9,
-        "size"          : 3124,
+        "size"          : 3737,
         "collaborators" : 6,
         "stars"         : 9,
         "forks"         : 12,
-        "openIssues"    : 28,
+        "openIssues"    : 29,
         "languages"     : {
           "JavaScript" : 82020
         }
@@ -3802,13 +3803,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 55,
           "watchers"      : 1,
-          "size"          : 2295,
+          "size"          : 2346,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 5,
           "openIssues"    : 3,
           "languages"     : {
-            "Java" : 1167483,
+            "Java" : 1171549,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3848,13 +3849,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 137,
         "watchers"      : 1,
-        "size"          : 2556,
+        "size"          : 2607,
         "collaborators" : 20,
         "stars"         : 1,
         "forks"         : 11,
         "openIssues"    : 8,
         "languages"     : {
-          "Java" : 1190721,
+          "Java" : 1194787,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -4827,15 +4828,15 @@
           "name"          : "SymphonyElectron",
           "description"   : "A desktop client for the Symphony Collaboration Platform built using Electron",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 456,
-          "watchers"      : 43,
-          "size"          : 36906,
+          "heat"          : 458,
+          "watchers"      : 44,
+          "size"          : 36908,
           "collaborators" : 10,
-          "stars"         : 43,
+          "stars"         : 44,
           "forks"         : 66,
-          "openIssues"    : 1,
+          "openIssues"    : 4,
           "languages"     : {
-            "TypeScript" : 471519,
+            "TypeScript" : 471521,
             "Dockerfile" : 693,
             "CSS" : 28035,
             "Shell" : 12492,
@@ -4965,33 +4966,33 @@
           "gitHubURL"     : "https://github.com/symphonyoss/ScreenShareIndicatorFrame",
           "heat"          : 37,
           "watchers"      : 0,
-          "size"          : 32,
+          "size"          : 36,
           "collaborators" : 8,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 0,
           "languages"     : {
-            "Objective_C" : 3152,
+            "Objective_C" : 5971,
             "C" : 11294
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 879,
-        "watchers"      : 51,
-        "size"          : 46961,
+        "heat"          : 881,
+        "watchers"      : 52,
+        "size"          : 46967,
         "collaborators" : 78,
-        "stars"         : 51,
+        "stars"         : 52,
         "forks"         : 93,
-        "openIssues"    : 2,
+        "openIssues"    : 5,
         "languages"     : {
           "C#" : 25902,
           "C++" : 43723,
           "CSS" : 28035,
           "C" : 59547,
-          "Objective_C" : 10928,
+          "Objective_C" : 13747,
           "HTML" : 34461,
-          "TypeScript" : 603446,
+          "TypeScript" : 603448,
           "Dockerfile" : 693,
           "Shell" : 12492,
           "Batchfile" : 4046,
@@ -5093,11 +5094,11 @@
           "gitHubURL"     : "https://github.com/finos/greenkey-asrtoolkit",
           "heat"          : 266,
           "watchers"      : 8,
-          "size"          : 503,
+          "size"          : 504,
           "collaborators" : 55,
           "stars"         : 8,
           "forks"         : 6,
-          "openIssues"    : 3,
+          "openIssues"    : 6,
           "languages"     : {
             "Dockerfile" : 679,
             "Shell" : 59,
@@ -5108,11 +5109,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 266,
         "watchers"      : 8,
-        "size"          : 503,
+        "size"          : 504,
         "collaborators" : 55,
         "stars"         : 8,
         "forks"         : 6,
-        "openIssues"    : 3,
+        "openIssues"    : 6,
         "languages"     : {
           "Dockerfile" : 679,
           "Shell" : 59,
