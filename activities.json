@@ -15,34 +15,36 @@
           "gitHubURL"     : "https://github.com/finos/datahelix",
           "heat"          : 423,
           "watchers"      : 37,
-          "size"          : 14922,
+          "size"          : 14923,
           "collaborators" : 56,
           "stars"         : 37,
           "forks"         : 25,
-          "openIssues"    : 29,
+          "openIssues"    : 31,
           "languages"     : {
             "PowerShell" : 2120,
             "Java" : 1573437,
             "Dockerfile" : 581,
-            "Shell" : 2725,
-            "Gherkin" : 385051
+            "Shell" : 2844,
+            "Gherkin" : 385051,
+            "Roff" : 3713
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 423,
         "watchers"      : 37,
-        "size"          : 14922,
+        "size"          : 14923,
         "collaborators" : 56,
         "stars"         : 37,
         "forks"         : 25,
-        "openIssues"    : 29,
+        "openIssues"    : 31,
         "languages"     : {
           "PowerShell" : 2120,
           "Java" : 1573437,
           "Dockerfile" : 581,
-          "Shell" : 2725,
-          "Gherkin" : 385051
+          "Shell" : 2844,
+          "Gherkin" : 385051,
+          "Roff" : 3713
         }
       }
     },
@@ -229,13 +231,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5709,
-          "watchers"      : 2258,
-          "size"          : 49216,
+          "heat"          : 5711,
+          "watchers"      : 2259,
+          "size"          : 49215,
           "collaborators" : 62,
-          "stars"         : 2258,
+          "stars"         : 2259,
           "forks"         : 189,
-          "openIssues"    : 27,
+          "openIssues"    : 29,
           "languages"     : {
             "TypeScript" : 35935,
             "Dockerfile" : 34106,
@@ -251,13 +253,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5709,
-        "watchers"      : 2258,
-        "size"          : 49216,
+        "heat"          : 5711,
+        "watchers"      : 2259,
+        "size"          : 49215,
         "collaborators" : 62,
-        "stars"         : 2258,
+        "stars"         : 2259,
         "forks"         : 189,
-        "openIssues"    : 27,
+        "openIssues"    : 29,
         "languages"     : {
           "TypeScript" : 35935,
           "Dockerfile" : 34106,
@@ -417,7 +419,7 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
       "activityName"         : "FDC3 API WG",
       "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2018-04-20",
       "releaseDate"          : "2019-07-19",
       "gitHubRepos"          : [
@@ -462,9 +464,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
       "activityName"         : "Application Directory",
       "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2018-02-28",
-      "releaseDate"          : "2019-07-19",
+      "archiveDate"          : "2019-11-01",
       "gitHubRepos"          : [
         {
           "name"          : "App-Directory",
@@ -580,7 +582,7 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
       "activityName"         : "Context Data and Intents",
       "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2019-05-03",
       "releaseDate"          : "2019-07-19"
     },
@@ -635,9 +637,10 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
       "activityName"         : "Technical Steering",
       "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2018-02-28",
-      "releaseDate"          : "2019-07-19"
+      "releaseDate"          : "2019-07-19",
+      "archiveDate"          : "2019-11-01"
     },
     {
       "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
@@ -645,7 +648,7 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDC3/overview",
       "activityName"         : "FDC3 Use Case WG",
       "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
+      "state"                : "RELEASED",
       "contributionDate"     : "2018-05-18",
       "releaseDate"          : "2019-07-19",
       "gitHubRepos"          : [
@@ -853,7 +856,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 253,
           "watchers"      : 4,
-          "size"          : 3012,
+          "size"          : 3015,
           "collaborators" : 55,
           "stars"         : 4,
           "forks"         : 5,
@@ -861,7 +864,7 @@
           "languages"     : {
             "HTML" : 6112,
             "CSS" : 4539,
-            "JavaScript" : 21089
+            "JavaScript" : 20988
           }
         },
         {
@@ -958,7 +961,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 2836,
         "watchers"      : 19,
-        "size"          : 53926,
+        "size"          : 53929,
         "collaborators" : 662,
         "stars"         : 19,
         "forks"         : 30,
@@ -967,7 +970,7 @@
           "Java" : 12202,
           "Shell" : 28253,
           "CSS" : 8183,
-          "JavaScript" : 38383,
+          "JavaScript" : 38282,
           "HTML" : 6901,
           "FreeMarker" : 21965,
           "Python" : 7381,
@@ -1139,11 +1142,11 @@
           "name"          : "open-developer-platform",
           "description"   : "Testing accessibility to FINOS Infrastructure",
           "gitHubURL"     : "https://github.com/finos/open-developer-platform",
-          "heat"          : 280,
-          "watchers"      : 15,
+          "heat"          : 282,
+          "watchers"      : 16,
           "size"          : 945,
           "collaborators" : 55,
-          "stars"         : 15,
+          "stars"         : 16,
           "forks"         : 6,
           "openIssues"    : 45,
           "languages"     : {
@@ -1154,11 +1157,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 280,
-        "watchers"      : 15,
+        "heat"          : 282,
+        "watchers"      : 16,
         "size"          : 945,
         "collaborators" : 55,
-        "stars"         : 15,
+        "stars"         : 16,
         "forks"         : 6,
         "openIssues"    : 45,
         "languages"     : {
@@ -1578,8 +1581,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/HAD/overview",
       "activityName"         : "Layouts WG",
       "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2018-05-01",
+      "archiveDate"          : "2019-11-01",
       "gitHubRepos"          : [
         {
           "name"          : "layouts-service",
@@ -3355,7 +3359,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 102,
           "watchers"      : 9,
-          "size"          : 4197,
+          "size"          : 4349,
           "collaborators" : 6,
           "stars"         : 9,
           "forks"         : 12,
@@ -3368,7 +3372,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 102,
         "watchers"      : 9,
-        "size"          : 4197,
+        "size"          : 4349,
         "collaborators" : 6,
         "stars"         : 9,
         "forks"         : 12,
@@ -4828,15 +4832,15 @@
           "name"          : "SymphonyElectron",
           "description"   : "A desktop client for the Symphony Collaboration Platform built using Electron",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 458,
+          "heat"          : 463,
           "watchers"      : 44,
-          "size"          : 36985,
+          "size"          : 37662,
           "collaborators" : 10,
           "stars"         : 44,
-          "forks"         : 66,
-          "openIssues"    : 2,
+          "forks"         : 67,
+          "openIssues"    : 7,
           "languages"     : {
-            "TypeScript" : 483072,
+            "TypeScript" : 484771,
             "Dockerfile" : 693,
             "CSS" : 27758,
             "Shell" : 12498,
@@ -4978,13 +4982,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 881,
+        "heat"          : 886,
         "watchers"      : 52,
-        "size"          : 47044,
+        "size"          : 47721,
         "collaborators" : 78,
         "stars"         : 52,
-        "forks"         : 93,
-        "openIssues"    : 3,
+        "forks"         : 94,
+        "openIssues"    : 8,
         "languages"     : {
           "C#" : 25902,
           "C++" : 43723,
@@ -4992,7 +4996,7 @@
           "C" : 59547,
           "Objective_C" : 13747,
           "HTML" : 34461,
-          "TypeScript" : 614999,
+          "TypeScript" : 616698,
           "Dockerfile" : 693,
           "Shell" : 12498,
           "Batchfile" : 4046,
@@ -5075,8 +5079,9 @@
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/SYM/overview",
       "activityName"         : "Hashtag Standardization WG",
       "type"                 : "WORKING_GROUP",
-      "state"                : "OPERATING",
-      "contributionDate"     : "2018-02-28"
+      "state"                : "ARCHIVED",
+      "contributionDate"     : "2018-02-28",
+      "archiveDate"          : "2019-11-01"
     },
     {
       "programName"          : "Voice, Voice Metadata, and Voice API",
