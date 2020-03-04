@@ -3,7 +3,6 @@ var config = {
     "ACTIVATION" : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/75530376/Activation",
     "ARCHIVED" : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/75530367/Archived",
     "INCUBATING" : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/75530363/Incubating",
-    "OPERATING" : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/93061261/Operating",
     "PAUSED" : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/93290700/Paused",
     "RELEASED" : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/75530371/Active"
   },
