@@ -1252,6 +1252,52 @@
       }
     },
     {
+      "programName"          : "Financial Delivery Accelerator",
+      "programShortName"     : "FDX",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
+      "activityName"         : "Waltz",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2020-03-09",
+      "gitHubRepos"          : [
+        {
+          "name"          : "waltz",
+          "description"   : "Enterprise Information Service",
+          "gitHubURL"     : "https://github.com/finos/waltz",
+          "heat"          : 600,
+          "watchers"      : 62,
+          "size"          : 29540,
+          "collaborators" : 59,
+          "stars"         : 62,
+          "forks"         : 48,
+          "openIssues"    : 257,
+          "languages"     : {
+            "Java" : 3415424,
+            "HTML" : 1387746,
+            "CSS" : 154584,
+            "Shell" : 305,
+            "JavaScript" : 2270186
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 600,
+        "watchers"      : 62,
+        "size"          : 29540,
+        "collaborators" : 59,
+        "stars"         : 62,
+        "forks"         : 48,
+        "openIssues"    : 257,
+        "languages"     : {
+          "Java" : 3415424,
+          "HTML" : 1387746,
+          "CSS" : 154584,
+          "Shell" : 305,
+          "JavaScript" : 2270186
+        }
+      }
+    },
+    {
       "programName"          : "Financial Objects",
       "programShortName"     : "Financial Objects",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FO/overview",
