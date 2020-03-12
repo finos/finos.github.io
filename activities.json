@@ -231,13 +231,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5767,
-          "watchers"      : 2270,
-          "size"          : 49382,
+          "heat"          : 5786,
+          "watchers"      : 2272,
+          "size"          : 49466,
           "collaborators" : 68,
-          "stars"         : 2270,
-          "forks"         : 191,
-          "openIssues"    : 27,
+          "stars"         : 2272,
+          "forks"         : 194,
+          "openIssues"    : 31,
           "languages"     : {
             "TypeScript" : 35935,
             "Dockerfile" : 34106,
@@ -253,13 +253,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5767,
-        "watchers"      : 2270,
-        "size"          : 49382,
+        "heat"          : 5786,
+        "watchers"      : 2272,
+        "size"          : 49466,
         "collaborators" : 68,
-        "stars"         : 2270,
-        "forks"         : 191,
-        "openIssues"    : 27,
+        "stars"         : 2272,
+        "forks"         : 194,
+        "openIssues"    : 31,
         "languages"     : {
           "TypeScript" : 35935,
           "Dockerfile" : 34106,
@@ -326,7 +326,7 @@
           "gitHubURL"     : "https://github.com/FDC3/fdc3",
           "heat"          : 472,
           "watchers"      : 39,
-          "size"          : 3993,
+          "size"          : 3874,
           "collaborators" : 61,
           "stars"         : 39,
           "forks"         : 30,
@@ -354,7 +354,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 663,
         "watchers"      : 42,
-        "size"          : 6207,
+        "size"          : 6088,
         "collaborators" : 106,
         "stars"         : 42,
         "forks"         : 31,
@@ -856,7 +856,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 277,
           "watchers"      : 4,
-          "size"          : 3166,
+          "size"          : 3168,
           "collaborators" : 61,
           "stars"         : 4,
           "forks"         : 5,
@@ -893,7 +893,7 @@
           "collaborators" : 61,
           "stars"         : 4,
           "forks"         : 8,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "CSS" : 3644,
             "JavaScript" : 17294
@@ -961,11 +961,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 3130,
         "watchers"      : 19,
-        "size"          : 54102,
+        "size"          : 54104,
         "collaborators" : 733,
         "stars"         : 19,
         "forks"         : 32,
-        "openIssues"    : 34,
+        "openIssues"    : 35,
         "languages"     : {
           "Java" : 12202,
           "Shell" : 28253,
@@ -1264,36 +1264,36 @@
           "name"          : "waltz",
           "description"   : "Enterprise Information Service",
           "gitHubURL"     : "https://github.com/finos/waltz",
-          "heat"          : 608,
-          "watchers"      : 62,
-          "size"          : 29556,
+          "heat"          : 610,
+          "watchers"      : 63,
+          "size"          : 29684,
           "collaborators" : 61,
-          "stars"         : 62,
+          "stars"         : 63,
           "forks"         : 48,
-          "openIssues"    : 259,
+          "openIssues"    : 260,
           "languages"     : {
-            "Java" : 3430136,
-            "HTML" : 1387746,
-            "CSS" : 154584,
+            "Java" : 3423823,
+            "HTML" : 1380513,
+            "CSS" : 152506,
             "Shell" : 305,
-            "JavaScript" : 2270186
+            "JavaScript" : 2233106
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 608,
-        "watchers"      : 62,
-        "size"          : 29556,
+        "heat"          : 610,
+        "watchers"      : 63,
+        "size"          : 29684,
         "collaborators" : 61,
-        "stars"         : 62,
+        "stars"         : 63,
         "forks"         : 48,
-        "openIssues"    : 259,
+        "openIssues"    : 260,
         "languages"     : {
-          "Java" : 3430136,
-          "HTML" : 1387746,
-          "CSS" : 154584,
+          "Java" : 3423823,
+          "HTML" : 1380513,
+          "CSS" : 152506,
           "Shell" : 305,
-          "JavaScript" : 2270186
+          "JavaScript" : 2233106
         }
       }
     },
@@ -1673,7 +1673,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 197,
           "watchers"      : 0,
-          "size"          : 920,
+          "size"          : 1047,
           "collaborators" : 38,
           "stars"         : 0,
           "forks"         : 9,
@@ -1689,7 +1689,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 712,
         "watchers"      : 15,
-        "size"          : 6621,
+        "size"          : 6748,
         "collaborators" : 118,
         "stars"         : 15,
         "forks"         : 42,
@@ -1767,11 +1767,11 @@
           "gitHubURL"     : "https://github.com/finos/openfin-react-hooks",
           "heat"          : 376,
           "watchers"      : 21,
-          "size"          : 835,
+          "size"          : 761,
           "collaborators" : 61,
           "stars"         : 21,
           "forks"         : 18,
-          "openIssues"    : 12,
+          "openIssues"    : 13,
           "languages"     : {
             "TypeScript" : 44652
           }
@@ -1780,11 +1780,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 376,
         "watchers"      : 21,
-        "size"          : 835,
+        "size"          : 761,
         "collaborators" : 61,
         "stars"         : 21,
         "forks"         : 18,
-        "openIssues"    : 12,
+        "openIssues"    : 13,
         "languages"     : {
           "TypeScript" : 44652
         }
@@ -3445,12 +3445,12 @@
           "name"          : "symphony-java-client",
           "description"   : "Java client library for Symphony",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-client",
-          "heat"          : 288,
+          "heat"          : 293,
           "watchers"      : 36,
           "size"          : 2460,
           "collaborators" : 9,
           "stars"         : 36,
-          "forks"         : 36,
+          "forks"         : 37,
           "openIssues"    : 16,
           "languages"     : {
             "Java" : 695383,
@@ -3490,12 +3490,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 501,
+        "heat"          : 506,
         "watchers"      : 59,
         "size"          : 3523,
         "collaborators" : 22,
         "stars"         : 59,
-        "forks"         : 59,
+        "forks"         : 60,
         "openIssues"    : 21,
         "languages"     : {
           "Java" : 718953,
@@ -3853,13 +3853,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 55,
           "watchers"      : 1,
-          "size"          : 2346,
+          "size"          : 2364,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 5,
           "openIssues"    : 3,
           "languages"     : {
-            "Java" : 1171549,
+            "Java" : 1176095,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3899,13 +3899,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 137,
         "watchers"      : 1,
-        "size"          : 2607,
+        "size"          : 2625,
         "collaborators" : 20,
         "stars"         : 1,
         "forks"         : 11,
         "openIssues"    : 8,
         "languages"     : {
-          "Java" : 1194787,
+          "Java" : 1199333,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -4884,7 +4884,7 @@
           "collaborators" : 9,
           "stars"         : 44,
           "forks"         : 67,
-          "openIssues"    : 1,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 485136,
             "Dockerfile" : 693,
@@ -5034,7 +5034,7 @@
         "collaborators" : 77,
         "stars"         : 52,
         "forks"         : 94,
-        "openIssues"    : 2,
+        "openIssues"    : 5,
         "languages"     : {
           "C#" : 25902,
           "C++" : 43723,
