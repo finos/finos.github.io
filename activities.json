@@ -231,11 +231,11 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5786,
-          "watchers"      : 2272,
+          "heat"          : 5790,
+          "watchers"      : 2274,
           "size"          : 49466,
           "collaborators" : 68,
-          "stars"         : 2272,
+          "stars"         : 2274,
           "forks"         : 194,
           "openIssues"    : 31,
           "languages"     : {
@@ -253,11 +253,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5786,
-        "watchers"      : 2272,
+        "heat"          : 5790,
+        "watchers"      : 2274,
         "size"          : 49466,
         "collaborators" : 68,
-        "stars"         : 2272,
+        "stars"         : 2274,
         "forks"         : 194,
         "openIssues"    : 31,
         "languages"     : {
@@ -326,7 +326,7 @@
           "gitHubURL"     : "https://github.com/FDC3/fdc3",
           "heat"          : 472,
           "watchers"      : 39,
-          "size"          : 3874,
+          "size"          : 3883,
           "collaborators" : 61,
           "stars"         : 39,
           "forks"         : 30,
@@ -354,7 +354,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 663,
         "watchers"      : 42,
-        "size"          : 6088,
+        "size"          : 6097,
         "collaborators" : 106,
         "stars"         : 42,
         "forks"         : 31,
@@ -856,7 +856,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 277,
           "watchers"      : 4,
-          "size"          : 3168,
+          "size"          : 3192,
           "collaborators" : 61,
           "stars"         : 4,
           "forks"         : 5,
@@ -961,7 +961,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 3130,
         "watchers"      : 19,
-        "size"          : 54104,
+        "size"          : 54128,
         "collaborators" : 733,
         "stars"         : 19,
         "forks"         : 32,
@@ -1266,34 +1266,34 @@
           "gitHubURL"     : "https://github.com/finos/waltz",
           "heat"          : 610,
           "watchers"      : 63,
-          "size"          : 29684,
+          "size"          : 29693,
           "collaborators" : 61,
           "stars"         : 63,
           "forks"         : 48,
-          "openIssues"    : 260,
+          "openIssues"    : 257,
           "languages"     : {
-            "Java" : 3423823,
-            "HTML" : 1380513,
+            "Java" : 3428785,
+            "HTML" : 1380564,
             "CSS" : 152506,
             "Shell" : 305,
-            "JavaScript" : 2233106
+            "JavaScript" : 2233210
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 610,
         "watchers"      : 63,
-        "size"          : 29684,
+        "size"          : 29693,
         "collaborators" : 61,
         "stars"         : 63,
         "forks"         : 48,
-        "openIssues"    : 260,
+        "openIssues"    : 257,
         "languages"     : {
-          "Java" : 3423823,
-          "HTML" : 1380513,
+          "Java" : 3428785,
+          "HTML" : 1380564,
           "CSS" : 152506,
           "Shell" : 305,
-          "JavaScript" : 2233106
+          "JavaScript" : 2233210
         }
       }
     },
@@ -3853,13 +3853,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 55,
           "watchers"      : 1,
-          "size"          : 2364,
+          "size"          : 2379,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 5,
           "openIssues"    : 3,
           "languages"     : {
-            "Java" : 1176095,
+            "Java" : 1177177,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3899,13 +3899,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 137,
         "watchers"      : 1,
-        "size"          : 2625,
+        "size"          : 2640,
         "collaborators" : 20,
         "stars"         : 1,
         "forks"         : 11,
         "openIssues"    : 8,
         "languages"     : {
-          "Java" : 1199333,
+          "Java" : 1200415,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -4880,13 +4880,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 459,
           "watchers"      : 44,
-          "size"          : 37054,
+          "size"          : 37134,
           "collaborators" : 9,
           "stars"         : 44,
           "forks"         : 67,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 485136,
+            "TypeScript" : 483897,
             "Dockerfile" : 693,
             "CSS" : 27758,
             "Shell" : 12498,
@@ -5030,11 +5030,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 882,
         "watchers"      : 52,
-        "size"          : 47121,
+        "size"          : 47201,
         "collaborators" : 77,
         "stars"         : 52,
         "forks"         : 94,
-        "openIssues"    : 5,
+        "openIssues"    : 4,
         "languages"     : {
           "C#" : 25902,
           "C++" : 43723,
@@ -5042,7 +5042,7 @@
           "C" : 59604,
           "Objective_C" : 13764,
           "HTML" : 34461,
-          "TypeScript" : 617063,
+          "TypeScript" : 615824,
           "Dockerfile" : 693,
           "Shell" : 12498,
           "Batchfile" : 4046,
