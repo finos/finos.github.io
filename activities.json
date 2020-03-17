@@ -231,13 +231,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5807,
-          "watchers"      : 2280,
-          "size"          : 49543,
+          "heat"          : 5809,
+          "watchers"      : 2281,
+          "size"          : 49834,
           "collaborators" : 68,
-          "stars"         : 2280,
+          "stars"         : 2281,
           "forks"         : 195,
-          "openIssues"    : 36,
+          "openIssues"    : 37,
           "languages"     : {
             "TypeScript" : 35935,
             "Dockerfile" : 34106,
@@ -253,13 +253,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5807,
-        "watchers"      : 2280,
-        "size"          : 49543,
+        "heat"          : 5809,
+        "watchers"      : 2281,
+        "size"          : 49834,
         "collaborators" : 68,
-        "stars"         : 2280,
+        "stars"         : 2281,
         "forks"         : 195,
-        "openIssues"    : 36,
+        "openIssues"    : 37,
         "languages"     : {
           "TypeScript" : 35935,
           "Dockerfile" : 34106,
@@ -856,7 +856,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 277,
           "watchers"      : 4,
-          "size"          : 2442,
+          "size"          : 2466,
           "collaborators" : 61,
           "stars"         : 4,
           "forks"         : 5,
@@ -961,7 +961,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 3130,
         "watchers"      : 19,
-        "size"          : 53378,
+        "size"          : 53402,
         "collaborators" : 733,
         "stars"         : 19,
         "forks"         : 32,
@@ -1266,34 +1266,34 @@
           "gitHubURL"     : "https://github.com/finos/waltz",
           "heat"          : 610,
           "watchers"      : 63,
-          "size"          : 29628,
+          "size"          : 29658,
           "collaborators" : 61,
           "stars"         : 63,
           "forks"         : 48,
-          "openIssues"    : 258,
+          "openIssues"    : 263,
           "languages"     : {
-            "Java" : 3436612,
+            "Java" : 3440760,
             "HTML" : 1380564,
             "CSS" : 152506,
             "Shell" : 305,
-            "JavaScript" : 2233210
+            "JavaScript" : 2233634
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 610,
         "watchers"      : 63,
-        "size"          : 29628,
+        "size"          : 29658,
         "collaborators" : 61,
         "stars"         : 63,
         "forks"         : 48,
-        "openIssues"    : 258,
+        "openIssues"    : 263,
         "languages"     : {
-          "Java" : 3436612,
+          "Java" : 3440760,
           "HTML" : 1380564,
           "CSS" : 152506,
           "Shell" : 305,
-          "JavaScript" : 2233210
+          "JavaScript" : 2233634
         }
       }
     },
@@ -1677,7 +1677,7 @@
           "collaborators" : 38,
           "stars"         : 0,
           "forks"         : 9,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 69781,
             "CSS" : 70303,
@@ -1693,7 +1693,7 @@
         "collaborators" : 118,
         "stars"         : 15,
         "forks"         : 42,
-        "openIssues"    : 14,
+        "openIssues"    : 13,
         "languages"     : {
           "TypeScript" : 986425,
           "HTML" : 69811,
@@ -3405,7 +3405,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 102,
           "watchers"      : 9,
-          "size"          : 4962,
+          "size"          : 5117,
           "collaborators" : 6,
           "stars"         : 9,
           "forks"         : 12,
@@ -3418,7 +3418,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 102,
         "watchers"      : 9,
-        "size"          : 4962,
+        "size"          : 5117,
         "collaborators" : 6,
         "stars"         : 9,
         "forks"         : 12,
@@ -4880,7 +4880,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 459,
           "watchers"      : 44,
-          "size"          : 37294,
+          "size"          : 37393,
           "collaborators" : 9,
           "stars"         : 44,
           "forks"         : 67,
@@ -5030,7 +5030,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 882,
         "watchers"      : 52,
-        "size"          : 47361,
+        "size"          : 47460,
         "collaborators" : 77,
         "stars"         : 52,
         "forks"         : 94,
