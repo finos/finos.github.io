@@ -231,13 +231,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5818,
+          "heat"          : 5828,
           "watchers"      : 2283,
-          "size"          : 49818,
+          "size"          : 49779,
           "collaborators" : 68,
           "stars"         : 2283,
-          "forks"         : 196,
-          "openIssues"    : 29,
+          "forks"         : 198,
+          "openIssues"    : 33,
           "languages"     : {
             "TypeScript" : 35913,
             "Dockerfile" : 34106,
@@ -253,13 +253,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5818,
+        "heat"          : 5828,
         "watchers"      : 2283,
-        "size"          : 49818,
+        "size"          : 49779,
         "collaborators" : 68,
         "stars"         : 2283,
-        "forks"         : 196,
-        "openIssues"    : 29,
+        "forks"         : 198,
+        "openIssues"    : 33,
         "languages"     : {
           "TypeScript" : 35913,
           "Dockerfile" : 34106,
@@ -324,13 +324,13 @@
           "name"          : "FDC3",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/fdc3",
-          "heat"          : 472,
+          "heat"          : 467,
           "watchers"      : 39,
-          "size"          : 3890,
+          "size"          : 3907,
           "collaborators" : 61,
           "stars"         : 39,
-          "forks"         : 30,
-          "openIssues"    : 18,
+          "forks"         : 29,
+          "openIssues"    : 19,
           "languages"     : {
             "TypeScript" : 12257,
             "HTML" : 1899840,
@@ -352,13 +352,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 663,
+        "heat"          : 658,
         "watchers"      : 42,
-        "size"          : 6104,
+        "size"          : 6121,
         "collaborators" : 106,
         "stars"         : 42,
-        "forks"         : 31,
-        "openIssues"    : 20,
+        "forks"         : 30,
+        "openIssues"    : 21,
         "languages"     : {
           "TypeScript" : 12257,
           "HTML" : 1899840,
@@ -427,12 +427,12 @@
           "name"          : "API",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 253,
+          "heat"          : 248,
           "watchers"      : 9,
           "size"          : 333,
           "collaborators" : 45,
           "stars"         : 9,
-          "forks"         : 11,
+          "forks"         : 10,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 5888
@@ -440,12 +440,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 253,
+        "heat"          : 248,
         "watchers"      : 9,
         "size"          : 333,
         "collaborators" : 45,
         "stars"         : 9,
-        "forks"         : 11,
+        "forks"         : 10,
         "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 5888
@@ -545,12 +545,12 @@
           "name"          : "ContextData",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/ContextData",
-          "heat"          : 240,
+          "heat"          : 235,
           "watchers"      : 5,
           "size"          : 119,
           "collaborators" : 45,
           "stars"         : 5,
-          "forks"         : 10,
+          "forks"         : 9,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 1886
@@ -558,12 +558,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 240,
+        "heat"          : 235,
         "watchers"      : 5,
         "size"          : 119,
         "collaborators" : 45,
         "stars"         : 5,
-        "forks"         : 10,
+        "forks"         : 9,
         "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 1886
@@ -600,12 +600,12 @@
           "name"          : "Intents",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/FDC3/Intents",
-          "heat"          : 223,
+          "heat"          : 218,
           "watchers"      : 4,
           "size"          : 18,
           "collaborators" : 45,
           "stars"         : 4,
-          "forks"         : 7,
+          "forks"         : 6,
           "openIssues"    : 0,
           "languages"     : {
             "TypeScript" : 892
@@ -613,12 +613,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 223,
+        "heat"          : 218,
         "watchers"      : 4,
         "size"          : 18,
         "collaborators" : 45,
         "stars"         : 4,
-        "forks"         : 7,
+        "forks"         : 6,
         "openIssues"    : 0,
         "languages"     : {
           "TypeScript" : 892
@@ -856,7 +856,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 277,
           "watchers"      : 4,
-          "size"          : 2492,
+          "size"          : 2493,
           "collaborators" : 61,
           "stars"         : 4,
           "forks"         : 5,
@@ -873,7 +873,7 @@
           "gitHubURL"     : "https://github.com/finos/metadata-tool",
           "heat"          : 294,
           "watchers"      : 3,
-          "size"          : 304,
+          "size"          : 300,
           "collaborators" : 62,
           "stars"         : 3,
           "forks"         : 8,
@@ -961,7 +961,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 3130,
         "watchers"      : 19,
-        "size"          : 53438,
+        "size"          : 53435,
         "collaborators" : 733,
         "stars"         : 19,
         "forks"         : 32,
@@ -1144,14 +1144,14 @@
           "gitHubURL"     : "https://github.com/finos/open-developer-platform",
           "heat"          : 306,
           "watchers"      : 16,
-          "size"          : 945,
+          "size"          : 938,
           "collaborators" : 61,
           "stars"         : 16,
           "forks"         : 6,
-          "openIssues"    : 43,
+          "openIssues"    : 45,
           "languages"     : {
             "CSS" : 3644,
-            "Shell" : 940,
+            "Shell" : 2722,
             "JavaScript" : 17405
           }
         }
@@ -1159,14 +1159,14 @@
       "cumulativeGitHubStats" : {
         "heat"          : 306,
         "watchers"      : 16,
-        "size"          : 945,
+        "size"          : 938,
         "collaborators" : 61,
         "stars"         : 16,
         "forks"         : 6,
-        "openIssues"    : 43,
+        "openIssues"    : 45,
         "languages"     : {
           "CSS" : 3644,
-          "Shell" : 940,
+          "Shell" : 2722,
           "JavaScript" : 17405
         }
       },
@@ -1270,7 +1270,7 @@
           "collaborators" : 61,
           "stars"         : 63,
           "forks"         : 48,
-          "openIssues"    : 237,
+          "openIssues"    : 239,
           "languages"     : {
             "Java" : 3441704,
             "HTML" : 1380634,
@@ -1287,7 +1287,7 @@
         "collaborators" : 61,
         "stars"         : 63,
         "forks"         : 48,
-        "openIssues"    : 237,
+        "openIssues"    : 239,
         "languages"     : {
           "Java" : 3441704,
           "HTML" : 1380634,
@@ -1635,12 +1635,12 @@
           "name"          : "layouts-service",
           "description"   : "OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-service",
-          "heat"          : 330,
+          "heat"          : 325,
           "watchers"      : 15,
           "size"          : 5555,
           "collaborators" : 40,
           "stars"         : 15,
-          "forks"         : 28,
+          "forks"         : 27,
           "openIssues"    : 6,
           "languages"     : {
             "TypeScript" : 900757,
@@ -1653,12 +1653,12 @@
           "name"          : "layouts-tabstrip",
           "description"   : "Repository for the tabstrip used by default in the OpenFin Layouts Service",
           "gitHubURL"     : "https://github.com/HadoukenIO/layouts-tabstrip",
-          "heat"          : 185,
+          "heat"          : 180,
           "watchers"      : 0,
           "size"          : 164,
           "collaborators" : 40,
           "stars"         : 0,
-          "forks"         : 5,
+          "forks"         : 4,
           "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 15887,
@@ -1687,12 +1687,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 712,
+        "heat"          : 702,
         "watchers"      : 15,
         "size"          : 7000,
         "collaborators" : 118,
         "stars"         : 15,
-        "forks"         : 42,
+        "forks"         : 40,
         "openIssues"    : 13,
         "languages"     : {
           "TypeScript" : 991048,
@@ -1767,26 +1767,26 @@
           "gitHubURL"     : "https://github.com/finos/openfin-react-hooks",
           "heat"          : 376,
           "watchers"      : 21,
-          "size"          : 1192,
+          "size"          : 1846,
           "collaborators" : 61,
           "stars"         : 21,
           "forks"         : 18,
           "openIssues"    : 14,
           "languages"     : {
-            "TypeScript" : 44652
+            "TypeScript" : 47492
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 376,
         "watchers"      : 21,
-        "size"          : 1192,
+        "size"          : 1846,
         "collaborators" : 61,
         "stars"         : 21,
         "forks"         : 18,
         "openIssues"    : 14,
         "languages"     : {
-          "TypeScript" : 44652
+          "TypeScript" : 47492
         }
       }
     },
@@ -4266,12 +4266,12 @@
           "name"          : "App-Integrations-Jira",
           "description"   : "Jira Integration",
           "gitHubURL"     : "https://github.com/symphonyoss/App-Integrations-Jira",
-          "heat"          : 128,
-          "watchers"      : 4,
+          "heat"          : 135,
+          "watchers"      : 5,
           "size"          : 1996,
           "collaborators" : 15,
-          "stars"         : 4,
-          "forks"         : 12,
+          "stars"         : 5,
+          "forks"         : 13,
           "openIssues"    : 5,
           "languages"     : {
             "Java" : 258884,
@@ -4282,12 +4282,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 128,
-        "watchers"      : 4,
+        "heat"          : 135,
+        "watchers"      : 5,
         "size"          : 1996,
         "collaborators" : 15,
-        "stars"         : 4,
-        "forks"         : 12,
+        "stars"         : 5,
+        "forks"         : 13,
         "openIssues"    : 5,
         "languages"     : {
           "Java" : 258884,
@@ -4880,13 +4880,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 464,
           "watchers"      : 44,
-          "size"          : 37320,
+          "size"          : 37336,
           "collaborators" : 9,
           "stars"         : 44,
           "forks"         : 68,
-          "openIssues"    : 2,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 504045,
+            "TypeScript" : 504216,
             "Dockerfile" : 693,
             "CSS" : 27758,
             "Shell" : 12909,
@@ -5030,11 +5030,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 887,
         "watchers"      : 52,
-        "size"          : 47387,
+        "size"          : 47403,
         "collaborators" : 77,
         "stars"         : 52,
         "forks"         : 95,
-        "openIssues"    : 3,
+        "openIssues"    : 1,
         "languages"     : {
           "C#" : 25902,
           "C++" : 43723,
@@ -5042,7 +5042,7 @@
           "C" : 59604,
           "Objective_C" : 13764,
           "HTML" : 37360,
-          "TypeScript" : 635972,
+          "TypeScript" : 636143,
           "Dockerfile" : 693,
           "Shell" : 12909,
           "Batchfile" : 4046,
@@ -5191,28 +5191,28 @@
           "gitHubURL"     : "https://github.com/finos/greenkey-discovery-sdk",
           "heat"          : 287,
           "watchers"      : 5,
-          "size"          : 46226,
+          "size"          : 46229,
           "collaborators" : 63,
           "stars"         : 5,
           "forks"         : 5,
           "openIssues"    : 1,
           "languages"     : {
             "Shell" : 893,
-            "Python" : 63716
+            "Python" : 64045
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 287,
         "watchers"      : 5,
-        "size"          : 46226,
+        "size"          : 46229,
         "collaborators" : 63,
         "stars"         : 5,
         "forks"         : 5,
         "openIssues"    : 1,
         "languages"     : {
           "Shell" : 893,
-          "Python" : 63716
+          "Python" : 64045
         }
       }
     },
