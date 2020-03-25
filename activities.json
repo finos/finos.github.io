@@ -231,11 +231,11 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5845,
-          "watchers"      : 2287,
-          "size"          : 49740,
+          "heat"          : 5851,
+          "watchers"      : 2290,
+          "size"          : 49779,
           "collaborators" : 69,
-          "stars"         : 2287,
+          "stars"         : 2290,
           "forks"         : 199,
           "openIssues"    : 32,
           "languages"     : {
@@ -253,11 +253,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5845,
-        "watchers"      : 2287,
-        "size"          : 49740,
+        "heat"          : 5851,
+        "watchers"      : 2290,
+        "size"          : 49779,
         "collaborators" : 69,
-        "stars"         : 2287,
+        "stars"         : 2290,
         "forks"         : 199,
         "openIssues"    : 32,
         "languages"     : {
@@ -285,7 +285,30 @@
       "archiveDate"          : "2020-01-10",
       "tags"                 : [
         "desktop technology"
-      ]
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "appd-launcher-poc",
+          "description"   : "Launcher example interfacing with AppD",
+          "gitHubURL"     : "https://github.com/FDC3/appd-launcher-poc",
+          "heat"          : 210,
+          "watchers"      : 1,
+          "size"          : 0,
+          "collaborators" : 47,
+          "stars"         : 1,
+          "forks"         : 4,
+          "openIssues"    : 9
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 210,
+        "watchers"      : 1,
+        "size"          : 0,
+        "collaborators" : 47,
+        "stars"         : 1,
+        "forks"         : 4,
+        "openIssues"    : 9
+      }
     },
     {
       "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
@@ -345,7 +368,38 @@
         "desktop technology",
         "example",
         "sample"
-      ]
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "open-api-demo",
+          "description"   : "Demonstration/Prototype of the FDC3 proposed Open API",
+          "gitHubURL"     : "https://github.com/FDC3/open-api-demo",
+          "heat"          : 213,
+          "watchers"      : 4,
+          "size"          : 20,
+          "collaborators" : 45,
+          "stars"         : 4,
+          "forks"         : 5,
+          "openIssues"    : 1,
+          "languages"     : {
+            "HTML" : 3858,
+            "JavaScript" : 3994
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 213,
+        "watchers"      : 4,
+        "size"          : 20,
+        "collaborators" : 45,
+        "stars"         : 4,
+        "forks"         : 5,
+        "openIssues"    : 1,
+        "languages"     : {
+          "HTML" : 3858,
+          "JavaScript" : 3994
+        }
+      }
     },
     {
       "programName"          : "Financial Desktop Connectivity and Collaboration Consortium",
@@ -356,6 +410,35 @@
       "state"                : "ACTIVE",
       "contributionDate"     : "2018-04-20",
       "releaseDate"          : "2019-07-19",
+      "gitHubRepos"          : [
+        {
+          "name"          : "API",
+          "description"   : "Open standards for the financial desktop.",
+          "gitHubURL"     : "https://github.com/FDC3/api",
+          "heat"          : 248,
+          "watchers"      : 9,
+          "size"          : 333,
+          "collaborators" : 45,
+          "stars"         : 9,
+          "forks"         : 10,
+          "openIssues"    : 0,
+          "languages"     : {
+            "TypeScript" : 5888
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 248,
+        "watchers"      : 9,
+        "size"          : 333,
+        "collaborators" : 45,
+        "stars"         : 9,
+        "forks"         : 10,
+        "openIssues"    : 0,
+        "languages"     : {
+          "TypeScript" : 5888
+        }
+      },
       "mailingLists"       : [
         {
           "emailAddress"  : "fdc3-api@finos.org",
@@ -372,6 +455,63 @@
       "state"                : "ARCHIVED",
       "contributionDate"     : "2018-02-28",
       "archiveDate"          : "2019-11-01",
+      "gitHubRepos"          : [
+        {
+          "name"          : "App-Directory",
+          "description"   : "The FDC3 App Directory - specifications and implementations.",
+          "gitHubURL"     : "https://github.com/FDC3/App-Directory",
+          "heat"          : 206,
+          "watchers"      : 3,
+          "size"          : 19,
+          "collaborators" : 45,
+          "stars"         : 3,
+          "forks"         : 4,
+          "openIssues"    : 0
+        },
+        {
+          "name"          : "appd-poc",
+          "description"   : "Application Directory POC is a reference implementation of the Application Directory API",
+          "gitHubURL"     : "https://github.com/FDC3/appd-poc",
+          "heat"          : 192,
+          "watchers"      : 1,
+          "size"          : 76,
+          "collaborators" : 45,
+          "stars"         : 1,
+          "forks"         : 2,
+          "openIssues"    : 0,
+          "languages"     : {
+            "Java" : 90084,
+            "Dockerfile" : 763,
+            "Shell" : 1205
+          }
+        },
+        {
+          "name"          : "appd-api",
+          "description"   : "Application Directory Specification and API - THIS IS NOT A RATIFIED FDC3 API or SPECIFICATION, but rather work in-progress",
+          "gitHubURL"     : "https://github.com/FDC3/appd-api",
+          "heat"          : 205,
+          "watchers"      : 0,
+          "size"          : 671,
+          "collaborators" : 45,
+          "stars"         : 0,
+          "forks"         : 5,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 603,
+        "watchers"      : 4,
+        "size"          : 766,
+        "collaborators" : 135,
+        "stars"         : 4,
+        "forks"         : 11,
+        "openIssues"    : 0,
+        "languages"     : {
+          "Java" : 90084,
+          "Dockerfile" : 763,
+          "Shell" : 1205
+        }
+      },
       "mailingLists"       : [
         {
           "emailAddress"  : "fdc3-app-directory@finos.org",
@@ -388,6 +528,35 @@
       "state"                : "ARCHIVED",
       "contributionDate"     : "2018-02-28",
       "archiveDate"          : "2019-05-03",
+      "gitHubRepos"          : [
+        {
+          "name"          : "ContextData",
+          "description"   : "Open standards for the financial desktop.",
+          "gitHubURL"     : "https://github.com/FDC3/ContextData",
+          "heat"          : 235,
+          "watchers"      : 5,
+          "size"          : 119,
+          "collaborators" : 45,
+          "stars"         : 5,
+          "forks"         : 9,
+          "openIssues"    : 0,
+          "languages"     : {
+            "TypeScript" : 1886
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 235,
+        "watchers"      : 5,
+        "size"          : 119,
+        "collaborators" : 45,
+        "stars"         : 5,
+        "forks"         : 9,
+        "openIssues"    : 0,
+        "languages"     : {
+          "TypeScript" : 1886
+        }
+      },
       "mailingLists"       : [
         {
           "emailAddress"  : "fdc3-context-data@finos.org",
@@ -414,6 +583,35 @@
       "state"                : "ARCHIVED",
       "contributionDate"     : "2018-02-28",
       "archiveDate"          : "2019-05-03",
+      "gitHubRepos"          : [
+        {
+          "name"          : "Intents",
+          "description"   : "Open standards for the financial desktop.",
+          "gitHubURL"     : "https://github.com/FDC3/Intents",
+          "heat"          : 218,
+          "watchers"      : 4,
+          "size"          : 18,
+          "collaborators" : 45,
+          "stars"         : 4,
+          "forks"         : 6,
+          "openIssues"    : 0,
+          "languages"     : {
+            "TypeScript" : 892
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 218,
+        "watchers"      : 4,
+        "size"          : 18,
+        "collaborators" : 45,
+        "stars"         : 4,
+        "forks"         : 6,
+        "openIssues"    : 0,
+        "languages"     : {
+          "TypeScript" : 892
+        }
+      },
       "mailingLists"       : [
         {
           "emailAddress"  : "fdc3-intents@finos.org",
@@ -441,6 +639,29 @@
       "state"                : "ACTIVE",
       "contributionDate"     : "2018-05-18",
       "releaseDate"          : "2019-07-19",
+      "gitHubRepos"          : [
+        {
+          "name"          : "use-cases",
+          "description"   : "FDC3 Use Cases",
+          "gitHubURL"     : "https://github.com/FDC3/use-cases",
+          "heat"          : 201,
+          "watchers"      : 1,
+          "size"          : 158,
+          "collaborators" : 46,
+          "stars"         : 1,
+          "forks"         : 3,
+          "openIssues"    : 0
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 201,
+        "watchers"      : 1,
+        "size"          : 158,
+        "collaborators" : 46,
+        "stars"         : 1,
+        "forks"         : 3,
+        "openIssues"    : 0
+      },
       "mailingLists"       : [
         {
           "emailAddress"  : "fdc3-use-case@finos.org",
@@ -623,7 +844,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 281,
           "watchers"      : 4,
-          "size"          : 2544,
+          "size"          : 2546,
           "collaborators" : 62,
           "stars"         : 4,
           "forks"         : 5,
@@ -640,14 +861,14 @@
           "gitHubURL"     : "https://github.com/finos/metadata-tool",
           "heat"          : 298,
           "watchers"      : 3,
-          "size"          : 332,
+          "size"          : 329,
           "collaborators" : 63,
           "stars"         : 3,
           "forks"         : 8,
           "openIssues"    : 8,
           "languages"     : {
-            "FreeMarker" : 21965,
-            "Clojure" : 97025
+            "FreeMarker" : 22045,
+            "Clojure" : 97021
           }
         },
         {
@@ -728,7 +949,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 3185,
         "watchers"      : 20,
-        "size"          : 53518,
+        "size"          : 53517,
         "collaborators" : 745,
         "stars"         : 20,
         "forks"         : 33,
@@ -739,9 +960,9 @@
           "CSS" : 8183,
           "JavaScript" : 38282,
           "HTML" : 6901,
-          "FreeMarker" : 21965,
+          "FreeMarker" : 22045,
           "Python" : 7381,
-          "Clojure" : 98223
+          "Clojure" : 98219
         }
       }
     },
@@ -762,11 +983,11 @@
           "name"          : "OSLC-handbook",
           "description"   : "A data store and handbook of practical information about complying with the most common open source licenses.",
           "gitHubURL"     : "https://github.com/finos/OSLC-handbook",
-          "heat"          : 491,
-          "watchers"      : 79,
+          "heat"          : 489,
+          "watchers"      : 78,
           "size"          : 509,
           "collaborators" : 62,
-          "stars"         : 79,
+          "stars"         : 78,
           "forks"         : 17,
           "openIssues"    : 7,
           "languages"     : {
@@ -794,11 +1015,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 749,
-        "watchers"      : 79,
+        "heat"          : 747,
+        "watchers"      : 78,
         "size"          : 1633,
         "collaborators" : 124,
-        "stars"         : 79,
+        "stars"         : 78,
         "forks"         : 19,
         "openIssues"    : 9,
         "languages"     : {
@@ -911,30 +1132,46 @@
           "gitHubURL"     : "https://github.com/finos/open-developer-platform",
           "heat"          : 317,
           "watchers"      : 17,
-          "size"          : 944,
+          "size"          : 949,
           "collaborators" : 62,
           "stars"         : 17,
           "forks"         : 7,
-          "openIssues"    : 42,
+          "openIssues"    : 41,
           "languages"     : {
             "Shell" : 4386,
             "CSS" : 3644,
             "JavaScript" : 17405
           }
+        },
+        {
+          "name"          : "finos-pmcs",
+          "description"   : "FINOS Pan Program Management Committee Information",
+          "gitHubURL"     : "https://github.com/finos/finos-pmcs",
+          "heat"          : 263,
+          "watchers"      : 0,
+          "size"          : 7771,
+          "collaborators" : 62,
+          "stars"         : 0,
+          "forks"         : 3,
+          "openIssues"    : 11,
+          "languages"     : {
+            "CSS" : 414,
+            "JavaScript" : 10636
+          }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 317,
+        "heat"          : 580,
         "watchers"      : 17,
-        "size"          : 944,
-        "collaborators" : 62,
+        "size"          : 8720,
+        "collaborators" : 124,
         "stars"         : 17,
-        "forks"         : 7,
-        "openIssues"    : 42,
+        "forks"         : 10,
+        "openIssues"    : 52,
         "languages"     : {
           "Shell" : 4386,
-          "CSS" : 3644,
-          "JavaScript" : 17405
+          "CSS" : 4058,
+          "JavaScript" : 28041
         }
       },
       "mailingLists"       : [
@@ -1037,7 +1274,7 @@
           "collaborators" : 62,
           "stars"         : 63,
           "forks"         : 48,
-          "openIssues"    : 241,
+          "openIssues"    : 243,
           "languages"     : {
             "Java" : 3442253,
             "HTML" : 1380517,
@@ -1054,7 +1291,7 @@
         "collaborators" : 62,
         "stars"         : 63,
         "forks"         : 48,
-        "openIssues"    : 241,
+        "openIssues"    : 243,
         "languages"     : {
           "Java" : 3442253,
           "HTML" : 1380517,
@@ -1295,13 +1532,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 278,
           "watchers"      : 9,
-          "size"          : 2406,
+          "size"          : 2407,
           "collaborators" : 40,
           "stars"         : 9,
           "forks"         : 20,
-          "openIssues"    : 7,
+          "openIssues"    : 6,
           "languages"     : {
-            "TypeScript" : 619856,
+            "TypeScript" : 619854,
             "CSS" : 29619,
             "HTML" : 6427,
             "JavaScript" : 5220
@@ -1327,13 +1564,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1471,
         "watchers"      : 128,
-        "size"          : 11270,
+        "size"          : 11271,
         "collaborators" : 155,
         "stars"         : 128,
         "forks"         : 119,
-        "openIssues"    : 36,
+        "openIssues"    : 35,
         "languages"     : {
-          "TypeScript" : 1700478,
+          "TypeScript" : 1700476,
           "HTML" : 24519,
           "CSS" : 29619,
           "JavaScript" : 365933,
@@ -1534,11 +1771,11 @@
           "gitHubURL"     : "https://github.com/finos/openfin-react-hooks",
           "heat"          : 380,
           "watchers"      : 21,
-          "size"          : 2682,
+          "size"          : 1508,
           "collaborators" : 62,
           "stars"         : 21,
           "forks"         : 18,
-          "openIssues"    : 18,
+          "openIssues"    : 16,
           "languages"     : {
             "TypeScript" : 47492
           }
@@ -1547,11 +1784,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 380,
         "watchers"      : 21,
-        "size"          : 2682,
+        "size"          : 1508,
         "collaborators" : 62,
         "stars"         : 21,
         "forks"         : 18,
-        "openIssues"    : 18,
+        "openIssues"    : 16,
         "languages"     : {
           "TypeScript" : 47492
         }
@@ -4647,13 +4884,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 464,
           "watchers"      : 44,
-          "size"          : 37426,
+          "size"          : 37435,
           "collaborators" : 9,
           "stars"         : 44,
           "forks"         : 68,
-          "openIssues"    : 2,
+          "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 508274,
+            "TypeScript" : 509228,
             "Dockerfile" : 693,
             "CSS" : 27758,
             "Shell" : 12909,
@@ -4797,11 +5034,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 887,
         "watchers"      : 52,
-        "size"          : 47496,
+        "size"          : 47505,
         "collaborators" : 77,
         "stars"         : 52,
         "forks"         : 95,
-        "openIssues"    : 3,
+        "openIssues"    : 1,
         "languages"     : {
           "C#" : 25902,
           "C++" : 43723,
@@ -4809,7 +5046,7 @@
           "C" : 59604,
           "Objective_C" : 13843,
           "HTML" : 37360,
-          "TypeScript" : 640201,
+          "TypeScript" : 641155,
           "Dockerfile" : 693,
           "Shell" : 12909,
           "Batchfile" : 4046,
