@@ -19,7 +19,7 @@
           "collaborators" : 63,
           "stars"         : 39,
           "forks"         : 27,
-          "openIssues"    : 30,
+          "openIssues"    : 31,
           "languages"     : {
             "PowerShell" : 2120,
             "Java" : 1573437,
@@ -37,7 +37,7 @@
         "collaborators" : 63,
         "stars"         : 39,
         "forks"         : 27,
-        "openIssues"    : 30,
+        "openIssues"    : 31,
         "languages"     : {
           "PowerShell" : 2120,
           "Java" : 1573437,
@@ -233,44 +233,44 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 5851,
           "watchers"      : 2290,
-          "size"          : 50073,
+          "size"          : 49799,
           "collaborators" : 69,
           "stars"         : 2290,
           "forks"         : 199,
-          "openIssues"    : 33,
+          "openIssues"    : 31,
           "languages"     : {
             "TypeScript" : 35913,
             "Dockerfile" : 34106,
             "C++" : 1203386,
-            "CSS" : 101591,
+            "CSS" : 101766,
             "C" : 4588,
             "CMake" : 60875,
             "Makefile" : 1602,
-            "JavaScript" : 1442476,
-            "HTML" : 43593,
-            "Python" : 496946
+            "JavaScript" : 1458198,
+            "HTML" : 43590,
+            "Python" : 497304
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 5851,
         "watchers"      : 2290,
-        "size"          : 50073,
+        "size"          : 49799,
         "collaborators" : 69,
         "stars"         : 2290,
         "forks"         : 199,
-        "openIssues"    : 33,
+        "openIssues"    : 31,
         "languages"     : {
           "TypeScript" : 35913,
           "Dockerfile" : 34106,
           "C++" : 1203386,
-          "CSS" : 101591,
+          "CSS" : 101766,
           "C" : 4588,
           "CMake" : 60875,
           "Makefile" : 1602,
-          "JavaScript" : 1442476,
-          "HTML" : 43593,
-          "Python" : 496946
+          "JavaScript" : 1458198,
+          "HTML" : 43590,
+          "Python" : 497304
         }
       }
     },
@@ -733,11 +733,11 @@
           "name"          : "cla-bot",
           "description"   : "cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).",
           "gitHubURL"     : "https://github.com/finos/cla-bot",
-          "heat"          : 377,
-          "watchers"      : 32,
+          "heat"          : 379,
+          "watchers"      : 33,
           "size"          : 1062,
           "collaborators" : 62,
-          "stars"         : 32,
+          "stars"         : 33,
           "forks"         : 13,
           "openIssues"    : 22,
           "languages"     : {
@@ -747,11 +747,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 377,
-        "watchers"      : 32,
+        "heat"          : 379,
+        "watchers"      : 33,
         "size"          : 1062,
         "collaborators" : 62,
-        "stars"         : 32,
+        "stars"         : 33,
         "forks"         : 13,
         "openIssues"    : 22,
         "languages"     : {
@@ -844,7 +844,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 281,
           "watchers"      : 4,
-          "size"          : 2572,
+          "size"          : 2596,
           "collaborators" : 62,
           "stars"         : 4,
           "forks"         : 5,
@@ -861,14 +861,14 @@
           "gitHubURL"     : "https://github.com/finos/metadata-tool",
           "heat"          : 298,
           "watchers"      : 3,
-          "size"          : 343,
+          "size"          : 350,
           "collaborators" : 63,
           "stars"         : 3,
           "forks"         : 8,
           "openIssues"    : 8,
           "languages"     : {
             "FreeMarker" : 22045,
-            "Clojure" : 97030
+            "Clojure" : 98392
           }
         },
         {
@@ -949,7 +949,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 3185,
         "watchers"      : 20,
-        "size"          : 53557,
+        "size"          : 53588,
         "collaborators" : 745,
         "stars"         : 20,
         "forks"         : 33,
@@ -962,7 +962,7 @@
           "HTML" : 6901,
           "FreeMarker" : 22045,
           "Python" : 7381,
-          "Clojure" : 98228
+          "Clojure" : 99590
         }
       }
     },
@@ -1076,22 +1076,22 @@
           "name"          : "cloud-service-certification",
           "description"   : "Cloud Service Certification Project",
           "gitHubURL"     : "https://github.com/finos/cloud-service-certification",
-          "heat"          : 320,
+          "heat"          : 325,
           "watchers"      : 12,
           "size"          : 1295,
           "collaborators" : 64,
           "stars"         : 12,
-          "forks"         : 8,
+          "forks"         : 9,
           "openIssues"    : 11
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 320,
+        "heat"          : 325,
         "watchers"      : 12,
         "size"          : 1295,
         "collaborators" : 64,
         "stars"         : 12,
-        "forks"         : 8,
+        "forks"         : 9,
         "openIssues"    : 11
       },
       "mailingLists"       : [
@@ -1128,19 +1128,19 @@
       "gitHubRepos"          : [
         {
           "name"          : "open-developer-platform",
-          "description"   : "Testing accessibility to FINOS Infrastructure",
+          "description"   : "Delivering open source software development best practices while enforcing security and legal compliance for the financial services industry",
           "gitHubURL"     : "https://github.com/finos/open-developer-platform",
           "heat"          : 319,
           "watchers"      : 18,
-          "size"          : 949,
+          "size"          : 7471,
           "collaborators" : 62,
           "stars"         : 18,
           "forks"         : 7,
-          "openIssues"    : 36,
+          "openIssues"    : 31,
           "languages"     : {
-            "Shell" : 4386,
-            "CSS" : 3644,
-            "JavaScript" : 17405
+            "Shell" : 5652,
+            "CSS" : 4972,
+            "JavaScript" : 13566
           }
         },
         {
@@ -1163,15 +1163,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 582,
         "watchers"      : 18,
-        "size"          : 8720,
+        "size"          : 15242,
         "collaborators" : 124,
         "stars"         : 18,
         "forks"         : 10,
-        "openIssues"    : 47,
+        "openIssues"    : 42,
         "languages"     : {
-          "Shell" : 4386,
-          "CSS" : 4058,
-          "JavaScript" : 28041
+          "Shell" : 5652,
+          "CSS" : 5386,
+          "JavaScript" : 24202
         }
       },
       "mailingLists"       : [
@@ -1580,7 +1580,7 @@
           "collaborators" : 40,
           "stars"         : 9,
           "forks"         : 20,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 619854,
             "CSS" : 29619,
@@ -1612,7 +1612,7 @@
         "collaborators" : 155,
         "stars"         : 128,
         "forks"         : 119,
-        "openIssues"    : 35,
+        "openIssues"    : 36,
         "languages"     : {
           "TypeScript" : 1700476,
           "HTML" : 24519,
@@ -1725,7 +1725,7 @@
           "collaborators" : 38,
           "stars"         : 0,
           "forks"         : 9,
-          "openIssues"    : 3,
+          "openIssues"    : 4,
           "languages"     : {
             "TypeScript" : 74404,
             "CSS" : 70303,
@@ -1741,7 +1741,7 @@
         "collaborators" : 118,
         "stars"         : 15,
         "forks"         : 40,
-        "openIssues"    : 15,
+        "openIssues"    : 16,
         "languages"     : {
           "TypeScript" : 991048,
           "HTML" : 69811,
@@ -1934,12 +1934,12 @@
           "name"          : "plexus-interop",
           "description"   : "Plexus Interop open source project hosted by the Fintech Open Source Foundation",
           "gitHubURL"     : "https://github.com/finos-plexus/plexus-interop",
-          "heat"          : 777,
+          "heat"          : 782,
           "watchers"      : 245,
-          "size"          : 9320,
+          "size"          : 9327,
           "collaborators" : 13,
           "stars"         : 245,
-          "forks"         : 47,
+          "forks"         : 48,
           "openIssues"    : 16,
           "languages"     : {
             "TypeScript" : 1182565,
@@ -1955,12 +1955,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 777,
+        "heat"          : 782,
         "watchers"      : 245,
-        "size"          : 9320,
+        "size"          : 9327,
         "collaborators" : 13,
         "stars"         : 245,
-        "forks"         : 47,
+        "forks"         : 48,
         "openIssues"    : 16,
         "languages"     : {
           "TypeScript" : 1182565,
@@ -4926,15 +4926,15 @@
           "name"          : "SymphonyElectron",
           "description"   : "A desktop client for the Symphony Collaboration Platform built using Electron",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 464,
+          "heat"          : 468,
           "watchers"      : 44,
-          "size"          : 37441,
-          "collaborators" : 9,
+          "size"          : 37357,
+          "collaborators" : 10,
           "stars"         : 44,
           "forks"         : 68,
           "openIssues"    : 0,
           "languages"     : {
-            "TypeScript" : 509553,
+            "TypeScript" : 511536,
             "Dockerfile" : 693,
             "CSS" : 27758,
             "Shell" : 12909,
@@ -5076,10 +5076,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 887,
+        "heat"          : 891,
         "watchers"      : 52,
-        "size"          : 47511,
-        "collaborators" : 77,
+        "size"          : 47427,
+        "collaborators" : 78,
         "stars"         : 52,
         "forks"         : 95,
         "openIssues"    : 1,
@@ -5090,7 +5090,7 @@
           "C" : 59604,
           "Objective_C" : 13843,
           "HTML" : 37360,
-          "TypeScript" : 641480,
+          "TypeScript" : 643463,
           "Dockerfile" : 693,
           "Shell" : 12909,
           "Batchfile" : 4046,
@@ -5327,7 +5327,7 @@
           "gitHubURL"     : "https://github.com/finos/voice-metadata-standard",
           "heat"          : 346,
           "watchers"      : 21,
-          "size"          : 104,
+          "size"          : 116,
           "collaborators" : 66,
           "stars"         : 21,
           "forks"         : 8,
@@ -5337,7 +5337,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 346,
         "watchers"      : 21,
-        "size"          : 104,
+        "size"          : 116,
         "collaborators" : 66,
         "stars"         : 21,
         "forks"         : 8,
