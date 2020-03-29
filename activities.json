@@ -63,7 +63,7 @@
           "gitHubURL"     : "https://github.com/finos/exodus",
           "heat"          : 275,
           "watchers"      : 4,
-          "size"          : 10884,
+          "size"          : 9891,
           "collaborators" : 63,
           "stars"         : 4,
           "forks"         : 3,
@@ -82,7 +82,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 275,
         "watchers"      : 4,
-        "size"          : 10884,
+        "size"          : 9891,
         "collaborators" : 63,
         "stars"         : 4,
         "forks"         : 3,
@@ -231,12 +231,12 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5851,
-          "watchers"      : 2290,
-          "size"          : 49799,
+          "heat"          : 5860,
+          "watchers"      : 2292,
+          "size"          : 49803,
           "collaborators" : 69,
-          "stars"         : 2290,
-          "forks"         : 199,
+          "stars"         : 2292,
+          "forks"         : 200,
           "openIssues"    : 31,
           "languages"     : {
             "TypeScript" : 35913,
@@ -253,12 +253,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5851,
-        "watchers"      : 2290,
-        "size"          : 49799,
+        "heat"          : 5860,
+        "watchers"      : 2292,
+        "size"          : 49803,
         "collaborators" : 69,
-        "stars"         : 2290,
-        "forks"         : 199,
+        "stars"         : 2292,
+        "forks"         : 200,
         "openIssues"    : 31,
         "languages"     : {
           "TypeScript" : 35913,
@@ -844,7 +844,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 281,
           "watchers"      : 4,
-          "size"          : 2596,
+          "size"          : 2598,
           "collaborators" : 62,
           "stars"         : 4,
           "forks"         : 5,
@@ -861,14 +861,14 @@
           "gitHubURL"     : "https://github.com/finos/metadata-tool",
           "heat"          : 298,
           "watchers"      : 3,
-          "size"          : 350,
+          "size"          : 352,
           "collaborators" : 63,
           "stars"         : 3,
           "forks"         : 8,
           "openIssues"    : 8,
           "languages"     : {
             "FreeMarker" : 22045,
-            "Clojure" : 98392
+            "Clojure" : 99221
           }
         },
         {
@@ -949,7 +949,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 3185,
         "watchers"      : 20,
-        "size"          : 53588,
+        "size"          : 53592,
         "collaborators" : 745,
         "stars"         : 20,
         "forks"         : 33,
@@ -962,7 +962,7 @@
           "HTML" : 6901,
           "FreeMarker" : 22045,
           "Python" : 7381,
-          "Clojure" : 99590
+          "Clojure" : 100419
         }
       }
     },
@@ -1132,13 +1132,13 @@
           "gitHubURL"     : "https://github.com/finos/open-developer-platform",
           "heat"          : 319,
           "watchers"      : 18,
-          "size"          : 7471,
+          "size"          : 7739,
           "collaborators" : 62,
           "stars"         : 18,
           "forks"         : 7,
-          "openIssues"    : 31,
+          "openIssues"    : 32,
           "languages"     : {
-            "Shell" : 5652,
+            "Shell" : 5685,
             "CSS" : 4972,
             "JavaScript" : 13566
           }
@@ -1163,13 +1163,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 582,
         "watchers"      : 18,
-        "size"          : 15242,
+        "size"          : 15510,
         "collaborators" : 124,
         "stars"         : 18,
         "forks"         : 10,
-        "openIssues"    : 42,
+        "openIssues"    : 43,
         "languages"     : {
-          "Shell" : 5652,
+          "Shell" : 5685,
           "CSS" : 5386,
           "JavaScript" : 24202
         }
