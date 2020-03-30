@@ -880,7 +880,7 @@
           "openIssues"    : 8,
           "languages"     : {
             "FreeMarker" : 22045,
-            "Clojure" : 99221
+            "Clojure" : 102014
           }
         },
         {
@@ -974,7 +974,7 @@
           "HTML" : 6901,
           "FreeMarker" : 22045,
           "Python" : 7381,
-          "Clojure" : 100419
+          "Clojure" : 103212
         }
       }
     },
