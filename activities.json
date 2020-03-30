@@ -231,11 +231,11 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5860,
-          "watchers"      : 2292,
+          "heat"          : 5862,
+          "watchers"      : 2293,
           "size"          : 49812,
           "collaborators" : 69,
-          "stars"         : 2292,
+          "stars"         : 2293,
           "forks"         : 200,
           "openIssues"    : 33,
           "languages"     : {
@@ -253,11 +253,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5860,
-        "watchers"      : 2292,
+        "heat"          : 5862,
+        "watchers"      : 2293,
         "size"          : 49812,
         "collaborators" : 69,
-        "stars"         : 2292,
+        "stars"         : 2293,
         "forks"         : 200,
         "openIssues"    : 33,
         "languages"     : {
@@ -856,7 +856,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 281,
           "watchers"      : 4,
-          "size"          : 2648,
+          "size"          : 2650,
           "collaborators" : 62,
           "stars"         : 4,
           "forks"         : 5,
@@ -889,7 +889,7 @@
           "gitHubURL"     : "https://github.com/finos/project-blueprint",
           "heat"          : 303,
           "watchers"      : 5,
-          "size"          : 18470,
+          "size"          : 18473,
           "collaborators" : 62,
           "stars"         : 5,
           "forks"         : 9,
@@ -961,7 +961,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 3185,
         "watchers"      : 20,
-        "size"          : 53649,
+        "size"          : 53654,
         "collaborators" : 745,
         "stars"         : 20,
         "forks"         : 33,
@@ -1144,11 +1144,11 @@
           "gitHubURL"     : "https://github.com/finos/open-developer-platform",
           "heat"          : 319,
           "watchers"      : 18,
-          "size"          : 7739,
+          "size"          : 7805,
           "collaborators" : 62,
           "stars"         : 18,
           "forks"         : 7,
-          "openIssues"    : 31,
+          "openIssues"    : 34,
           "languages"     : {
             "Shell" : 5685,
             "CSS" : 4972,
@@ -1165,7 +1165,7 @@
           "collaborators" : 62,
           "stars"         : 0,
           "forks"         : 3,
-          "openIssues"    : 11,
+          "openIssues"    : 12,
           "languages"     : {
             "CSS" : 414,
             "JavaScript" : 10636
@@ -1175,11 +1175,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 582,
         "watchers"      : 18,
-        "size"          : 15510,
+        "size"          : 15576,
         "collaborators" : 124,
         "stars"         : 18,
         "forks"         : 10,
-        "openIssues"    : 42,
+        "openIssues"    : 46,
         "languages"     : {
           "Shell" : 5685,
           "CSS" : 5386,
@@ -1588,7 +1588,7 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 278,
           "watchers"      : 9,
-          "size"          : 2407,
+          "size"          : 2409,
           "collaborators" : 40,
           "stars"         : 9,
           "forks"         : 20,
@@ -1620,7 +1620,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1471,
         "watchers"      : 128,
-        "size"          : 11271,
+        "size"          : 11273,
         "collaborators" : 155,
         "stars"         : 128,
         "forks"         : 119,
@@ -1733,32 +1733,32 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/service-tooling",
           "heat"          : 197,
           "watchers"      : 0,
-          "size"          : 1281,
+          "size"          : 625,
           "collaborators" : 38,
           "stars"         : 0,
           "forks"         : 9,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 74404,
+            "TypeScript" : 77759,
             "CSS" : 70303,
             "HTML" : 2995,
-            "JavaScript" : 9896
+            "JavaScript" : 10033
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 702,
         "watchers"      : 15,
-        "size"          : 7122,
+        "size"          : 6466,
         "collaborators" : 118,
         "stars"         : 15,
         "forks"         : 40,
-        "openIssues"    : 16,
+        "openIssues"    : 15,
         "languages"     : {
-          "TypeScript" : 991048,
+          "TypeScript" : 994403,
           "HTML" : 69811,
           "CSS" : 97088,
-          "JavaScript" : 19694
+          "JavaScript" : 19831
         }
       },
       "mailingLists"       : [
