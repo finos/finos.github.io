@@ -13,11 +13,11 @@
           "name"          : "datahelix",
           "description"   : "The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for the purpose of testing and validation",
           "gitHubURL"     : "https://github.com/finos/datahelix",
-          "heat"          : 465,
-          "watchers"      : 39,
+          "heat"          : 467,
+          "watchers"      : 40,
           "size"          : 14927,
           "collaborators" : 63,
-          "stars"         : 39,
+          "stars"         : 40,
           "forks"         : 27,
           "openIssues"    : 31,
           "languages"     : {
@@ -31,11 +31,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 465,
-        "watchers"      : 39,
+        "heat"          : 467,
+        "watchers"      : 40,
         "size"          : 14927,
         "collaborators" : 63,
-        "stars"         : 39,
+        "stars"         : 40,
         "forks"         : 27,
         "openIssues"    : 31,
         "languages"     : {
@@ -231,44 +231,44 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5862,
-          "watchers"      : 2293,
-          "size"          : 49812,
+          "heat"          : 5864,
+          "watchers"      : 2294,
+          "size"          : 49907,
           "collaborators" : 69,
-          "stars"         : 2293,
+          "stars"         : 2294,
           "forks"         : 200,
           "openIssues"    : 33,
           "languages"     : {
             "TypeScript" : 35913,
             "Dockerfile" : 34106,
             "C++" : 1203386,
-            "CSS" : 101766,
+            "CSS" : 102660,
             "C" : 4588,
-            "CMake" : 60875,
+            "CMake" : 61335,
             "Makefile" : 1602,
-            "JavaScript" : 1458198,
+            "JavaScript" : 1462014,
             "HTML" : 43590,
             "Python" : 497304
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5862,
-        "watchers"      : 2293,
-        "size"          : 49812,
+        "heat"          : 5864,
+        "watchers"      : 2294,
+        "size"          : 49907,
         "collaborators" : 69,
-        "stars"         : 2293,
+        "stars"         : 2294,
         "forks"         : 200,
         "openIssues"    : 33,
         "languages"     : {
           "TypeScript" : 35913,
           "Dockerfile" : 34106,
           "C++" : 1203386,
-          "CSS" : 101766,
+          "CSS" : 102660,
           "C" : 4588,
-          "CMake" : 60875,
+          "CMake" : 61335,
           "Makefile" : 1602,
-          "JavaScript" : 1458198,
+          "JavaScript" : 1462014,
           "HTML" : 43590,
           "Python" : 497304
         }
@@ -324,12 +324,12 @@
           "name"          : "FDC3",
           "description"   : "Open standards for the financial desktop.",
           "gitHubURL"     : "https://github.com/finos/fdc3",
-          "heat"          : 471,
+          "heat"          : 476,
           "watchers"      : 39,
-          "size"          : 3920,
+          "size"          : 3985,
           "collaborators" : 62,
           "stars"         : 39,
-          "forks"         : 29,
+          "forks"         : 30,
           "openIssues"    : 17,
           "languages"     : {
             "TypeScript" : 12257,
@@ -337,28 +337,16 @@
             "CSS" : 3463,
             "JavaScript" : 24018
           }
-        },
-        {
-          "name"          : "FDC3-Archive",
-          "description"   : "",
-          "gitHubURL"     : "https://github.com/finos/fdc3-archive",
-          "heat"          : 259,
-          "watchers"      : 3,
-          "size"          : 2214,
-          "collaborators" : 62,
-          "stars"         : 3,
-          "forks"         : 1,
-          "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 730,
-        "watchers"      : 42,
-        "size"          : 6134,
-        "collaborators" : 124,
-        "stars"         : 42,
+        "heat"          : 476,
+        "watchers"      : 39,
+        "size"          : 3985,
+        "collaborators" : 62,
+        "stars"         : 39,
         "forks"         : 30,
-        "openIssues"    : 19,
+        "openIssues"    : 17,
         "languages"     : {
           "TypeScript" : 12257,
           "HTML" : 1899840,
@@ -422,35 +410,6 @@
       "state"                : "ACTIVE",
       "contributionDate"     : "2018-04-20",
       "releaseDate"          : "2019-07-19",
-      "gitHubRepos"          : [
-        {
-          "name"          : "API",
-          "description"   : "Open standards for the financial desktop.",
-          "gitHubURL"     : "https://github.com/FDC3/api",
-          "heat"          : 248,
-          "watchers"      : 9,
-          "size"          : 333,
-          "collaborators" : 45,
-          "stars"         : 9,
-          "forks"         : 10,
-          "openIssues"    : 0,
-          "languages"     : {
-            "TypeScript" : 5888
-          }
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 248,
-        "watchers"      : 9,
-        "size"          : 333,
-        "collaborators" : 45,
-        "stars"         : 9,
-        "forks"         : 10,
-        "openIssues"    : 0,
-        "languages"     : {
-          "TypeScript" : 5888
-        }
-      },
       "mailingLists"       : [
         {
           "emailAddress"  : "fdc3-api@finos.org",
@@ -651,29 +610,6 @@
       "state"                : "ACTIVE",
       "contributionDate"     : "2018-05-18",
       "releaseDate"          : "2019-07-19",
-      "gitHubRepos"          : [
-        {
-          "name"          : "use-cases",
-          "description"   : "FDC3 Use Cases",
-          "gitHubURL"     : "https://github.com/FDC3/use-cases",
-          "heat"          : 201,
-          "watchers"      : 1,
-          "size"          : 158,
-          "collaborators" : 46,
-          "stars"         : 1,
-          "forks"         : 3,
-          "openIssues"    : 0
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 201,
-        "watchers"      : 1,
-        "size"          : 158,
-        "collaborators" : 46,
-        "stars"         : 1,
-        "forks"         : 3,
-        "openIssues"    : 0
-      },
       "mailingLists"       : [
         {
           "emailAddress"  : "fdc3-use-case@finos.org",
@@ -854,11 +790,11 @@
           "name"          : "finos.github.io",
           "description"   : "The source for the FINOS activity catalogue.",
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
-          "heat"          : 281,
-          "watchers"      : 4,
-          "size"          : 2650,
+          "heat"          : 283,
+          "watchers"      : 5,
+          "size"          : 2674,
           "collaborators" : 62,
-          "stars"         : 4,
+          "stars"         : 5,
           "forks"         : 5,
           "openIssues"    : 6,
           "languages"     : {
@@ -873,7 +809,7 @@
           "gitHubURL"     : "https://github.com/finos/metadata-tool",
           "heat"          : 298,
           "watchers"      : 3,
-          "size"          : 359,
+          "size"          : 377,
           "collaborators" : 63,
           "stars"         : 3,
           "forks"         : 8,
@@ -959,11 +895,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 3185,
-        "watchers"      : 20,
-        "size"          : 53654,
+        "heat"          : 3187,
+        "watchers"      : 21,
+        "size"          : 53696,
         "collaborators" : 745,
-        "stars"         : 20,
+        "stars"         : 21,
         "forks"         : 33,
         "openIssues"    : 35,
         "languages"     : {
@@ -1148,7 +1084,7 @@
           "collaborators" : 62,
           "stars"         : 18,
           "forks"         : 7,
-          "openIssues"    : 34,
+          "openIssues"    : 36,
           "languages"     : {
             "Shell" : 5685,
             "CSS" : 4972,
@@ -1161,7 +1097,7 @@
           "gitHubURL"     : "https://github.com/finos/finos-pmcs",
           "heat"          : 263,
           "watchers"      : 0,
-          "size"          : 7771,
+          "size"          : 10506,
           "collaborators" : 62,
           "stars"         : 0,
           "forks"         : 3,
@@ -1175,11 +1111,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 582,
         "watchers"      : 18,
-        "size"          : 15576,
+        "size"          : 18311,
         "collaborators" : 124,
         "stars"         : 18,
         "forks"         : 10,
-        "openIssues"    : 46,
+        "openIssues"    : 48,
         "languages"     : {
           "Shell" : 5685,
           "CSS" : 5386,
@@ -1282,34 +1218,34 @@
           "gitHubURL"     : "https://github.com/finos/waltz",
           "heat"          : 616,
           "watchers"      : 64,
-          "size"          : 29689,
+          "size"          : 29694,
           "collaborators" : 62,
           "stars"         : 64,
           "forks"         : 48,
-          "openIssues"    : 243,
+          "openIssues"    : 246,
           "languages"     : {
             "Java" : 3442253,
-            "HTML" : 1380517,
+            "HTML" : 1380604,
             "CSS" : 152506,
             "Shell" : 305,
-            "JavaScript" : 2234292
+            "JavaScript" : 2234473
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 616,
         "watchers"      : 64,
-        "size"          : 29689,
+        "size"          : 29694,
         "collaborators" : 62,
         "stars"         : 64,
         "forks"         : 48,
-        "openIssues"    : 243,
+        "openIssues"    : 246,
         "languages"     : {
           "Java" : 3442253,
-          "HTML" : 1380517,
+          "HTML" : 1380604,
           "CSS" : 152506,
           "Shell" : 305,
-          "JavaScript" : 2234292
+          "JavaScript" : 2234473
         }
       }
     },
@@ -1326,11 +1262,11 @@
           "name"          : "alloy",
           "description"   : "The PURE/Alloy project",
           "gitHubURL"     : "https://github.com/finos/alloy",
-          "heat"          : 332,
-          "watchers"      : 17,
+          "heat"          : 334,
+          "watchers"      : 18,
           "size"          : 9430,
           "collaborators" : 62,
-          "stars"         : 17,
+          "stars"         : 18,
           "forks"         : 10,
           "openIssues"    : 20,
           "languages"     : {
@@ -1342,11 +1278,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 332,
-        "watchers"      : 17,
+        "heat"          : 334,
+        "watchers"      : 18,
         "size"          : 9430,
         "collaborators" : 62,
-        "stars"         : 17,
+        "stars"         : 18,
         "forks"         : 10,
         "openIssues"    : 20,
         "languages"     : {
@@ -3531,35 +3467,19 @@
           "languages"     : {
             "Shell" : 1938
           }
-        },
-        {
-          "name"          : "symphony-java-sample-bots",
-          "description"   : "A set of simple Bots for Symphony, implemented in Java.",
-          "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-sample-bots",
-          "heat"          : 136,
-          "watchers"      : 21,
-          "size"          : 932,
-          "collaborators" : 6,
-          "stars"         : 21,
-          "forks"         : 14,
-          "openIssues"    : 4,
-          "languages"     : {
-            "Java" : 23570,
-            "Shell" : 457
-          }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 501,
-        "watchers"      : 59,
-        "size"          : 3523,
-        "collaborators" : 22,
-        "stars"         : 59,
-        "forks"         : 59,
-        "openIssues"    : 21,
+        "heat"          : 365,
+        "watchers"      : 38,
+        "size"          : 2591,
+        "collaborators" : 16,
+        "stars"         : 38,
+        "forks"         : 45,
+        "openIssues"    : 17,
         "languages"     : {
-          "Java" : 718953,
-          "Shell" : 4382
+          "Java" : 695383,
+          "Shell" : 3925
         }
       }
     },
@@ -3913,13 +3833,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue",
           "heat"          : 55,
           "watchers"      : 1,
-          "size"          : 2412,
+          "size"          : 2421,
           "collaborators" : 7,
           "stars"         : 1,
           "forks"         : 5,
           "openIssues"    : 3,
           "languages"     : {
-            "Java" : 1180094,
+            "Java" : 1179278,
             "CSS" : 29377,
             "Shell" : 26746,
             "HTML" : 16297
@@ -3959,13 +3879,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 137,
         "watchers"      : 1,
-        "size"          : 2673,
+        "size"          : 2682,
         "collaborators" : 20,
         "stars"         : 1,
         "forks"         : 11,
         "openIssues"    : 8,
         "languages"     : {
-          "Java" : 1203332,
+          "Java" : 1202516,
           "CSS" : 29377,
           "Shell" : 26746,
           "HTML" : 16297,
@@ -4938,20 +4858,20 @@
           "name"          : "SymphonyElectron",
           "description"   : "A desktop client for the Symphony Collaboration Platform built using Electron",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 468,
+          "heat"          : 473,
           "watchers"      : 44,
-          "size"          : 37358,
+          "size"          : 37596,
           "collaborators" : 10,
           "stars"         : 44,
-          "forks"         : 68,
+          "forks"         : 69,
           "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 511536,
+            "TypeScript" : 513253,
             "Dockerfile" : 745,
             "CSS" : 27758,
             "Shell" : 12909,
             "Batchfile" : 4046,
-            "JavaScript" : 2541,
+            "JavaScript" : 2611,
             "HTML" : 35896,
             "Objective_C" : 7347
           }
@@ -5109,12 +5029,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 911,
+        "heat"          : 916,
         "watchers"      : 52,
-        "size"          : 168540,
+        "size"          : 168778,
         "collaborators" : 83,
         "stars"         : 52,
-        "forks"         : 95,
+        "forks"         : 96,
         "openIssues"    : 2,
         "languages"     : {
           "Smarty" : 112,
@@ -5125,11 +5045,11 @@
           "Objective_C" : 13843,
           "HTML" : 39789,
           "NSIS" : 82845,
-          "TypeScript" : 1680377,
+          "TypeScript" : 1682094,
           "Dockerfile" : 4152,
           "Shell" : 16172,
           "Batchfile" : 4046,
-          "JavaScript" : 211275,
+          "JavaScript" : 211345,
           "Python" : 921
         }
       }
