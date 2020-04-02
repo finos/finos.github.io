@@ -5026,13 +5026,28 @@
             "Objective_C" : 6067,
             "C" : 11351
           }
+        },
+        {
+          "name"          : "node-auto-launch",
+          "description"   : "Launch applications or executables at login (Mac, Windows, and Linux)",
+          "gitHubURL"     : "https://github.com/symphonyoss/node-auto-launch",
+          "heat"          : 28,
+          "watchers"      : 0,
+          "size"          : 3121,
+          "collaborators" : 7,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 0,
+          "languages"     : {
+            "CoffeeScript" : 18529
+          }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 906,
+        "heat"          : 934,
         "watchers"      : 53,
-        "size"          : 168802,
-        "collaborators" : 80,
+        "size"          : 171923,
+        "collaborators" : 87,
         "stars"         : 53,
         "forks"         : 96,
         "openIssues"    : 13,
@@ -5048,6 +5063,7 @@
           "TypeScript" : 1682273,
           "Dockerfile" : 4152,
           "Shell" : 16334,
+          "CoffeeScript" : 18529,
           "Batchfile" : 4214,
           "JavaScript" : 211345,
           "Python" : 921
