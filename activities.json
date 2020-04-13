@@ -231,13 +231,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5947,
-          "watchers"      : 2311,
-          "size"          : 50084,
+          "heat"          : 5962,
+          "watchers"      : 2316,
+          "size"          : 50103,
           "collaborators" : 75,
-          "stars"         : 2311,
-          "forks"         : 205,
-          "openIssues"    : 37,
+          "stars"         : 2316,
+          "forks"         : 206,
+          "openIssues"    : 41,
           "languages"     : {
             "TypeScript" : 35913,
             "Dockerfile" : 34106,
@@ -253,13 +253,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5947,
-        "watchers"      : 2311,
-        "size"          : 50084,
+        "heat"          : 5962,
+        "watchers"      : 2316,
+        "size"          : 50103,
         "collaborators" : 75,
-        "stars"         : 2311,
-        "forks"         : 205,
-        "openIssues"    : 37,
+        "stars"         : 2316,
+        "forks"         : 206,
+        "openIssues"    : 41,
         "languages"     : {
           "TypeScript" : 35913,
           "Dockerfile" : 34106,
@@ -326,7 +326,7 @@
           "gitHubURL"     : "https://github.com/finos/fdc3",
           "heat"          : 505,
           "watchers"      : 39,
-          "size"          : 4297,
+          "size"          : 4219,
           "collaborators" : 68,
           "stars"         : 39,
           "forks"         : 31,
@@ -342,7 +342,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 505,
         "watchers"      : 39,
-        "size"          : 4297,
+        "size"          : 4219,
         "collaborators" : 68,
         "stars"         : 39,
         "forks"         : 31,
@@ -792,7 +792,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 307,
           "watchers"      : 5,
-          "size"          : 2762,
+          "size"          : 2756,
           "collaborators" : 68,
           "stars"         : 5,
           "forks"         : 5,
@@ -897,7 +897,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 3478,
         "watchers"      : 22,
-        "size"          : 53779,
+        "size"          : 53773,
         "collaborators" : 816,
         "stars"         : 22,
         "forks"         : 34,
@@ -1080,7 +1080,7 @@
           "gitHubURL"     : "https://github.com/finos/open-developer-platform",
           "heat"          : 348,
           "watchers"      : 18,
-          "size"          : 7749,
+          "size"          : 7911,
           "collaborators" : 68,
           "stars"         : 18,
           "forks"         : 8,
@@ -1111,7 +1111,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 635,
         "watchers"      : 18,
-        "size"          : 18264,
+        "size"          : 18426,
         "collaborators" : 136,
         "stars"         : 18,
         "forks"         : 11,
@@ -1216,12 +1216,12 @@
           "name"          : "waltz",
           "description"   : "Enterprise Information Service",
           "gitHubURL"     : "https://github.com/finos/waltz",
-          "heat"          : 654,
+          "heat"          : 659,
           "watchers"      : 66,
           "size"          : 29921,
           "collaborators" : 68,
           "stars"         : 66,
-          "forks"         : 50,
+          "forks"         : 51,
           "openIssues"    : 256,
           "languages"     : {
             "Java" : 3443204,
@@ -1233,12 +1233,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 654,
+        "heat"          : 659,
         "watchers"      : 66,
         "size"          : 29921,
         "collaborators" : 68,
         "stars"         : 66,
-        "forks"         : 50,
+        "forks"         : 51,
         "openIssues"    : 256,
         "languages"     : {
           "Java" : 3443204,
@@ -1262,11 +1262,11 @@
           "name"          : "alloy",
           "description"   : "The PURE/Alloy project",
           "gitHubURL"     : "https://github.com/finos/alloy",
-          "heat"          : 368,
-          "watchers"      : 18,
-          "size"          : 9459,
+          "heat"          : 370,
+          "watchers"      : 19,
+          "size"          : 9468,
           "collaborators" : 68,
-          "stars"         : 18,
+          "stars"         : 19,
           "forks"         : 12,
           "openIssues"    : 22,
           "languages"     : {
@@ -1278,11 +1278,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 368,
-        "watchers"      : 18,
-        "size"          : 9459,
+        "heat"          : 370,
+        "watchers"      : 19,
+        "size"          : 9468,
         "collaborators" : 68,
-        "stars"         : 18,
+        "stars"         : 19,
         "forks"         : 12,
         "openIssues"    : 22,
         "languages"     : {
@@ -1763,26 +1763,26 @@
           "gitHubURL"     : "https://github.com/finos/openfin-react-hooks",
           "heat"          : 404,
           "watchers"      : 21,
-          "size"          : 1508,
+          "size"          : 1154,
           "collaborators" : 68,
           "stars"         : 21,
           "forks"         : 18,
-          "openIssues"    : 16,
+          "openIssues"    : 13,
           "languages"     : {
-            "TypeScript" : 47492
+            "TypeScript" : 48332
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 404,
         "watchers"      : 21,
-        "size"          : 1508,
+        "size"          : 1154,
         "collaborators" : 68,
         "stars"         : 21,
         "forks"         : 18,
-        "openIssues"    : 16,
+        "openIssues"    : 13,
         "languages"     : {
-          "TypeScript" : 47492
+          "TypeScript" : 48332
         }
       }
     },
@@ -3401,11 +3401,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 121,
           "watchers"      : 9,
-          "size"          : 6816,
+          "size"          : 7580,
           "collaborators" : 12,
           "stars"         : 9,
           "forks"         : 11,
-          "openIssues"    : 29,
+          "openIssues"    : 30,
           "languages"     : {
             "JavaScript" : 82020
           }
@@ -3414,11 +3414,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 121,
         "watchers"      : 9,
-        "size"          : 6816,
+        "size"          : 7580,
         "collaborators" : 12,
         "stars"         : 9,
         "forks"         : 11,
-        "openIssues"    : 29,
+        "openIssues"    : 30,
         "languages"     : {
           "JavaScript" : 82020
         }
@@ -3441,13 +3441,13 @@
           "name"          : "symphony-java-client",
           "description"   : "Java client library for Symphony",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-java-client",
-          "heat"          : 312,
+          "heat"          : 317,
           "watchers"      : 36,
           "size"          : 2460,
           "collaborators" : 15,
           "stars"         : 36,
-          "forks"         : 36,
-          "openIssues"    : 16,
+          "forks"         : 37,
+          "openIssues"    : 18,
           "languages"     : {
             "Java" : 695383,
             "Shell" : 1987
@@ -3470,13 +3470,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 413,
+        "heat"          : 418,
         "watchers"      : 38,
         "size"          : 2591,
         "collaborators" : 28,
         "stars"         : 38,
-        "forks"         : 45,
-        "openIssues"    : 17,
+        "forks"         : 46,
+        "openIssues"    : 19,
         "languages"     : {
           "Java" : 695383,
           "Shell" : 3925
@@ -4547,7 +4547,7 @@
           "collaborators" : 18,
           "stars"         : 5,
           "forks"         : 21,
-          "openIssues"    : 6,
+          "openIssues"    : 7,
           "languages"     : {
             "Java" : 794702
           }
@@ -4560,7 +4560,7 @@
         "collaborators" : 18,
         "stars"         : 5,
         "forks"         : 21,
-        "openIssues"    : 6,
+        "openIssues"    : 7,
         "languages"     : {
           "Java" : 794702
         }
@@ -4860,13 +4860,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 483,
           "watchers"      : 47,
-          "size"          : 37640,
+          "size"          : 37650,
           "collaborators" : 11,
           "stars"         : 47,
           "forks"         : 69,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 515381,
+            "TypeScript" : 517158,
             "Dockerfile" : 745,
             "CSS" : 27758,
             "Shell" : 13071,
@@ -5046,11 +5046,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1082,
         "watchers"      : 55,
-        "size"          : 171943,
+        "size"          : 171953,
         "collaborators" : 123,
         "stars"         : 55,
         "forks"         : 96,
-        "openIssues"    : 9,
+        "openIssues"    : 8,
         "languages"     : {
           "Smarty" : 112,
           "C#" : 25902,
@@ -5060,7 +5060,7 @@
           "Objective_C" : 13843,
           "HTML" : 41078,
           "NSIS" : 82845,
-          "TypeScript" : 1684222,
+          "TypeScript" : 1685999,
           "Dockerfile" : 4152,
           "Shell" : 16334,
           "CoffeeScript" : 18529,
