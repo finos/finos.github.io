@@ -231,11 +231,11 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5968,
-          "watchers"      : 2319,
-          "size"          : 50110,
+          "heat"          : 5966,
+          "watchers"      : 2318,
+          "size"          : 50258,
           "collaborators" : 75,
-          "stars"         : 2319,
+          "stars"         : 2318,
           "forks"         : 206,
           "openIssues"    : 41,
           "languages"     : {
@@ -244,20 +244,20 @@
             "C++" : 1203484,
             "CSS" : 102878,
             "C" : 4588,
-            "CMake" : 61335,
+            "CMake" : 62284,
             "Makefile" : 1602,
-            "JavaScript" : 1469330,
+            "JavaScript" : 1469331,
             "HTML" : 46491,
-            "Python" : 506359
+            "Python" : 506374
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5968,
-        "watchers"      : 2319,
-        "size"          : 50110,
+        "heat"          : 5966,
+        "watchers"      : 2318,
+        "size"          : 50258,
         "collaborators" : 75,
-        "stars"         : 2319,
+        "stars"         : 2318,
         "forks"         : 206,
         "openIssues"    : 41,
         "languages"     : {
@@ -266,11 +266,11 @@
           "C++" : 1203484,
           "CSS" : 102878,
           "C" : 4588,
-          "CMake" : 61335,
+          "CMake" : 62284,
           "Makefile" : 1602,
-          "JavaScript" : 1469330,
+          "JavaScript" : 1469331,
           "HTML" : 46491,
-          "Python" : 506359
+          "Python" : 506374
         }
       }
     },
@@ -640,30 +640,30 @@
           "gitHubURL"     : "https://github.com/finos/bot-github-chatops",
           "heat"          : 308,
           "watchers"      : 8,
-          "size"          : 412,
+          "size"          : 450,
           "collaborators" : 68,
           "stars"         : 8,
           "forks"         : 4,
-          "openIssues"    : 13,
+          "openIssues"    : 11,
           "languages"     : {
             "Shell" : 1435,
             "FreeMarker" : 7551,
-            "Clojure" : 52461
+            "Clojure" : 52464
           }
         }
       ],
       "cumulativeGitHubStats" : {
         "heat"          : 308,
         "watchers"      : 8,
-        "size"          : 412,
+        "size"          : 450,
         "collaborators" : 68,
         "stars"         : 8,
         "forks"         : 4,
-        "openIssues"    : 13,
+        "openIssues"    : 11,
         "languages"     : {
           "Shell" : 1435,
           "FreeMarker" : 7551,
-          "Clojure" : 52461
+          "Clojure" : 52464
         }
       }
     },
@@ -792,7 +792,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 307,
           "watchers"      : 5,
-          "size"          : 2788,
+          "size"          : 2782,
           "collaborators" : 68,
           "stars"         : 5,
           "forks"         : 5,
@@ -815,7 +815,7 @@
           "forks"         : 8,
           "openIssues"    : 7,
           "languages"     : {
-            "FreeMarker" : 22045,
+            "FreeMarker" : 22115,
             "Clojure" : 118874
           }
         },
@@ -897,7 +897,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 3478,
         "watchers"      : 22,
-        "size"          : 53805,
+        "size"          : 53799,
         "collaborators" : 816,
         "stars"         : 22,
         "forks"         : 34,
@@ -908,7 +908,7 @@
           "CSS" : 8183,
           "JavaScript" : 36722,
           "HTML" : 6901,
-          "FreeMarker" : 22045,
+          "FreeMarker" : 22115,
           "Python" : 7381,
           "Clojure" : 120072
         }
@@ -1084,7 +1084,7 @@
           "collaborators" : 68,
           "stars"         : 18,
           "forks"         : 8,
-          "openIssues"    : 28,
+          "openIssues"    : 29,
           "languages"     : {
             "Shell" : 6940,
             "CSS" : 4972,
@@ -1115,7 +1115,7 @@
         "collaborators" : 136,
         "stars"         : 18,
         "forks"         : 11,
-        "openIssues"    : 40,
+        "openIssues"    : 41,
         "languages"     : {
           "Shell" : 6940,
           "CSS" : 5386,
@@ -1218,11 +1218,11 @@
           "gitHubURL"     : "https://github.com/finos/waltz",
           "heat"          : 659,
           "watchers"      : 66,
-          "size"          : 29921,
+          "size"          : 29795,
           "collaborators" : 68,
           "stars"         : 66,
           "forks"         : 51,
-          "openIssues"    : 256,
+          "openIssues"    : 257,
           "languages"     : {
             "Java" : 3443204,
             "HTML" : 1380604,
@@ -1235,11 +1235,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 659,
         "watchers"      : 66,
-        "size"          : 29921,
+        "size"          : 29795,
         "collaborators" : 68,
         "stars"         : 66,
         "forks"         : 51,
-        "openIssues"    : 256,
+        "openIssues"    : 257,
         "languages"     : {
           "Java" : 3443204,
           "HTML" : 1380604,
@@ -1524,13 +1524,13 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 278,
           "watchers"      : 9,
-          "size"          : 2409,
+          "size"          : 2410,
           "collaborators" : 40,
           "stars"         : 9,
           "forks"         : 20,
-          "openIssues"    : 9,
+          "openIssues"    : 8,
           "languages"     : {
-            "TypeScript" : 620572,
+            "TypeScript" : 620575,
             "CSS" : 29619,
             "HTML" : 6427,
             "JavaScript" : 5220
@@ -1556,13 +1556,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1471,
         "watchers"      : 128,
-        "size"          : 11273,
+        "size"          : 11274,
         "collaborators" : 155,
         "stars"         : 128,
         "forks"         : 119,
-        "openIssues"    : 38,
+        "openIssues"    : 37,
         "languages"     : {
-          "TypeScript" : 1701194,
+          "TypeScript" : 1701197,
           "HTML" : 24519,
           "CSS" : 29619,
           "JavaScript" : 365933,
@@ -3129,13 +3129,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon",
           "heat"          : 68,
           "watchers"      : 0,
-          "size"          : 1060,
+          "size"          : 1073,
           "collaborators" : 12,
           "stars"         : 0,
           "forks"         : 4,
           "openIssues"    : 2,
           "languages"     : {
-            "Java" : 529003,
+            "Java" : 529672,
             "FreeMarker" : 134777,
             "JavaScript" : 13681
           }
@@ -3159,13 +3159,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 131,
         "watchers"      : 0,
-        "size"          : 1358,
+        "size"          : 1371,
         "collaborators" : 24,
         "stars"         : 0,
         "forks"         : 7,
         "openIssues"    : 5,
         "languages"     : {
-          "Java" : 577094,
+          "Java" : 577763,
           "FreeMarker" : 134777,
           "JavaScript" : 13681
         }
@@ -4858,15 +4858,15 @@
           "name"          : "SymphonyElectron",
           "description"   : "A desktop client for the Symphony Collaboration Platform built using Electron",
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
-          "heat"          : 483,
-          "watchers"      : 47,
-          "size"          : 37652,
+          "heat"          : 485,
+          "watchers"      : 48,
+          "size"          : 37654,
           "collaborators" : 11,
-          "stars"         : 47,
+          "stars"         : 48,
           "forks"         : 69,
           "openIssues"    : 1,
           "languages"     : {
-            "TypeScript" : 517158,
+            "TypeScript" : 517716,
             "Dockerfile" : 745,
             "CSS" : 27758,
             "Shell" : 13071,
@@ -4967,11 +4967,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/ScreenSnippet2",
           "heat"          : 49,
           "watchers"      : 0,
-          "size"          : 197,
+          "size"          : 198,
           "collaborators" : 11,
           "stars"         : 0,
           "forks"         : 1,
-          "openIssues"    : 2,
+          "openIssues"    : 1,
           "languages"     : {
             "C++" : 7873,
             "Objective_C" : 429,
@@ -5017,14 +5017,14 @@
           "gitHubURL"     : "https://github.com/symphonyoss/ScreenShareIndicatorFrame",
           "heat"          : 49,
           "watchers"      : 0,
-          "size"          : 45,
+          "size"          : 104,
           "collaborators" : 11,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 1,
           "languages"     : {
             "Objective_C" : 6067,
-            "C" : 11351
+            "C" : 11452
           }
         },
         {
@@ -5044,23 +5044,23 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1082,
-        "watchers"      : 55,
-        "size"          : 171955,
+        "heat"          : 1084,
+        "watchers"      : 56,
+        "size"          : 172017,
         "collaborators" : 123,
-        "stars"         : 55,
+        "stars"         : 56,
         "forks"         : 96,
-        "openIssues"    : 8,
+        "openIssues"    : 7,
         "languages"     : {
           "Smarty" : 112,
           "C#" : 25902,
           "C++" : 43723,
           "CSS" : 27758,
-          "C" : 59604,
+          "C" : 59705,
           "Objective_C" : 13843,
           "HTML" : 41078,
           "NSIS" : 82845,
-          "TypeScript" : 1685999,
+          "TypeScript" : 1686557,
           "Dockerfile" : 4152,
           "Shell" : 16334,
           "CoffeeScript" : 18529,
