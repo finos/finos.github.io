@@ -231,12 +231,12 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 5984,
-          "watchers"      : 2320,
+          "heat"          : 5991,
+          "watchers"      : 2321,
           "size"          : 50333,
           "collaborators" : 76,
-          "stars"         : 2320,
-          "forks"         : 208,
+          "stars"         : 2321,
+          "forks"         : 209,
           "openIssues"    : 41,
           "languages"     : {
             "TypeScript" : 35913,
@@ -253,12 +253,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 5984,
-        "watchers"      : 2320,
+        "heat"          : 5991,
+        "watchers"      : 2321,
         "size"          : 50333,
         "collaborators" : 76,
-        "stars"         : 2320,
-        "forks"         : 208,
+        "stars"         : 2321,
+        "forks"         : 209,
         "openIssues"    : 41,
         "languages"     : {
           "TypeScript" : 35913,
