@@ -792,7 +792,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 311,
           "watchers"      : 5,
-          "size"          : 2842,
+          "size"          : 2833,
           "collaborators" : 69,
           "stars"         : 5,
           "forks"         : 5,
@@ -897,7 +897,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 3531,
         "watchers"      : 22,
-        "size"          : 53863,
+        "size"          : 53854,
         "collaborators" : 828,
         "stars"         : 22,
         "forks"         : 35,
@@ -1203,7 +1203,7 @@
           "collaborators" : 69,
           "stars"         : 66,
           "forks"         : 51,
-          "openIssues"    : 263,
+          "openIssues"    : 265,
           "languages"     : {
             "Java" : 3442907,
             "HTML" : 1380949,
@@ -1220,7 +1220,7 @@
         "collaborators" : 69,
         "stars"         : 66,
         "forks"         : 51,
-        "openIssues"    : 263,
+        "openIssues"    : 265,
         "languages"     : {
           "Java" : 3442907,
           "HTML" : 1380949,
@@ -1505,11 +1505,11 @@
           "gitHubURL"     : "https://github.com/HadoukenIO/fdc3-service",
           "heat"          : 278,
           "watchers"      : 9,
-          "size"          : 2545,
+          "size"          : 2546,
           "collaborators" : 40,
           "stars"         : 9,
           "forks"         : 20,
-          "openIssues"    : 8,
+          "openIssues"    : 7,
           "languages"     : {
             "TypeScript" : 621429,
             "CSS" : 29619,
@@ -1537,11 +1537,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 1469,
         "watchers"      : 127,
-        "size"          : 11409,
+        "size"          : 11410,
         "collaborators" : 155,
         "stars"         : 127,
         "forks"         : 119,
-        "openIssues"    : 37,
+        "openIssues"    : 36,
         "languages"     : {
           "TypeScript" : 1702051,
           "HTML" : 24519,
