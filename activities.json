@@ -792,7 +792,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 311,
           "watchers"      : 5,
-          "size"          : 2808,
+          "size"          : 2842,
           "collaborators" : 69,
           "stars"         : 5,
           "forks"         : 5,
@@ -897,7 +897,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 3531,
         "watchers"      : 22,
-        "size"          : 53829,
+        "size"          : 53863,
         "collaborators" : 828,
         "stars"         : 22,
         "forks"         : 35,
@@ -1199,7 +1199,7 @@
           "gitHubURL"     : "https://github.com/finos/waltz",
           "heat"          : 663,
           "watchers"      : 66,
-          "size"          : 29798,
+          "size"          : 29807,
           "collaborators" : 69,
           "stars"         : 66,
           "forks"         : 51,
@@ -1216,7 +1216,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 663,
         "watchers"      : 66,
-        "size"          : 29798,
+        "size"          : 29807,
         "collaborators" : 69,
         "stars"         : 66,
         "forks"         : 51,
@@ -1243,11 +1243,11 @@
           "name"          : "alloy",
           "description"   : "The PURE/Alloy project",
           "gitHubURL"     : "https://github.com/finos/alloy",
-          "heat"          : 379,
-          "watchers"      : 19,
+          "heat"          : 381,
+          "watchers"      : 20,
           "size"          : 10699,
           "collaborators" : 69,
-          "stars"         : 19,
+          "stars"         : 20,
           "forks"         : 13,
           "openIssues"    : 23,
           "languages"     : {
@@ -1259,11 +1259,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 379,
-        "watchers"      : 19,
+        "heat"          : 381,
+        "watchers"      : 20,
         "size"          : 10699,
         "collaborators" : 69,
-        "stars"         : 19,
+        "stars"         : 20,
         "forks"         : 13,
         "openIssues"    : 23,
         "languages"     : {
@@ -1509,7 +1509,7 @@
           "collaborators" : 40,
           "stars"         : 9,
           "forks"         : 20,
-          "openIssues"    : 7,
+          "openIssues"    : 8,
           "languages"     : {
             "TypeScript" : 621429,
             "CSS" : 29619,
@@ -1541,7 +1541,7 @@
         "collaborators" : 155,
         "stars"         : 127,
         "forks"         : 119,
-        "openIssues"    : 36,
+        "openIssues"    : 37,
         "languages"     : {
           "TypeScript" : 1702051,
           "HTML" : 24519,
