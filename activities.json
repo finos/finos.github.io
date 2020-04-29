@@ -203,6 +203,37 @@
       "type"                 : "PROJECT",
       "state"                : "INCUBATING",
       "contributionDate"     : "2018-11-05",
+      "gitHubRepos"          : [
+        {
+          "name"          : "secref-data",
+          "description"   : "Security Reference Data project",
+          "gitHubURL"     : "https://github.com/finos/secref-data",
+          "heat"          : 284,
+          "watchers"      : 0,
+          "size"          : 0,
+          "collaborators" : 71,
+          "stars"         : 0,
+          "forks"         : 0,
+          "openIssues"    : 2,
+          "languages"     : {
+            "CSS" : 3644,
+            "JavaScript" : 15734
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 284,
+        "watchers"      : 0,
+        "size"          : 0,
+        "collaborators" : 71,
+        "stars"         : 0,
+        "forks"         : 0,
+        "openIssues"    : 2,
+        "languages"     : {
+          "CSS" : 3644,
+          "JavaScript" : 15734
+        }
+      },
       "mailingLists"       : [
         {
           "emailAddress"  : "data-tech-sec-ref@finos.org",
@@ -728,7 +759,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 321,
           "watchers"      : 6,
-          "size"          : 2902,
+          "size"          : 2927,
           "collaborators" : 71,
           "stars"         : 6,
           "forks"         : 5,
@@ -833,7 +864,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 3629,
         "watchers"      : 23,
-        "size"          : 53935,
+        "size"          : 53960,
         "collaborators" : 852,
         "stars"         : 23,
         "forks"         : 35,
@@ -1018,7 +1049,7 @@
           "collaborators" : 71,
           "stars"         : 0,
           "forks"         : 3,
-          "openIssues"    : 13,
+          "openIssues"    : 14,
           "languages"     : {
             "CSS" : 414,
             "JavaScript" : 10636
@@ -1032,7 +1063,7 @@
         "collaborators" : 142,
         "stars"         : 18,
         "forks"         : 12,
-        "openIssues"    : 45,
+        "openIssues"    : 46,
         "languages"     : {
           "Shell" : 6940,
           "CSS" : 5386,
@@ -1133,36 +1164,36 @@
           "name"          : "waltz",
           "description"   : "Enterprise Information Service",
           "gitHubURL"     : "https://github.com/finos/waltz",
-          "heat"          : 673,
-          "watchers"      : 67,
-          "size"          : 29927,
+          "heat"          : 675,
+          "watchers"      : 68,
+          "size"          : 29882,
           "collaborators" : 71,
-          "stars"         : 67,
+          "stars"         : 68,
           "forks"         : 51,
-          "openIssues"    : 265,
+          "openIssues"    : 251,
           "languages"     : {
-            "Java" : 3481674,
-            "HTML" : 1387512,
+            "Java" : 3482653,
+            "HTML" : 1388429,
             "CSS" : 152443,
             "Shell" : 305,
-            "JavaScript" : 2236020
+            "JavaScript" : 2236421
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 673,
-        "watchers"      : 67,
-        "size"          : 29927,
+        "heat"          : 675,
+        "watchers"      : 68,
+        "size"          : 29882,
         "collaborators" : 71,
-        "stars"         : 67,
+        "stars"         : 68,
         "forks"         : 51,
-        "openIssues"    : 265,
+        "openIssues"    : 251,
         "languages"     : {
-          "Java" : 3481674,
-          "HTML" : 1387512,
+          "Java" : 3482653,
+          "HTML" : 1388429,
           "CSS" : 152443,
           "Shell" : 305,
-          "JavaScript" : 2236020
+          "JavaScript" : 2236421
         }
       }
     },
@@ -1181,7 +1212,7 @@
           "gitHubURL"     : "https://github.com/finos/alloy",
           "heat"          : 402,
           "watchers"      : 24,
-          "size"          : 10681,
+          "size"          : 10688,
           "collaborators" : 71,
           "stars"         : 24,
           "forks"         : 14,
@@ -1197,7 +1228,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 402,
         "watchers"      : 24,
-        "size"          : 10681,
+        "size"          : 10688,
         "collaborators" : 71,
         "stars"         : 24,
         "forks"         : 14,
@@ -3063,7 +3094,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/canon-example",
           "heat"          : 63,
           "watchers"      : 0,
-          "size"          : 298,
+          "size"          : 301,
           "collaborators" : 12,
           "stars"         : 0,
           "forks"         : 3,
@@ -3076,7 +3107,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 131,
         "watchers"      : 0,
-        "size"          : 1392,
+        "size"          : 1395,
         "collaborators" : 24,
         "stars"         : 0,
         "forks"         : 7,
@@ -3768,7 +3799,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/fugue-example",
           "heat"          : 67,
           "watchers"      : 0,
-          "size"          : 57,
+          "size"          : 59,
           "collaborators" : 13,
           "stars"         : 0,
           "forks"         : 3,
@@ -3796,7 +3827,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 211,
         "watchers"      : 2,
-        "size"          : 2737,
+        "size"          : 2739,
         "collaborators" : 38,
         "stars"         : 2,
         "forks"         : 11,
@@ -4828,7 +4859,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/ScreenSnippet2",
           "heat"          : 49,
           "watchers"      : 0,
-          "size"          : 198,
+          "size"          : 203,
           "collaborators" : 11,
           "stars"         : 0,
           "forks"         : 1,
@@ -4875,7 +4906,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 834,
         "watchers"      : 56,
-        "size"          : 38438,
+        "size"          : 38443,
         "collaborators" : 68,
         "stars"         : 56,
         "forks"         : 90,
@@ -5175,13 +5206,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 6094,
-          "watchers"      : 2356,
-          "size"          : 50580,
+          "heat"          : 6098,
+          "watchers"      : 2358,
+          "size"          : 50574,
           "collaborators" : 78,
-          "stars"         : 2356,
+          "stars"         : 2358,
           "forks"         : 214,
-          "openIssues"    : 37,
+          "openIssues"    : 39,
           "languages"     : {
             "TypeScript" : 36202,
             "Dockerfile" : 34007,
@@ -5197,13 +5228,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 6094,
-        "watchers"      : 2356,
-        "size"          : 50580,
+        "heat"          : 6098,
+        "watchers"      : 2358,
+        "size"          : 50574,
         "collaborators" : 78,
-        "stars"         : 2356,
+        "stars"         : 2358,
         "forks"         : 214,
-        "openIssues"    : 37,
+        "openIssues"    : 39,
         "languages"     : {
           "TypeScript" : 36202,
           "Dockerfile" : 34007,
