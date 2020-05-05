@@ -1028,7 +1028,7 @@
           "gitHubURL"     : "https://github.com/finos/open-developer-platform",
           "heat"          : 374,
           "watchers"      : 18,
-          "size"          : 9753,
+          "size"          : 9811,
           "collaborators" : 72,
           "stars"         : 18,
           "forks"         : 10,
@@ -1059,7 +1059,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 677,
         "watchers"      : 18,
-        "size"          : 20268,
+        "size"          : 20326,
         "collaborators" : 144,
         "stars"         : 18,
         "forks"         : 13,
