@@ -759,7 +759,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 329,
           "watchers"      : 6,
-          "size"          : 3009,
+          "size"          : 3014,
           "collaborators" : 73,
           "stars"         : 6,
           "forks"         : 5,
@@ -776,14 +776,14 @@
           "gitHubURL"     : "https://github.com/finos/metadata-tool",
           "heat"          : 340,
           "watchers"      : 4,
-          "size"          : 346,
+          "size"          : 359,
           "collaborators" : 73,
           "stars"         : 4,
           "forks"         : 8,
           "openIssues"    : 4,
           "languages"     : {
             "FreeMarker" : 22172,
-            "Clojure" : 120064
+            "Clojure" : 120975
           }
         },
         {
@@ -864,7 +864,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 3730,
         "watchers"      : 23,
-        "size"          : 54076,
+        "size"          : 54094,
         "collaborators" : 876,
         "stars"         : 23,
         "forks"         : 36,
@@ -877,7 +877,7 @@
           "HTML" : 6901,
           "FreeMarker" : 22172,
           "Python" : 7381,
-          "Clojure" : 121262
+          "Clojure" : 122173
         }
       }
     },
@@ -972,23 +972,23 @@
           "name"          : "cloud-service-certification",
           "description"   : "Cloud Service Certification Project",
           "gitHubURL"     : "https://github.com/finos/cloud-service-certification",
-          "heat"          : 374,
-          "watchers"      : 12,
-          "size"          : 1326,
+          "heat"          : 376,
+          "watchers"      : 13,
+          "size"          : 1327,
           "collaborators" : 75,
-          "stars"         : 12,
+          "stars"         : 13,
           "forks"         : 10,
-          "openIssues"    : 13
+          "openIssues"    : 11
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 374,
-        "watchers"      : 12,
-        "size"          : 1326,
+        "heat"          : 376,
+        "watchers"      : 13,
+        "size"          : 1327,
         "collaborators" : 75,
-        "stars"         : 12,
+        "stars"         : 13,
         "forks"         : 10,
-        "openIssues"    : 13
+        "openIssues"    : 11
       },
       "mailingLists"       : [
         {
@@ -1028,13 +1028,13 @@
           "gitHubURL"     : "https://github.com/finos/open-developer-platform",
           "heat"          : 378,
           "watchers"      : 18,
-          "size"          : 9903,
+          "size"          : 9910,
           "collaborators" : 73,
           "stars"         : 18,
           "forks"         : 10,
-          "openIssues"    : 33,
+          "openIssues"    : 34,
           "languages"     : {
-            "Shell" : 7081,
+            "Shell" : 7149,
             "CSS" : 4972,
             "JavaScript" : 14215
           }
@@ -1059,13 +1059,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 685,
         "watchers"      : 18,
-        "size"          : 20418,
+        "size"          : 20425,
         "collaborators" : 146,
         "stars"         : 18,
         "forks"         : 13,
-        "openIssues"    : 47,
+        "openIssues"    : 48,
         "languages"     : {
-          "Shell" : 7081,
+          "Shell" : 7149,
           "CSS" : 5386,
           "JavaScript" : 24851
         }
@@ -1170,7 +1170,7 @@
           "collaborators" : 74,
           "stars"         : 68,
           "forks"         : 51,
-          "openIssues"    : 261,
+          "openIssues"    : 264,
           "languages"     : {
             "Java" : 3482653,
             "HTML" : 1388429,
@@ -1187,7 +1187,7 @@
         "collaborators" : 74,
         "stars"         : 68,
         "forks"         : 51,
-        "openIssues"    : 261,
+        "openIssues"    : 264,
         "languages"     : {
           "Java" : 3482653,
           "HTML" : 1388429,
@@ -1212,7 +1212,7 @@
           "gitHubURL"     : "https://github.com/finos/alloy",
           "heat"          : 410,
           "watchers"      : 24,
-          "size"          : 10726,
+          "size"          : 10728,
           "collaborators" : 73,
           "stars"         : 24,
           "forks"         : 14,
@@ -1228,7 +1228,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 410,
         "watchers"      : 24,
-        "size"          : 10726,
+        "size"          : 10728,
         "collaborators" : 73,
         "stars"         : 24,
         "forks"         : 14,
@@ -5071,7 +5071,7 @@
           "gitHubURL"     : "https://github.com/finos/greenkey-asrtoolkit",
           "heat"          : 355,
           "watchers"      : 12,
-          "size"          : 523,
+          "size"          : 528,
           "collaborators" : 74,
           "stars"         : 12,
           "forks"         : 7,
@@ -5086,7 +5086,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 355,
         "watchers"      : 12,
-        "size"          : 523,
+        "size"          : 528,
         "collaborators" : 74,
         "stars"         : 12,
         "forks"         : 7,
@@ -5254,46 +5254,46 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 6183,
-          "watchers"      : 2379,
-          "size"          : 50655,
+          "heat"          : 6186,
+          "watchers"      : 2378,
+          "size"          : 50597,
           "collaborators" : 80,
-          "stars"         : 2379,
-          "forks"         : 221,
-          "openIssues"    : 43,
+          "stars"         : 2378,
+          "forks"         : 222,
+          "openIssues"    : 41,
           "languages"     : {
             "TypeScript" : 36202,
             "Dockerfile" : 34007,
-            "C++" : 1266800,
+            "C++" : 1267594,
             "CSS" : 99272,
             "C" : 4588,
             "CMake" : 62437,
             "Makefile" : 1602,
             "JavaScript" : 1665482,
             "HTML" : 45943,
-            "Python" : 594406
+            "Python" : 594430
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 6183,
-        "watchers"      : 2379,
-        "size"          : 50655,
+        "heat"          : 6186,
+        "watchers"      : 2378,
+        "size"          : 50597,
         "collaborators" : 80,
-        "stars"         : 2379,
-        "forks"         : 221,
-        "openIssues"    : 43,
+        "stars"         : 2378,
+        "forks"         : 222,
+        "openIssues"    : 41,
         "languages"     : {
           "TypeScript" : 36202,
           "Dockerfile" : 34007,
-          "C++" : 1266800,
+          "C++" : 1267594,
           "CSS" : 99272,
           "C" : 4588,
           "CMake" : 62437,
           "Makefile" : 1602,
           "JavaScript" : 1665482,
           "HTML" : 45943,
-          "Python" : 594406
+          "Python" : 594430
         }
       }
     },
