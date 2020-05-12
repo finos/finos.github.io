@@ -327,10 +327,6 @@
           "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdc3-pmc"
         },
         {
-          "emailAddress"  : "fdc3-pmc-private@finos.org",
-          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdc3-pmc-private"
-        },
-        {
           "emailAddress"  : "fdc3@finos.org",
           "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdc3"
         }
