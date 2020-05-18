@@ -61,11 +61,11 @@
           "name"          : "exodus",
           "description"   : "Migration tools for Tabular Data to Oracle JSON/Tabular Data",
           "gitHubURL"     : "https://github.com/finos/exodus",
-          "heat"          : 326,
-          "watchers"      : 5,
+          "heat"          : 328,
+          "watchers"      : 6,
           "size"          : 9894,
           "collaborators" : 74,
-          "stars"         : 5,
+          "stars"         : 6,
           "forks"         : 4,
           "openIssues"    : 2,
           "languages"     : {
@@ -80,11 +80,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 326,
-        "watchers"      : 5,
+        "heat"          : 328,
+        "watchers"      : 6,
         "size"          : 9894,
         "collaborators" : 74,
-        "stars"         : 5,
+        "stars"         : 6,
         "forks"         : 4,
         "openIssues"    : 2,
         "languages"     : {
@@ -115,22 +115,22 @@
           "name"          : "digital-rights-management",
           "description"   : "digital-rights-management",
           "gitHubURL"     : "https://github.com/finos/digital-rights-management",
-          "heat"          : 318,
+          "heat"          : 323,
           "watchers"      : 1,
           "size"          : 10,
           "collaborators" : 74,
           "stars"         : 1,
-          "forks"         : 4,
+          "forks"         : 5,
           "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 318,
+        "heat"          : 323,
         "watchers"      : 1,
         "size"          : 10,
         "collaborators" : 74,
         "stars"         : 1,
-        "forks"         : 4,
+        "forks"         : 5,
         "openIssues"    : 2
       },
       "mailingLists"       : [
@@ -293,11 +293,11 @@
           "gitHubURL"     : "https://github.com/finos/fdc3",
           "heat"          : 536,
           "watchers"      : 42,
-          "size"          : 4222,
+          "size"          : 4237,
           "collaborators" : 73,
           "stars"         : 42,
           "forks"         : 32,
-          "openIssues"    : 19,
+          "openIssues"    : 21,
           "languages"     : {
             "TypeScript" : 12257,
             "HTML" : 893681,
@@ -309,11 +309,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 536,
         "watchers"      : 42,
-        "size"          : 4222,
+        "size"          : 4237,
         "collaborators" : 73,
         "stars"         : 42,
         "forks"         : 32,
-        "openIssues"    : 19,
+        "openIssues"    : 21,
         "languages"     : {
           "TypeScript" : 12257,
           "HTML" : 893681,
@@ -769,7 +769,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 329,
           "watchers"      : 6,
-          "size"          : 3066,
+          "size"          : 3087,
           "collaborators" : 73,
           "stars"         : 6,
           "forks"         : 5,
@@ -874,7 +874,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 3730,
         "watchers"      : 23,
-        "size"          : 54154,
+        "size"          : 54175,
         "collaborators" : 876,
         "stars"         : 23,
         "forks"         : 36,
@@ -1042,7 +1042,7 @@
           "collaborators" : 73,
           "stars"         : 18,
           "forks"         : 11,
-          "openIssues"    : 34,
+          "openIssues"    : 37,
           "languages"     : {
             "Shell" : 7179,
             "CSS" : 4972,
@@ -1059,7 +1059,7 @@
           "collaborators" : 73,
           "stars"         : 0,
           "forks"         : 3,
-          "openIssues"    : 18,
+          "openIssues"    : 15,
           "languages"     : {
             "CSS" : 414,
             "JavaScript" : 10636
@@ -1174,36 +1174,36 @@
           "name"          : "waltz",
           "description"   : "Enterprise Information Service",
           "gitHubURL"     : "https://github.com/finos/waltz",
-          "heat"          : 692,
-          "watchers"      : 68,
-          "size"          : 30015,
+          "heat"          : 690,
+          "watchers"      : 67,
+          "size"          : 30017,
           "collaborators" : 74,
-          "stars"         : 68,
+          "stars"         : 67,
           "forks"         : 52,
-          "openIssues"    : 271,
+          "openIssues"    : 275,
           "languages"     : {
             "Java" : 3493648,
             "HTML" : 1401231,
             "CSS" : 153019,
             "Shell" : 305,
-            "JavaScript" : 2255492
+            "JavaScript" : 2255263
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 692,
-        "watchers"      : 68,
-        "size"          : 30015,
+        "heat"          : 690,
+        "watchers"      : 67,
+        "size"          : 30017,
         "collaborators" : 74,
-        "stars"         : 68,
+        "stars"         : 67,
         "forks"         : 52,
-        "openIssues"    : 271,
+        "openIssues"    : 275,
         "languages"     : {
           "Java" : 3493648,
           "HTML" : 1401231,
           "CSS" : 153019,
           "Shell" : 305,
-          "JavaScript" : 2255492
+          "JavaScript" : 2255263
         }
       }
     },
@@ -1222,11 +1222,11 @@
           "gitHubURL"     : "https://github.com/finos/alloy",
           "heat"          : 419,
           "watchers"      : 26,
-          "size"          : 10743,
+          "size"          : 10744,
           "collaborators" : 73,
           "stars"         : 26,
           "forks"         : 15,
-          "openIssues"    : 19,
+          "openIssues"    : 16,
           "languages"     : {
             "CSS" : 27563,
             "HTML" : 19845,
@@ -1238,11 +1238,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 419,
         "watchers"      : 26,
-        "size"          : 10743,
+        "size"          : 10744,
         "collaborators" : 73,
         "stars"         : 26,
         "forks"         : 15,
-        "openIssues"    : 19,
+        "openIssues"    : 16,
         "languages"     : {
           "CSS" : 27563,
           "HTML" : 19845,
@@ -1445,11 +1445,11 @@
           "name"          : "core",
           "description"   : "Hadouken is an open-source platform for creating web applications with native desktop experience.  Hadouken is the base project used to build OpenFin OS, a desktop operating layer used by 45+ major banks, buy-side and vendors to deploy hundreds of apps to over 400 financial firms.",
           "gitHubURL"     : "https://github.com/HadoukenIO/core",
-          "heat"          : 649,
-          "watchers"      : 101,
+          "heat"          : 651,
+          "watchers"      : 102,
           "size"          : 4615,
           "collaborators" : 38,
-          "stars"         : 101,
+          "stars"         : 102,
           "forks"         : 59,
           "openIssues"    : 22,
           "languages"     : {
@@ -1512,11 +1512,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 1475,
-        "watchers"      : 130,
+        "heat"          : 1477,
+        "watchers"      : 131,
         "size"          : 11303,
         "collaborators" : 155,
-        "stars"         : 130,
+        "stars"         : 131,
         "forks"         : 119,
         "openIssues"    : 34,
         "languages"     : {
@@ -1846,7 +1846,7 @@
           "collaborators" : 13,
           "stars"         : 243,
           "forks"         : 49,
-          "openIssues"    : 17,
+          "openIssues"    : 18,
           "languages"     : {
             "TypeScript" : 1182565,
             "C#" : 2211629,
@@ -1867,7 +1867,7 @@
         "collaborators" : 13,
         "stars"         : 243,
         "forks"         : 49,
-        "openIssues"    : 17,
+        "openIssues"    : 18,
         "languages"     : {
           "TypeScript" : 1182565,
           "C#" : 2211629,
@@ -3234,22 +3234,22 @@
           "name"          : "symphony-api-spec",
           "description"   : "Swagger definitions for Symphony LLC public REST API ",
           "gitHubURL"     : "https://github.com/symphonyoss/symphony-api-spec",
-          "heat"          : 217,
+          "heat"          : 212,
           "watchers"      : 8,
           "size"          : 455,
           "collaborators" : 19,
           "stars"         : 8,
-          "forks"         : 25,
+          "forks"         : 24,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 217,
+        "heat"          : 212,
         "watchers"      : 8,
         "size"          : 455,
         "collaborators" : 19,
         "stars"         : 8,
-        "forks"         : 25,
+        "forks"         : 24,
         "openIssues"    : 0
       }
     },
@@ -3359,11 +3359,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 121,
           "watchers"      : 9,
-          "size"          : 9747,
+          "size"          : 1937,
           "collaborators" : 12,
           "stars"         : 9,
           "forks"         : 11,
-          "openIssues"    : 30,
+          "openIssues"    : 19,
           "languages"     : {
             "JavaScript" : 82020
           }
@@ -3372,11 +3372,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 121,
         "watchers"      : 9,
-        "size"          : 9747,
+        "size"          : 1937,
         "collaborators" : 12,
         "stars"         : 9,
         "forks"         : 11,
-        "openIssues"    : 30,
+        "openIssues"    : 19,
         "languages"     : {
           "JavaScript" : 82020
         }
@@ -4501,7 +4501,7 @@
           "gitHubURL"     : "https://github.com/symphonyoss/messageml-utils",
           "heat"          : 187,
           "watchers"      : 5,
-          "size"          : 625,
+          "size"          : 629,
           "collaborators" : 18,
           "stars"         : 5,
           "forks"         : 21,
@@ -4514,7 +4514,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 187,
         "watchers"      : 5,
-        "size"          : 625,
+        "size"          : 629,
         "collaborators" : 18,
         "stars"         : 5,
         "forks"         : 21,
@@ -4818,19 +4818,19 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 504,
           "watchers"      : 50,
-          "size"          : 38512,
+          "size"          : 38241,
           "collaborators" : 11,
           "stars"         : 50,
           "forks"         : 72,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 549796,
+            "TypeScript" : 557083,
             "Dockerfile" : 745,
-            "CSS" : 30777,
+            "CSS" : 31411,
             "Shell" : 13146,
             "Batchfile" : 4214,
             "JavaScript" : 2758,
-            "HTML" : 39553
+            "HTML" : 40141
           }
         },
         {
@@ -4916,23 +4916,23 @@
       "cumulativeGitHubStats" : {
         "heat"          : 851,
         "watchers"      : 57,
-        "size"          : 39204,
+        "size"          : 38933,
         "collaborators" : 68,
         "stars"         : 57,
         "forks"         : 93,
-        "openIssues"    : 7,
+        "openIssues"    : 8,
         "languages"     : {
-          "TypeScript" : 681386,
+          "TypeScript" : 688673,
           "C#" : 25902,
           "Dockerfile" : 745,
           "Shell" : 13146,
           "C++" : 8109,
-          "CSS" : 30777,
+          "CSS" : 31411,
           "C" : 58511,
           "Batchfile" : 4214,
           "JavaScript" : 3143,
           "Objective_C" : 6496,
-          "HTML" : 39553
+          "HTML" : 40141
         }
       }
     },
@@ -5027,31 +5027,31 @@
           "name"          : "datahub",
           "description"   : "DataHub - Synthetic data library",
           "gitHubURL"     : "https://github.com/finos/datahub",
-          "heat"          : 294,
-          "watchers"      : 1,
-          "size"          : 1562,
+          "heat"          : 309,
+          "watchers"      : 6,
+          "size"          : 1564,
           "collaborators" : 73,
-          "stars"         : 1,
-          "forks"         : 0,
+          "stars"         : 6,
+          "forks"         : 1,
           "openIssues"    : 10,
           "languages"     : {
             "CSS" : 2867,
-            "Python" : 259797,
+            "Python" : 261453,
             "JavaScript" : 10538
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 294,
-        "watchers"      : 1,
-        "size"          : 1562,
+        "heat"          : 309,
+        "watchers"      : 6,
+        "size"          : 1564,
         "collaborators" : 73,
-        "stars"         : 1,
-        "forks"         : 0,
+        "stars"         : 6,
+        "forks"         : 1,
         "openIssues"    : 10,
         "languages"     : {
           "CSS" : 2867,
-          "Python" : 259797,
+          "Python" : 261453,
           "JavaScript" : 10538
         }
       }
@@ -5121,11 +5121,11 @@
           "name"          : "greenkey-asrtoolkit",
           "description"   : "A collection of useful tools for handling speech recognition data",
           "gitHubURL"     : "https://github.com/finos/greenkey-asrtoolkit",
-          "heat"          : 355,
-          "watchers"      : 12,
+          "heat"          : 359,
+          "watchers"      : 14,
           "size"          : 529,
           "collaborators" : 74,
-          "stars"         : 12,
+          "stars"         : 14,
           "forks"         : 7,
           "openIssues"    : 4,
           "languages"     : {
@@ -5136,11 +5136,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 355,
-        "watchers"      : 12,
+        "heat"          : 359,
+        "watchers"      : 14,
         "size"          : 529,
         "collaborators" : 74,
-        "stars"         : 12,
+        "stars"         : 14,
         "forks"         : 7,
         "openIssues"    : 4,
         "languages"     : {
@@ -5306,13 +5306,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 6283,
-          "watchers"      : 2404,
-          "size"          : 50971,
+          "heat"          : 6302,
+          "watchers"      : 2406,
+          "size"          : 50988,
           "collaborators" : 80,
-          "stars"         : 2404,
-          "forks"         : 231,
-          "openIssues"    : 42,
+          "stars"         : 2406,
+          "forks"         : 234,
+          "openIssues"    : 44,
           "languages"     : {
             "TypeScript" : 36202,
             "Dockerfile" : 34007,
@@ -5328,13 +5328,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 6283,
-        "watchers"      : 2404,
-        "size"          : 50971,
+        "heat"          : 6302,
+        "watchers"      : 2406,
+        "size"          : 50988,
         "collaborators" : 80,
-        "stars"         : 2404,
-        "forks"         : 231,
-        "openIssues"    : 42,
+        "stars"         : 2406,
+        "forks"         : 234,
+        "openIssues"    : 44,
         "languages"     : {
           "TypeScript" : 36202,
           "Dockerfile" : 34007,
