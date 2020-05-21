@@ -769,7 +769,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 329,
           "watchers"      : 6,
-          "size"          : 3144,
+          "size"          : 3164,
           "collaborators" : 73,
           "stars"         : 6,
           "forks"         : 5,
@@ -786,14 +786,14 @@
           "gitHubURL"     : "https://github.com/finos/metadata-tool",
           "heat"          : 340,
           "watchers"      : 4,
-          "size"          : 377,
+          "size"          : 385,
           "collaborators" : 73,
           "stars"         : 4,
           "forks"         : 8,
           "openIssues"    : 3,
           "languages"     : {
             "FreeMarker" : 22172,
-            "Clojure" : 122693
+            "Clojure" : 122714
           }
         },
         {
@@ -874,7 +874,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 3730,
         "watchers"      : 23,
-        "size"          : 54242,
+        "size"          : 54270,
         "collaborators" : 876,
         "stars"         : 23,
         "forks"         : 36,
@@ -887,7 +887,7 @@
           "HTML" : 6901,
           "FreeMarker" : 22172,
           "Python" : 7381,
-          "Clojure" : 123891
+          "Clojure" : 123912
         }
       }
     },
@@ -1042,7 +1042,7 @@
           "collaborators" : 73,
           "stars"         : 19,
           "forks"         : 11,
-          "openIssues"    : 35,
+          "openIssues"    : 36,
           "languages"     : {
             "Shell" : 7145,
             "CSS" : 6533,
@@ -1073,7 +1073,7 @@
         "collaborators" : 146,
         "stars"         : 19,
         "forks"         : 14,
-        "openIssues"    : 50,
+        "openIssues"    : 51,
         "languages"     : {
           "Shell" : 7145,
           "CSS" : 6947,
@@ -5295,7 +5295,7 @@
           "gitHubURL"     : "https://github.com/finos/perspective",
           "heat"          : 6325,
           "watchers"      : 2410,
-          "size"          : 50913,
+          "size"          : 50903,
           "collaborators" : 80,
           "stars"         : 2410,
           "forks"         : 237,
@@ -5317,7 +5317,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 6325,
         "watchers"      : 2410,
-        "size"          : 50913,
+        "size"          : 50903,
         "collaborators" : 80,
         "stars"         : 2410,
         "forks"         : 237,
