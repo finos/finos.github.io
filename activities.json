@@ -769,7 +769,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 329,
           "watchers"      : 6,
-          "size"          : 3138,
+          "size"          : 3144,
           "collaborators" : 73,
           "stars"         : 6,
           "forks"         : 5,
@@ -786,14 +786,14 @@
           "gitHubURL"     : "https://github.com/finos/metadata-tool",
           "heat"          : 340,
           "watchers"      : 4,
-          "size"          : 369,
+          "size"          : 377,
           "collaborators" : 73,
           "stars"         : 4,
           "forks"         : 8,
           "openIssues"    : 3,
           "languages"     : {
             "FreeMarker" : 22172,
-            "Clojure" : 122489
+            "Clojure" : 122693
           }
         },
         {
@@ -874,7 +874,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 3730,
         "watchers"      : 23,
-        "size"          : 54228,
+        "size"          : 54242,
         "collaborators" : 876,
         "stars"         : 23,
         "forks"         : 36,
@@ -887,7 +887,7 @@
           "HTML" : 6901,
           "FreeMarker" : 22172,
           "Python" : 7381,
-          "Clojure" : 123687
+          "Clojure" : 123891
         }
       }
     },
@@ -5293,13 +5293,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 6323,
-          "watchers"      : 2409,
+          "heat"          : 6325,
+          "watchers"      : 2410,
           "size"          : 50913,
           "collaborators" : 80,
-          "stars"         : 2409,
+          "stars"         : 2410,
           "forks"         : 237,
-          "openIssues"    : 43,
+          "openIssues"    : 45,
           "languages"     : {
             "TypeScript" : 36202,
             "Dockerfile" : 34007,
@@ -5315,13 +5315,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 6323,
-        "watchers"      : 2409,
+        "heat"          : 6325,
+        "watchers"      : 2410,
         "size"          : 50913,
         "collaborators" : 80,
-        "stars"         : 2409,
+        "stars"         : 2410,
         "forks"         : 237,
-        "openIssues"    : 43,
+        "openIssues"    : 45,
         "languages"     : {
           "TypeScript" : 36202,
           "Dockerfile" : 34007,
