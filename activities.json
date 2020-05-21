@@ -769,7 +769,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 329,
           "watchers"      : 6,
-          "size"          : 3119,
+          "size"          : 3138,
           "collaborators" : 73,
           "stars"         : 6,
           "forks"         : 5,
@@ -793,7 +793,7 @@
           "openIssues"    : 3,
           "languages"     : {
             "FreeMarker" : 22172,
-            "Clojure" : 121050
+            "Clojure" : 122489
           }
         },
         {
@@ -874,7 +874,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 3730,
         "watchers"      : 23,
-        "size"          : 54209,
+        "size"          : 54228,
         "collaborators" : 876,
         "stars"         : 23,
         "forks"         : 36,
@@ -887,7 +887,7 @@
           "HTML" : 6901,
           "FreeMarker" : 22172,
           "Python" : 7381,
-          "Clojure" : 122248
+          "Clojure" : 123687
         }
       }
     },
@@ -1222,7 +1222,7 @@
           "gitHubURL"     : "https://github.com/finos/alloy",
           "heat"          : 419,
           "watchers"      : 26,
-          "size"          : 10772,
+          "size"          : 10774,
           "collaborators" : 73,
           "stars"         : 26,
           "forks"         : 15,
@@ -1238,7 +1238,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 419,
         "watchers"      : 26,
-        "size"          : 10772,
+        "size"          : 10774,
         "collaborators" : 73,
         "stars"         : 26,
         "forks"         : 15,
@@ -5293,12 +5293,12 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 6318,
+          "heat"          : 6323,
           "watchers"      : 2409,
-          "size"          : 50908,
+          "size"          : 50913,
           "collaborators" : 80,
           "stars"         : 2409,
-          "forks"         : 236,
+          "forks"         : 237,
           "openIssues"    : 43,
           "languages"     : {
             "TypeScript" : 36202,
@@ -5315,12 +5315,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 6318,
+        "heat"          : 6323,
         "watchers"      : 2409,
-        "size"          : 50908,
+        "size"          : 50913,
         "collaborators" : 80,
         "stars"         : 2409,
-        "forks"         : 236,
+        "forks"         : 237,
         "openIssues"    : 43,
         "languages"     : {
           "TypeScript" : 36202,
