@@ -769,7 +769,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 329,
           "watchers"      : 6,
-          "size"          : 3164,
+          "size"          : 3170,
           "collaborators" : 73,
           "stars"         : 6,
           "forks"         : 5,
@@ -874,7 +874,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 3730,
         "watchers"      : 23,
-        "size"          : 54270,
+        "size"          : 54276,
         "collaborators" : 876,
         "stars"         : 23,
         "forks"         : 36,
