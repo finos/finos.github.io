@@ -4,105 +4,7 @@
       "programName"          : "Top Level",
       "programShortName"     : "TopLevel",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
-      "activityName"         : "Data Helix",
-      "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
-      "contributionDate"     : "2019-07-03",
-      "gitHubRepos"          : [
-        {
-          "name"          : "datahelix",
-          "description"   : "The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for the purpose of testing and validation",
-          "gitHubURL"     : "https://github.com/finos/datahelix",
-          "heat"          : 529,
-          "watchers"      : 44,
-          "size"          : 14943,
-          "collaborators" : 74,
-          "stars"         : 44,
-          "forks"         : 29,
-          "openIssues"    : 40,
-          "languages"     : {
-            "PowerShell" : 2120,
-            "Java" : 1573455,
-            "Dockerfile" : 581,
-            "Shell" : 2844,
-            "Gherkin" : 385051,
-            "Roff" : 3713
-          }
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 529,
-        "watchers"      : 44,
-        "size"          : 14943,
-        "collaborators" : 74,
-        "stars"         : 44,
-        "forks"         : 29,
-        "openIssues"    : 40,
-        "languages"     : {
-          "PowerShell" : 2120,
-          "Java" : 1573455,
-          "Dockerfile" : 581,
-          "Shell" : 2844,
-          "Gherkin" : 385051,
-          "Roff" : 3713
-        }
-      }
-    },
-    {
-      "programName"          : "Top Level",
-      "programShortName"     : "TopLevel",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
-      "activityName"         : "Exodus",
-      "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
-      "contributionDate"     : "2019-07-03",
-      "gitHubRepos"          : [
-        {
-          "name"          : "exodus",
-          "description"   : "Migration tools for Tabular Data to Oracle JSON/Tabular Data",
-          "gitHubURL"     : "https://github.com/finos/exodus",
-          "heat"          : 328,
-          "watchers"      : 6,
-          "size"          : 9894,
-          "collaborators" : 74,
-          "stars"         : 6,
-          "forks"         : 4,
-          "openIssues"    : 2,
-          "languages"     : {
-            "Shell" : 16887,
-            "Scheme" : 109099,
-            "Batchfile" : 5166,
-            "PLpgSQL" : 544,
-            "PLSQL" : 93753,
-            "SQLPL" : 7755,
-            "TSQL" : 5040
-          }
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 328,
-        "watchers"      : 6,
-        "size"          : 9894,
-        "collaborators" : 74,
-        "stars"         : 6,
-        "forks"         : 4,
-        "openIssues"    : 2,
-        "languages"     : {
-          "Shell" : 16887,
-          "Scheme" : 109099,
-          "Batchfile" : 5166,
-          "PLpgSQL" : 544,
-          "PLSQL" : 93753,
-          "SQLPL" : 7755,
-          "TSQL" : 5040
-        }
-      }
-    },
-    {
-      "programName"          : "Top Level",
-      "programShortName"     : "TopLevel",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
-      "activityName"         : "Digital Rights Management Project",
+      "activityName"         : "Digital Rights Management",
       "type"                 : "PROJECT",
       "state"                : "ARCHIVED",
       "contributionDate"     : "2019-03-12",
@@ -115,20 +17,20 @@
           "name"          : "digital-rights-management",
           "description"   : "digital-rights-management",
           "gitHubURL"     : "https://github.com/finos/digital-rights-management",
-          "heat"          : 323,
+          "heat"          : 327,
           "watchers"      : 1,
           "size"          : 10,
-          "collaborators" : 74,
+          "collaborators" : 75,
           "stars"         : 1,
           "forks"         : 5,
           "openIssues"    : 2
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 323,
+        "heat"          : 327,
         "watchers"      : 1,
         "size"          : 10,
-        "collaborators" : 74,
+        "collaborators" : 75,
         "stars"         : 1,
         "forks"         : 5,
         "openIssues"    : 2
@@ -137,107 +39,6 @@
         {
           "emailAddress"  : "data-tech-digital-rights@finos.org",
           "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/data-tech-digital-rights"
-        }
-      ]
-    },
-    {
-      "programName"          : "Top Level",
-      "programShortName"     : "TopLevel",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
-      "activityName"         : "kdb+ Project",
-      "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
-      "contributionDate"     : "2018-07-11",
-      "tags"                 : [
-        "kdb+"
-      ],
-      "gitHubRepos"          : [
-        {
-          "name"          : "kdb",
-          "description"   : "kdb+ Working Group from FINOS Data Technologies program",
-          "gitHubURL"     : "https://github.com/finos/kdb",
-          "heat"          : 392,
-          "watchers"      : 14,
-          "size"          : 95,
-          "collaborators" : 76,
-          "stars"         : 14,
-          "forks"         : 12,
-          "openIssues"    : 0,
-          "languages"     : {
-            "HiveQL" : 104,
-            "q" : 67774,
-            "Perl" : 8418,
-            "Shell" : 1276,
-            "Lex" : 2192
-          }
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 392,
-        "watchers"      : 14,
-        "size"          : 95,
-        "collaborators" : 76,
-        "stars"         : 14,
-        "forks"         : 12,
-        "openIssues"    : 0,
-        "languages"     : {
-          "HiveQL" : 104,
-          "q" : 67774,
-          "Perl" : 8418,
-          "Shell" : 1276,
-          "Lex" : 2192
-        }
-      },
-      "mailingLists"       : [
-        {
-          "emailAddress"  : "data-tech-kdb@finos.org",
-          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/data-tech-kdb"
-        }
-      ]
-    },
-    {
-      "programName"          : "Top Level",
-      "programShortName"     : "TopLevel",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
-      "activityName"         : "Security Reference Data Project",
-      "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
-      "contributionDate"     : "2018-11-05",
-      "gitHubRepos"          : [
-        {
-          "name"          : "secref-data",
-          "description"   : "Security Reference Data project",
-          "gitHubURL"     : "https://github.com/finos/secref-data",
-          "heat"          : 297,
-          "watchers"      : 0,
-          "size"          : 604,
-          "collaborators" : 73,
-          "stars"         : 0,
-          "forks"         : 1,
-          "openIssues"    : 8,
-          "languages"     : {
-            "CSS" : 3644,
-            "JavaScript" : 15734
-          }
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 297,
-        "watchers"      : 0,
-        "size"          : 604,
-        "collaborators" : 73,
-        "stars"         : 0,
-        "forks"         : 1,
-        "openIssues"    : 8,
-        "languages"     : {
-          "CSS" : 3644,
-          "JavaScript" : 15734
-        }
-      },
-      "mailingLists"       : [
-        {
-          "emailAddress"  : "data-tech-sec-ref@finos.org",
-          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/data-tech-sec-ref"
         }
       ]
     },
@@ -276,61 +77,6 @@
         "forks"         : 4,
         "openIssues"    : 9
       }
-    },
-    {
-      "programName"          : "Top Level",
-      "programShortName"     : "TopLevel",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
-      "activityName"         : "FDC3",
-      "type"                 : "PROJECT",
-      "state"                : "ACTIVE",
-      "contributionDate"     : "2018-04-20",
-      "releaseDate"          : "2019-07-19",
-      "gitHubRepos"          : [
-        {
-          "name"          : "FDC3",
-          "description"   : "Open standards for the financial desktop.",
-          "gitHubURL"     : "https://github.com/finos/fdc3",
-          "heat"          : 536,
-          "watchers"      : 42,
-          "size"          : 4237,
-          "collaborators" : 73,
-          "stars"         : 42,
-          "forks"         : 32,
-          "openIssues"    : 20,
-          "languages"     : {
-            "TypeScript" : 12257,
-            "HTML" : 893681,
-            "CSS" : 3463,
-            "JavaScript" : 24130
-          }
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 536,
-        "watchers"      : 42,
-        "size"          : 4237,
-        "collaborators" : 73,
-        "stars"         : 42,
-        "forks"         : 32,
-        "openIssues"    : 20,
-        "languages"     : {
-          "TypeScript" : 12257,
-          "HTML" : 893681,
-          "CSS" : 3463,
-          "JavaScript" : 24130
-        }
-      },
-      "mailingLists"       : [
-        {
-          "emailAddress"  : "fdc3-pmc@finos.org",
-          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdc3-pmc"
-        },
-        {
-          "emailAddress"  : "fdc3@finos.org",
-          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdc3"
-        }
-      ]
     },
     {
       "programName"          : "Top Level",
@@ -377,22 +123,6 @@
           "JavaScript" : 3994
         }
       }
-    },
-    {
-      "programName"          : "Top Level",
-      "programShortName"     : "TopLevel",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
-      "activityName"         : "FDC3 API WG",
-      "type"                 : "WORKING_GROUP",
-      "state"                : "ACTIVE",
-      "contributionDate"     : "2018-04-20",
-      "releaseDate"          : "2019-07-19",
-      "mailingLists"       : [
-        {
-          "emailAddress"  : "fdc3-api@finos.org",
-          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdc3-api"
-        }
-      ]
     },
     {
       "programName"          : "Top Level",
@@ -516,16 +246,6 @@
       "programName"          : "Top Level",
       "programShortName"     : "TopLevel",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
-      "activityName"         : "Context Data and Intents",
-      "type"                 : "WORKING_GROUP",
-      "state"                : "ACTIVE",
-      "contributionDate"     : "2019-05-03",
-      "releaseDate"          : "2019-07-19"
-    },
-    {
-      "programName"          : "Top Level",
-      "programShortName"     : "TopLevel",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
       "activityName"         : "Intents",
       "type"                 : "WORKING_GROUP",
       "state"                : "ARCHIVED",
@@ -582,22 +302,6 @@
       "programName"          : "Top Level",
       "programShortName"     : "TopLevel",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
-      "activityName"         : "FDC3 Use Case WG",
-      "type"                 : "WORKING_GROUP",
-      "state"                : "ACTIVE",
-      "contributionDate"     : "2018-05-18",
-      "releaseDate"          : "2019-07-19",
-      "mailingLists"       : [
-        {
-          "emailAddress"  : "fdc3-use-case@finos.org",
-          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdc3-use-case"
-        }
-      ]
-    },
-    {
-      "programName"          : "Financial Delivery Accelerator",
-      "programShortName"     : "FDX",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
       "activityName"         : "GitHub Chatops Bot",
       "type"                 : "PROJECT",
       "state"                : "ARCHIVED",
@@ -615,10 +319,10 @@
           "name"          : "bot-github-chatops",
           "description"   : "A Symphony bot that uses ChatOps techniques to allow a firm employee to interact in a compliant manner with GitHub issues and PRs",
           "gitHubURL"     : "https://github.com/finos/bot-github-chatops",
-          "heat"          : 330,
+          "heat"          : 334,
           "watchers"      : 9,
           "size"          : 464,
-          "collaborators" : 73,
+          "collaborators" : 74,
           "stars"         : 9,
           "forks"         : 4,
           "openIssues"    : 10,
@@ -630,10 +334,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 330,
+        "heat"          : 334,
         "watchers"      : 9,
         "size"          : 464,
-        "collaborators" : 73,
+        "collaborators" : 74,
         "stars"         : 9,
         "forks"         : 4,
         "openIssues"    : 10,
@@ -645,50 +349,9 @@
       }
     },
     {
-      "programName"          : "Financial Delivery Accelerator",
-      "programShortName"     : "FDX",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
-      "activityName"         : "CLA Bot",
-      "type"                 : "PROJECT",
-      "state"                : "ACTIVE",
-      "contributionDate"     : "2019-02-22",
-      "releaseDate"          : "2020-01-15",
-      "gitHubRepos"          : [
-        {
-          "name"          : "cla-bot",
-          "description"   : "cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).",
-          "gitHubURL"     : "https://github.com/finos/cla-bot",
-          "heat"          : 425,
-          "watchers"      : 34,
-          "size"          : 1062,
-          "collaborators" : 73,
-          "stars"         : 34,
-          "forks"         : 13,
-          "openIssues"    : 24,
-          "languages"     : {
-            "Shell" : 155,
-            "JavaScript" : 49861
-          }
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 425,
-        "watchers"      : 34,
-        "size"          : 1062,
-        "collaborators" : 73,
-        "stars"         : 34,
-        "forks"         : 13,
-        "openIssues"    : 24,
-        "languages"     : {
-          "Shell" : 155,
-          "JavaScript" : 49861
-        }
-      }
-    },
-    {
-      "programName"          : "Financial Delivery Accelerator",
-      "programShortName"     : "FDX",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
       "activityName"         : "FINOS Dev Toolchain",
       "type"                 : "PROJECT",
       "state"                : "ARCHIVED",
@@ -699,10 +362,10 @@
           "name"          : "finos-parent-pom",
           "description"   : "A Maven Parent POM that provide common build and release features using the Symphony Software Foundation Infrastructure",
           "gitHubURL"     : "https://github.com/finos/finos-parent-pom",
-          "heat"          : 311,
+          "heat"          : 315,
           "watchers"      : 2,
           "size"          : 95,
-          "collaborators" : 73,
+          "collaborators" : 74,
           "stars"         : 2,
           "forks"         : 3,
           "openIssues"    : 0
@@ -711,10 +374,10 @@
           "name"          : "contrib-toolbox",
           "description"   : "A collection of utilities to support the FINOS contribution process",
           "gitHubURL"     : "https://github.com/finos/contrib-toolbox",
-          "heat"          : 307,
+          "heat"          : 311,
           "watchers"      : 0,
           "size"          : 203,
-          "collaborators" : 73,
+          "collaborators" : 74,
           "stars"         : 0,
           "forks"         : 3,
           "openIssues"    : 1,
@@ -728,10 +391,10 @@
           "name"          : "certificate-toolbox",
           "description"   : "A collection of command-line tools to generate PKI Signing Certificates and X.509 Identity Certificates",
           "gitHubURL"     : "https://github.com/finos/certificate-toolbox",
-          "heat"          : 303,
+          "heat"          : 307,
           "watchers"      : 3,
           "size"          : 17,
-          "collaborators" : 73,
+          "collaborators" : 74,
           "stars"         : 3,
           "forks"         : 1,
           "openIssues"    : 2,
@@ -743,10 +406,10 @@
           "name"          : "clabot-test",
           "description"   : "Testing https://github.com/apps/cla-bot",
           "gitHubURL"     : "https://github.com/finos/clabot-test",
-          "heat"          : 292,
+          "heat"          : 296,
           "watchers"      : 0,
           "size"          : 16,
-          "collaborators" : 73,
+          "collaborators" : 74,
           "stars"         : 0,
           "forks"         : 0,
           "openIssues"    : 5
@@ -755,10 +418,10 @@
           "name"          : "clabot-test-prod",
           "description"   : "Testing the instance in production of cla-bot",
           "gitHubURL"     : "https://github.com/finos/clabot-test-prod",
-          "heat"          : 292,
+          "heat"          : 296,
           "watchers"      : 0,
           "size"          : 9,
-          "collaborators" : 73,
+          "collaborators" : 74,
           "stars"         : 0,
           "forks"         : 0,
           "openIssues"    : 7
@@ -767,10 +430,10 @@
           "name"          : "finos.github.io",
           "description"   : "The source for the FINOS activity catalogue.",
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
-          "heat"          : 329,
+          "heat"          : 333,
           "watchers"      : 6,
-          "size"          : 3170,
-          "collaborators" : 73,
+          "size"          : 3189,
+          "collaborators" : 74,
           "stars"         : 6,
           "forks"         : 5,
           "openIssues"    : 6,
@@ -784,26 +447,26 @@
           "name"          : "metadata-tool",
           "description"   : "A command line tool for performing various tasks with Fintech Open Source Foundation (FINOS) metadata.",
           "gitHubURL"     : "https://github.com/finos/metadata-tool",
-          "heat"          : 340,
+          "heat"          : 344,
           "watchers"      : 4,
-          "size"          : 385,
-          "collaborators" : 73,
+          "size"          : 393,
+          "collaborators" : 74,
           "stars"         : 4,
           "forks"         : 8,
           "openIssues"    : 3,
           "languages"     : {
             "FreeMarker" : 22172,
-            "Clojure" : 122714
+            "Clojure" : 122882
           }
         },
         {
           "name"          : "project-blueprint",
           "description"   : "Project blueprint for new Fintech Open Source Foundation hosted projects.",
           "gitHubURL"     : "https://github.com/finos/project-blueprint",
-          "heat"          : 357,
+          "heat"          : 361,
           "watchers"      : 5,
           "size"          : 18539,
-          "collaborators" : 73,
+          "collaborators" : 74,
           "stars"         : 5,
           "forks"         : 11,
           "openIssues"    : 0,
@@ -816,10 +479,10 @@
           "name"          : "reports-job",
           "description"   : "Initiates the generation of the Foundation's periodic automated email reports.",
           "gitHubURL"     : "https://github.com/finos/reports-job",
-          "heat"          : 306,
+          "heat"          : 310,
           "watchers"      : 2,
           "size"          : 2205,
-          "collaborators" : 73,
+          "collaborators" : 74,
           "stars"         : 2,
           "forks"         : 2,
           "openIssues"    : 1,
@@ -832,10 +495,10 @@
           "name"          : "ssf-enforcer-rules",
           "description"   : "Symphony Software Foundation Enforcer Rules",
           "gitHubURL"     : "https://github.com/finos/ssf-enforcer-rules",
-          "heat"          : 297,
+          "heat"          : 301,
           "watchers"      : 0,
           "size"          : 24,
-          "collaborators" : 73,
+          "collaborators" : 74,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 3,
@@ -847,10 +510,10 @@
           "name"          : "wiki.finos.org",
           "description"   : "HTTP redirect to finosfoundation.atlassian.net/wiki",
           "gitHubURL"     : "https://github.com/finos/wiki.finos.org",
-          "heat"          : 297,
+          "heat"          : 301,
           "watchers"      : 0,
           "size"          : 2,
-          "collaborators" : 73,
+          "collaborators" : 74,
           "stars"         : 0,
           "forks"         : 1,
           "openIssues"    : 1,
@@ -862,20 +525,20 @@
           "name"          : "branding",
           "description"   : "FINOS (Fintech Open Source Foundation) official branding resources",
           "gitHubURL"     : "https://github.com/finos/branding",
-          "heat"          : 299,
+          "heat"          : 303,
           "watchers"      : 1,
           "size"          : 29611,
-          "collaborators" : 73,
+          "collaborators" : 74,
           "stars"         : 1,
           "forks"         : 1,
           "openIssues"    : 0
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 3730,
+        "heat"          : 3778,
         "watchers"      : 23,
-        "size"          : 54276,
-        "collaborators" : 876,
+        "size"          : 54303,
+        "collaborators" : 888,
         "stars"         : 23,
         "forks"         : 36,
         "openIssues"    : 29,
@@ -887,61 +550,15 @@
           "HTML" : 6901,
           "FreeMarker" : 22172,
           "Python" : 7381,
-          "Clojure" : 123912
+          "Clojure" : 124080
         }
       }
     },
     {
-      "programName"          : "Financial Delivery Accelerator",
-      "programShortName"     : "FDX",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
-      "activityName"         : "OSLC Handbook",
-      "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
-      "contributionDate"     : "2019-03-21",
-      "tags"                 : [
-        "handbook",
-        "oslc"
-      ],
-      "gitHubRepos"          : [
-        {
-          "name"          : "OSLC-handbook",
-          "description"   : "A data store and handbook of practical information about complying with the most common open source licenses.",
-          "gitHubURL"     : "https://github.com/finos/OSLC-handbook",
-          "heat"          : 531,
-          "watchers"      : 77,
-          "size"          : 509,
-          "collaborators" : 73,
-          "stars"         : 77,
-          "forks"         : 17,
-          "openIssues"    : 8,
-          "languages"     : {
-            "HTML" : 232059,
-            "CSS" : 80487,
-            "Python" : 7813
-          }
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 531,
-        "watchers"      : 77,
-        "size"          : 509,
-        "collaborators" : 73,
-        "stars"         : 77,
-        "forks"         : 17,
-        "openIssues"    : 8,
-        "languages"     : {
-          "HTML" : 232059,
-          "CSS" : 80487,
-          "Python" : 7813
-        }
-      }
-    },
-    {
-      "programName"          : "Financial Delivery Accelerator",
-      "programShortName"     : "FDX",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
-      "activityName"         : "Foundation Catalogue Project",
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "Foundation Catalogue",
       "type"                 : "PROJECT",
       "state"                : "ARCHIVED",
       "contributionDate"     : "2018-04-24",
@@ -954,9 +571,9 @@
       ]
     },
     {
-      "programName"          : "Financial Delivery Accelerator",
-      "programShortName"     : "FDX",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
       "activityName"         : "Cloud Native WG",
       "type"                 : "WORKING_GROUP",
       "state"                : "ARCHIVED",
@@ -970,48 +587,10 @@
       ]
     },
     {
-      "programName"          : "Financial Delivery Accelerator",
-      "programShortName"     : "FDX",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
-      "activityName"         : "Cloud Service Certification Project",
-      "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
-      "contributionDate"     : "2019-02-26",
-      "gitHubRepos"          : [
-        {
-          "name"          : "cloud-service-certification",
-          "description"   : "Cloud Service Certification Project",
-          "gitHubURL"     : "https://github.com/finos/cloud-service-certification",
-          "heat"          : 387,
-          "watchers"      : 16,
-          "size"          : 1330,
-          "collaborators" : 75,
-          "stars"         : 16,
-          "forks"         : 11,
-          "openIssues"    : 11
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 387,
-        "watchers"      : 16,
-        "size"          : 1330,
-        "collaborators" : 75,
-        "stars"         : 16,
-        "forks"         : 11,
-        "openIssues"    : 11
-      },
-      "mailingLists"       : [
-        {
-          "emailAddress"  : "fdx-cloud-service-certification@finos.org",
-          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdx-cloud-service-certification"
-        }
-      ]
-    },
-    {
-      "programName"          : "Financial Delivery Accelerator",
-      "programShortName"     : "FDX",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
-      "activityName"         : "Developer Experience Project",
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "Developer Experience",
       "type"                 : "PROJECT",
       "state"                : "ARCHIVED",
       "contributionDate"     : "2018-04-24",
@@ -1024,288 +603,10 @@
       ]
     },
     {
-      "programName"          : "Financial Delivery Accelerator",
-      "programShortName"     : "FDX",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
-      "activityName"         : "ODP Project",
-      "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
-      "contributionDate"     : "2018-04-24",
-      "gitHubRepos"          : [
-        {
-          "name"          : "open-developer-platform",
-          "description"   : "Delivering open source software development best practices while enforcing security and legal compliance for the financial services industry",
-          "gitHubURL"     : "https://github.com/finos/open-developer-platform",
-          "heat"          : 385,
-          "watchers"      : 19,
-          "size"          : 13006,
-          "collaborators" : 73,
-          "stars"         : 19,
-          "forks"         : 11,
-          "openIssues"    : 36,
-          "languages"     : {
-            "Shell" : 7145,
-            "CSS" : 6533,
-            "JavaScript" : 14068
-          }
-        },
-        {
-          "name"          : "finos-pmcs",
-          "description"   : "FINOS Pan Program Management Committee Information",
-          "gitHubURL"     : "https://github.com/finos/finos-pmcs",
-          "heat"          : 307,
-          "watchers"      : 0,
-          "size"          : 10515,
-          "collaborators" : 73,
-          "stars"         : 0,
-          "forks"         : 3,
-          "openIssues"    : 15,
-          "languages"     : {
-            "CSS" : 414,
-            "JavaScript" : 10636
-          }
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 692,
-        "watchers"      : 19,
-        "size"          : 23521,
-        "collaborators" : 146,
-        "stars"         : 19,
-        "forks"         : 14,
-        "openIssues"    : 51,
-        "languages"     : {
-          "Shell" : 7145,
-          "CSS" : 6947,
-          "JavaScript" : 24704
-        }
-      },
-      "mailingLists"       : [
-        {
-          "emailAddress"  : "fdx-odp@finos.org",
-          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdx-odp"
-        }
-      ]
-    },
-    {
-      "programName"          : "Financial Delivery Accelerator",
-      "programShortName"     : "FDX",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
-      "activityName"         : "Open source readiness Project",
-      "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
-      "contributionDate"     : "2018-04-24",
-      "gitHubRepos"          : [
-        {
-          "name"          : "osr-checklists",
-          "description"   : "Checklists for key components and processes of open source programs",
-          "gitHubURL"     : "https://github.com/finos/osr-checklists",
-          "heat"          : 294,
-          "watchers"      : 1,
-          "size"          : 26,
-          "collaborators" : 73,
-          "stars"         : 1,
-          "forks"         : 0,
-          "openIssues"    : 1
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 294,
-        "watchers"      : 1,
-        "size"          : 26,
-        "collaborators" : 73,
-        "stars"         : 1,
-        "forks"         : 0,
-        "openIssues"    : 1
-      },
-      "mailingLists"       : [
-        {
-          "emailAddress"  : "osr@finos.org",
-          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/osr"
-        }
-      ]
-    },
-    {
-      "programName"          : "Financial Delivery Accelerator",
-      "programShortName"     : "FDX",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
-      "activityName"         : "Reference FOSS Policy",
-      "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
-      "contributionDate"     : "2018-05-28",
-      "tags"                 : [
-        "policy",
-        "reference"
-      ],
-      "gitHubRepos"          : [
-        {
-          "name"          : "reference-foss-policy",
-          "description"   : "Reference FOSS Policy for Financial Services Institutions",
-          "gitHubURL"     : "https://github.com/finos/reference-foss-policy",
-          "heat"          : 315,
-          "watchers"      : 4,
-          "size"          : 88,
-          "collaborators" : 73,
-          "stars"         : 4,
-          "forks"         : 3,
-          "openIssues"    : 4
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 315,
-        "watchers"      : 4,
-        "size"          : 88,
-        "collaborators" : 73,
-        "stars"         : 4,
-        "forks"         : 3,
-        "openIssues"    : 4
-      }
-    },
-    {
-      "programName"          : "Financial Delivery Accelerator",
-      "programShortName"     : "FDX",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FDX/overview",
-      "activityName"         : "Waltz",
-      "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
-      "contributionDate"     : "2020-03-09",
-      "gitHubRepos"          : [
-        {
-          "name"          : "waltz",
-          "description"   : "Enterprise Information Service",
-          "gitHubURL"     : "https://github.com/finos/waltz",
-          "heat"          : 690,
-          "watchers"      : 67,
-          "size"          : 30892,
-          "collaborators" : 74,
-          "stars"         : 67,
-          "forks"         : 52,
-          "openIssues"    : 279,
-          "languages"     : {
-            "Java" : 3505284,
-            "HTML" : 1405864,
-            "CSS" : 153218,
-            "Shell" : 305,
-            "JavaScript" : 2261369
-          }
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 690,
-        "watchers"      : 67,
-        "size"          : 30892,
-        "collaborators" : 74,
-        "stars"         : 67,
-        "forks"         : 52,
-        "openIssues"    : 279,
-        "languages"     : {
-          "Java" : 3505284,
-          "HTML" : 1405864,
-          "CSS" : 153218,
-          "Shell" : 305,
-          "JavaScript" : 2261369
-        }
-      }
-    },
-    {
       "programName"          : "Top Level",
       "programShortName"     : "TopLevel",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
-      "activityName"         : "Alloy",
-      "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
-      "contributionDate"     : "2020-01-30",
-      "gitHubRepos"          : [
-        {
-          "name"          : "alloy",
-          "description"   : "The PURE/Alloy project",
-          "gitHubURL"     : "https://github.com/finos/alloy",
-          "heat"          : 419,
-          "watchers"      : 26,
-          "size"          : 10774,
-          "collaborators" : 73,
-          "stars"         : 26,
-          "forks"         : 15,
-          "openIssues"    : 17,
-          "languages"     : {
-            "CSS" : 27563,
-            "HTML" : 19845,
-            "Shell" : 2457,
-            "JavaScript" : 8442
-          }
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 419,
-        "watchers"      : 26,
-        "size"          : 10774,
-        "collaborators" : 73,
-        "stars"         : 26,
-        "forks"         : 15,
-        "openIssues"    : 17,
-        "languages"     : {
-          "CSS" : 27563,
-          "HTML" : 19845,
-          "Shell" : 2457,
-          "JavaScript" : 8442
-        }
-      }
-    },
-    {
-      "programName"          : "Top Level",
-      "programShortName"     : "TopLevel",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
-      "activityName"         : "Financial Objects Project",
-      "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
-      "contributionDate"     : "2018-04-24",
-      "gitHubRepos"          : [
-        {
-          "name"          : "finos-fo",
-          "description"   : "FINOS Financial Objects Program Documentation",
-          "gitHubURL"     : "https://github.com/finos/finos-fo",
-          "heat"          : 359,
-          "watchers"      : 9,
-          "size"          : 1656,
-          "collaborators" : 74,
-          "stars"         : 9,
-          "forks"         : 9,
-          "openIssues"    : 3,
-          "languages"     : {
-            "TypeScript" : 6803,
-            "CSS" : 3722,
-            "Shell" : 2410,
-            "JavaScript" : 22021
-          }
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 359,
-        "watchers"      : 9,
-        "size"          : 1656,
-        "collaborators" : 74,
-        "stars"         : 9,
-        "forks"         : 9,
-        "openIssues"    : 3,
-        "languages"     : {
-          "TypeScript" : 6803,
-          "CSS" : 3722,
-          "Shell" : 2410,
-          "JavaScript" : 22021
-        }
-      },
-      "mailingLists"       : [
-        {
-          "emailAddress"  : "fo-financial-objects@finos.org",
-          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fo-financial-objects"
-        }
-      ]
-    },
-    {
-      "programName"          : "Top Level",
-      "programShortName"     : "TopLevel",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
-      "activityName"         : "Financial Objects Standardization PROJECT",
+      "activityName"         : "Financial Objects Standardization",
       "type"                 : "PROJECT",
       "state"                : "ARCHIVED",
       "contributionDate"     : "2016-02-08",
@@ -1315,20 +616,20 @@
           "name"          : "symphony-object",
           "description"   : " Structured Object Schemas",
           "gitHubURL"     : "https://github.com/finos/symphony-object",
-          "heat"          : 313,
+          "heat"          : 317,
           "watchers"      : 1,
           "size"          : 21,
-          "collaborators" : 74,
+          "collaborators" : 75,
           "stars"         : 1,
           "forks"         : 3,
           "openIssues"    : 5
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 313,
+        "heat"          : 317,
         "watchers"      : 1,
         "size"          : 21,
-        "collaborators" : 74,
+        "collaborators" : 75,
         "stars"         : 1,
         "forks"         : 3,
         "openIssues"    : 5
@@ -1341,13 +642,14 @@
       ]
     },
     {
-      "programName"          : "Hadouken",
-      "programShortName"     : "Hadouken",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/HAD/overview",
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
       "activityName"         : "Hadouken Application Templates",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2018-02-28",
+      "archiveDate"          : "2020-05-22",
       "tags"                 : [
         "desktop technology",
         "example",
@@ -1388,13 +690,14 @@
       }
     },
     {
-      "programName"          : "Hadouken",
-      "programShortName"     : "Hadouken",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/HAD/overview",
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
       "activityName"         : "Desktop Services",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2018-06-05",
+      "archiveDate"          : "2020-05-22",
       "tags"                 : [
         "build",
         "deploy"
@@ -1430,13 +733,14 @@
       }
     },
     {
-      "programName"          : "Hadouken",
-      "programShortName"     : "Hadouken",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/HAD/overview",
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
       "activityName"         : "Hadouken",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2018-02-28",
+      "archiveDate"          : "2020-05-22",
       "tags"                 : [
         "desktop technology"
       ],
@@ -1529,9 +833,9 @@
       }
     },
     {
-      "programName"          : "Hadouken",
-      "programShortName"     : "Hadouken",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/HAD/overview",
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
       "activityName"         : "Symphony Integration",
       "type"                 : "PROJECT",
       "state"                : "ARCHIVED",
@@ -1576,9 +880,9 @@
       }
     },
     {
-      "programName"          : "Hadouken",
-      "programShortName"     : "Hadouken",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/HAD/overview",
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
       "activityName"         : "Layouts WG",
       "type"                 : "WORKING_GROUP",
       "state"                : "ARCHIVED",
@@ -1663,13 +967,14 @@
       ]
     },
     {
-      "programName"          : "Hadouken",
-      "programShortName"     : "Hadouken",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/HAD/overview",
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
       "activityName"         : "Hadouken Notifications Service",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2018-05-01",
+      "archiveDate"          : "2020-05-22",
       "gitHubRepos"          : [
         {
           "name"          : "notifications-service",
@@ -1707,51 +1012,14 @@
       }
     },
     {
-      "programName"          : "Hadouken",
-      "programShortName"     : "Hadouken",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/HAD/overview",
-      "activityName"         : "OpenFin React Hooks",
-      "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
-      "contributionDate"     : "2019-11-05",
-      "gitHubRepos"          : [
-        {
-          "name"          : "openfin-react-hooks",
-          "description"   : "A collection of React Hooks built on top of the Openfin API - from Scott Logic",
-          "gitHubURL"     : "https://github.com/finos/openfin-react-hooks",
-          "heat"          : 433,
-          "watchers"      : 23,
-          "size"          : 1154,
-          "collaborators" : 73,
-          "stars"         : 23,
-          "forks"         : 19,
-          "openIssues"    : 13,
-          "languages"     : {
-            "TypeScript" : 48332
-          }
-        }
-      ],
-      "cumulativeGitHubStats" : {
-        "heat"          : 433,
-        "watchers"      : 23,
-        "size"          : 1154,
-        "collaborators" : 73,
-        "stars"         : 23,
-        "forks"         : 19,
-        "openIssues"    : 13,
-        "languages"     : {
-          "TypeScript" : 48332
-        }
-      }
-    },
-    {
-      "programName"          : "Hadouken",
-      "programShortName"     : "Hadouken",
-      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/HAD/overview",
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
       "activityName"         : "Zero Downtime Trading Demo",
       "type"                 : "PROJECT",
-      "state"                : "INCUBATING",
+      "state"                : "ARCHIVED",
       "contributionDate"     : "2018-06-14",
+      "archiveDate"          : "2020-05-22",
       "tags"                 : [
         "demo"
       ],
@@ -1783,7 +1051,7 @@
       "programName"          : "Top Level",
       "programShortName"     : "TopLevel",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
-      "activityName"         : "Desktop Interoperability API Project",
+      "activityName"         : "Desktop Interoperability API",
       "type"                 : "PROJECT",
       "state"                : "ARCHIVED",
       "contributionDate"     : "2018-04-24",
@@ -1841,10 +1109,7 @@
           "collaborators" : 11,
           "stars"         : 1,
           "forks"         : 8,
-          "openIssues"    : 14,
-          "languages"     : {
-            "TypeScript" : 21599
-          }
+          "openIssues"    : 13
         }
       ],
       "cumulativeGitHubStats" : {
@@ -1854,9 +1119,9 @@
         "collaborators" : 24,
         "stars"         : 244,
         "forks"         : 57,
-        "openIssues"    : 34,
+        "openIssues"    : 33,
         "languages"     : {
-          "TypeScript" : 1204164,
+          "TypeScript" : 1182565,
           "C#" : 2211629,
           "Xtend" : 221711,
           "Java" : 78616,
@@ -1878,7 +1143,7 @@
       "programName"          : "Top Level",
       "programShortName"     : "TopLevel",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
-      "activityName"         : "Interoperability Use Case Validation Project",
+      "activityName"         : "Interoperability Use Case Validation",
       "type"                 : "PROJECT",
       "state"                : "ARCHIVED",
       "contributionDate"     : "2018-04-24",
@@ -3551,12 +2816,12 @@
           "name"          : "ContainerJS",
           "description"   : "ContainerJS provides an abstraction layer over multiple HTML5 containers (OpenFin, Electron, Browser), that follows the Symphony Desktop APIs",
           "gitHubURL"     : "https://github.com/symphonyoss/ContainerJS",
-          "heat"          : 186,
-          "watchers"      : 32,
+          "heat"          : 189,
+          "watchers"      : 31,
           "size"          : 650,
           "collaborators" : 18,
-          "stars"         : 32,
-          "forks"         : 10,
+          "stars"         : 31,
+          "forks"         : 11,
           "openIssues"    : 26,
           "languages"     : {
             "TypeScript" : 95201,
@@ -3569,12 +2834,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 186,
-        "watchers"      : 32,
+        "heat"          : 189,
+        "watchers"      : 31,
         "size"          : 650,
         "collaborators" : 18,
-        "stars"         : 32,
-        "forks"         : 10,
+        "stars"         : 31,
+        "forks"         : 11,
         "openIssues"    : 26,
         "languages"     : {
           "TypeScript" : 95201,
@@ -4805,13 +4070,13 @@
           "gitHubURL"     : "https://github.com/symphonyoss/SymphonyElectron",
           "heat"          : 504,
           "watchers"      : 50,
-          "size"          : 38092,
+          "size"          : 38095,
           "collaborators" : 11,
           "stars"         : 50,
           "forks"         : 72,
-          "openIssues"    : 4,
+          "openIssues"    : 3,
           "languages"     : {
-            "TypeScript" : 557528,
+            "TypeScript" : 557561,
             "Dockerfile" : 745,
             "CSS" : 31552,
             "Shell" : 13146,
@@ -4903,13 +4168,13 @@
       "cumulativeGitHubStats" : {
         "heat"          : 851,
         "watchers"      : 57,
-        "size"          : 38784,
+        "size"          : 38787,
         "collaborators" : 68,
         "stars"         : 57,
         "forks"         : 93,
-        "openIssues"    : 9,
+        "openIssues"    : 8,
         "languages"     : {
-          "TypeScript" : 689118,
+          "TypeScript" : 689151,
           "C#" : 25902,
           "Dockerfile" : 745,
           "Shell" : 13146,
@@ -5005,6 +4270,177 @@
       "programName"          : "Top Level",
       "programShortName"     : "TopLevel",
       "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "Alloy",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2020-01-30",
+      "gitHubRepos"          : [
+        {
+          "name"          : "alloy",
+          "description"   : "The PURE/Alloy project",
+          "gitHubURL"     : "https://github.com/finos/alloy",
+          "heat"          : 423,
+          "watchers"      : 26,
+          "size"          : 10774,
+          "collaborators" : 74,
+          "stars"         : 26,
+          "forks"         : 15,
+          "openIssues"    : 17,
+          "languages"     : {
+            "CSS" : 27563,
+            "HTML" : 19845,
+            "Shell" : 2457,
+            "JavaScript" : 8442
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 423,
+        "watchers"      : 26,
+        "size"          : 10774,
+        "collaborators" : 74,
+        "stars"         : 26,
+        "forks"         : 15,
+        "openIssues"    : 17,
+        "languages"     : {
+          "CSS" : 27563,
+          "HTML" : 19845,
+          "Shell" : 2457,
+          "JavaScript" : 8442
+        }
+      }
+    },
+    {
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "CLA Bot",
+      "type"                 : "PROJECT",
+      "state"                : "ACTIVE",
+      "contributionDate"     : "2019-02-22",
+      "releaseDate"          : "2020-01-15",
+      "gitHubRepos"          : [
+        {
+          "name"          : "cla-bot",
+          "description"   : "cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).",
+          "gitHubURL"     : "https://github.com/finos/cla-bot",
+          "heat"          : 429,
+          "watchers"      : 34,
+          "size"          : 1062,
+          "collaborators" : 74,
+          "stars"         : 34,
+          "forks"         : 13,
+          "openIssues"    : 24,
+          "languages"     : {
+            "Shell" : 155,
+            "JavaScript" : 49861
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 429,
+        "watchers"      : 34,
+        "size"          : 1062,
+        "collaborators" : 74,
+        "stars"         : 34,
+        "forks"         : 13,
+        "openIssues"    : 24,
+        "languages"     : {
+          "Shell" : 155,
+          "JavaScript" : 49861
+        }
+      }
+    },
+    {
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "Cloud Service Certification",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2019-02-26",
+      "gitHubRepos"          : [
+        {
+          "name"          : "cloud-service-certification",
+          "description"   : "Cloud Service Certification Project",
+          "gitHubURL"     : "https://github.com/finos/cloud-service-certification",
+          "heat"          : 391,
+          "watchers"      : 16,
+          "size"          : 1330,
+          "collaborators" : 76,
+          "stars"         : 16,
+          "forks"         : 11,
+          "openIssues"    : 10
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 391,
+        "watchers"      : 16,
+        "size"          : 1330,
+        "collaborators" : 76,
+        "stars"         : 16,
+        "forks"         : 11,
+        "openIssues"    : 10
+      },
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "fdx-cloud-service-certification@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdx-cloud-service-certification"
+        }
+      ]
+    },
+    {
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "Data Helix",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2019-07-03",
+      "gitHubRepos"          : [
+        {
+          "name"          : "datahelix",
+          "description"   : "The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for the purpose of testing and validation",
+          "gitHubURL"     : "https://github.com/finos/datahelix",
+          "heat"          : 533,
+          "watchers"      : 44,
+          "size"          : 14943,
+          "collaborators" : 75,
+          "stars"         : 44,
+          "forks"         : 29,
+          "openIssues"    : 40,
+          "languages"     : {
+            "PowerShell" : 2120,
+            "Java" : 1573455,
+            "Dockerfile" : 581,
+            "Shell" : 2844,
+            "Gherkin" : 385051,
+            "Roff" : 3713
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 533,
+        "watchers"      : 44,
+        "size"          : 14943,
+        "collaborators" : 75,
+        "stars"         : 44,
+        "forks"         : 29,
+        "openIssues"    : 40,
+        "languages"     : {
+          "PowerShell" : 2120,
+          "Java" : 1573455,
+          "Dockerfile" : 581,
+          "Shell" : 2844,
+          "Gherkin" : 385051,
+          "Roff" : 3713
+        }
+      }
+    },
+    {
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
       "activityName"         : "DataHub",
       "type"                 : "PROJECT",
       "state"                : "INCUBATING",
@@ -5014,10 +4450,10 @@
           "name"          : "datahub",
           "description"   : "DataHub - Synthetic data library",
           "gitHubURL"     : "https://github.com/finos/datahub",
-          "heat"          : 311,
+          "heat"          : 315,
           "watchers"      : 7,
-          "size"          : 1587,
-          "collaborators" : 73,
+          "size"          : 1604,
+          "collaborators" : 74,
           "stars"         : 7,
           "forks"         : 1,
           "openIssues"    : 10,
@@ -5029,10 +4465,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 311,
+        "heat"          : 315,
         "watchers"      : 7,
-        "size"          : 1587,
-        "collaborators" : 73,
+        "size"          : 1604,
+        "collaborators" : 74,
         "stars"         : 7,
         "forks"         : 1,
         "openIssues"    : 10,
@@ -5042,6 +4478,137 @@
           "JavaScript" : 10538
         }
       }
+    },
+    {
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "Exodus",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2019-07-03",
+      "gitHubRepos"          : [
+        {
+          "name"          : "exodus",
+          "description"   : "Migration tools for Tabular Data to Oracle JSON/Tabular Data",
+          "gitHubURL"     : "https://github.com/finos/exodus",
+          "heat"          : 332,
+          "watchers"      : 6,
+          "size"          : 9894,
+          "collaborators" : 75,
+          "stars"         : 6,
+          "forks"         : 4,
+          "openIssues"    : 2,
+          "languages"     : {
+            "Shell" : 16887,
+            "Scheme" : 109099,
+            "Batchfile" : 5166,
+            "PLpgSQL" : 544,
+            "PLSQL" : 93753,
+            "SQLPL" : 7755,
+            "TSQL" : 5040
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 332,
+        "watchers"      : 6,
+        "size"          : 9894,
+        "collaborators" : 75,
+        "stars"         : 6,
+        "forks"         : 4,
+        "openIssues"    : 2,
+        "languages"     : {
+          "Shell" : 16887,
+          "Scheme" : 109099,
+          "Batchfile" : 5166,
+          "PLpgSQL" : 544,
+          "PLSQL" : 93753,
+          "SQLPL" : 7755,
+          "TSQL" : 5040
+        }
+      }
+    },
+    {
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "FDC3",
+      "type"                 : "PROJECT",
+      "state"                : "ACTIVE",
+      "contributionDate"     : "2018-04-20",
+      "releaseDate"          : "2019-07-19",
+      "gitHubRepos"          : [
+        {
+          "name"          : "FDC3",
+          "description"   : "Open standards for the financial desktop.",
+          "gitHubURL"     : "https://github.com/finos/fdc3",
+          "heat"          : 540,
+          "watchers"      : 42,
+          "size"          : 4237,
+          "collaborators" : 74,
+          "stars"         : 42,
+          "forks"         : 32,
+          "openIssues"    : 20,
+          "languages"     : {
+            "TypeScript" : 12257,
+            "HTML" : 893681,
+            "CSS" : 3463,
+            "JavaScript" : 24130
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 540,
+        "watchers"      : 42,
+        "size"          : 4237,
+        "collaborators" : 74,
+        "stars"         : 42,
+        "forks"         : 32,
+        "openIssues"    : 20,
+        "languages"     : {
+          "TypeScript" : 12257,
+          "HTML" : 893681,
+          "CSS" : 3463,
+          "JavaScript" : 24130
+        }
+      },
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "fdc3-pmc@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdc3-pmc"
+        },
+        {
+          "emailAddress"  : "fdc3@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdc3"
+        }
+      ]
+    },
+    {
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "FDC3 API WG",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "ACTIVE",
+      "contributionDate"     : "2018-04-20",
+      "releaseDate"          : "2019-07-19",
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "fdc3-api@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdc3-api"
+        }
+      ]
+    },
+    {
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "Context Data and Intents",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "ACTIVE",
+      "contributionDate"     : "2019-05-03",
+      "releaseDate"          : "2019-07-19"
     },
     {
       "programName"          : "Top Level",
@@ -5060,10 +4627,10 @@
           "name"          : "fdc3-desktop-agent",
           "description"   : "Chrome Extension implementation of an FDC3 Desktop Agent",
           "gitHubURL"     : "https://github.com/finos/desktop-agent",
-          "heat"          : 328,
+          "heat"          : 332,
           "watchers"      : 8,
           "size"          : 704,
-          "collaborators" : 73,
+          "collaborators" : 74,
           "stars"         : 8,
           "forks"         : 4,
           "openIssues"    : 0,
@@ -5076,10 +4643,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 328,
+        "heat"          : 332,
         "watchers"      : 8,
         "size"          : 704,
-        "collaborators" : 73,
+        "collaborators" : 74,
         "stars"         : 8,
         "forks"         : 4,
         "openIssues"    : 0,
@@ -5090,6 +4657,72 @@
           "JavaScript" : 34806
         }
       }
+    },
+    {
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "FDC3 Use Case WG",
+      "type"                 : "WORKING_GROUP",
+      "state"                : "ACTIVE",
+      "contributionDate"     : "2018-05-18",
+      "releaseDate"          : "2019-07-19",
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "fdc3-use-case@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdc3-use-case"
+        }
+      ]
+    },
+    {
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "Financial Objects",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-04-24",
+      "gitHubRepos"          : [
+        {
+          "name"          : "finos-fo",
+          "description"   : "FINOS Financial Objects Program Documentation",
+          "gitHubURL"     : "https://github.com/finos/finos-fo",
+          "heat"          : 365,
+          "watchers"      : 10,
+          "size"          : 1656,
+          "collaborators" : 75,
+          "stars"         : 10,
+          "forks"         : 9,
+          "openIssues"    : 3,
+          "languages"     : {
+            "TypeScript" : 6803,
+            "CSS" : 3722,
+            "Shell" : 2410,
+            "JavaScript" : 22021
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 365,
+        "watchers"      : 10,
+        "size"          : 1656,
+        "collaborators" : 75,
+        "stars"         : 10,
+        "forks"         : 9,
+        "openIssues"    : 3,
+        "languages"     : {
+          "TypeScript" : 6803,
+          "CSS" : 3722,
+          "Shell" : 2410,
+          "JavaScript" : 22021
+        }
+      },
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "fo-financial-objects@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fo-financial-objects"
+        }
+      ]
     },
     {
       "programName"          : "Top Level",
@@ -5108,10 +4741,10 @@
           "name"          : "greenkey-asrtoolkit",
           "description"   : "A collection of useful tools for handling speech recognition data",
           "gitHubURL"     : "https://github.com/finos/greenkey-asrtoolkit",
-          "heat"          : 359,
+          "heat"          : 363,
           "watchers"      : 14,
           "size"          : 529,
-          "collaborators" : 74,
+          "collaborators" : 75,
           "stars"         : 14,
           "forks"         : 7,
           "openIssues"    : 4,
@@ -5123,10 +4756,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 359,
+        "heat"          : 363,
         "watchers"      : 14,
         "size"          : 529,
-        "collaborators" : 74,
+        "collaborators" : 75,
         "stars"         : 14,
         "forks"         : 7,
         "openIssues"    : 4,
@@ -5155,10 +4788,10 @@
           "name"          : "greenkey-discovery-sdk",
           "description"   : "Speed up business workflows through custom 'voice skills' and text (NLP) interpreters",
           "gitHubURL"     : "https://github.com/finos/greenkey-discovery-sdk",
-          "heat"          : 337,
+          "heat"          : 341,
           "watchers"      : 6,
           "size"          : 46229,
-          "collaborators" : 75,
+          "collaborators" : 76,
           "stars"         : 6,
           "forks"         : 5,
           "openIssues"    : 1,
@@ -5169,10 +4802,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 337,
+        "heat"          : 341,
         "watchers"      : 6,
         "size"          : 46229,
-        "collaborators" : 75,
+        "collaborators" : 76,
         "stars"         : 6,
         "forks"         : 5,
         "openIssues"    : 1,
@@ -5199,10 +4832,10 @@
           "name"          : "greenkey-intercom-sdk",
           "description"   : "Voice-enable your front-end apps with instant intercoms",
           "gitHubURL"     : "https://github.com/finos/greenkey-intercom-sdk",
-          "heat"          : 314,
+          "heat"          : 318,
           "watchers"      : 2,
           "size"          : 326,
-          "collaborators" : 75,
+          "collaborators" : 76,
           "stars"         : 2,
           "forks"         : 2,
           "openIssues"    : 0,
@@ -5212,10 +4845,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 314,
+        "heat"          : 318,
         "watchers"      : 2,
         "size"          : 326,
-        "collaborators" : 75,
+        "collaborators" : 76,
         "stars"         : 2,
         "forks"         : 2,
         "openIssues"    : 0,
@@ -5227,6 +4860,61 @@
         {
           "emailAddress"  : "voice-greenkey-sdk@finos.org",
           "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/voice-greenkey-sdk"
+        }
+      ]
+    },
+    {
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "kdb+",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-07-11",
+      "tags"                 : [
+        "kdb+"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "kdb",
+          "description"   : "kdb+ Working Group from FINOS Data Technologies program",
+          "gitHubURL"     : "https://github.com/finos/kdb",
+          "heat"          : 400,
+          "watchers"      : 16,
+          "size"          : 95,
+          "collaborators" : 77,
+          "stars"         : 16,
+          "forks"         : 12,
+          "openIssues"    : 0,
+          "languages"     : {
+            "HiveQL" : 104,
+            "q" : 67774,
+            "Perl" : 8418,
+            "Shell" : 1276,
+            "Lex" : 2192
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 400,
+        "watchers"      : 16,
+        "size"          : 95,
+        "collaborators" : 77,
+        "stars"         : 16,
+        "forks"         : 12,
+        "openIssues"    : 0,
+        "languages"     : {
+          "HiveQL" : 104,
+          "q" : 67774,
+          "Perl" : 8418,
+          "Shell" : 1276,
+          "Lex" : 2192
+        }
+      },
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "data-tech-kdb@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/data-tech-kdb"
         }
       ]
     },
@@ -5246,20 +4934,20 @@
           "name"          : "voice-metadata-standard",
           "description"   : "This is a project from FINOS Voice program to define a standard for call metadata.",
           "gitHubURL"     : "https://github.com/finos/voice-metadata-standard",
-          "heat"          : 390,
+          "heat"          : 394,
           "watchers"      : 21,
           "size"          : 105,
-          "collaborators" : 77,
+          "collaborators" : 78,
           "stars"         : 21,
           "forks"         : 8,
           "openIssues"    : 6
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 390,
+        "heat"          : 394,
         "watchers"      : 21,
         "size"          : 105,
-        "collaborators" : 77,
+        "collaborators" : 78,
         "stars"         : 21,
         "forks"         : 8,
         "openIssues"    : 6
@@ -5270,6 +4958,232 @@
           "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/voice-call-metadata-standardization"
         }
       ]
+    },
+    {
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "Open Developer Platform",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-04-24",
+      "gitHubRepos"          : [
+        {
+          "name"          : "open-developer-platform",
+          "description"   : "Delivering open source software development best practices while enforcing security and legal compliance for the financial services industry",
+          "gitHubURL"     : "https://github.com/finos/open-developer-platform",
+          "heat"          : 389,
+          "watchers"      : 19,
+          "size"          : 13006,
+          "collaborators" : 74,
+          "stars"         : 19,
+          "forks"         : 11,
+          "openIssues"    : 36,
+          "languages"     : {
+            "Shell" : 7145,
+            "CSS" : 6533,
+            "JavaScript" : 14068
+          }
+        },
+        {
+          "name"          : "finos-pmcs",
+          "description"   : "FINOS Pan Program Management Committee Information",
+          "gitHubURL"     : "https://github.com/finos/finos-pmcs",
+          "heat"          : 311,
+          "watchers"      : 0,
+          "size"          : 10515,
+          "collaborators" : 74,
+          "stars"         : 0,
+          "forks"         : 3,
+          "openIssues"    : 15,
+          "languages"     : {
+            "CSS" : 414,
+            "JavaScript" : 10636
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 700,
+        "watchers"      : 19,
+        "size"          : 23521,
+        "collaborators" : 148,
+        "stars"         : 19,
+        "forks"         : 14,
+        "openIssues"    : 51,
+        "languages"     : {
+          "Shell" : 7145,
+          "CSS" : 6947,
+          "JavaScript" : 24704
+        }
+      },
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "fdx-odp@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/fdx-odp"
+        }
+      ]
+    },
+    {
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "Open source readiness",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-04-24",
+      "gitHubRepos"          : [
+        {
+          "name"          : "osr-checklists",
+          "description"   : "Checklists for key components and processes of open source programs",
+          "gitHubURL"     : "https://github.com/finos/osr-checklists",
+          "heat"          : 298,
+          "watchers"      : 1,
+          "size"          : 26,
+          "collaborators" : 74,
+          "stars"         : 1,
+          "forks"         : 0,
+          "openIssues"    : 1
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 298,
+        "watchers"      : 1,
+        "size"          : 26,
+        "collaborators" : 74,
+        "stars"         : 1,
+        "forks"         : 0,
+        "openIssues"    : 1
+      },
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "osr@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/osr"
+        }
+      ]
+    },
+    {
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "OpenFin Python Adapter",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2020-05-25",
+      "gitHubRepos"          : [
+        {
+          "name"          : "openfin-python-adapter",
+          "description"   : "Hadouken python language adapter.",
+          "gitHubURL"     : "https://github.com/finos/openfin-python-adapter",
+          "heat"          : 320,
+          "watchers"      : 2,
+          "size"          : 562,
+          "collaborators" : 74,
+          "stars"         : 2,
+          "forks"         : 4,
+          "openIssues"    : 5,
+          "languages"     : {
+            "HTML" : 795,
+            "Python" : 33148
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 320,
+        "watchers"      : 2,
+        "size"          : 562,
+        "collaborators" : 74,
+        "stars"         : 2,
+        "forks"         : 4,
+        "openIssues"    : 5,
+        "languages"     : {
+          "HTML" : 795,
+          "Python" : 33148
+        }
+      }
+    },
+    {
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "OpenFin React Hooks",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2019-11-05",
+      "gitHubRepos"          : [
+        {
+          "name"          : "openfin-react-hooks",
+          "description"   : "A collection of React Hooks built on top of the Openfin API - from Scott Logic",
+          "gitHubURL"     : "https://github.com/finos/openfin-react-hooks",
+          "heat"          : 439,
+          "watchers"      : 24,
+          "size"          : 1154,
+          "collaborators" : 74,
+          "stars"         : 24,
+          "forks"         : 19,
+          "openIssues"    : 13,
+          "languages"     : {
+            "TypeScript" : 48332
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 439,
+        "watchers"      : 24,
+        "size"          : 1154,
+        "collaborators" : 74,
+        "stars"         : 24,
+        "forks"         : 19,
+        "openIssues"    : 13,
+        "languages"     : {
+          "TypeScript" : 48332
+        }
+      }
+    },
+    {
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "OSLC Handbook",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2019-03-21",
+      "tags"                 : [
+        "handbook",
+        "oslc"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "OSLC-handbook",
+          "description"   : "A data store and handbook of practical information about complying with the most common open source licenses.",
+          "gitHubURL"     : "https://github.com/finos/OSLC-handbook",
+          "heat"          : 535,
+          "watchers"      : 77,
+          "size"          : 509,
+          "collaborators" : 74,
+          "stars"         : 77,
+          "forks"         : 17,
+          "openIssues"    : 8,
+          "languages"     : {
+            "HTML" : 232059,
+            "CSS" : 80487,
+            "Python" : 7813
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 535,
+        "watchers"      : 77,
+        "size"          : 509,
+        "collaborators" : 74,
+        "stars"         : 77,
+        "forks"         : 17,
+        "openIssues"    : 8,
+        "languages"     : {
+          "HTML" : 232059,
+          "CSS" : 80487,
+          "Python" : 7813
+        }
+      }
     },
     {
       "programName"          : "Top Level",
@@ -5293,47 +5207,83 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 6325,
-          "watchers"      : 2410,
-          "size"          : 50903,
-          "collaborators" : 80,
-          "stars"         : 2410,
-          "forks"         : 237,
-          "openIssues"    : 45,
+          "heat"          : 6367,
+          "watchers"      : 2419,
+          "size"          : 50955,
+          "collaborators" : 81,
+          "stars"         : 2419,
+          "forks"         : 241,
+          "openIssues"    : 47,
           "languages"     : {
             "TypeScript" : 36202,
             "Dockerfile" : 34007,
             "C++" : 1284821,
-            "CSS" : 111200,
+            "CSS" : 111159,
             "C" : 4588,
             "CMake" : 62437,
             "Makefile" : 1602,
-            "JavaScript" : 1777731,
-            "HTML" : 50050,
+            "JavaScript" : 1782326,
+            "HTML" : 50025,
             "Python" : 614897
           }
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 6325,
-        "watchers"      : 2410,
-        "size"          : 50903,
-        "collaborators" : 80,
-        "stars"         : 2410,
-        "forks"         : 237,
-        "openIssues"    : 45,
+        "heat"          : 6367,
+        "watchers"      : 2419,
+        "size"          : 50955,
+        "collaborators" : 81,
+        "stars"         : 2419,
+        "forks"         : 241,
+        "openIssues"    : 47,
         "languages"     : {
           "TypeScript" : 36202,
           "Dockerfile" : 34007,
           "C++" : 1284821,
-          "CSS" : 111200,
+          "CSS" : 111159,
           "C" : 4588,
           "CMake" : 62437,
           "Makefile" : 1602,
-          "JavaScript" : 1777731,
-          "HTML" : 50050,
+          "JavaScript" : 1782326,
+          "HTML" : 50025,
           "Python" : 614897
         }
+      }
+    },
+    {
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "Reference FOSS Policy",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-05-28",
+      "tags"                 : [
+        "policy",
+        "reference"
+      ],
+      "gitHubRepos"          : [
+        {
+          "name"          : "reference-foss-policy",
+          "description"   : "Reference FOSS Policy for Financial Services Institutions",
+          "gitHubURL"     : "https://github.com/finos/reference-foss-policy",
+          "heat"          : 319,
+          "watchers"      : 4,
+          "size"          : 88,
+          "collaborators" : 74,
+          "stars"         : 4,
+          "forks"         : 3,
+          "openIssues"    : 4
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 319,
+        "watchers"      : 4,
+        "size"          : 88,
+        "collaborators" : 74,
+        "stars"         : 4,
+        "forks"         : 3,
+        "openIssues"    : 4
       }
     },
     {
@@ -5354,10 +5304,10 @@
           "name"          : "secure-electron-adapter",
           "description"   : "",
           "gitHubURL"     : "https://github.com/finos/secure-electron-adapter",
-          "heat"          : 296,
+          "heat"          : 300,
           "watchers"      : 2,
           "size"          : 2107,
-          "collaborators" : 73,
+          "collaborators" : 74,
           "stars"         : 2,
           "forks"         : 0,
           "openIssues"    : 1,
@@ -5371,10 +5321,10 @@
           "name"          : "sea-quick-start",
           "description"   : "Quick start demo project for the Secure Electron Adapter",
           "gitHubURL"     : "https://github.com/finos/sea-quick-start",
-          "heat"          : 294,
+          "heat"          : 298,
           "watchers"      : 1,
           "size"          : 1053,
-          "collaborators" : 73,
+          "collaborators" : 74,
           "stars"         : 1,
           "forks"         : 0,
           "openIssues"    : 0,
@@ -5386,10 +5336,10 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 590,
+        "heat"          : 598,
         "watchers"      : 3,
         "size"          : 3160,
-        "collaborators" : 146,
+        "collaborators" : 148,
         "stars"         : 3,
         "forks"         : 0,
         "openIssues"    : 1,
@@ -5398,6 +5348,98 @@
           "CSS" : 3701,
           "HTML" : 1245,
           "JavaScript" : 294761
+        }
+      }
+    },
+    {
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "Security Reference Data",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2018-11-05",
+      "gitHubRepos"          : [
+        {
+          "name"          : "secref-data",
+          "description"   : "Security Reference Data project",
+          "gitHubURL"     : "https://github.com/finos/secref-data",
+          "heat"          : 301,
+          "watchers"      : 0,
+          "size"          : 604,
+          "collaborators" : 74,
+          "stars"         : 0,
+          "forks"         : 1,
+          "openIssues"    : 8,
+          "languages"     : {
+            "CSS" : 3644,
+            "JavaScript" : 15734
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 301,
+        "watchers"      : 0,
+        "size"          : 604,
+        "collaborators" : 74,
+        "stars"         : 0,
+        "forks"         : 1,
+        "openIssues"    : 8,
+        "languages"     : {
+          "CSS" : 3644,
+          "JavaScript" : 15734
+        }
+      },
+      "mailingLists"       : [
+        {
+          "emailAddress"  : "data-tech-sec-ref@finos.org",
+          "webArchiveUrl" : "https://groups.google.com/a/finos.org/forum/#!forum/data-tech-sec-ref"
+        }
+      ]
+    },
+    {
+      "programName"          : "Top Level",
+      "programShortName"     : "TopLevel",
+      "programHomePage"      : "https://finosfoundation.atlassian.net/wiki/spaces/FINOS/overview",
+      "activityName"         : "Waltz",
+      "type"                 : "PROJECT",
+      "state"                : "INCUBATING",
+      "contributionDate"     : "2020-03-09",
+      "gitHubRepos"          : [
+        {
+          "name"          : "waltz",
+          "description"   : "Enterprise Information Service",
+          "gitHubURL"     : "https://github.com/finos/waltz",
+          "heat"          : 694,
+          "watchers"      : 67,
+          "size"          : 30898,
+          "collaborators" : 75,
+          "stars"         : 67,
+          "forks"         : 52,
+          "openIssues"    : 285,
+          "languages"     : {
+            "Java" : 3505284,
+            "HTML" : 1405864,
+            "CSS" : 153218,
+            "Shell" : 305,
+            "JavaScript" : 2261369
+          }
+        }
+      ],
+      "cumulativeGitHubStats" : {
+        "heat"          : 694,
+        "watchers"      : 67,
+        "size"          : 30898,
+        "collaborators" : 75,
+        "stars"         : 67,
+        "forks"         : 52,
+        "openIssues"    : 285,
+        "languages"     : {
+          "Java" : 3505284,
+          "HTML" : 1405864,
+          "CSS" : 153218,
+          "Shell" : 305,
+          "JavaScript" : 2261369
         }
       }
     }
