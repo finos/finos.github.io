@@ -432,7 +432,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 357,
           "watchers"      : 6,
-          "size"          : 3249,
+          "size"          : 3275,
           "collaborators" : 80,
           "stars"         : 6,
           "forks"         : 5,
@@ -447,11 +447,11 @@
           "name"          : "metadata-tool",
           "description"   : "A command line tool for performing various tasks with Fintech Open Source Foundation (FINOS) metadata.",
           "gitHubURL"     : "https://github.com/finos/metadata-tool",
-          "heat"          : 368,
-          "watchers"      : 4,
+          "heat"          : 370,
+          "watchers"      : 5,
           "size"          : 371,
           "collaborators" : 80,
-          "stars"         : 4,
+          "stars"         : 5,
           "forks"         : 8,
           "openIssues"    : 3,
           "languages"     : {
@@ -535,11 +535,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 4066,
-        "watchers"      : 23,
-        "size"          : 54371,
+        "heat"          : 4068,
+        "watchers"      : 24,
+        "size"          : 54397,
         "collaborators" : 960,
-        "stars"         : 23,
+        "stars"         : 24,
         "forks"         : 36,
         "openIssues"    : 29,
         "languages"     : {
@@ -3300,7 +3300,7 @@
           "collaborators" : 80,
           "stars"         : 26,
           "forks"         : 15,
-          "openIssues"    : 19,
+          "openIssues"    : 20,
           "languages"     : {
             "CSS" : 27563,
             "HTML" : 19845,
@@ -3316,7 +3316,7 @@
         "collaborators" : 80,
         "stars"         : 26,
         "forks"         : 15,
-        "openIssues"    : 19,
+        "openIssues"    : 20,
         "languages"     : {
           "CSS" : 27563,
           "HTML" : 19845,
@@ -3494,13 +3494,13 @@
           "name"          : "cla-bot",
           "description"   : "cla-bot is a GitHub bot for automation of Contributor Licence Agreements (CLAs).",
           "gitHubURL"     : "https://github.com/finos/cla-bot",
-          "heat"          : 458,
+          "heat"          : 463,
           "watchers"      : 34,
           "size"          : 1062,
           "collaborators" : 80,
           "stars"         : 34,
-          "forks"         : 14,
-          "openIssues"    : 24,
+          "forks"         : 15,
+          "openIssues"    : 25,
           "languages"     : {
             "Shell" : 155,
             "JavaScript" : 49861
@@ -3508,13 +3508,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 458,
+        "heat"          : 463,
         "watchers"      : 34,
         "size"          : 1062,
         "collaborators" : 80,
         "stars"         : 34,
-        "forks"         : 14,
-        "openIssues"    : 24,
+        "forks"         : 15,
+        "openIssues"    : 25,
         "languages"     : {
           "Shell" : 155,
           "JavaScript" : 49861
@@ -3758,22 +3758,22 @@
           "name"          : "cloud-service-certification",
           "description"   : "Cloud Service Certification Project",
           "gitHubURL"     : "https://github.com/finos/cloud-service-certification",
-          "heat"          : 420,
+          "heat"          : 425,
           "watchers"      : 16,
           "size"          : 1330,
           "collaborators" : 82,
           "stars"         : 16,
-          "forks"         : 12,
+          "forks"         : 13,
           "openIssues"    : 12
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 420,
+        "heat"          : 425,
         "watchers"      : 16,
         "size"          : 1330,
         "collaborators" : 82,
         "stars"         : 16,
-        "forks"         : 12,
+        "forks"         : 13,
         "openIssues"    : 12
       },
       "mailingLists"       : [
@@ -3796,12 +3796,12 @@
           "name"          : "datahelix",
           "description"   : "The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for the purpose of testing and validation",
           "gitHubURL"     : "https://github.com/finos/datahelix",
-          "heat"          : 557,
-          "watchers"      : 44,
+          "heat"          : 564,
+          "watchers"      : 45,
           "size"          : 15009,
           "collaborators" : 81,
-          "stars"         : 44,
-          "forks"         : 29,
+          "stars"         : 45,
+          "forks"         : 30,
           "openIssues"    : 37,
           "languages"     : {
             "PowerShell" : 2120,
@@ -3814,12 +3814,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 557,
-        "watchers"      : 44,
+        "heat"          : 564,
+        "watchers"      : 45,
         "size"          : 15009,
         "collaborators" : 81,
-        "stars"         : 44,
-        "forks"         : 29,
+        "stars"         : 45,
+        "forks"         : 30,
         "openIssues"    : 37,
         "languages"     : {
           "PowerShell" : 2120,
@@ -4081,11 +4081,11 @@
           "name"          : "finos-fo",
           "description"   : "FINOS Financial Objects Program Documentation",
           "gitHubURL"     : "https://github.com/finos/finos-fo",
-          "heat"          : 391,
-          "watchers"      : 11,
+          "heat"          : 393,
+          "watchers"      : 12,
           "size"          : 1656,
           "collaborators" : 81,
-          "stars"         : 11,
+          "stars"         : 12,
           "forks"         : 9,
           "openIssues"    : 3,
           "languages"     : {
@@ -4097,11 +4097,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 391,
-        "watchers"      : 11,
+        "heat"          : 393,
+        "watchers"      : 12,
         "size"          : 1656,
         "collaborators" : 81,
-        "stars"         : 11,
+        "stars"         : 12,
         "forks"         : 9,
         "openIssues"    : 3,
         "languages"     : {
@@ -4627,13 +4627,13 @@
           "name"          : "open-developer-platform",
           "description"   : "Delivering open source software development best practices while enforcing security and legal compliance for the financial services industry",
           "gitHubURL"     : "https://github.com/finos/open-developer-platform",
-          "heat"          : 413,
-          "watchers"      : 19,
+          "heat"          : 415,
+          "watchers"      : 20,
           "size"          : 13010,
           "collaborators" : 80,
-          "stars"         : 19,
+          "stars"         : 20,
           "forks"         : 11,
-          "openIssues"    : 36,
+          "openIssues"    : 35,
           "languages"     : {
             "Shell" : 7145,
             "CSS" : 6533,
@@ -4658,13 +4658,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 748,
-        "watchers"      : 19,
+        "heat"          : 750,
+        "watchers"      : 20,
         "size"          : 23531,
         "collaborators" : 160,
-        "stars"         : 19,
+        "stars"         : 20,
         "forks"         : 14,
-        "openIssues"    : 50,
+        "openIssues"    : 49,
         "languages"     : {
           "Shell" : 7145,
           "CSS" : 6947,
@@ -4862,11 +4862,11 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 6769,
-          "watchers"      : 2563,
+          "heat"          : 6775,
+          "watchers"      : 2566,
           "size"          : 51461,
           "collaborators" : 87,
-          "stars"         : 2563,
+          "stars"         : 2566,
           "forks"         : 259,
           "openIssues"    : 48,
           "languages"     : {
@@ -4884,11 +4884,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 6769,
-        "watchers"      : 2563,
+        "heat"          : 6775,
+        "watchers"      : 2566,
         "size"          : 51461,
         "collaborators" : 87,
-        "stars"         : 2563,
+        "stars"         : 2566,
         "forks"         : 259,
         "openIssues"    : 48,
         "languages"     : {
