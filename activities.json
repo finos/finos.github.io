@@ -432,7 +432,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 357,
           "watchers"      : 6,
-          "size"          : 3275,
+          "size"          : 3297,
           "collaborators" : 80,
           "stars"         : 6,
           "forks"         : 5,
@@ -455,7 +455,7 @@
           "forks"         : 8,
           "openIssues"    : 3,
           "languages"     : {
-            "FreeMarker" : 22172,
+            "FreeMarker" : 22209,
             "Clojure" : 125747
           }
         },
@@ -537,7 +537,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 4068,
         "watchers"      : 24,
-        "size"          : 54397,
+        "size"          : 54419,
         "collaborators" : 960,
         "stars"         : 24,
         "forks"         : 36,
@@ -548,7 +548,7 @@
           "CSS" : 7527,
           "JavaScript" : 29286,
           "HTML" : 6901,
-          "FreeMarker" : 22172,
+          "FreeMarker" : 22209,
           "Python" : 7381,
           "Clojure" : 126945
         }
@@ -3294,11 +3294,11 @@
           "name"          : "alloy",
           "description"   : "The PURE/Alloy project",
           "gitHubURL"     : "https://github.com/finos/alloy",
-          "heat"          : 447,
-          "watchers"      : 26,
-          "size"          : 10933,
+          "heat"          : 449,
+          "watchers"      : 27,
+          "size"          : 10943,
           "collaborators" : 80,
-          "stars"         : 26,
+          "stars"         : 27,
           "forks"         : 15,
           "openIssues"    : 20,
           "languages"     : {
@@ -3310,11 +3310,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 447,
-        "watchers"      : 26,
-        "size"          : 10933,
+        "heat"          : 449,
+        "watchers"      : 27,
+        "size"          : 10943,
         "collaborators" : 80,
-        "stars"         : 26,
+        "stars"         : 27,
         "forks"         : 15,
         "openIssues"    : 20,
         "languages"     : {
@@ -3764,7 +3764,7 @@
           "collaborators" : 82,
           "stars"         : 16,
           "forks"         : 13,
-          "openIssues"    : 12
+          "openIssues"    : 11
         }
       ],
       "cumulativeGitHubStats" : {
@@ -3774,7 +3774,7 @@
         "collaborators" : 82,
         "stars"         : 16,
         "forks"         : 13,
-        "openIssues"    : 12
+        "openIssues"    : 11
       },
       "mailingLists"       : [
         {
@@ -3796,11 +3796,11 @@
           "name"          : "datahelix",
           "description"   : "The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for the purpose of testing and validation",
           "gitHubURL"     : "https://github.com/finos/datahelix",
-          "heat"          : 564,
-          "watchers"      : 45,
+          "heat"          : 566,
+          "watchers"      : 46,
           "size"          : 15009,
           "collaborators" : 81,
-          "stars"         : 45,
+          "stars"         : 46,
           "forks"         : 30,
           "openIssues"    : 37,
           "languages"     : {
@@ -3814,11 +3814,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 564,
-        "watchers"      : 45,
+        "heat"          : 566,
+        "watchers"      : 46,
         "size"          : 15009,
         "collaborators" : 81,
-        "stars"         : 45,
+        "stars"         : 46,
         "forks"         : 30,
         "openIssues"    : 37,
         "languages"     : {
@@ -4644,12 +4644,12 @@
           "name"          : "community",
           "description"   : "FINOS Community & Projects wide collaboration space",
           "gitHubURL"     : "https://github.com/finos/finos-pmcs",
-          "heat"          : 335,
+          "heat"          : 345,
           "watchers"      : 0,
           "size"          : 10521,
           "collaborators" : 80,
           "stars"         : 0,
-          "forks"         : 3,
+          "forks"         : 5,
           "openIssues"    : 14,
           "languages"     : {
             "CSS" : 414,
@@ -4658,12 +4658,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 750,
+        "heat"          : 760,
         "watchers"      : 20,
         "size"          : 23531,
         "collaborators" : 160,
         "stars"         : 20,
-        "forks"         : 14,
+        "forks"         : 16,
         "openIssues"    : 49,
         "languages"     : {
           "Shell" : 7145,
@@ -4862,13 +4862,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 6775,
-          "watchers"      : 2566,
-          "size"          : 51461,
+          "heat"          : 6793,
+          "watchers"      : 2575,
+          "size"          : 51479,
           "collaborators" : 87,
-          "stars"         : 2566,
+          "stars"         : 2575,
           "forks"         : 259,
-          "openIssues"    : 48,
+          "openIssues"    : 49,
           "languages"     : {
             "TypeScript" : 36202,
             "Dockerfile" : 34007,
@@ -4884,13 +4884,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 6775,
-        "watchers"      : 2566,
-        "size"          : 51461,
+        "heat"          : 6793,
+        "watchers"      : 2575,
+        "size"          : 51479,
         "collaborators" : 87,
-        "stars"         : 2566,
+        "stars"         : 2575,
         "forks"         : 259,
-        "openIssues"    : 48,
+        "openIssues"    : 49,
         "languages"     : {
           "TypeScript" : 36202,
           "Dockerfile" : 34007,
@@ -5416,7 +5416,7 @@
           "collaborators" : 80,
           "stars"         : 67,
           "forks"         : 53,
-          "openIssues"    : 296,
+          "openIssues"    : 295,
           "languages"     : {
             "Java" : 3531672,
             "HTML" : 1423623,
@@ -5433,7 +5433,7 @@
         "collaborators" : 80,
         "stars"         : 67,
         "forks"         : 53,
-        "openIssues"    : 296,
+        "openIssues"    : 295,
         "languages"     : {
           "Java" : 3531672,
           "HTML" : 1423623,
