@@ -477,7 +477,7 @@
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 373,
           "watchers"      : 6,
-          "size"          : 2558,
+          "size"          : 2585,
           "collaborators" : 84,
           "stars"         : 6,
           "forks"         : 5,
@@ -501,7 +501,7 @@
           "openIssues"    : 3,
           "languages"     : {
             "FreeMarker" : 22207,
-            "Clojure" : 125877
+            "Clojure" : 126134
           }
         },
         {
@@ -582,7 +582,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 4260,
         "watchers"      : 24,
-        "size"          : 54072,
+        "size"          : 54099,
         "collaborators" : 1008,
         "stars"         : 24,
         "forks"         : 36,
@@ -595,7 +595,7 @@
           "HTML" : 6901,
           "FreeMarker" : 22207,
           "Python" : 7381,
-          "Clojure" : 127075
+          "Clojure" : 127332
         }
       }
     },
@@ -4647,13 +4647,13 @@
           "name"          : "community",
           "description"   : "FINOS Community & Projects wide collaboration space",
           "gitHubURL"     : "https://github.com/finos/community",
-          "heat"          : 361,
-          "watchers"      : 0,
+          "heat"          : 363,
+          "watchers"      : 1,
           "size"          : 10643,
           "collaborators" : 84,
-          "stars"         : 0,
+          "stars"         : 1,
           "forks"         : 5,
-          "openIssues"    : 14,
+          "openIssues"    : 15,
           "languages"     : {
             "CSS" : 414,
             "JavaScript" : 10636
@@ -4661,13 +4661,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 792,
-        "watchers"      : 20,
+        "heat"          : 794,
+        "watchers"      : 21,
         "size"          : 23653,
         "collaborators" : 168,
-        "stars"         : 20,
+        "stars"         : 21,
         "forks"         : 16,
-        "openIssues"    : 48,
+        "openIssues"    : 49,
         "languages"     : {
           "Shell" : 7145,
           "CSS" : 6947,
