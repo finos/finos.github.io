@@ -473,11 +473,11 @@
         },
         {
           "name"          : "finos.github.io",
-          "description"   : "The source for the FINOS activity catalogue.",
+          "description"   : "The source for the FINOS Project catalog",
           "gitHubURL"     : "https://github.com/finos/finos.github.io",
           "heat"          : 373,
           "watchers"      : 6,
-          "size"          : 2584,
+          "size"          : 2610,
           "collaborators" : 84,
           "stars"         : 6,
           "forks"         : 5,
@@ -582,7 +582,7 @@
       "cumulativeGitHubStats" : {
         "heat"          : 4260,
         "watchers"      : 24,
-        "size"          : 54099,
+        "size"          : 54125,
         "collaborators" : 1008,
         "stars"         : 24,
         "forks"         : 36,
@@ -3341,15 +3341,15 @@
           "gitHubURL"     : "https://github.com/finos/alloy",
           "heat"          : 482,
           "watchers"      : 28,
-          "size"          : 10967,
+          "size"          : 13132,
           "collaborators" : 84,
           "stars"         : 28,
           "forks"         : 18,
-          "openIssues"    : 41,
+          "openIssues"    : 39,
           "languages"     : {
             "CSS" : 27563,
             "HTML" : 19845,
-            "Shell" : 2457,
+            "Shell" : 2825,
             "JavaScript" : 8442
           }
         }
@@ -3357,15 +3357,15 @@
       "cumulativeGitHubStats" : {
         "heat"          : 482,
         "watchers"      : 28,
-        "size"          : 10967,
+        "size"          : 13132,
         "collaborators" : 84,
         "stars"         : 28,
         "forks"         : 18,
-        "openIssues"    : 41,
+        "openIssues"    : 39,
         "languages"     : {
           "CSS" : 27563,
           "HTML" : 19845,
-          "Shell" : 2457,
+          "Shell" : 2825,
           "JavaScript" : 8442
         }
       }
@@ -3708,11 +3708,11 @@
           "gitHubURL"     : "https://github.com/symphonyoss/hubot-symphony",
           "heat"          : 121,
           "watchers"      : 9,
-          "size"          : 2996,
+          "size"          : 3174,
           "collaborators" : 12,
           "stars"         : 9,
           "forks"         : 11,
-          "openIssues"    : 16,
+          "openIssues"    : 17,
           "languages"     : {
             "JavaScript" : 82020
           }
@@ -3721,11 +3721,11 @@
       "cumulativeGitHubStats" : {
         "heat"          : 121,
         "watchers"      : 9,
-        "size"          : 2996,
+        "size"          : 3174,
         "collaborators" : 12,
         "stars"         : 9,
         "forks"         : 11,
-        "openIssues"    : 16,
+        "openIssues"    : 17,
         "languages"     : {
           "JavaScript" : 82020
         }
@@ -3841,11 +3841,11 @@
           "name"          : "datahelix",
           "description"   : "The DataHelix generator allows you to quickly create data, based on a JSON profile that defines fields and the relationships between them, for the purpose of testing and validation",
           "gitHubURL"     : "https://github.com/finos/datahelix",
-          "heat"          : 587,
-          "watchers"      : 46,
+          "heat"          : 589,
+          "watchers"      : 47,
           "size"          : 15009,
           "collaborators" : 85,
-          "stars"         : 46,
+          "stars"         : 47,
           "forks"         : 31,
           "openIssues"    : 33,
           "languages"     : {
@@ -3859,11 +3859,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 587,
-        "watchers"      : 46,
+        "heat"          : 589,
+        "watchers"      : 47,
         "size"          : 15009,
         "collaborators" : 85,
-        "stars"         : 46,
+        "stars"         : 47,
         "forks"         : 31,
         "openIssues"    : 33,
         "languages"     : {
@@ -4557,7 +4557,7 @@
           "collaborators" : 18,
           "stars"         : 5,
           "forks"         : 21,
-          "openIssues"    : 5,
+          "openIssues"    : 7,
           "languages"     : {
             "Java" : 808836
           }
@@ -4570,7 +4570,7 @@
         "collaborators" : 18,
         "stars"         : 5,
         "forks"         : 21,
-        "openIssues"    : 5,
+        "openIssues"    : 7,
         "languages"     : {
           "Java" : 808836
         }
@@ -4647,11 +4647,11 @@
           "name"          : "community",
           "description"   : "FINOS Community & Projects wide collaboration space",
           "gitHubURL"     : "https://github.com/finos/community",
-          "heat"          : 363,
-          "watchers"      : 1,
+          "heat"          : 365,
+          "watchers"      : 2,
           "size"          : 10643,
           "collaborators" : 84,
-          "stars"         : 1,
+          "stars"         : 2,
           "forks"         : 5,
           "openIssues"    : 15,
           "languages"     : {
@@ -4661,11 +4661,11 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 794,
-        "watchers"      : 21,
+        "heat"          : 796,
+        "watchers"      : 22,
         "size"          : 23653,
         "collaborators" : 168,
-        "stars"         : 21,
+        "stars"         : 22,
         "forks"         : 16,
         "openIssues"    : 49,
         "languages"     : {
@@ -4772,12 +4772,12 @@
           "name"          : "openfin-react-hooks",
           "description"   : "A collection of React Hooks built on top of the Openfin API - from Scott Logic",
           "gitHubURL"     : "https://github.com/finos/openfin-react-hooks",
-          "heat"          : 479,
+          "heat"          : 474,
           "watchers"      : 24,
           "size"          : 1154,
           "collaborators" : 84,
           "stars"         : 24,
-          "forks"         : 19,
+          "forks"         : 18,
           "openIssues"    : 13,
           "languages"     : {
             "TypeScript" : 48332
@@ -4785,12 +4785,12 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 479,
+        "heat"          : 474,
         "watchers"      : 24,
         "size"          : 1154,
         "collaborators" : 84,
         "stars"         : 24,
-        "forks"         : 19,
+        "forks"         : 18,
         "openIssues"    : 13,
         "languages"     : {
           "TypeScript" : 48332
@@ -4865,13 +4865,13 @@
           "name"          : "perspective",
           "description"   : "Streaming pivot visualization via WebAssembly",
           "gitHubURL"     : "https://github.com/finos/perspective",
-          "heat"          : 6875,
-          "watchers"      : 2608,
+          "heat"          : 6884,
+          "watchers"      : 2610,
           "size"          : 51862,
           "collaborators" : 91,
-          "stars"         : 2608,
-          "forks"         : 259,
-          "openIssues"    : 49,
+          "stars"         : 2610,
+          "forks"         : 260,
+          "openIssues"    : 50,
           "languages"     : {
             "TypeScript" : 36202,
             "Dockerfile" : 34007,
@@ -4887,13 +4887,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 6875,
-        "watchers"      : 2608,
+        "heat"          : 6884,
+        "watchers"      : 2610,
         "size"          : 51862,
         "collaborators" : 91,
-        "stars"         : 2608,
-        "forks"         : 259,
-        "openIssues"    : 49,
+        "stars"         : 2610,
+        "forks"         : 260,
+        "openIssues"    : 50,
         "languages"     : {
           "TypeScript" : 36202,
           "Dockerfile" : 34007,
@@ -5286,7 +5286,7 @@
           "collaborators" : 11,
           "stars"         : 51,
           "forks"         : 73,
-          "openIssues"    : 2,
+          "openIssues"    : 3,
           "languages"     : {
             "TypeScript" : 558088,
             "Dockerfile" : 745,
@@ -5384,7 +5384,7 @@
         "collaborators" : 68,
         "stars"         : 59,
         "forks"         : 95,
-        "openIssues"    : 8,
+        "openIssues"    : 9,
         "languages"     : {
           "TypeScript" : 689678,
           "C#" : 25902,
@@ -5413,13 +5413,13 @@
           "name"          : "waltz",
           "description"   : "Enterprise Information Service",
           "gitHubURL"     : "https://github.com/finos/waltz",
-          "heat"          : 737,
-          "watchers"      : 68,
+          "heat"          : 744,
+          "watchers"      : 69,
           "size"          : 31121,
           "collaborators" : 84,
-          "stars"         : 68,
-          "forks"         : 53,
-          "openIssues"    : 272,
+          "stars"         : 69,
+          "forks"         : 54,
+          "openIssues"    : 273,
           "languages"     : {
             "Java" : 3531744,
             "HTML" : 1424257,
@@ -5430,13 +5430,13 @@
         }
       ],
       "cumulativeGitHubStats" : {
-        "heat"          : 737,
-        "watchers"      : 68,
+        "heat"          : 744,
+        "watchers"      : 69,
         "size"          : 31121,
         "collaborators" : 84,
-        "stars"         : 68,
-        "forks"         : 53,
-        "openIssues"    : 272,
+        "stars"         : 69,
+        "forks"         : 54,
+        "openIssues"    : 273,
         "languages"     : {
           "Java" : 3531744,
           "HTML" : 1424257,
