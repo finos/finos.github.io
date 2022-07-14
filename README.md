@@ -1,3 +1,5 @@
+**NOTE!** - This repository was deprecated in favour of [https://landscape.finos.org]([url](https://landscape.finos.org)) - for source code, please visit [github.com/finos/finos-landscape](github.com/finos/finos-landscape)
+
 # finos.github.io
 Welcome to the FINOS Foundation Catalogue!
 
